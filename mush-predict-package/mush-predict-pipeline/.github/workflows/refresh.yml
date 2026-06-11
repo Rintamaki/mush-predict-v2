@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,7 +36,6 @@ jobs:
         run: |
           git config --global user.name "MUSH Predict Bot"
           git config --global user.email "mush-bot@mckinstry.com"
-          git pull --rebase origin main
           git add public/data/competitors.json
           git diff --staged --quiet || git commit -m "Daily competitor refresh $(date +'%Y-%m-%d')"
-          git push
+          git push --force-with-lease origin main
