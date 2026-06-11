@@ -31,8 +31,17 @@ jobs:
           ADZUNA_APP_KEY:  ${{ secrets.ADZUNA_APP_KEY }}
         run: python scrapers/run_pipeline.py
 
-      - name: Commit updated data
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily competitor refresh"
-          file_pattern: public/data/competitors.json
+     - name: Update competitors.json via GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CONTENT=$(base64 -w 0 public/data/competitors.json)
+          SHA=$(curl -s \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/public/data/competitors.json" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))")
+          curl -s -X PUT \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/public/data/competitors.json" \
+            -d "{\"message\":\"Daily competitor refresh $(date +'%Y-%m-%d')\",\"content\":\"$CONTENT\",\"sha\":\"$SHA\"}"
