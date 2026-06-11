@@ -1,47 +1,49 @@
 name: MUSH Predict Daily Refresh
-
 on:
   schedule:
     - cron: '0 11 * * *'
   workflow_dispatch:
-
 jobs:
   refresh:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install -r scrapers/requirements.txt
-
       - name: Run pipeline
         env:
           SAM_GOV_API_KEY: ${{ secrets.SAM_GOV_API_KEY }}
-          ADZUNA_APP_ID:   ${{ secrets.ADZUNA_APP_ID }}
-          ADZUNA_APP_KEY:  ${{ secrets.ADZUNA_APP_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scrapers/run_pipeline.py
-
-      - name: Update data via GitHub API
+      - name: Upload data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          CONTENT=$(base64 -w 0 public/data/competitors.json)
-          SHA=$(curl -s \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.github.com/repos/${{ github.repository }}/contents/public/data/competitors.json" \
-            | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))")
-          curl -s -X PUT \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Content-Type: application/json" \
-            "https://api.github.com/repos/${{ github.repository }}/contents/public/data/competitors.json" \
-            -d "{\"message\":\"Daily competitor refresh $(date +'%Y-%m-%d')\",\"content\":\"$CONTENT\",\"sha\":\"$SHA\"}"
+          python3 - <<'PYEOF'
+          import base64, json, os, urllib.request, urllib.error
+          token = os.environ["GITHUB_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          path = "public/data/competitors.json"
+          with open(path, "rb") as f:
+              content = base64.b64encode(f.read()).decode()
+          url = f"https://api.github.com/repos/{repo}/contents/{path}"
+          req = urllib.request.Request(url, headers={"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"})
+          try:
+              with urllib.request.urlopen(req) as r:
+                  sha = json.loads(r.read())["sha"]
+          except:
+              sha = ""
+          data = json.dumps({"message": "Daily competitor refresh", "content": content, "sha": sha}).encode()
+          req2 = urllib.request.Request(url, data=data, method="PUT", headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
+          urllib.request.urlopen(req2)
+          print("Done")
+          PYEOF
