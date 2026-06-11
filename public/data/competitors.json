@@ -1,0 +1,1659 @@
+{
+  "last_updated": "2026-06-11",
+  "last_updated_display": "June 11, 2026",
+  "data_sources_active": [
+    "USASpending.gov",
+    "SAM.gov",
+    "SEC EDGAR",
+    "USPTO PatentsView",
+    "Adzuna Jobs",
+    "Socrata permits",
+    "Google News RSS",
+    "Senate LDA lobbying",
+    "TX ESBD",
+    "TEA bond data",
+    "OpenCorporates",
+    "Construction feeds"
+  ],
+  "bond_opportunities": [],
+  "construction_opportunities": [
+    {
+      "id": "construction-27862",
+      "title": "Healthcare joined data centers in boost to May construction planning",
+      "agency": "Construction Dive",
+      "type": "Construction Project",
+      "posted": "Tue, 09 Jun 2026 13:15:00 -0400",
+      "deadline": "",
+      "state": "",
+      "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/6Zbj5CPCjh1pefSlfoQgqu_7glzscQISLKCEyAcXiig/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4NzYzNjM2LTMuanBn.webp\" /></div></figure><p>The increase builds on last month's growth to overall planning after a sl",
+      "url": "https://www.constructiondive.com/news/healthcare-data-centers-boost-may-construction-planning/822389/",
+      "source": "Construction Dive",
+      "keyword_hit": "construction",
+      "segment": "Healthcare"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Johnson Controls",
+      "segments": [
+        "Schools",
+        "Healthcare",
+        "Municipal",
+        "University"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2018-05-31",
+          "value": 20406875.71,
+          "state": "WI",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF - C106210 - PREVENTATIVE MAINTENANCE SERVICES FOR THE JOHNSON CONTROLS BAS SYSTEMS TO INCLUDE 24/7/365 MONITORING FOR THE BETHE"
+        },
+        {
+          "date": "2018-09-17",
+          "value": 1630725.0,
+          "state": "GA",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "NON-HCL ADX/NAE UPGRADES GARO0018"
+        },
+        {
+          "date": "2018-07-09",
+          "value": 649768.43,
+          "state": "CO",
+          "segment": "University",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE FOR THE CAMPUS WIDE METASYS SYSTEM"
+        },
+        {
+          "date": "2021-10-18",
+          "value": 421524.0,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES FOR BUILDING AUTOMATION SYSTEM UPGRADE AT NATHANIEL JONES FEDERAL BUILDING AND COURTHOUSE 10 EAST COMMERCE STREET YOUN"
+        },
+        {
+          "date": "2016-08-30",
+          "value": 399888.0,
+          "state": "GA",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF ANTI-TAILGAITING SYSTEM"
+        },
+        {
+          "date": "2020-09-28",
+          "value": 288684.14,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Defense",
+          "description": "CALIBRATION AND MAINTENANCE OF REFRIGERATION SYSTEMS IN SUPPORT OF ARMY PUBLIC HEALTH COMMAND."
+        },
+        {
+          "date": "2023-09-15",
+          "value": 241422.0,
+          "state": "SD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "TEMPORARY CHILLER UNIT, FACILITIES, CRHC"
+        },
+        {
+          "date": "2023-05-25",
+          "value": 188170.28,
+          "state": "SD",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
+        }
+      ],
+      "earningsCallMentions": [
+        {
+          "quarter": "2026-Q2",
+          "topic": "Healthcare",
+          "snippet": "apidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education. the company is"
+        },
+        {
+          "quarter": "2026-Q2",
+          "topic": "University",
+          "snippet": "are, pharmaceuticals, advanced manufacturing, and higher education. the company is a global leader in engineering, manufacturing, commission"
+        },
+        {
+          "quarter": "2026-Q2",
+          "topic": "Municipal",
+          "snippet": "r 2018-09-30 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2026-03-31 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "Healthcare",
+          "snippet": "apidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education. the company is"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "University",
+          "snippet": "are, pharmaceuticals, advanced manufacturing, and higher education. the company is a global leader in engineering, manufacturing, commission"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "Municipal",
+          "snippet": "r 2025-12-31 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2025-12-31 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2025-Q4",
+          "topic": "Healthcare",
+          "snippet": "nalytics in highly regulated industries including healthcare and aviation and defense. the ciso has an undergraduate degree in computer info"
+        },
+        {
+          "quarter": "2025-Q4",
+          "topic": "University",
+          "snippet": "ets it serves, including data centers, hospitals, university campuses, advanced manufacturing, class a offices, and airports. sustain a high"
+        },
+        {
+          "quarter": "2025-Q4",
+          "topic": "Municipal",
+          "snippet": "r 2025-09-30 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2025-09-30 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2025-Q3",
+          "topic": "Healthcare",
+          "snippet": "clude large, multi-purpose contracts to construct hospitals, schools and other governmental buildings, which are services to be performed ov"
+        },
+        {
+          "quarter": "2025-Q3",
+          "topic": "Municipal",
+          "snippet": "r 2025-06-30 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2025-06-30 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2025-Q2",
+          "topic": "Healthcare",
+          "snippet": "clude large, multi-purpose contracts to construct hospitals, schools and other governmental buildings, which are services to be performed ov"
+        },
+        {
+          "quarter": "2025-Q2",
+          "topic": "Municipal",
+          "snippet": "r 2025-03-31 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2025-03-31 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "Healthcare",
+          "snippet": "clude large, multi-purpose contracts to construct hospitals, schools and other governmental buildings, which are services to be performed ov"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "Municipal",
+          "snippet": "r 2024-12-31 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2024-12-31 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "Healthcare",
+          "snippet": "verticals within the markets it serves, including healthcare, commercial offices/campus, education and data centers. sustain a high-performa"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "University",
+          "snippet": "ncluding data centers, government, healthcare and higher education. this demand is driven in part by capital investment, government tax ince"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "Municipal",
+          "snippet": "r 2024-09-30 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2024-09-30 0000833444 jci:waterproviderafffsettlement"
+        },
+        {
+          "quarter": "2024-Q3",
+          "topic": "Healthcare",
+          "snippet": "te to large, multi-purpose contracts to construct hospitals, schools and other governmental buildings, which include services to be performe"
+        },
+        {
+          "quarter": "2024-Q3",
+          "topic": "Municipal",
+          "snippet": "r 2024-06-30 0000833444 jci:aqueousfilmformingfoammunicipalandwaterprovidercasesmember 2024-06-30 0000833444 jci:waterproviderafffsettlement"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Johnson Controls boosts OpenBlue with Nantum AI acquisition - Manufacturing Today India",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBHUHpGNzhPVjAzc2tnc0w3eUFkWEpjRGlHNF8wdEpuWk9hQThldENlUWJYdEJRNTVJaVY2anNTMzVYV3JHaVFpc1lwYnJFY1FGOXljX3haRmNFTVFVTlp5ckdBVTMxQzV5Q1hCWExUNWx1MnRuWVlaWjZQRGw?oc=5\" target=\"_blank\">Johnson Controls boosts OpenBlue with Nantum AI acquisition<",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHUHpGNzhPVjAzc2tnc0w3eUFkWEpjRGlHNF8wdEpuWk9hQThldENlUWJYdEJRNTVJaVY2anNTMzVYV3JHaVFpc1lwYnJFY1FGOXljX3haRmNFTVFVTlp5ckdBVTMxQzV5Q1hCWExUNWx1MnRuWVlaWjZQRGw?oc=5",
+          "published": "Fri, 01 May 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Johnson Controls Acquires Nantum AI to Advance Autonomous Building Energy Optimization - Unite.AI",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFM0UkZsMzlHdWx4LVpxMUdqSzhPdlpnOTUwRUxTak5ucDFQa0VXcFdPWHpXLW9idUZFTVI0N29tbld5WndTUjhPSWdSdDBFRFFOeDVsWDQxMmtpWTQ0WmZRejhlc2F6SlEtSVcxVXpHdXdsZXRMUzNIX2Q1N0hrMGpsMjRaUGUxY0RObU5qRFh2OWFCRHZNQjBNeUNhem9HNnlqOEZvRE02emNV?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFM0UkZsMzlHdWx4LVpxMUdqSzhPdlpnOTUwRUxTak5ucDFQa0VXcFdPWHpXLW9idUZFTVI0N29tbld5WndTUjhPSWdSdDBFRFFOeDVsWDQxMmtpWTQ0WmZRejhlc2F6SlEtSVcxVXpHdXdsZXRMUzNIX2Q1N0hrMGpsMjRaUGUxY0RObU5qRFh2OWFCRHZNQjBNeUNhem9HNnlqOEZvRE02emNV?oc=5",
+          "published": "Mon, 27 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Johnson Controls Acquires Nantum AI to Accelerate AI-driven Energy Optimisation and Control Capabilities within OpenBlue - Trade Link Media",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pVjQ5RVk3UUlPcksxOG1WelFwUmFzdE1NRUJXR2N2OU9hWDl0NDBoZTVpYnZjeXJKY1FGSUJLSUQ3VHNIWUxOTXdkdjU5YThxMGFzblZXZTRxS1lkY0lXaEF0aWRSZw?oc=5\" target=\"_blank\">Johnson Controls Acquires Nantum AI to Accelerate AI-driven Energy Optimisation and Contr",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pVjQ5RVk3UUlPcksxOG1WelFwUmFzdE1NRUJXR2N2OU9hWDl0NDBoZTVpYnZjeXJKY1FGSUJLSUQ3VHNIWUxOTXdkdjU5YThxMGFzblZXZTRxS1lkY0lXaEF0aWRSZw?oc=5",
+          "published": "Fri, 08 May 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Johnson Controls acquires Nantum AI to accelerate AI-driven energy optimization and control capabilities within OpenBlue - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnRDcG9ZNEwzMEVqNWhweURLQm5zSl9vZzJLcXBERjN6ZVVNMThudGlPN01yUXFNZGlxdXVqM1NmZXAwU3hQLTctaFJtQ2dSb1hGelRZcUpKRl81cTFBc0EwSGtyeGZ2Q3lrYVhjek84ZGxPRXlWbmNzOU8ya3BhbDJqaVl1NXdNOEtHSjBQOXl5aDI0cEV5QktibXFEdU0zcTBQZE4xdTlsMUdSejJuVWR3a2phYl9Ldl",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnRDcG9ZNEwzMEVqNWhweURLQm5zSl9vZzJLcXBERjN6ZVVNMThudGlPN01yUXFNZGlxdXVqM1NmZXAwU3hQLTctaFJtQ2dSb1hGelRZcUpKRl81cTFBc0EwSGtyeGZ2Q3lrYVhjek84ZGxPRXlWbmNzOU8ya3BhbDJqaVl1NXdNOEtHSjBQOXl5aDI0cEV5QktibXFEdU0zcTBQZE4xdTlsMUdSejJuVWR3a2phYl9Ldloza01nWkNSc3ZvT0ZoQmJxVGtXUEpFNDBzcHZSMmRtRUFHOEFMT3VmSExCWHotVnlV?oc=5",
+          "published": "Mon, 27 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "bondMentions": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Fire Sprinkler Service Technician Team Lead",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Experienced Fire Sprinkler Inspector (NICET level 2)",
+          "state": "NJ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "BEST Sales Intern - Security Systems - Riverside, CA",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Territory/Domain Field Sales Rep",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Client Services Coordinator",
+          "state": "GA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Skilled Fire Sprinkler Installer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "HVAC Mechanical Service Technician Journeyman (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Sprinkler Installer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "HVAC Truck Based Serviceman (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Sprinkler Apprentice",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Wrapper",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Detection Service Technician (Sign-On Bonus Available)",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Installer I",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "HVAC Equipment Service Technician Tradesman",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "HVAC Truck Based Senior Controls Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fire Sprinkler Installer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Executive Director- Vertical Markets- Local Government",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        }
+      ],
+      "historicalBids": [
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "University"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        }
+      ],
+      "statusToday": "risk",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 21 active job postings.",
+      "executiveMoves": [],
+      "conferences": []
+    },
+    {
+      "name": "Trane Technologies",
+      "segments": [
+        "Schools",
+        "University",
+        "Healthcare"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Davidson",
+          "state": "NC"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2016-04-20",
+          "value": 79676344.44,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF FOR OTHER FUNCTIONS  GSA R2 2016 NYC ESPC PROJECT FOR 10 FEDERAL BUILDINGS. THE PROJECT CONSISTS OF THE INSTALLATION OF 98 ENER"
+        },
+        {
+          "date": "2024-06-14",
+          "value": 1482340.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "DESIGN - BUILD CONSTRUCTION CONTRACT FOR REMOVAL AND REPLACEMENT OF TWO PUMPS AND TWO CHILLERS AT THE PROVIDENCE RHODE ISLAND FEDERAL COURTH"
+        },
+        {
+          "date": "2023-05-26",
+          "value": 736509.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF COOLING TOWERS REPLACEMENT AT THE PROVIDENCE FEDERAL COURTHOUSE IN PROVIDENCE, RI."
+        },
+        {
+          "date": "2023-05-25",
+          "value": 734356.44,
+          "state": "MA",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF THE DONOHUE COOLING TOWERS 2 & 3 REPLACEMENT AT THE DONOHUE FEDERAL BUILDING AND COURTHOUSE IN WORCESTER, MA."
+        },
+        {
+          "date": "2019-01-08",
+          "value": 511547.24,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE TO PERFORM TRANE CHILLER PM SELECT SERVICE AGREEMENT, VA GREATER LOS ANGELES HEALTHCARE SYSTEM."
+        },
+        {
+          "date": "2019-12-20",
+          "value": 459526.67,
+          "state": "LA",
+          "segment": "Schools",
+          "agency": "Department of Defense",
+          "description": "BASE YEAR SERVICES FOR ANNUAL CHILLER MAINTENANCE FOR U.S. ARMY CORPS OF ENGINEERS (USACE), NEW ORLEANS DISTRICT (NOD), NEW ORLEANS, LA"
+        },
+        {
+          "date": "2021-02-03",
+          "value": 445811.54,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES REBUILD CHILLERS, KINNEARY COURTHOUSE, 85 MARCONI BLVD, COLUMBUS, OHIO"
+        },
+        {
+          "date": "2022-06-03",
+          "value": 313000.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "DELIVERY AND INSTALLATION OF A TRANE 200 TON AIR-COOLED WATER CHILLER FOR BUILDING 58, VA ILLIANA HEALTH CARE SYSTEM, DANVILLE, ILLINOIS."
+        },
+        {
+          "date": "2019-08-06",
+          "value": 304262.09,
+          "state": "NE",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
+        }
+      ],
+      "earningsCallMentions": [
+        {
+          "quarter": "2026-Q2",
+          "topic": "Healthcare",
+          "snippet": "ement benefits other than pensions (opeb) provide healthcare benefits and, in some instances, life insurance benefits for certain eligible c"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "Healthcare",
+          "snippet": "ensation increases, mortality, turnover rates and healthcare cost trend rates. actuaries perform the required calculations to determine expe"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "University",
+          "snippet": "a 14-week development program designed to prepare university graduates for a rewarding career in technical sales. the program prepares sales"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "Municipal",
+          "snippet": "he u.s. federal government and various states and municipalities have enacted or may enact legislation intended to deny government contracts"
+        },
+        {
+          "quarter": "2025-Q4",
+          "topic": "Healthcare",
+          "snippet": "ement benefits other than pensions (opeb) provide healthcare benefits and, in some instances, life insurance benefits for certain eligible c"
+        },
+        {
+          "quarter": "2025-Q3",
+          "topic": "Healthcare",
+          "snippet": "ement benefits other than pensions (opeb) provide healthcare benefits and, in some instances, life insurance benefits for certain eligible c"
+        },
+        {
+          "quarter": "2025-Q2",
+          "topic": "Healthcare",
+          "snippet": "ement benefits other than pensions (opeb) provide healthcare benefits and, in some instances, life insurance benefits for certain eligible c"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "Healthcare",
+          "snippet": "ensation increases, mortality, turnover rates and healthcare cost trend rates. actuarial valuations are performed to determine expense in ac"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "University",
+          "snippet": "ive-month development program designed to prepare university graduate engineers for a rewarding career in technical sales. the program prepa"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "Municipal",
+          "snippet": "he u.s. federal government and various states and municipalities have enacted or may enact legislation intended to deny government contracts"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "Healthcare",
+          "snippet": "ement benefits other than pensions (opeb) provide healthcare benefits, and in some instances, life insurance benefits for certain eligible e"
+        },
+        {
+          "quarter": "2024-Q3",
+          "topic": "Healthcare",
+          "snippet": "ement benefits other than pensions (opeb) provide healthcare benefits, and in some instances, life insurance benefits for certain eligible e"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Northern Illinois University and Trane Technologies Transform Campus Sustainability - Trane Technologies",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTERkN3JWdWlETFp1aW84ekp6NEFNM2JwUGpVMTZmR2lWUTNBZkFDbU1vYTI5LXQwVGx2Uk1QX1diRk9qRnIyeHhmYS1oMjlRdlY5ZzlKWTdPRmtwN080M1U5Ql9halRnRHk0d29ObUVHY2RNRVgyU18yaTVnanN1SThKRkh0U0ZSNENMQnFnS1hhRVlVY0llZXpHemExU0lGQmdHY1N6ci10TV9LRWNBTkxjMHY1M2FmeD",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTERkN3JWdWlETFp1aW84ekp6NEFNM2JwUGpVMTZmR2lWUTNBZkFDbU1vYTI5LXQwVGx2Uk1QX1diRk9qRnIyeHhmYS1oMjlRdlY5ZzlKWTdPRmtwN080M1U5Ql9halRnRHk0d29ObUVHY2RNRVgyU18yaTVnanN1SThKRkh0U0ZSNENMQnFnS1hhRVlVY0llZXpHemExU0lGQmdHY1N6ci10TV9LRWNBTkxjMHY1M2FmeDhCOFVjTERYNHpOVnVLNVF4NnpaUQ?oc=5",
+          "published": "Wed, 22 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "MWH SOLV Energy CEO upbeat on renewable energy momentum, raises full-year outlook despite market headwinds. - Earnings Surprise Report - newsline.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDZITVJBVWZ4eWtzYzZucVpzS3dJa00wVHpGT1NsN0lRNXo5cFZCVWVzbUprVHd2UnA5MEV4WGpNYXcyTUhSVkdRRU1uTGZFZnZ3TFJkM2JBaGQ5bV9ab3lKdVVDUi1wSXRzdE96MGI2bXhYbk9qZWxDZUtaZlU1OHQzdmVsczEzZVhUWTFJbUdXUVYwdlV6Uzh0Yk95QnY2WUZNb3ZHcDVHZFo2WEpkV1NKYU51U003N1",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDZITVJBVWZ4eWtzYzZucVpzS3dJa00wVHpGT1NsN0lRNXo5cFZCVWVzbUprVHd2UnA5MEV4WGpNYXcyTUhSVkdRRU1uTGZFZnZ3TFJkM2JBaGQ5bV9ab3lKdVVDUi1wSXRzdE96MGI2bXhYbk9qZWxDZUtaZlU1OHQzdmVsczEzZVhUWTFJbUdXUVYwdlV6Uzh0Yk95QnY2WUZNb3ZHcDVHZFo2WEpkV1NKYU51U003N1lBRkRjbXpWRTF2cm9ISDNCOGFqTmZONy1VaHFpSlhpVU9B?oc=5",
+          "published": "Fri, 08 May 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "bondMentions": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Plant Lean Coach - 2nd shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "OPEX Lean Technician - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Brazer - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Maintenance Technician - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Machinist - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        }
+      ],
+      "historicalBids": [
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Schools"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        }
+      ],
+      "statusToday": "watch",
+      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 5 active job postings.",
+      "executiveMoves": [],
+      "conferences": []
+    },
+    {
+      "name": "Ameresco",
+      "segments": [
+        "Municipal",
+        "University",
+        "Schools"
+      ],
+      "offices": [
+        {
+          "city": "Framingham",
+          "state": "MA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2024-12-31",
+          "value": 111902165.0,
+          "state": "CO",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "ENERGY SAVINGS PERFORMANCE CONTRACT, NATIONAL DEEP ENERGY RETROFIT PROGRAM ROUND 6, REGION 8 FOR IMPLEMENTATION OF ENERGY CONSERVATION MEASU"
+        },
+        {
+          "date": "2016-06-01",
+          "value": 72969175.0,
+          "state": "DC",
+          "segment": "Schools",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT.  INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION M"
+        },
+        {
+          "date": "2016-04-07",
+          "value": 18610554.24,
+          "state": "CA",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT. INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION ME"
+        }
+      ],
+      "earningsCallMentions": [
+        {
+          "quarter": "2026-Q2",
+          "topic": "Healthcare",
+          "snippet": "and local governments, utilities, educational and healthcare institutions, housing authorities, and commercial and industrial customers. we"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "Healthcare",
+          "snippet": "rnments, utilities, data centers, educational and healthcare institutions, housing authorities, and commercial and industrial customers acro"
+        },
+        {
+          "quarter": "2026-Q1",
+          "topic": "Municipal",
+          "snippet": "security projects for the federal government, and municipal-scale street lighting projects incorporating smart city controls. o&m after an e"
+        },
+        {
+          "quarter": "2025-Q4",
+          "topic": "Healthcare",
+          "snippet": "and local governments, utilities, educational and healthcare institutions, housing authorities, and commercial and industrial customers. we"
+        },
+        {
+          "quarter": "2025-Q3",
+          "topic": "Healthcare",
+          "snippet": "and local governments, utilities, educational and healthcare institutions, housing authorities, and commercial and industrial customers. we"
+        },
+        {
+          "quarter": "2025-Q2",
+          "topic": "Healthcare",
+          "snippet": "and local governments, utilities, educational and healthcare institutions, housing authorities, and commercial and industrial customers. we"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "Healthcare",
+          "snippet": "and local governments, utilities, educational and healthcare institutions, housing authorities, and commercial and industrial customers acro"
+        },
+        {
+          "quarter": "2025-Q1",
+          "topic": "Municipal",
+          "snippet": "security projects for the federal government, and municipal-scale street lighting projects incorporating smart city controls. o&m after an e"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "Schools",
+          "snippet": "industrial, local, state, and federal government, k-12 education, higher education, healthcare, public housing sectors, and utilities. we pr"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "Healthcare",
+          "snippet": "ral government, k-12 education, higher education, healthcare, public housing sectors, and utilities. we provide solutions primarily througho"
+        },
+        {
+          "quarter": "2024-Q4",
+          "topic": "University",
+          "snippet": "l, state, and federal government, k-12 education, higher education, healthcare, public housing sectors, and utilities. we provide solutions"
+        },
+        {
+          "quarter": "2024-Q3",
+          "topic": "Schools",
+          "snippet": "industrial, local, state, and federal government, k-12 education, higher education, healthcare, public housing sectors, and utilities. we pr"
+        },
+        {
+          "quarter": "2024-Q3",
+          "topic": "Healthcare",
+          "snippet": "ral government, k-12 education, higher education, healthcare, public housing sectors, and utilities. we provide solutions primarily througho"
+        },
+        {
+          "quarter": "2024-Q3",
+          "topic": "University",
+          "snippet": "l, state, and federal government, k-12 education, higher education, healthcare, public housing sectors, and utilities. we provide solutions"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Ameresco\u2019s County Projects Deepen Role In Municipal Clean Energy Story - simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONm1Bcy1xeTFkcFN1SngweEZVdENrYW1uZnBMR3BtV09CRGR3VVJxZ2wtZ2ZORFkyNnVfR3FsWnJ5NzBZT3I1NDFEOVVBVWFVbDh3TXRWNWdMMkJJNHZ4LXAyUHZNWktsTmlWRjdsX0ItM1lBYlFpaDBYQ204VGlXTm1raEM5LUc5RUVCLVExUnRad0Z4WWs0NTFXOEdBekNjOHNJZncySUwwQmJsOFJsZy1DSEhoWS0wN1",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONm1Bcy1xeTFkcFN1SngweEZVdENrYW1uZnBMR3BtV09CRGR3VVJxZ2wtZ2ZORFkyNnVfR3FsWnJ5NzBZT3I1NDFEOVVBVWFVbDh3TXRWNWdMMkJJNHZ4LXAyUHZNWktsTmlWRjdsX0ItM1lBYlFpaDBYQ204VGlXTm1raEM5LUc5RUVCLVExUnRad0Z4WWs0NTFXOEdBekNjOHNJZncySUwwQmJsOFJsZy1DSEhoWS0wN1JiX2FDZWxUZnZOb2QtaFB30gHPAUFVX3lxTFBFSGhXNGpvcmdVQXVNYklIWGFSeVlaUzI5SlBiTXdTdndPNTNrT0trN3RJUDhTZ1MzR0VkSWo0ZU1ZWkVvSVNrOUJzX2pWRVZ0UUQ2V3hFYWdkTWcxOUZQLTRSd3IxTmpORFd4TzV5akZ4NTloQWlfWjI5c3o4d2FHbDJfR3Q2UHZfcmtPOERTVEctXzZTQmJQYllXVjE0WmdkWVc2S0lhZl9FeU95WGczUm5lb1luSlhib29Wb0hCbXJ5X3JvVGtjaXlxaXdOOA?oc=5",
+          "published": "Thu, 23 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Ameresco completes two solar projects for Maryland school district - Solar Power World",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5\" t",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5",
+          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Ameresco SUNEL Energy SA Awarded 83 MW Solar Project in Kozani, Greece to Drive Energy Decarbonization - Business Wire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3E4cDdySXNfT1E3TVhXZzBsbW96UHdNMGo1OXlDSTB5aVhrWVBDemttQ1Eza2J6REt4aGdfekJnaE9relNaVDItaVpzM00wY1pkOFFxbHYzUEpCSFRMa2VnU0RlckZGOUxzX21RSXdWVmhFQW02UzBaVUhYdmV5bW83a3BENXBxUnVQdVRNZXpCNElia29JdWlvVGNnZU8xaVBrZHB0bnZucWY3SGMwYkZfclA0aS1KZF",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3E4cDdySXNfT1E3TVhXZzBsbW96UHdNMGo1OXlDSTB5aVhrWVBDemttQ1Eza2J6REt4aGdfekJnaE9relNaVDItaVpzM00wY1pkOFFxbHYzUEpCSFRMa2VnU0RlckZGOUxzX21RSXdWVmhFQW02UzBaVUhYdmV5bW83a3BENXBxUnVQdVRNZXpCNElia29JdWlvVGNnZU8xaVBrZHB0bnZucWY3SGMwYkZfclA0aS1KZF9OSVFVaVhjWnY1bHBlVE1aM2tZZnQzYS1HUVVLV0tCQlkxMjgyb1J6N0VOaHlCOEh3TGNYRQ?oc=5",
+          "published": "Tue, 14 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "bondMentions": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Solar and Storage Development Intern",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Sr. Controls Account Executive",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Shipping & Receiving Coordinator",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-09"
+        },
+        {
+          "title": "Building Performance Analyst",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-07"
+        },
+        {
+          "title": "Instrument & Controls Commissioning Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "PV and Energy Storage Remote Operator & Data Analyst",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Assistant BAS Controls Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Power Plant Operator",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Mechanical Superintendent",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Controls Project Manager",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-05"
+        },
+        {
+          "title": "Power Plant Operator",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-05"
+        },
+        {
+          "title": "AI Agent Integration and Powered Land Origination Co-op",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-05"
+        },
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-06-02"
+        },
+        {
+          "title": "Construction Estimator/Preconstruction Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-30"
+        },
+        {
+          "title": "Facilities Manager - Boiler and Chiller Plant",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-30"
+        },
+        {
+          "title": "Property Tax Accountant",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-27"
+        },
+        {
+          "title": "HVAC Service Controls Technician",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-24"
+        },
+        {
+          "title": "Operations and Maintenance Safety Manager",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-22"
+        },
+        {
+          "title": "Operations & Maintenance Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-22"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-22"
+        },
+        {
+          "title": "Solar Electrician Technican",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-21"
+        },
+        {
+          "title": "Electrician/General Mechanic",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-19"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-18"
+        },
+        {
+          "title": "Construction Program Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-16"
+        },
+        {
+          "title": "Energy Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-16"
+        },
+        {
+          "title": "Journeyman Plumber",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-15"
+        },
+        {
+          "title": "Boiler Operator \u2013 Second Shift",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-14"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-14"
+        },
+        {
+          "title": "Director of Construction - MHPI",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-13"
+        }
+      ],
+      "historicalBids": [
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Schools"
+        },
+        {
+          "segment": "Municipal"
+        }
+      ],
+      "statusToday": "risk",
+      "recentSignalSummary": "Recent $111.9M Municipal win in CO. 30 active job postings.",
+      "executiveMoves": [],
+      "conferences": []
+    },
+    {
+      "name": "Schneider Electric",
+      "segments": [
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Boston",
+          "state": "MA"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2015-09-30",
+          "value": 11233143.18,
+          "state": "MA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "IGF::CL::IGF VETERANS INTEGRATED SERVICE NETWORK 1, ENERGY SAVINGS PERFORMANCE CONTRACT FOR VA BOSTON HEALTHCARE SYSTEM LOCATIONS (JAMAICA P"
+        },
+        {
+          "date": "2016-09-23",
+          "value": 4893821.0,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT.  INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENTS AND VERIFICATION OF ENERGY CONSERVAT"
+        },
+        {
+          "date": "2025-08-04",
+          "value": 312272.0,
+          "state": "TX",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PUGET SOUND VA MEDICAL CENTER - AMERICAN LAKE CAMPUS, TACOMA, WASHINGTON - BUILDING MANAGEMENT SYSTEM (BMS) SOTWARE CONVERSION AND UPGRADE."
+        },
+        {
+          "date": "2023-10-01",
+          "value": 175432.88,
+          "state": "NC",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
+        }
+      ],
+      "earningsCallMentions": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "United States Energy as a Service Market Set to Reach USD 51.22 Billion by 2034 - openPR.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVpETjdacDVOY2hQaVFweTJncXJjV3p3dkNrM1JJWkREMGhqN2FSdWNxNFVza3FPRzR6VkxPSS1IbGU2emtHajFpODBYNmx2Ql9oME9SaDU3bmdhQVp3X2J6cmY0Y0pLc3hfa1FoVEo3R3gtT1BUSjBRR01MTkRxNWx4VzFwTWJZUkd0X3V2OGlwN3B4SnVzQlRYVGk0U3dj?oc=5\" target=\"_blank\">United Stat",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVpETjdacDVOY2hQaVFweTJncXJjV3p3dkNrM1JJWkREMGhqN2FSdWNxNFVza3FPRzR6VkxPSS1IbGU2emtHajFpODBYNmx2Ql9oME9SaDU3bmdhQVp3X2J6cmY0Y0pLc3hfa1FoVEo3R3gtT1BUSjBRR01MTkRxNWx4VzFwTWJZUkd0X3V2OGlwN3B4SnVzQlRYVGk0U3dj?oc=5",
+          "published": "Mon, 08 Jun 2026 12:32:32 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "bondMentions": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Territory Sales Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Universal Enclosure Business Developer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Customer Satisfaction & Quality Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Supply Chain Buyer",
+          "state": "OR",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Head of Segment Marketing, Buildings",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Engineer II, Manufacturing Engineering",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Office Administrator",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Solution Purchaser",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Customer Project Manager, Power Systems",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        },
+        {
+          "title": "Head of GTM Marketing, Power Distribution",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-10"
+        }
+      ],
+      "historicalBids": [
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        }
+      ],
+      "statusToday": "watch",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 active job postings.",
+      "executiveMoves": [],
+      "conferences": []
+    },
+    {
+      "name": "Siemens Smart Infrastructure",
+      "segments": [
+        "Municipal",
+        "University",
+        "Healthcare"
+      ],
+      "offices": [
+        {
+          "city": "Houston",
+          "state": "TX"
+        },
+        {
+          "city": "Princeton",
+          "state": "NJ"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2026-04-01",
+          "value": 11788536.16,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS APF/CGMP FUNDING FOR OPTION YEAR 3 THROUGH APRIL 1, 2026 TO MAY 31, 2026."
+        },
+        {
+          "date": "2023-08-01",
+          "value": 10857274.8,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS OPTION YEAR 2 FUNDING CALL (1 MONTH'S WORTH OF INITIAL FUNDING)"
+        },
+        {
+          "date": "2023-08-01",
+          "value": 10619215.08,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "FUNDING APPROVAL FOR SIEMENS CONTRACT 75N99023AF00001 1ST-YEAR OPTION FUNDING 1-MONTH DURATION [24-002769]"
+        },
+        {
+          "date": "2022-08-01",
+          "value": 7089525.84,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT. DETRICK,"
+        },
+        {
+          "date": "2021-08-01",
+          "value": 6922992.69,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C108591- NIH BPA EXERCISE OPTION YEAR 1 FOR BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT."
+        },
+        {
+          "date": "2023-08-01",
+          "value": 6759034.47,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BASE YEAR - BUILDING AUTOMATION SERVICES (BAS) OF SIEMENS INVENTORY DEVICES, NIH"
+        },
+        {
+          "date": "2020-08-01",
+          "value": 6753776.99,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C108591 - THE CONTRACTOR SHALL PROVIDE ALL MAINTENANCE, REPAIRS, EMERGENCY SERVICES, PREVENTIVE MAINTENANCE INSPECTIONS, CALIBRATION, HARDWA"
+        },
+        {
+          "date": "2018-07-31",
+          "value": 6266316.73,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C104939 - RENEWAL OPTION YEAR 1 - MAINTENANCE, REPAIRS, CALIBRATION - BETHESDA - CAN 8016640 - STEPHANIE GALLOWAY - POP 8/1/18 - 9/30/18"
+        },
+        {
+          "date": "2022-09-19",
+          "value": 5280004.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT. DETRICK,"
+        },
+        {
+          "date": "2019-08-23",
+          "value": 3942670.35,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C107824 - LABOR AND MATERIAL TO UPGRADE SIEMENS BAS FIELD PANELS WITH THE LATEST HARDWARE - STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2021-09-20",
+          "value": 3881952.51,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C111119 SIEMENS BUILDING AUTOMATION SYSTEM (BAS) HARDWARE AND FIRMWARE UPGRADES STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2020-01-24",
+          "value": 3670503.93,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS SERVICES FOR NIH"
+        },
+        {
+          "date": "2023-02-10",
+          "value": 1595500.06,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BLDG 33 REVALIDATION 24/7 BAS SUPPORT"
+        },
+        {
+          "date": "2023-07-01",
+          "value": 1429753.91,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SIEMENS APOGEE BUILDING AUTOMATION SYSTEM SERVICES - 5 MONTH CONTRACT FOR GREATER LOS ANGELES HEALTHCARE SYSTEM, WEST LOS ANGELES VA MEDICAL"
+        },
+        {
+          "date": "2024-04-05",
+          "value": 1105302.0,
+          "state": "MN",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "FIRE ALARM DEVICE REPLACEMENT, PHASE 2 REPLACE ALL THE FIRE ALARM DEVICES AND RELAYS AT THE DIANA MURPHY COURTHOUSE, MINNEAPOLIS, MN."
+        },
+        {
+          "date": "2019-08-01",
+          "value": 1077734.62,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C104939 - RENEWAL OPT. YR. 1 SIEMENS CONTRACT, EFFECTIVE POP: 8/1/19 TO 7/31/20; (2) MONTH TASK: 8/1/19 TO 9/30/19, STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2019-10-01",
+          "value": 1045891.68,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
+        }
+      ],
+      "earningsCallMentions": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
+          "published": "Tue, 09 Jun 2026 17:23:09 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "A smart hospital with 600 years of tradition - Siemens",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM21wbG5PTWZGQ0FMMGpsUXh1TnUxTzZIeFFOOHVkRThSUERBWm1EYWg2T0FjNmZTOEh4RVVnMEgzNU5IaERzS1gzLWI0X0FLNkJIX2R4cXRiUjlnN3hPZ0w3dUZ2Q2FBRXc?oc=5\" target=\"_blank\">A smart hospital with 600 years of tradition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Si",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM21wbG5PTWZGQ0FMMGpsUXh1TnUxTzZIeFFOOHVkRThSUERBWm1EYWg2T0FjNmZTOEh4RVVnMEgzNU5IaERzS1gzLWI0X0FLNkJIX2R4cXRiUjlnN3hPZ0w3dUZ2Q2FBRXc?oc=5",
+          "published": "Wed, 06 May 2026 14:08:33 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Siemens\u2019 Microgrid Sets New Standard For Resilient, Sustainable Power - Facility Executive Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5\" target=\"_blank\">Siemens\u2019 Mic",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5",
+          "published": "Wed, 20 May 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "bondMentions": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Manufacturing Equipment Operator - Power Distribution Systems",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        }
+      ],
+      "historicalBids": [
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Municipal"
+        },
+        {
+          "segment": "Healthcare"
+        },
+        {
+          "segment": "Healthcare"
+        }
+      ],
+      "statusToday": "risk",
+      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 1 active job postings.",
+      "executiveMoves": [],
+      "conferences": []
+    }
+  ]
+}
