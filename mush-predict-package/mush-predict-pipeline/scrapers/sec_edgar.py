@@ -45,10 +45,10 @@ def fetch_recent_filings(competitor: dict) -> list[dict]:
         dates      = data["filings"]["recent"]["filingDate"]
         primary    = data["filings"]["recent"]["primaryDocument"]
 
-        # Find most recent 10-K and 10-Q
+        # Find most recent 10-K and 10-Q (last 8 = ~2 years of quarterly history)
         targets = []
         for f, acc, dt, doc in zip(forms, accessions, dates, primary):
-            if f in ("10-K", "10-Q") and len(targets) < 2:
+            if f in ("10-K", "10-Q") and len(targets) < 8:
                 targets.append((f, acc, dt, doc))
 
         for form, acc, dt, doc in targets:

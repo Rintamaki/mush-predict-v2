@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 logger = logging.getLogger(__name__)
 
 HEADERS = {"Accept": "application/json"}
-LOOKBACK_DAYS = 365
+LOOKBACK_DAYS = 730  # 2 years (was 1)
 
 # Socrata-powered city permit endpoints
 CITIES = [

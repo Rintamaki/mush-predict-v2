@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://api.usaspending.gov/api/v2/search/spending_by_award/"
 HEADERS  = {"Content-Type": "application/json"}
-LOOKBACK_DAYS = 730  # 2 years for win history
+LOOKBACK_DAYS = 1825  # 5 years for win history (was 2)
 
 
 def _date_range():
@@ -50,7 +50,7 @@ def fetch_contract_awards(competitor: dict) -> list[dict]:
                     "Place of Performance State Code",
                 ],
                 "page":  1,
-                "limit": 30,
+                "limit": 100,
                 "sort":  "Award Amount",
                 "order": "desc",
             }

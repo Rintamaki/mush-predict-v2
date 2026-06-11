@@ -10,8 +10,8 @@ from datetime import datetime, timedelta
 
 logger = logging.getLogger(__name__)
 
-BASE_URL = "https://search.patentsview.org/api/v1/patent/"
-LOOKBACK_DAYS = 730  # 2 years
+BASE_URL = "https://api.patentsview.org/api/v1/patent/"
+LOOKBACK_DAYS = 1825  # 5 years (was 2)
 
 # Map patent title keywords to MUSH segments for tagging
 SEGMENT_TAGS = {
@@ -55,7 +55,7 @@ def fetch_patents(competitor: dict) -> list[dict]:
             "q":      str(query).replace("'", '"'),
             "f":      '["patent_title","patent_abstract","patent_date"]',
             "s":      '[{"patent_date":"desc"}]',
-            "o":      '{"size":20}',
+            "o":      '{"size":50}',
         }
         resp = requests.get(BASE_URL, params=params, timeout=20)
         if resp.ok:
