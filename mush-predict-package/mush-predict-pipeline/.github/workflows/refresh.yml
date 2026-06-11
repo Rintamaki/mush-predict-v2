@@ -31,7 +31,7 @@ jobs:
           ADZUNA_APP_KEY:  ${{ secrets.ADZUNA_APP_KEY }}
         run: python scrapers/run_pipeline.py
 
-     - name: Update competitors.json via GitHub API
+      - name: Update data via GitHub API
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
