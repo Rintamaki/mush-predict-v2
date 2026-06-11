@@ -32,9 +32,7 @@ jobs:
         run: python scrapers/run_pipeline.py
 
       - name: Commit updated data
-        run: |
-          git config --global user.name "MUSH Predict Bot"
-          git config --global user.email "mush-bot@mckinstry.com"
-          git add public/data/competitors.json
-          git diff --staged --quiet || git commit -m "Daily competitor refresh $(date +'%Y-%m-%d')"
-          git push --force-with-lease origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily competitor refresh"
+          file_pattern: public/data/competitors.json
