@@ -1,0 +1,195 @@
+{
+  "last_updated": "2026-06-11",
+  "last_updated_display": "June 11, 2026",
+  "data_sources_active": [
+    "USASpending.gov", "SAM.gov", "BidNet", "DemandStar", "Socrata permits",
+    "SEC EDGAR", "USPTO patents", "Adzuna jobs", "LinkedIn", "Senate LDA"
+  ],
+  "competitors": [
+    {
+      "name": "Johnson Controls",
+      "segments": ["Schools", "Healthcare", "Municipal", "University"],
+      "offices": [
+        { "city": "Dallas",      "state": "TX" },
+        { "city": "Houston",     "state": "TX" },
+        { "city": "Milwaukee",   "state": "WI" },
+        { "city": "Seattle",     "state": "WA" }
+      ],
+      "contractAwards": [
+        { "date": "2026-04-12", "value": 4200000, "state": "TX", "segment": "Schools",    "agency": "Plano ISD" },
+        { "date": "2026-02-08", "value": 1800000, "state": "TX", "segment": "Healthcare", "agency": "UT Southwestern" },
+        { "date": "2025-11-22", "value": 3100000, "state": "TX", "segment": "Schools",    "agency": "Klein ISD"   },
+        { "date": "2025-09-14", "value": 2750000, "state": "CA", "segment": "Healthcare", "agency": "UCSF Medical" },
+        { "date": "2025-07-03", "value": 1500000, "state": "WA", "segment": "Municipal",  "agency": "King County" }
+      ],
+      "activeBids": [
+        { "title": "Frisco ISD HVAC modernization", "state": "TX", "segment": "Schools",    "keywords": ["HVAC","ESPC","K-12"] },
+        { "title": "Memorial Hermann energy upgrade", "state": "TX", "segment": "Healthcare", "keywords": ["energy","hospital"] }
+      ],
+      "permitMentions": [
+        { "date": "2026-03-10", "location": "Dallas, TX — Forest Lane Elementary", "state": "TX" },
+        { "date": "2026-01-22", "location": "Austin, TX — Bowie HS",                "state": "TX" }
+      ],
+      "earningsCallMentions": [
+        { "quarter": "2026-Q1", "topic": "Schools",    "snippet": "Strong K-12 pipeline in Sun Belt" },
+        { "quarter": "2025-Q4", "topic": "Healthcare", "snippet": "OpenBlue healthcare deployments accelerating" },
+        { "quarter": "2025-Q4", "topic": "Schools",    "snippet": "Education vertical growing 14% YoY" }
+      ],
+      "executiveMoves": [
+        { "date": "2026-04-01", "name": "Maria Chen",  "title": "VP Education Solutions, South Region" },
+        { "date": "2026-02-15", "name": "James Patel", "title": "Director Healthcare BD, Texas"        }
+      ],
+      "patents": [
+        { "date": "2026-03-08", "title": "Autonomous airflow control for healthcare facilities", "tags": ["Healthcare","HVAC"] },
+        { "date": "2025-11-12", "title": "AI-driven school building energy optimization",        "tags": ["Schools","AI"]      }
+      ],
+      "jobPostings": [
+        { "postedDate": "2026-05-22", "title": "Energy Solutions AE — K-12 Texas",          "state": "TX", "segment": "Schools",    "tags": ["Schools","ESPC"]    },
+        { "postedDate": "2026-05-15", "title": "Healthcare Account Director — DFW",         "state": "TX", "segment": "Healthcare", "tags": ["Healthcare"]        },
+        { "postedDate": "2026-04-30", "title": "OpenBlue Solutions Engineer — Hospital",    "state": "TX", "segment": "Healthcare", "tags": ["Healthcare","AI"]   },
+        { "postedDate": "2026-04-18", "title": "K-12 Project Manager — Austin",             "state": "TX", "segment": "Schools",    "tags": ["Schools","HVAC"]    }
+      ],
+      "lobbyingActivity": [
+        { "date": "2026-Q1", "topics": ["Schools","Federal funding"], "bills": ["H.R.2842 — School Infrastructure Modernization","S.1456 — IDEA Energy Provisions"] }
+      ],
+      "conferences": [
+        { "date": "2026-03-15", "event": "TASBO Annual Conference",   "state": "TX" },
+        { "date": "2026-02-20", "event": "ASHRAE Winter Conference",  "state": "FL" }
+      ],
+      "historicalBids":   [{ "segment": "Schools" }, { "segment": "Schools" }, { "segment": "Schools" }, { "segment": "Schools" }, { "segment": "Healthcare" }, { "segment": "Healthcare" }, { "segment": "Municipal" }],
+      "statusToday":      "risk",
+      "recentSignalSummary": "Acquired Nantum AI; commercial rollout Q3 2026. Aggressive TX K-12 hiring."
+    },
+    {
+      "name": "Trane Technologies",
+      "segments": ["Schools", "University", "Healthcare"],
+      "offices": [
+        { "city": "Dallas", "state": "TX" },
+        { "city": "Davidson", "state": "NC" }
+      ],
+      "contractAwards": [
+        { "date": "2026-05-05", "value": 5600000, "state": "TX", "segment": "Schools", "agency": "Dallas ISD" },
+        { "date": "2026-01-18", "value": 2200000, "state": "TX", "segment": "Schools", "agency": "Cypress-Fairbanks ISD" },
+        { "date": "2025-08-30", "value": 1900000, "state": "FL", "segment": "Schools", "agency": "Miami-Dade Schools" }
+      ],
+      "activeBids": [
+        { "title": "Houston ISD chiller replacement", "state": "TX", "segment": "Schools", "keywords": ["HVAC","K-12"] },
+        { "title": "Spring Branch ISD ESPC",          "state": "TX", "segment": "Schools", "keywords": ["ESPC","K-12"] }
+      ],
+      "permitMentions": [],
+      "earningsCallMentions": [
+        { "quarter": "2026-Q1", "topic": "Schools", "snippet": "Strong K-12 ESPC pipeline" }
+      ],
+      "executiveMoves": [
+        { "date": "2026-03-10", "name": "Robert Kim", "title": "VP K-12 Solutions, Americas" }
+      ],
+      "patents": [
+        { "date": "2025-12-01", "title": "Modular school HVAC system", "tags": ["Schools","HVAC"] }
+      ],
+      "jobPostings": [
+        { "postedDate": "2026-05-28", "title": "K-12 ESPC Developer — Texas",  "state": "TX", "segment": "Schools", "tags": ["Schools","ESPC"] },
+        { "postedDate": "2026-05-10", "title": "Account Executive — Houston ISD market", "state": "TX", "segment": "Schools", "tags": ["Schools"] },
+        { "postedDate": "2026-04-22", "title": "Senior Solutions Engineer — K-12 South", "state": "TX", "segment": "Schools", "tags": ["Schools"] }
+      ],
+      "lobbyingActivity": [],
+      "conferences": [
+        { "date": "2026-03-15", "event": "TASBO Annual Conference", "state": "TX" }
+      ],
+      "historicalBids": [{ "segment": "Schools" }, { "segment": "Schools" }, { "segment": "Schools" }, { "segment": "Schools" }, { "segment": "Healthcare" }],
+      "statusToday": "watch",
+      "recentSignalSummary": "Acquired Stellar Energy Digital. Aggressive K-12 ESPC push in TX."
+    },
+    {
+      "name": "Ameresco",
+      "segments": ["Municipal", "University", "Schools"],
+      "offices": [
+        { "city": "Framingham", "state": "MA" },
+        { "city": "Austin",     "state": "TX" }
+      ],
+      "contractAwards": [
+        { "date": "2026-04-20", "value": 8000000, "state": "IL", "segment": "Municipal", "agency": "Cook County"     },
+        { "date": "2026-04-15", "value": 4200000, "state": "FL", "segment": "Municipal", "agency": "Miami-Dade"      },
+        { "date": "2025-10-12", "value": 1800000, "state": "TX", "segment": "Municipal", "agency": "City of San Antonio" }
+      ],
+      "activeBids": [
+        { "title": "Austin Water Utility AMI",       "state": "TX", "segment": "Municipal", "keywords": ["water","AMI","municipal"] }
+      ],
+      "permitMentions": [],
+      "earningsCallMentions": [
+        { "quarter": "2026-Q1", "topic": "Municipal", "snippet": "Strong county-level pipeline" }
+      ],
+      "executiveMoves": [],
+      "patents": [],
+      "jobPostings": [
+        { "postedDate": "2026-05-12", "title": "Solar Project Developer — TX", "state": "TX", "segment": "Municipal", "tags": ["Solar","Municipal"] },
+        { "postedDate": "2026-04-28", "title": "Municipal Account Executive — Austin", "state": "TX", "segment": "Municipal", "tags": ["Municipal"] }
+      ],
+      "lobbyingActivity": [],
+      "conferences": [],
+      "historicalBids": [{ "segment": "Municipal" }, { "segment": "Municipal" }, { "segment": "Municipal" }, { "segment": "Schools" }, { "segment": "University" }],
+      "statusToday": "watch",
+      "recentSignalSummary": "Cook County solar + Miami-Dade ESPC wins. Building county-level pipelines."
+    },
+    {
+      "name": "Schneider Electric",
+      "segments": ["University", "Healthcare", "Municipal"],
+      "offices": [
+        { "city": "Dallas",  "state": "TX" },
+        { "city": "Boston",  "state": "MA" }
+      ],
+      "contractAwards": [
+        { "date": "2026-02-14", "value": 6500000, "state": "WA", "segment": "University", "agency": "WSU" },
+        { "date": "2025-09-22", "value": 3200000, "state": "CA", "segment": "University", "agency": "Stanford" }
+      ],
+      "activeBids": [
+        { "title": "UT Austin EaaS partnership", "state": "TX", "segment": "University", "keywords": ["EaaS","decarb","university"] }
+      ],
+      "permitMentions": [],
+      "earningsCallMentions": [],
+      "executiveMoves": [],
+      "patents": [
+        { "date": "2025-12-15", "title": "Building-level EaaS analytics", "tags": ["University","EaaS"] }
+      ],
+      "jobPostings": [
+        { "postedDate": "2026-04-15", "title": "EaaS Solutions Architect — Higher Ed", "state": "TX", "segment": "University", "tags": ["University","EaaS"] }
+      ],
+      "lobbyingActivity": [],
+      "conferences": [
+        { "date": "2026-04-08", "event": "APPA Educational Facilities", "state": "CO" }
+      ],
+      "historicalBids": [{ "segment": "University" }, { "segment": "University" }, { "segment": "Healthcare" }, { "segment": "Municipal" }],
+      "statusToday": "stable",
+      "recentSignalSummary": "Top-4 ESCO per Guidehouse. EaaS decarbonization narrative in higher ed."
+    },
+    {
+      "name": "Siemens Smart Infrastructure",
+      "segments": ["Municipal", "University", "Healthcare"],
+      "offices": [
+        { "city": "Houston",   "state": "TX" },
+        { "city": "Princeton", "state": "NJ" }
+      ],
+      "contractAwards": [
+        { "date": "2026-01-30", "value": 3800000, "state": "TX", "segment": "University", "agency": "Texas A&M" },
+        { "date": "2025-08-10", "value": 2100000, "state": "TX", "segment": "Healthcare", "agency": "Baylor Scott & White" }
+      ],
+      "activeBids": [
+        { "title": "UT System BAS modernization", "state": "TX", "segment": "University", "keywords": ["BAS","controls","university"] }
+      ],
+      "permitMentions": [],
+      "earningsCallMentions": [],
+      "executiveMoves": [],
+      "patents": [
+        { "date": "2025-11-18", "title": "Reinforcement-learning HVAC controller", "tags": ["University","Healthcare","AI"] }
+      ],
+      "jobPostings": [
+        { "postedDate": "2026-05-05", "title": "BAS Senior Engineer — Houston",       "state": "TX", "segment": "University",  "tags": ["BAS","University"] },
+        { "postedDate": "2026-04-22", "title": "Healthcare Solutions Manager — TX",   "state": "TX", "segment": "Healthcare",  "tags": ["Healthcare"] }
+      ],
+      "lobbyingActivity": [],
+      "conferences": [],
+      "historicalBids": [{ "segment": "University" }, { "segment": "University" }, { "segment": "Healthcare" }, { "segment": "Municipal" }],
+      "statusToday": "watch",
+      "recentSignalSummary": "AI HVAC patent. Entrenched in UT System and TX hospitals."
+    }
+  ]
+}

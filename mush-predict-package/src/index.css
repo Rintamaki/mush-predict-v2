@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+body { font-family: 'Calibri', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+h1,h2,h3,h4,h5,.font-barlow { font-family: 'Barlow', sans-serif; }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #5b6470; border-radius: 99px; }
+
+/* Probability ring colors */
+.ring-high   { stroke: #C15A2D; }
+.ring-medium { stroke: #D7944B; }
+.ring-low    { stroke: #447D29; }
+.ring-bg     { stroke: rgba(255,255,255,0.06); }
+
+.dark .ring-bg { stroke: rgba(255,255,255,0.08); }
+
+/* Source pills */
+.src-pill {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+}
