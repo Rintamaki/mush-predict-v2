@@ -386,29 +386,68 @@ export function rankCompetitorsForOpportunity(competitors, opportunity) {
  * Looks at where their signals are converging to forecast their next push.
  */
 export function predictNextMove(competitor) {
-  const moves = []
+  const moves    = []
   const segments = ['Municipal', 'University', 'Schools', 'Healthcare']
   const states   = ['TX', 'WA', 'OR', 'CA', 'CO', 'IL', 'NY', 'FL']
 
-  // For each (segment, state) pair, sum recent signal weight
   for (const seg of segments) {
     for (const state of states) {
       const score =
-        ((competitor.jobPostings ?? []).filter(j => j.state === state && (j.segment === seg || (j.tags ?? []).includes(seg)) && monthsAgo(j.postedDate) < 6).length * 0.25) +
-        ((competitor.activeBids ?? []).filter(b => b.state === state && b.segment === seg).length * 0.30) +
-        ((competitor.earningsCallMentions ?? []).filter(m => m.topic?.includes(seg) && monthsAgo(m.quarter) < 6).length * 0.20) +
-        ((competitor.executiveMoves ?? []).filter(m => monthsAgo(m.date) < 9 && (m.title?.includes(seg) || m.title?.includes(state))).length * 0.15) +
-        ((competitor.permitMentions ?? []).filter(p => p.state === state && monthsAgo(p.date) < 9).length * 0.10)
+        ((competitor.jobPostings ?? []).filter(j =>
+          j.state === state &&
+          (j.segment === seg || (j.tags ?? []).includes(seg)) &&
+          monthsAgo(j.postedDate) < 6
+        ).length * 0.25) +
+        ((competitor.activeBids ?? []).filter(b =>
+          b.state === state && b.segment === seg
+        ).length * 0.30) +
+        ((competitor.contractAwards ?? []).filter(a =>
+          a.state === state &&
+          a.segment === seg &&
+          monthsAgo(a.date) < 24
+        ).length * 0.20) +
+        ((competitor.texasContracts ?? []).filter(a =>
+          a.state === state &&
+          a.segment === seg
+        ).length * 0.20) +
+        ((competitor.earningsCallMentions ?? []).filter(m =>
+          m.topic?.includes(seg) && monthsAgo(m.quarter) < 12
+        ).length * 0.15) +
+        ((competitor.executiveMoves ?? []).filter(m =>
+          monthsAgo(m.date) < 9 &&
+          (m.title?.includes(seg) || m.title?.includes(state))
+        ).length * 0.15) +
+        ((competitor.permitMentions ?? []).filter(p =>
+          p.state === state && monthsAgo(p.date) < 9
+        ).length * 0.10)
 
-      if (score > 0.1) {
+      if (score > 0.05) {
         moves.push({
-          segment: seg,
+          segment:     seg,
           state,
-          score:   +score.toFixed(2),
-          probability: Math.min(0.95, score / 2.5),  // normalize to 0-1
+          score:       +score.toFixed(2),
+          probability: Math.min(0.95, score / 2.0),
         })
       }
     }
+  }
+
+  if (moves.length === 0) {
+    const awards   = competitor.contractAwards ?? []
+    const segCounts = {}
+    awards.forEach(a => {
+      if (a.segment && a.segment !== 'Other') {
+        segCounts[a.segment] = (segCounts[a.segment] || 0) + 1
+      }
+    })
+    Object.entries(segCounts).forEach(([seg, count]) => {
+      moves.push({
+        segment:     seg,
+        state:       'Multiple',
+        score:       +(count * 0.1).toFixed(2),
+        probability: Math.min(0.60, count * 0.08),
+      })
+    })
   }
 
   return moves.sort((a, b) => b.score - a.score).slice(0, 5)
