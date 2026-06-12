@@ -16,22 +16,7 @@
     "Construction feeds"
   ],
   "bond_opportunities": [],
-  "construction_opportunities": [
-    {
-      "id": "construction-93308",
-      "title": "Healthcare joined data centers in boost to May construction planning",
-      "agency": "Construction Dive",
-      "type": "Construction Project",
-      "posted": "Tue, 09 Jun 2026 13:15:00 -0400",
-      "deadline": "",
-      "state": "",
-      "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/6Zbj5CPCjh1pefSlfoQgqu_7glzscQISLKCEyAcXiig/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4NzYzNjM2LTMuanBn.webp\" /></div></figure><p>The increase builds on last month's growth to overall planning after a sl",
-      "url": "https://www.constructiondive.com/news/healthcare-data-centers-boost-may-construction-planning/822389/",
-      "source": "Construction Dive",
-      "keyword_hit": "construction",
-      "segment": "Healthcare"
-    }
-  ],
+  "construction_opportunities": [],
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -276,6 +261,20 @@
           "deadline": "2026-06-23T16:30:00-04:00"
         },
         {
+          "title": "PACS, North Chicago VAMC, Award Notice",
+          "state": "IL",
+          "segment": "Other",
+          "keywords": [
+            "pacs,",
+            "north",
+            "chicago",
+            "vamc,",
+            "award"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
           "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
           "state": "OR",
           "segment": "Other",
@@ -290,6 +289,80 @@
           "deadline": "2026-06-17T12:00:00-07:00"
         },
         {
+          "title": "NSN 4730012539953",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "4730012539953"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T16:00:00-04:00"
+        },
+        {
+          "title": "D--FODO 351117 Project Team Software ",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "d--fodo",
+            "351117",
+            "project",
+            "software"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "59--PLUG,TELEPHONE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--plug,telephone"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "united",
+            "states",
+            "naval",
+            "academy-",
+            "mooring"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T10:00:00-04:00"
+        },
+        {
+          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
+          "state": "ID",
+          "segment": "Other",
+          "keywords": [
+            "aviator",
+            "breathing",
+            "oxygen",
+            "gowen",
+            "field,"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T15:00:00-05:00"
+        },
+        {
+          "title": "Innovation & Efficiency Support Services",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "innovation",
+            "efficiency",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-16T15:00:00-04:00"
+        },
+        {
           "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
           "state": "VA",
           "segment": "Other",
@@ -300,90 +373,44 @@
           ],
           "agency": "",
           "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "EIC Vacuum Equipment",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "vacuum",
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": "2026-07-06T08:00:00-04:00"
-        },
-        {
-          "title": "VRF Condensing Units (4)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "condensing",
-            "units"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T12:30:00+04:30"
-        },
-        {
-          "title": "Watercraft Targets MATOC(s)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "watercraft",
-            "targets",
-            "matoc(s)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUSHING,SLEEVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "bushing,sleeve"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T16:30:00-04:00"
-        },
-        {
-          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "3750--rfq:",
-            "commercial",
-            "grade",
-            "ride-on",
-            "mowers"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T16:00:00-04:00"
-        },
-        {
-          "title": "CIRCUIT CARD ASSEMB",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "circuit",
-            "assemb"
-          ],
-          "agency": "",
-          "deadline": "2026-07-13T14:00:00-04:00"
-        },
-        {
-          "title": "80-Day Tanker Time Charter",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "80-day",
-            "tanker",
-            "charter"
-          ],
-          "agency": "",
-          "deadline": null
         }
       ],
       "jobPostings": [
+        {
+          "title": "Install Technician - Commercial Security Alarm (Job number: 1509)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "3rd shift Production Control Kitter/Forklift Driver SA-Gilbert",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Manufacturing Technician - Silent-Aire",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Electrician 1st Year - Panel Shop - SA-Gilbert",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "1st shift Material Handler/Forklift Driver Silent-Aire",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
         {
           "title": "Sr. Process Engineer",
           "state": "",
@@ -530,67 +557,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Fire Detection Systems Technician 4",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Strategic Accounts, Sales Support",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Principal Power Electronics Engineer (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Fire Alarm Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Traveling Security Field Engineer - Electronic / Integrated Security - (Job ID: 1591)",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Fire Detection Inspector",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "HVAC Scheduler/Dispatcher",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-12"
         }
       ],
       "historicalBids": [
@@ -620,7 +586,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 24 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 22 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -812,6 +778,20 @@
           "deadline": "2026-06-23T16:30:00-04:00"
         },
         {
+          "title": "PACS, North Chicago VAMC, Award Notice",
+          "state": "IL",
+          "segment": "Other",
+          "keywords": [
+            "pacs,",
+            "north",
+            "chicago",
+            "vamc,",
+            "award"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
           "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
           "state": "OR",
           "segment": "Other",
@@ -826,6 +806,80 @@
           "deadline": "2026-06-17T12:00:00-07:00"
         },
         {
+          "title": "NSN 4730012539953",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "4730012539953"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T16:00:00-04:00"
+        },
+        {
+          "title": "D--FODO 351117 Project Team Software ",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "d--fodo",
+            "351117",
+            "project",
+            "software"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "59--PLUG,TELEPHONE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--plug,telephone"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "united",
+            "states",
+            "naval",
+            "academy-",
+            "mooring"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T10:00:00-04:00"
+        },
+        {
+          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
+          "state": "ID",
+          "segment": "Other",
+          "keywords": [
+            "aviator",
+            "breathing",
+            "oxygen",
+            "gowen",
+            "field,"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T15:00:00-05:00"
+        },
+        {
+          "title": "Innovation & Efficiency Support Services",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "innovation",
+            "efficiency",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-16T15:00:00-04:00"
+        },
+        {
           "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
           "state": "VA",
           "segment": "Other",
@@ -836,87 +890,6 @@
           ],
           "agency": "",
           "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "EIC Vacuum Equipment",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "vacuum",
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": "2026-07-06T08:00:00-04:00"
-        },
-        {
-          "title": "VRF Condensing Units (4)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "condensing",
-            "units"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T12:30:00+04:30"
-        },
-        {
-          "title": "Watercraft Targets MATOC(s)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "watercraft",
-            "targets",
-            "matoc(s)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUSHING,SLEEVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "bushing,sleeve"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T16:30:00-04:00"
-        },
-        {
-          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "3750--rfq:",
-            "commercial",
-            "grade",
-            "ride-on",
-            "mowers"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T16:00:00-04:00"
-        },
-        {
-          "title": "CIRCUIT CARD ASSEMB",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "circuit",
-            "assemb"
-          ],
-          "agency": "",
-          "deadline": "2026-07-13T14:00:00-04:00"
-        },
-        {
-          "title": "80-Day Tanker Time Charter",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "80-day",
-            "tanker",
-            "charter"
-          ],
-          "agency": "",
-          "deadline": null
         }
       ],
       "jobPostings": [
@@ -1182,6 +1155,20 @@
           "deadline": "2026-06-23T16:30:00-04:00"
         },
         {
+          "title": "PACS, North Chicago VAMC, Award Notice",
+          "state": "IL",
+          "segment": "Other",
+          "keywords": [
+            "pacs,",
+            "north",
+            "chicago",
+            "vamc,",
+            "award"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
           "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
           "state": "OR",
           "segment": "Other",
@@ -1196,6 +1183,80 @@
           "deadline": "2026-06-17T12:00:00-07:00"
         },
         {
+          "title": "NSN 4730012539953",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "4730012539953"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T16:00:00-04:00"
+        },
+        {
+          "title": "D--FODO 351117 Project Team Software ",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "d--fodo",
+            "351117",
+            "project",
+            "software"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "59--PLUG,TELEPHONE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--plug,telephone"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "united",
+            "states",
+            "naval",
+            "academy-",
+            "mooring"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T10:00:00-04:00"
+        },
+        {
+          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
+          "state": "ID",
+          "segment": "Other",
+          "keywords": [
+            "aviator",
+            "breathing",
+            "oxygen",
+            "gowen",
+            "field,"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T15:00:00-05:00"
+        },
+        {
+          "title": "Innovation & Efficiency Support Services",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "innovation",
+            "efficiency",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-16T15:00:00-04:00"
+        },
+        {
           "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
           "state": "VA",
           "segment": "Other",
@@ -1206,87 +1267,6 @@
           ],
           "agency": "",
           "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "EIC Vacuum Equipment",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "vacuum",
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": "2026-07-06T08:00:00-04:00"
-        },
-        {
-          "title": "VRF Condensing Units (4)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "condensing",
-            "units"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T12:30:00+04:30"
-        },
-        {
-          "title": "Watercraft Targets MATOC(s)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "watercraft",
-            "targets",
-            "matoc(s)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUSHING,SLEEVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "bushing,sleeve"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T16:30:00-04:00"
-        },
-        {
-          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "3750--rfq:",
-            "commercial",
-            "grade",
-            "ride-on",
-            "mowers"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T16:00:00-04:00"
-        },
-        {
-          "title": "CIRCUIT CARD ASSEMB",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "circuit",
-            "assemb"
-          ],
-          "agency": "",
-          "deadline": "2026-07-13T14:00:00-04:00"
-        },
-        {
-          "title": "80-Day Tanker Time Charter",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "80-day",
-            "tanker",
-            "charter"
-          ],
-          "agency": "",
-          "deadline": null
         }
       ],
       "jobPostings": [
@@ -1716,6 +1696,20 @@
           "deadline": "2026-06-23T16:30:00-04:00"
         },
         {
+          "title": "PACS, North Chicago VAMC, Award Notice",
+          "state": "IL",
+          "segment": "Other",
+          "keywords": [
+            "pacs,",
+            "north",
+            "chicago",
+            "vamc,",
+            "award"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
           "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
           "state": "OR",
           "segment": "Other",
@@ -1730,6 +1724,80 @@
           "deadline": "2026-06-17T12:00:00-07:00"
         },
         {
+          "title": "NSN 4730012539953",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "4730012539953"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T16:00:00-04:00"
+        },
+        {
+          "title": "D--FODO 351117 Project Team Software ",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "d--fodo",
+            "351117",
+            "project",
+            "software"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "59--PLUG,TELEPHONE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--plug,telephone"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "united",
+            "states",
+            "naval",
+            "academy-",
+            "mooring"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T10:00:00-04:00"
+        },
+        {
+          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
+          "state": "ID",
+          "segment": "Other",
+          "keywords": [
+            "aviator",
+            "breathing",
+            "oxygen",
+            "gowen",
+            "field,"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T15:00:00-05:00"
+        },
+        {
+          "title": "Innovation & Efficiency Support Services",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "innovation",
+            "efficiency",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-16T15:00:00-04:00"
+        },
+        {
           "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
           "state": "VA",
           "segment": "Other",
@@ -1740,87 +1808,6 @@
           ],
           "agency": "",
           "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "EIC Vacuum Equipment",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "vacuum",
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": "2026-07-06T08:00:00-04:00"
-        },
-        {
-          "title": "VRF Condensing Units (4)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "condensing",
-            "units"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T12:30:00+04:30"
-        },
-        {
-          "title": "Watercraft Targets MATOC(s)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "watercraft",
-            "targets",
-            "matoc(s)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUSHING,SLEEVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "bushing,sleeve"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T16:30:00-04:00"
-        },
-        {
-          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "3750--rfq:",
-            "commercial",
-            "grade",
-            "ride-on",
-            "mowers"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T16:00:00-04:00"
-        },
-        {
-          "title": "CIRCUIT CARD ASSEMB",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "circuit",
-            "assemb"
-          ],
-          "agency": "",
-          "deadline": "2026-07-13T14:00:00-04:00"
-        },
-        {
-          "title": "80-Day Tanker Time Charter",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "80-day",
-            "tanker",
-            "charter"
-          ],
-          "agency": "",
-          "deadline": null
         }
       ],
       "jobPostings": [
@@ -1918,36 +1905,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Production Supervisor",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Solution Supply Chain Planner",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Field Security Systems Application Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Microgrid Project Application Engineer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-06-11"
         }
       ],
       "historicalBids": [
@@ -1965,7 +1922,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 16 active job postings.",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 12 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -2130,6 +2087,13 @@
       "newsArticles": [
         {
           "source": "google_news",
+          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
+          "published": "Tue, 09 Jun 2026 17:23:09 GMT"
+        },
+        {
+          "source": "google_news",
           "title": "Siemens\u2019 Microgrid Sets New Standard For Resilient, Sustainable Power - Facility Executive Magazine",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5\" target=\"_blank\">Siemens\u2019 Mic",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5",
@@ -2160,6 +2124,20 @@
           "deadline": "2026-06-23T16:30:00-04:00"
         },
         {
+          "title": "PACS, North Chicago VAMC, Award Notice",
+          "state": "IL",
+          "segment": "Other",
+          "keywords": [
+            "pacs,",
+            "north",
+            "chicago",
+            "vamc,",
+            "award"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
           "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
           "state": "OR",
           "segment": "Other",
@@ -2174,6 +2152,80 @@
           "deadline": "2026-06-17T12:00:00-07:00"
         },
         {
+          "title": "NSN 4730012539953",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "4730012539953"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T16:00:00-04:00"
+        },
+        {
+          "title": "D--FODO 351117 Project Team Software ",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "d--fodo",
+            "351117",
+            "project",
+            "software"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "59--PLUG,TELEPHONE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--plug,telephone"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "united",
+            "states",
+            "naval",
+            "academy-",
+            "mooring"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T10:00:00-04:00"
+        },
+        {
+          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
+          "state": "ID",
+          "segment": "Other",
+          "keywords": [
+            "aviator",
+            "breathing",
+            "oxygen",
+            "gowen",
+            "field,"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T15:00:00-05:00"
+        },
+        {
+          "title": "Innovation & Efficiency Support Services",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "innovation",
+            "efficiency",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-16T15:00:00-04:00"
+        },
+        {
           "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
           "state": "VA",
           "segment": "Other",
@@ -2184,100 +2236,9 @@
           ],
           "agency": "",
           "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "EIC Vacuum Equipment",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "vacuum",
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": "2026-07-06T08:00:00-04:00"
-        },
-        {
-          "title": "VRF Condensing Units (4)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "condensing",
-            "units"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T12:30:00+04:30"
-        },
-        {
-          "title": "Watercraft Targets MATOC(s)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "watercraft",
-            "targets",
-            "matoc(s)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUSHING,SLEEVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "bushing,sleeve"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T16:30:00-04:00"
-        },
-        {
-          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "3750--rfq:",
-            "commercial",
-            "grade",
-            "ride-on",
-            "mowers"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T16:00:00-04:00"
-        },
-        {
-          "title": "CIRCUIT CARD ASSEMB",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "circuit",
-            "assemb"
-          ],
-          "agency": "",
-          "deadline": "2026-07-13T14:00:00-04:00"
-        },
-        {
-          "title": "80-Day Tanker Time Charter",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "80-day",
-            "tanker",
-            "charter"
-          ],
-          "agency": "",
-          "deadline": null
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Industrial Maintenance/Cyclotron Service Technician - MINNEAPOLIS",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-06-12"
-        }
-      ],
+      "jobPostings": [],
       "historicalBids": [
         {
           "segment": "Healthcare"
@@ -2332,7 +2293,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids. 1 active job postings.",
+      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids.",
       "executiveMoves": [],
       "conferences": []
     }
