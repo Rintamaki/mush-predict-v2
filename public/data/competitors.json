@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11",
-  "last_updated_display": "June 11, 2026",
+  "last_updated": "2026-06-12",
+  "last_updated_display": "June 12, 2026",
   "data_sources_active": [
     "USASpending.gov",
     "SAM.gov",
@@ -18,7 +18,7 @@
   "bond_opportunities": [],
   "construction_opportunities": [
     {
-      "id": "construction-27862",
+      "id": "construction-93308",
       "title": "Healthcare joined data centers in boost to May construction planning",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -263,195 +263,182 @@
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
-      "activeBids": [],
-      "jobPostings": [
+      "activeBids": [
         {
-          "title": "Fire Sprinkler Service Technician Team Lead",
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T16:30:00-04:00"
+        },
+        {
+          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "y1na--con",
+            "653-23-100",
+            "remove",
+            "replace",
+            "underground"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T12:00:00-07:00"
+        },
+        {
+          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "uh-60",
+            "cylinder,",
+            "hydraulic"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29T15:00:00-04:00"
+        },
+        {
+          "title": "EIC Vacuum Equipment",
           "state": "NY",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Experienced Fire Sprinkler Inspector (NICET level 2)",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
+          "keywords": [
+            "vacuum",
+            "equipment"
           ],
-          "postedDate": "2026-06-11"
+          "agency": "",
+          "deadline": "2026-07-06T08:00:00-04:00"
         },
         {
-          "title": "BEST Sales Intern - Security Systems - Riverside, CA",
+          "title": "VRF Condensing Units (4)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "condensing",
+            "units"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T12:30:00+04:30"
+        },
+        {
+          "title": "Watercraft Targets MATOC(s)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "watercraft",
+            "targets",
+            "matoc(s)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUSHING,SLEEVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "bushing,sleeve"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "3750--rfq:",
+            "commercial",
+            "grade",
+            "ride-on",
+            "mowers"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T16:00:00-04:00"
+        },
+        {
+          "title": "CIRCUIT CARD ASSEMB",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "circuit",
+            "assemb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T14:00:00-04:00"
+        },
+        {
+          "title": "80-Day Tanker Time Charter",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "80-day",
+            "tanker",
+            "charter"
+          ],
+          "agency": "",
+          "deadline": null
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Sr. Process Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "Territory/Domain Field Sales Rep",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Client Services Coordinator",
-          "state": "GA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fire Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fire Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Skilled Fire Sprinkler Installer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "HVAC Truck Based Chiller Mechanic (union)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "HVAC Mechanical Service Technician Journeyman (union)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fire Sprinkler Installer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "HVAC Truck Based Serviceman (union)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fire Sprinkler Apprentice",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Wrapper",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fire Detection Service Technician (Sign-On Bonus Available)",
-          "state": "MI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fire Installer I",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "HVAC Equipment Service Technician Tradesman",
+          "title": "Construction Project Manager - HVAC",
           "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "HVAC Truck Based Senior Controls Service Technician",
+          "title": "Product Tech Support Eng II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Data Center Mech Svc Tech Apprentice",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Technical QA Lead",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Fire Repair Scheduling Coordinator II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
         },
         {
           "title": "Fire Sprinkler Installer",
-          "state": "",
+          "state": "FL",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "Executive Director- Vertical Markets- Local Government",
+          "title": "Fire Detection Systems Technician",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -459,10 +446,46 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "title": "Security Commercial Offerings Service Tech",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Experienced Fire Sprinkler Service Technician",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Process Engineering Manager, Delivery",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Fire Detection Inspector",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Install Sprinkler Sales Representative",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -470,7 +493,104 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Client Resource Coordinator 2",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Product Tech Support Eng II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Experienced Fire Alarm Inspector",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Controls Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Fire Detection Systems Technician 4",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Strategic Accounts, Sales Support",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Principal Power Electronics Engineer (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Fire Alarm Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Traveling Security Field Engineer - Electronic / Integrated Security - (Job ID: 1591)",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Fire Detection Inspector",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "HVAC Scheduler/Dispatcher",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
         }
       ],
       "historicalBids": [
@@ -500,7 +620,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 21 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 24 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -679,39 +799,193 @@
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T16:30:00-04:00"
+        },
+        {
+          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "y1na--con",
+            "653-23-100",
+            "remove",
+            "replace",
+            "underground"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T12:00:00-07:00"
+        },
+        {
+          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "uh-60",
+            "cylinder,",
+            "hydraulic"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29T15:00:00-04:00"
+        },
+        {
+          "title": "EIC Vacuum Equipment",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "vacuum",
+            "equipment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T08:00:00-04:00"
+        },
+        {
+          "title": "VRF Condensing Units (4)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "condensing",
+            "units"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T12:30:00+04:30"
+        },
+        {
+          "title": "Watercraft Targets MATOC(s)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "watercraft",
+            "targets",
+            "matoc(s)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUSHING,SLEEVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "bushing,sleeve"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "3750--rfq:",
+            "commercial",
+            "grade",
+            "ride-on",
+            "mowers"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T16:00:00-04:00"
+        },
+        {
+          "title": "CIRCUIT CARD ASSEMB",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "circuit",
+            "assemb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T14:00:00-04:00"
+        },
+        {
+          "title": "80-Day Tanker Time Charter",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "80-day",
+            "tanker",
+            "charter"
+          ],
+          "agency": "",
+          "deadline": null
+        }
+      ],
       "jobPostings": [
         {
-          "title": "Plant Lean Coach - 2nd shift",
-          "state": "MI",
+          "title": "Category Manager - Electrical Components",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Data Governance Analyst",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Commercialization Leader- Smart Services Products",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Data Governance Analyst",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-11"
         },
         {
-          "title": "OPEX Lean Technician - 2nd Shift",
-          "state": "MI",
+          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-11"
         },
         {
-          "title": "Brazer - 2nd Shift",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Maintenance Technician - 2nd Shift",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Machinist - 2nd Shift",
-          "state": "MI",
+          "title": "SBU Material Control Process Leader",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-11"
@@ -746,8 +1020,8 @@
           "segment": "Healthcare"
         }
       ],
-      "statusToday": "watch",
-      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 5 active job postings.",
+      "statusToday": "risk",
+      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 10 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -895,8 +1169,160 @@
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T16:30:00-04:00"
+        },
+        {
+          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "y1na--con",
+            "653-23-100",
+            "remove",
+            "replace",
+            "underground"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T12:00:00-07:00"
+        },
+        {
+          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "uh-60",
+            "cylinder,",
+            "hydraulic"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29T15:00:00-04:00"
+        },
+        {
+          "title": "EIC Vacuum Equipment",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "vacuum",
+            "equipment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T08:00:00-04:00"
+        },
+        {
+          "title": "VRF Condensing Units (4)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "condensing",
+            "units"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T12:30:00+04:30"
+        },
+        {
+          "title": "Watercraft Targets MATOC(s)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "watercraft",
+            "targets",
+            "matoc(s)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUSHING,SLEEVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "bushing,sleeve"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "3750--rfq:",
+            "commercial",
+            "grade",
+            "ride-on",
+            "mowers"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T16:00:00-04:00"
+        },
+        {
+          "title": "CIRCUIT CARD ASSEMB",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "circuit",
+            "assemb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T14:00:00-04:00"
+        },
+        {
+          "title": "80-Day Tanker Time Charter",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "80-day",
+            "tanker",
+            "charter"
+          ],
+          "agency": "",
+          "deadline": null
+        }
+      ],
       "jobPostings": [
+        {
+          "title": "Quality Control Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Architectural Superintendent",
+          "state": "CO",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Electrical Project Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
         {
           "title": "Solar and Storage Development Intern",
           "state": "MA",
@@ -1192,39 +1618,6 @@
             "University"
           ],
           "postedDate": "2026-05-15"
-        },
-        {
-          "title": "Boiler Operator \u2013 Second Shift",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-14"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-14"
-        },
-        {
-          "title": "Director of Construction - MHPI",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-13"
         }
       ],
       "historicalBids": [
@@ -1239,7 +1632,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $111.9M Municipal win in CO. 30 active job postings.",
+      "recentSignalSummary": "Recent $111.9M Municipal win in CO. 10 open bids. 30 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -1310,77 +1703,251 @@
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T16:30:00-04:00"
+        },
+        {
+          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "y1na--con",
+            "653-23-100",
+            "remove",
+            "replace",
+            "underground"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T12:00:00-07:00"
+        },
+        {
+          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "uh-60",
+            "cylinder,",
+            "hydraulic"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29T15:00:00-04:00"
+        },
+        {
+          "title": "EIC Vacuum Equipment",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "vacuum",
+            "equipment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T08:00:00-04:00"
+        },
+        {
+          "title": "VRF Condensing Units (4)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "condensing",
+            "units"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T12:30:00+04:30"
+        },
+        {
+          "title": "Watercraft Targets MATOC(s)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "watercraft",
+            "targets",
+            "matoc(s)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUSHING,SLEEVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "bushing,sleeve"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "3750--rfq:",
+            "commercial",
+            "grade",
+            "ride-on",
+            "mowers"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T16:00:00-04:00"
+        },
+        {
+          "title": "CIRCUIT CARD ASSEMB",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "circuit",
+            "assemb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T14:00:00-04:00"
+        },
+        {
+          "title": "80-Day Tanker Time Charter",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "80-day",
+            "tanker",
+            "charter"
+          ],
+          "agency": "",
+          "deadline": null
+        }
+      ],
       "jobPostings": [
         {
-          "title": "Territory Sales Engineer",
+          "title": "Engineering Liasion",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Fabrication I - Weekend shift",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "University"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Fabrication Associate II - Weekend shift",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Lead Solution Architect",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "OEM Business Development Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Safety & Environment Manager",
+          "state": "NC",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Service Representative - ASCO - Tallahassee",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Life Sciences Business Development Manager",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "BAS Project Engineer",
           "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-11"
         },
         {
-          "title": "Universal Enclosure Business Developer",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
+          "title": "Microgrid Project Application Engineer",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-06-11"
         },
         {
-          "title": "Customer Satisfaction & Quality Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
+          "title": "Material Associate II",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-06-11"
         },
         {
-          "title": "Supply Chain Buyer",
-          "state": "OR",
+          "title": "Industrial Process Automation - Client Sales Executive",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-10"
+          "postedDate": "2026-06-11"
         },
         {
-          "title": "Head of Segment Marketing, Buildings",
-          "state": "NC",
+          "title": "Production Supervisor",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-10"
+          "postedDate": "2026-06-11"
         },
         {
-          "title": "Engineer II, Manufacturing Engineering",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
-        },
-        {
-          "title": "Office Administrator",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
-        },
-        {
-          "title": "Solution Purchaser",
+          "title": "Solution Supply Chain Planner",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-10"
+          "postedDate": "2026-06-11"
         },
         {
-          "title": "Customer Project Manager, Power Systems",
+          "title": "Field Security Systems Application Engineer",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Microgrid Project Application Engineer",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
-        },
-        {
-          "title": "Head of GTM Marketing, Power Distribution",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-06-11"
         }
       ],
       "historicalBids": [
@@ -1397,8 +1964,8 @@
           "segment": "Healthcare"
         }
       ],
-      "statusToday": "watch",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 active job postings.",
+      "statusToday": "risk",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 16 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -1563,10 +2130,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
-          "published": "Tue, 09 Jun 2026 17:23:09 GMT"
+          "title": "Siemens\u2019 Microgrid Sets New Standard For Resilient, Sustainable Power - Facility Executive Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5\" target=\"_blank\">Siemens\u2019 Mic",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5",
+          "published": "Wed, 20 May 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -1574,27 +2141,141 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM21wbG5PTWZGQ0FMMGpsUXh1TnUxTzZIeFFOOHVkRThSUERBWm1EYWg2T0FjNmZTOEh4RVVnMEgzNU5IaERzS1gzLWI0X0FLNkJIX2R4cXRiUjlnN3hPZ0w3dUZ2Q2FBRXc?oc=5\" target=\"_blank\">A smart hospital with 600 years of tradition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Si",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM21wbG5PTWZGQ0FMMGpsUXh1TnUxTzZIeFFOOHVkRThSUERBWm1EYWg2T0FjNmZTOEh4RVVnMEgzNU5IaERzS1gzLWI0X0FLNkJIX2R4cXRiUjlnN3hPZ0w3dUZ2Q2FBRXc?oc=5",
           "published": "Wed, 06 May 2026 14:08:33 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Siemens\u2019 Microgrid Sets New Standard For Resilient, Sustainable Power - Facility Executive Magazine",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5\" target=\"_blank\">Siemens\u2019 Mic",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5",
-          "published": "Wed, 20 May 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T16:30:00-04:00"
+        },
+        {
+          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "y1na--con",
+            "653-23-100",
+            "remove",
+            "replace",
+            "underground"
+          ],
+          "agency": "",
+          "deadline": "2026-06-17T12:00:00-07:00"
+        },
+        {
+          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "uh-60",
+            "cylinder,",
+            "hydraulic"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29T15:00:00-04:00"
+        },
+        {
+          "title": "EIC Vacuum Equipment",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "vacuum",
+            "equipment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T08:00:00-04:00"
+        },
+        {
+          "title": "VRF Condensing Units (4)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "condensing",
+            "units"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T12:30:00+04:30"
+        },
+        {
+          "title": "Watercraft Targets MATOC(s)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "watercraft",
+            "targets",
+            "matoc(s)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUSHING,SLEEVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "bushing,sleeve"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "3750--RFQ: Commercial Grade Ride-On Lawn Mowers for the  Northport VA Medical Center.",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "3750--rfq:",
+            "commercial",
+            "grade",
+            "ride-on",
+            "mowers"
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T16:00:00-04:00"
+        },
+        {
+          "title": "CIRCUIT CARD ASSEMB",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "circuit",
+            "assemb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T14:00:00-04:00"
+        },
+        {
+          "title": "80-Day Tanker Time Charter",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "80-day",
+            "tanker",
+            "charter"
+          ],
+          "agency": "",
+          "deadline": null
+        }
+      ],
       "jobPostings": [
         {
-          "title": "Manufacturing Equipment Operator - Power Distribution Systems",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
+          "title": "Industrial Maintenance/Cyclotron Service Technician - MINNEAPOLIS",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-12"
         }
       ],
       "historicalBids": [
@@ -1651,7 +2332,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 1 active job postings.",
+      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids. 1 active job postings.",
       "executiveMoves": [],
       "conferences": []
     }
