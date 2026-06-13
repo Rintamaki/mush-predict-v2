@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12",
-  "last_updated_display": "June 12, 2026",
+  "last_updated": "2026-06-13",
+  "last_updated_display": "June 13, 2026",
   "data_sources_active": [
     "USASpending.gov",
     "SAM.gov",
@@ -250,244 +250,131 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "STEM,FLUID VALVE",
+          "title": "61--SWCS BATTERY SET",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "61--swcs",
+            "battery"
           ],
           "agency": "",
-          "deadline": "2026-06-23T16:30:00-04:00"
+          "deadline": "2026-07-28T00:00:00-04:00"
         },
         {
-          "title": "PACS, North Chicago VAMC, Award Notice",
-          "state": "IL",
+          "title": "59--CIRCUIT BREAKER, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "pacs,",
-            "north",
-            "chicago",
-            "vamc,",
-            "award"
+            "59--circuit",
+            "breaker,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14T00:00:00-04:00"
+        },
+        {
+          "title": "NMCSD LifePulse High-Frequency Jet Ventilation Ventilators Equipment",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "nmcsd",
+            "lifepulse",
+            "high-frequency",
+            "ventilation",
+            "ventilators"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "y1na--con",
-            "653-23-100",
-            "remove",
-            "replace",
-            "underground"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T12:00:00-07:00"
-        },
-        {
-          "title": "NSN 4730012539953",
+          "title": "66--Analytical  Balance",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "4730012539953"
+            "66--analytical",
+            "balance"
           ],
           "agency": "",
-          "deadline": "2026-06-29T16:00:00-04:00"
+          "deadline": "2026-06-19T12:00:00-04:00"
         },
         {
-          "title": "D--FODO 351117 Project Team Software ",
+          "title": "59--6 FOOT INTERFACE CA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "d--fodo",
-            "351117",
-            "project",
-            "software"
+            "59--6",
+            "interface"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-01T00:00:00-04:00"
         },
         {
-          "title": "59--PLUG,TELEPHONE",
+          "title": "99--FITTING ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--plug,telephone"
+            "99--fitting",
+            "assembly"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-29T00:00:00-04:00"
         },
         {
-          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
-          "state": "MD",
+          "title": "GENERAL MISSION (GM) DISPATCH SUPPORT SERVICES",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "united",
-            "states",
-            "naval",
-            "academy-",
-            "mooring"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T10:00:00-04:00"
-        },
-        {
-          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
-          "state": "ID",
-          "segment": "Other",
-          "keywords": [
-            "aviator",
-            "breathing",
-            "oxygen",
-            "gowen",
-            "field,"
-          ],
-          "agency": "",
-          "deadline": "2026-06-29T15:00:00-05:00"
-        },
-        {
-          "title": "Innovation & Efficiency Support Services",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "innovation",
-            "efficiency",
+            "general",
+            "mission",
+            "dispatch",
             "support",
             "services"
           ],
           "agency": "",
-          "deadline": "2026-06-16T15:00:00-04:00"
+          "deadline": null
         },
         {
-          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
-          "state": "VA",
+          "title": "V112-- CTX Laundry Transportation Services",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "uh-60",
-            "cylinder,",
-            "hydraulic"
+            "v112--",
+            "laundry",
+            "transportation",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "Wiring Harness",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "wiring",
+            "harness"
+          ],
+          "agency": "",
+          "deadline": "2026-06-19T10:00:00-04:00"
+        },
+        {
+          "title": "Special Notice of Intent to Award Brand Name Mako",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "special",
+            "notice",
+            "intent",
+            "award",
+            "brand"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T09:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Install Technician - Commercial Security Alarm (Job number: 1509)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "3rd shift Production Control Kitter/Forklift Driver SA-Gilbert",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Manufacturing Technician - Silent-Aire",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Electrician 1st Year - Panel Shop - SA-Gilbert",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "1st shift Material Handler/Forklift Driver Silent-Aire",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Sr. Process Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Construction Project Manager - HVAC",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Product Tech Support Eng II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Data Center Mech Svc Tech Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Technical QA Lead",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Fire Repair Scheduling Coordinator II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Fire Sprinkler Installer",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Fire Detection Systems Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Security Commercial Offerings Service Tech",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Experienced Fire Sprinkler Service Technician",
+          "title": "Experienced Fire Alarm Inspector",
           "state": "PA",
           "segment": "Schools",
           "tags": [
@@ -495,24 +382,82 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
         },
         {
-          "title": "Process Engineering Manager, Delivery",
+          "title": "Experienced Security Service Technician (union)",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Sales Intern",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Distribution Center Supervisor",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Electronic Security System Administrator",
+          "state": "FL",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Security Project Manager",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Wrapper/ Skidder, 1st Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
         },
         {
-          "title": "Fire Detection Inspector",
+          "title": "Material Coordinator, 2nd shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
         },
         {
-          "title": "Install Sprinkler Sales Representative",
+          "title": "Commercial Account Sales Exec-Security",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Life Safety Service Sales Rep-Fire Sprinkler",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -520,7 +465,68 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Assembler Op - 1st Shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Fire Sprinkler Service Technician",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Panel Insulator, 1st Shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Life Safety Service Sales Executive-Fire Alarm",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Controls Systems Technician",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Owner Account Sales Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
         },
         {
           "title": "Client Resource Coordinator 2",
@@ -531,32 +537,54 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
         },
         {
-          "title": "Product Tech Support Eng II",
+          "title": "Material Handler (Conversion)",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Experienced Fire Alarm Inspector",
-          "state": "NY",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
         },
         {
-          "title": "Controls Service Technician",
+          "title": "Machine Operator II, 2nd shift",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Fire Service Sales Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Owner Account Sales Representative",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-12"
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Fire Alarm Inspector",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
         }
       ],
       "historicalBids": [
@@ -586,7 +614,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 22 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 23 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -752,13 +780,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTERkN3JWdWlETFp1aW84ekp6NEFNM2JwUGpVMTZmR2lWUTNBZkFDbU1vYTI5LXQwVGx2Uk1QX1diRk9qRnIyeHhmYS1oMjlRdlY5ZzlKWTdPRmtwN080M1U5Ql9halRnRHk0d29ObUVHY2RNRVgyU18yaTVnanN1SThKRkh0U0ZSNENMQnFnS1hhRVlVY0llZXpHemExU0lGQmdHY1N6ci10TV9LRWNBTkxjMHY1M2FmeD",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTERkN3JWdWlETFp1aW84ekp6NEFNM2JwUGpVMTZmR2lWUTNBZkFDbU1vYTI5LXQwVGx2Uk1QX1diRk9qRnIyeHhmYS1oMjlRdlY5ZzlKWTdPRmtwN080M1U5Ql9halRnRHk0d29ObUVHY2RNRVgyU18yaTVnanN1SThKRkh0U0ZSNENMQnFnS1hhRVlVY0llZXpHemExU0lGQmdHY1N6ci10TV9LRWNBTkxjMHY1M2FmeDhCOFVjTERYNHpOVnVLNVF4NnpaUQ?oc=5",
           "published": "Wed, 22 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "MWH SOLV Energy CEO upbeat on renewable energy momentum, raises full-year outlook despite market headwinds. - Earnings Surprise Report - newsline.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDZITVJBVWZ4eWtzYzZucVpzS3dJa00wVHpGT1NsN0lRNXo5cFZCVWVzbUprVHd2UnA5MEV4WGpNYXcyTUhSVkdRRU1uTGZFZnZ3TFJkM2JBaGQ5bV9ab3lKdVVDUi1wSXRzdE96MGI2bXhYbk9qZWxDZUtaZlU1OHQzdmVsczEzZVhUWTFJbUdXUVYwdlV6Uzh0Yk95QnY2WUZNb3ZHcDVHZFo2WEpkV1NKYU51U003N1",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDZITVJBVWZ4eWtzYzZucVpzS3dJa00wVHpGT1NsN0lRNXo5cFZCVWVzbUprVHd2UnA5MEV4WGpNYXcyTUhSVkdRRU1uTGZFZnZ3TFJkM2JBaGQ5bV9ab3lKdVVDUi1wSXRzdE96MGI2bXhYbk9qZWxDZUtaZlU1OHQzdmVsczEzZVhUWTFJbUdXUVYwdlV6Uzh0Yk95QnY2WUZNb3ZHcDVHZFo2WEpkV1NKYU51U003N1lBRkRjbXpWRTF2cm9ISDNCOGFqTmZONy1VaHFpSlhpVU9B?oc=5",
-          "published": "Fri, 08 May 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -767,201 +788,247 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "STEM,FLUID VALVE",
+          "title": "61--SWCS BATTERY SET",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "61--swcs",
+            "battery"
           ],
           "agency": "",
-          "deadline": "2026-06-23T16:30:00-04:00"
+          "deadline": "2026-07-28T00:00:00-04:00"
         },
         {
-          "title": "PACS, North Chicago VAMC, Award Notice",
-          "state": "IL",
+          "title": "59--CIRCUIT BREAKER, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "pacs,",
-            "north",
-            "chicago",
-            "vamc,",
-            "award"
+            "59--circuit",
+            "breaker,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14T00:00:00-04:00"
+        },
+        {
+          "title": "NMCSD LifePulse High-Frequency Jet Ventilation Ventilators Equipment",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "nmcsd",
+            "lifepulse",
+            "high-frequency",
+            "ventilation",
+            "ventilators"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "y1na--con",
-            "653-23-100",
-            "remove",
-            "replace",
-            "underground"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T12:00:00-07:00"
-        },
-        {
-          "title": "NSN 4730012539953",
+          "title": "66--Analytical  Balance",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "4730012539953"
+            "66--analytical",
+            "balance"
           ],
           "agency": "",
-          "deadline": "2026-06-29T16:00:00-04:00"
+          "deadline": "2026-06-19T12:00:00-04:00"
         },
         {
-          "title": "D--FODO 351117 Project Team Software ",
+          "title": "59--6 FOOT INTERFACE CA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "d--fodo",
-            "351117",
-            "project",
-            "software"
+            "59--6",
+            "interface"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-01T00:00:00-04:00"
         },
         {
-          "title": "59--PLUG,TELEPHONE",
+          "title": "99--FITTING ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--plug,telephone"
+            "99--fitting",
+            "assembly"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-29T00:00:00-04:00"
         },
         {
-          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
-          "state": "MD",
+          "title": "GENERAL MISSION (GM) DISPATCH SUPPORT SERVICES",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "united",
-            "states",
-            "naval",
-            "academy-",
-            "mooring"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T10:00:00-04:00"
-        },
-        {
-          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
-          "state": "ID",
-          "segment": "Other",
-          "keywords": [
-            "aviator",
-            "breathing",
-            "oxygen",
-            "gowen",
-            "field,"
-          ],
-          "agency": "",
-          "deadline": "2026-06-29T15:00:00-05:00"
-        },
-        {
-          "title": "Innovation & Efficiency Support Services",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "innovation",
-            "efficiency",
+            "general",
+            "mission",
+            "dispatch",
             "support",
             "services"
           ],
           "agency": "",
-          "deadline": "2026-06-16T15:00:00-04:00"
+          "deadline": null
         },
         {
-          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
-          "state": "VA",
+          "title": "V112-- CTX Laundry Transportation Services",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "uh-60",
-            "cylinder,",
-            "hydraulic"
+            "v112--",
+            "laundry",
+            "transportation",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "Wiring Harness",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "wiring",
+            "harness"
+          ],
+          "agency": "",
+          "deadline": "2026-06-19T10:00:00-04:00"
+        },
+        {
+          "title": "Special Notice of Intent to Award Brand Name Mako",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "special",
+            "notice",
+            "intent",
+            "award",
+            "brand"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T09:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Category Manager - Electrical Components",
+          "title": "Commercial HVAC Service Technician",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Controls Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Commercial HVAC Service Technician - Ft. Madison/Burlington, IA",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Service Technician - Kearney, NE",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Turnkey Install Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Senior Manufacturing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Technician-Rental Services",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Service Technician - Black Hawk, SD",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Sr. HVAC Technician - Fort. Dodge, IA",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Sr. HVAC Field Technician - Albuquerque, NM",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Senior Controls Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Service Technician - Lincoln, NE",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Commercial HVAC Service Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "HVAC Service Technician - Sioux Falls, SD",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "2026 Accelerated Development Program - Accounting and Finance",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "International Logistics Operations Specialist",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Data Governance Analyst",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Commercialization Leader- Smart Services Products",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Data Governance Analyst",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Regional Sales Manager - Bus HVAC - Remote in AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "SBU Material Control Process Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-13"
         }
       ],
       "historicalBids": [
@@ -994,7 +1061,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 10 active job postings.",
+      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 17 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -1125,17 +1192,10 @@
         },
         {
           "source": "google_news",
-          "title": "Ameresco completes two solar projects for Maryland school district - Solar Power World",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5\" t",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5",
-          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Ameresco SUNEL Energy SA Awarded 83 MW Solar Project in Kozani, Greece to Drive Energy Decarbonization - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3E4cDdySXNfT1E3TVhXZzBsbW96UHdNMGo1OXlDSTB5aVhrWVBDemttQ1Eza2J6REt4aGdfekJnaE9relNaVDItaVpzM00wY1pkOFFxbHYzUEpCSFRMa2VnU0RlckZGOUxzX21RSXdWVmhFQW02UzBaVUhYdmV5bW83a3BENXBxUnVQdVRNZXpCNElia29JdWlvVGNnZU8xaVBrZHB0bnZucWY3SGMwYkZfclA0aS1KZF",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3E4cDdySXNfT1E3TVhXZzBsbW96UHdNMGo1OXlDSTB5aVhrWVBDemttQ1Eza2J6REt4aGdfekJnaE9relNaVDItaVpzM00wY1pkOFFxbHYzUEpCSFRMa2VnU0RlckZGOUxzX21RSXdWVmhFQW02UzBaVUhYdmV5bW83a3BENXBxUnVQdVRNZXpCNElia29JdWlvVGNnZU8xaVBrZHB0bnZucWY3SGMwYkZfclA0aS1KZF9OSVFVaVhjWnY1bHBlVE1aM2tZZnQzYS1HUVVLV0tCQlkxMjgyb1J6N0VOaHlCOEh3TGNYRQ?oc=5",
-          "published": "Tue, 14 Apr 2026 07:00:00 GMT"
+          "title": "Two Montgomery County schools switch on solar in $23M energy plan - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPankza2FZR25mdjZEeXlUU2pCY3lOME5nUU80dTRVT2ktYS1RSk5xdkh4Z1lDS2pySGVvekxSZGhUOEpCVk40V1hibnFzVUVRUmk1VlFtNDlWNWdrVEpqd1dSV0pLNjhnLWZZcnhDNWRvdUZMTEI4UFBGdDNKYi16UExPdlcxTnlEMG5rZ1NqV0c2cThLSklDRjNhR1g2TXRZemo0QUEzNGhleGp3UzJzbjFHU1FuWERBTW",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPankza2FZR25mdjZEeXlUU2pCY3lOME5nUU80dTRVT2ktYS1RSk5xdkh4Z1lDS2pySGVvekxSZGhUOEpCVk40V1hibnFzVUVRUmk1VlFtNDlWNWdrVEpqd1dSV0pLNjhnLWZZcnhDNWRvdUZMTEI4UFBGdDNKYi16UExPdlcxTnlEMG5rZ1NqV0c2cThLSklDRjNhR1g2TXRZemo0QUEzNGhleGp3UzJzbjFHU1FuWERBTWsw?oc=5",
+          "published": "Tue, 28 Apr 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1144,132 +1204,140 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "STEM,FLUID VALVE",
+          "title": "61--SWCS BATTERY SET",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "61--swcs",
+            "battery"
           ],
           "agency": "",
-          "deadline": "2026-06-23T16:30:00-04:00"
+          "deadline": "2026-07-28T00:00:00-04:00"
         },
         {
-          "title": "PACS, North Chicago VAMC, Award Notice",
-          "state": "IL",
+          "title": "59--CIRCUIT BREAKER, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "pacs,",
-            "north",
-            "chicago",
-            "vamc,",
-            "award"
+            "59--circuit",
+            "breaker,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14T00:00:00-04:00"
+        },
+        {
+          "title": "NMCSD LifePulse High-Frequency Jet Ventilation Ventilators Equipment",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "nmcsd",
+            "lifepulse",
+            "high-frequency",
+            "ventilation",
+            "ventilators"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "y1na--con",
-            "653-23-100",
-            "remove",
-            "replace",
-            "underground"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T12:00:00-07:00"
-        },
-        {
-          "title": "NSN 4730012539953",
+          "title": "66--Analytical  Balance",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "4730012539953"
+            "66--analytical",
+            "balance"
           ],
           "agency": "",
-          "deadline": "2026-06-29T16:00:00-04:00"
+          "deadline": "2026-06-19T12:00:00-04:00"
         },
         {
-          "title": "D--FODO 351117 Project Team Software ",
+          "title": "59--6 FOOT INTERFACE CA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "d--fodo",
-            "351117",
-            "project",
-            "software"
+            "59--6",
+            "interface"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-01T00:00:00-04:00"
         },
         {
-          "title": "59--PLUG,TELEPHONE",
+          "title": "99--FITTING ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--plug,telephone"
+            "99--fitting",
+            "assembly"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-29T00:00:00-04:00"
         },
         {
-          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
-          "state": "MD",
+          "title": "GENERAL MISSION (GM) DISPATCH SUPPORT SERVICES",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "united",
-            "states",
-            "naval",
-            "academy-",
-            "mooring"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T10:00:00-04:00"
-        },
-        {
-          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
-          "state": "ID",
-          "segment": "Other",
-          "keywords": [
-            "aviator",
-            "breathing",
-            "oxygen",
-            "gowen",
-            "field,"
-          ],
-          "agency": "",
-          "deadline": "2026-06-29T15:00:00-05:00"
-        },
-        {
-          "title": "Innovation & Efficiency Support Services",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "innovation",
-            "efficiency",
+            "general",
+            "mission",
+            "dispatch",
             "support",
             "services"
           ],
           "agency": "",
-          "deadline": "2026-06-16T15:00:00-04:00"
+          "deadline": null
         },
         {
-          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
-          "state": "VA",
+          "title": "V112-- CTX Laundry Transportation Services",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "uh-60",
-            "cylinder,",
-            "hydraulic"
+            "v112--",
+            "laundry",
+            "transportation",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "Wiring Harness",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "wiring",
+            "harness"
+          ],
+          "agency": "",
+          "deadline": "2026-06-19T10:00:00-04:00"
+        },
+        {
+          "title": "Special Notice of Intent to Award Brand Name Mako",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "special",
+            "notice",
+            "intent",
+            "award",
+            "brand"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T09:00:00-07:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Energy Reliability and Compliance Associate",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-13"
+        },
         {
           "title": "Quality Control Manager",
           "state": "",
@@ -1447,16 +1515,6 @@
           "postedDate": "2026-06-05"
         },
         {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-06-02"
-        },
-        {
           "title": "Construction Estimator/Preconstruction Manager",
           "state": "",
           "segment": "Schools",
@@ -1469,6 +1527,17 @@
         },
         {
           "title": "Facilities Manager - Boiler and Chiller Plant",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-30"
+        },
+        {
+          "title": "Administrative Assistant",
           "state": "WA",
           "segment": "Schools",
           "tags": [
@@ -1587,17 +1656,6 @@
             "University"
           ],
           "postedDate": "2026-05-16"
-        },
-        {
-          "title": "Journeyman Plumber",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-15"
         }
       ],
       "historicalBids": [
@@ -1685,226 +1743,209 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "STEM,FLUID VALVE",
+          "title": "61--SWCS BATTERY SET",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "61--swcs",
+            "battery"
           ],
           "agency": "",
-          "deadline": "2026-06-23T16:30:00-04:00"
+          "deadline": "2026-07-28T00:00:00-04:00"
         },
         {
-          "title": "PACS, North Chicago VAMC, Award Notice",
-          "state": "IL",
+          "title": "59--CIRCUIT BREAKER, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "pacs,",
-            "north",
-            "chicago",
-            "vamc,",
-            "award"
+            "59--circuit",
+            "breaker,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14T00:00:00-04:00"
+        },
+        {
+          "title": "NMCSD LifePulse High-Frequency Jet Ventilation Ventilators Equipment",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "nmcsd",
+            "lifepulse",
+            "high-frequency",
+            "ventilation",
+            "ventilators"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "y1na--con",
-            "653-23-100",
-            "remove",
-            "replace",
-            "underground"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T12:00:00-07:00"
-        },
-        {
-          "title": "NSN 4730012539953",
+          "title": "66--Analytical  Balance",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "4730012539953"
+            "66--analytical",
+            "balance"
           ],
           "agency": "",
-          "deadline": "2026-06-29T16:00:00-04:00"
+          "deadline": "2026-06-19T12:00:00-04:00"
         },
         {
-          "title": "D--FODO 351117 Project Team Software ",
+          "title": "59--6 FOOT INTERFACE CA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "d--fodo",
-            "351117",
-            "project",
-            "software"
+            "59--6",
+            "interface"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-01T00:00:00-04:00"
         },
         {
-          "title": "59--PLUG,TELEPHONE",
+          "title": "99--FITTING ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--plug,telephone"
+            "99--fitting",
+            "assembly"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-29T00:00:00-04:00"
         },
         {
-          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
-          "state": "MD",
+          "title": "GENERAL MISSION (GM) DISPATCH SUPPORT SERVICES",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "united",
-            "states",
-            "naval",
-            "academy-",
-            "mooring"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T10:00:00-04:00"
-        },
-        {
-          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
-          "state": "ID",
-          "segment": "Other",
-          "keywords": [
-            "aviator",
-            "breathing",
-            "oxygen",
-            "gowen",
-            "field,"
-          ],
-          "agency": "",
-          "deadline": "2026-06-29T15:00:00-05:00"
-        },
-        {
-          "title": "Innovation & Efficiency Support Services",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "innovation",
-            "efficiency",
+            "general",
+            "mission",
+            "dispatch",
             "support",
             "services"
           ],
           "agency": "",
-          "deadline": "2026-06-16T15:00:00-04:00"
+          "deadline": null
         },
         {
-          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
-          "state": "VA",
+          "title": "V112-- CTX Laundry Transportation Services",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "uh-60",
-            "cylinder,",
-            "hydraulic"
+            "v112--",
+            "laundry",
+            "transportation",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "Wiring Harness",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "wiring",
+            "harness"
+          ],
+          "agency": "",
+          "deadline": "2026-06-19T10:00:00-04:00"
+        },
+        {
+          "title": "Special Notice of Intent to Award Brand Name Mako",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "special",
+            "notice",
+            "intent",
+            "award",
+            "brand"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T09:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Engineering Liasion",
+          "title": "Sr. Power Electronics Control Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "EPC & Strategic Accounts - Business Development Leader",
           "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-12"
         },
         {
-          "title": "Fabrication I - Weekend shift",
+          "title": "Warehouse Multi-Skilled Operator",
           "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "University"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Fabrication Associate II - Weekend shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Lead Solution Architect",
-          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "OEM Business Development Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Safety & Environment Manager",
+          "title": "BMS Project Manager",
           "state": "NC",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Service Representative - ASCO - Tallahassee",
-          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "Life Sciences Business Development Manager",
-          "state": "NJ",
+          "title": "Systems Sales Representative",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "BAS Project Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Microgrid Project Application Engineer",
+          "title": "Material Associate - Forklift",
           "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools"
           ],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         },
         {
-          "title": "Material Associate II",
+          "title": "Senior Application Engineer II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "IT Product Owner",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "EPC & Strategic Accounts - Business Development Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Production Associate II",
           "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools"
           ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Industrial Process Automation - Client Sales Executive",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-11"
+          "postedDate": "2026-06-12"
         }
       ],
       "historicalBids": [
@@ -1922,7 +1963,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 12 active job postings.",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 11 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -2113,132 +2154,165 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "STEM,FLUID VALVE",
+          "title": "61--SWCS BATTERY SET",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "61--swcs",
+            "battery"
           ],
           "agency": "",
-          "deadline": "2026-06-23T16:30:00-04:00"
+          "deadline": "2026-07-28T00:00:00-04:00"
         },
         {
-          "title": "PACS, North Chicago VAMC, Award Notice",
-          "state": "IL",
+          "title": "59--CIRCUIT BREAKER, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "pacs,",
-            "north",
-            "chicago",
-            "vamc,",
-            "award"
+            "59--circuit",
+            "breaker,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14T00:00:00-04:00"
+        },
+        {
+          "title": "NMCSD LifePulse High-Frequency Jet Ventilation Ventilators Equipment",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "nmcsd",
+            "lifepulse",
+            "high-frequency",
+            "ventilation",
+            "ventilators"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "Y1NA--CON | NRM 653-23-100 | Remove Replace Underground Fuel Tanks",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "y1na--con",
-            "653-23-100",
-            "remove",
-            "replace",
-            "underground"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T12:00:00-07:00"
-        },
-        {
-          "title": "NSN 4730012539953",
+          "title": "66--Analytical  Balance",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "4730012539953"
+            "66--analytical",
+            "balance"
           ],
           "agency": "",
-          "deadline": "2026-06-29T16:00:00-04:00"
+          "deadline": "2026-06-19T12:00:00-04:00"
         },
         {
-          "title": "D--FODO 351117 Project Team Software ",
+          "title": "59--6 FOOT INTERFACE CA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "d--fodo",
-            "351117",
-            "project",
-            "software"
+            "59--6",
+            "interface"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-01T00:00:00-04:00"
         },
         {
-          "title": "59--PLUG,TELEPHONE",
+          "title": "99--FITTING ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--plug,telephone"
+            "99--fitting",
+            "assembly"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-29T00:00:00-04:00"
         },
         {
-          "title": "United States Naval Academy- Mooring Lines and Towing Bridle Assembly",
-          "state": "MD",
+          "title": "GENERAL MISSION (GM) DISPATCH SUPPORT SERVICES",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "united",
-            "states",
-            "naval",
-            "academy-",
-            "mooring"
-          ],
-          "agency": "",
-          "deadline": "2026-06-17T10:00:00-04:00"
-        },
-        {
-          "title": "Aviator Breathing Oxygen for Gowen Field, ID",
-          "state": "ID",
-          "segment": "Other",
-          "keywords": [
-            "aviator",
-            "breathing",
-            "oxygen",
-            "gowen",
-            "field,"
-          ],
-          "agency": "",
-          "deadline": "2026-06-29T15:00:00-05:00"
-        },
-        {
-          "title": "Innovation & Efficiency Support Services",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "innovation",
-            "efficiency",
+            "general",
+            "mission",
+            "dispatch",
             "support",
             "services"
           ],
           "agency": "",
-          "deadline": "2026-06-16T15:00:00-04:00"
+          "deadline": null
         },
         {
-          "title": "40A | UH-60 | CYLINDER, HYDRAULIC",
-          "state": "VA",
+          "title": "V112-- CTX Laundry Transportation Services",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "uh-60",
-            "cylinder,",
-            "hydraulic"
+            "v112--",
+            "laundry",
+            "transportation",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "Wiring Harness",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "wiring",
+            "harness"
+          ],
+          "agency": "",
+          "deadline": "2026-06-19T10:00:00-04:00"
+        },
+        {
+          "title": "Special Notice of Intent to Award Brand Name Mako",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "special",
+            "notice",
+            "intent",
+            "award",
+            "brand"
+          ],
+          "agency": "",
+          "deadline": "2026-06-29T09:00:00-07:00"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "NDT Level III Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Field Blader/Welder - Travel/Project Based",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Quality Assurance Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Non-Destructive Test (NDT) Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        },
+        {
+          "title": "Welder - Submarine Building",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-13"
+        }
+      ],
       "historicalBids": [
         {
           "segment": "Healthcare"
@@ -2293,7 +2367,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids.",
+      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids. 5 active job postings.",
       "executiveMoves": [],
       "conferences": []
     }
