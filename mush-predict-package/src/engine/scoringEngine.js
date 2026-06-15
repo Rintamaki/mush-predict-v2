@@ -1,3 +1,9 @@
+import { computeWinStats, getRealWinRate, getStateWinRate } from './rfpDatabase'
+let RFP_STATS = {}
+
+export function loadRFPStats(rfpRecords) {
+  RFP_STATS = computeWinStats(rfpRecords || [])
+}
 /**
  * scoringEngine.js
  *
@@ -306,17 +312,23 @@ function computeStrategicMomentum(competitor, opportunity) {
 
 // ── HISTORICAL WIN RATE ───────────────────────────────────────────────────────
 function computeHistoricalWinRate(competitor, opportunity) {
+  // 1. Try REAL win rate from logged RFP outcomes first
+  const realRate = getRealWinRate(RFP_STATS, competitor.name, opportunity.segment)
+  if (realRate !== null) {
+    return realRate
+  }
+
+  // 2. Fall back to estimate from federal contract data
   const wins = competitor.contractAwards ?? []
   const bids = competitor.historicalBids ?? []
   const segBids = bids.filter(b => b.segment === opportunity.segment)
   const segWins = wins.filter(w => w.segment === opportunity.segment)
 
   if (segBids.length < 3) {
-    // Not enough data — use overall win rate or default
     if (bids.length >= 5) {
       return wins.length / bids.length
     }
-    return 0.32  // Industry-average ESCO win rate (rough estimate)
+    return 0.32
   }
   return Math.min(0.85, segWins.length / segBids.length)
 }
