@@ -7,13 +7,25 @@ import PredictionCard     from './components/PredictionCard'
 import StrategicForecast  from './components/StrategicForecast'
 import SignalStream       from './components/SignalStream'
 import { useCompetitorData } from './hooks/useCompetitorData'
+import RFPDatabase from './components/RFPDatabase'
+import { loadRFPStats } from './engine/scoringEngine'
 import { rankCompetitorsForOpportunity } from './engine/scoringEngine'
+useEffect(() => {
+    fetch('./data/rfp_history.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : { rfps: [] })
+      .then(data => {
+        setRfpRecords(data.rfps || [])
+        loadRFPStats(data.rfps || [])
+      })
+      .catch(() => loadRFPStats([]))
+  }, [])
 
 export default function App() {
   const { competitors, sources, lastUpdated, loading, error } = useCompetitorData()
   const [activeTab, setActiveTab]   = useState('predict')
   const [predictions, setPredictions] = useState(null)
   const [scoredOpp, setScoredOpp]     = useState(null)
+  const [rfpRecords, setRfpRecords] = useState([])
 
   function handleScore(opportunity) {
     const ranked = rankCompetitorsForOpportunity(competitors, opportunity)
@@ -97,7 +109,16 @@ export default function App() {
           </>
         )}
       </main>
-
+{activeTab === 'rfpdb' && (
+  <RFPDatabase
+    existingRecords={rfpRecords}
+    onRecordsChange={(updated) => {
+      setRfpRecords(updated)
+      loadRFPStats(updated)
+    }}
+  />
+)}
+      
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
         <p className="font-mono text-[10px] uppercase tracking-widest text-white/25">
           McKinstry Predict · Phase 1 · {competitors.length} competitors · {sources.length} data sources · Predictions are probabilistic, not guarantees
