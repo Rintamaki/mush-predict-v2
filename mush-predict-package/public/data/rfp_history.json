@@ -1,0 +1,90 @@
+{
+  "last_updated": "2026-06-12",
+  "record_count": 6,
+  "rfps": [
+    {
+      "id": "rfp_seed_001",
+      "title": "Plano ISD district-wide HVAC modernization",
+      "agency": "Plano Independent School District",
+      "state": "TX",
+      "segment": "Schools",
+      "value": 4200000,
+      "winner": "Johnson Controls",
+      "losingBidders": ["Trane Technologies", "McKinstry"],
+      "awardDate": "2026-04-12",
+      "sourceFile": "seed",
+      "extractionMode": "manual",
+      "confidence": "high"
+    },
+    {
+      "id": "rfp_seed_002",
+      "title": "Dallas ISD energy performance contract",
+      "agency": "Dallas Independent School District",
+      "state": "TX",
+      "segment": "Schools",
+      "value": 5600000,
+      "winner": "Trane Technologies",
+      "losingBidders": ["Johnson Controls", "Schneider Electric"],
+      "awardDate": "2026-05-05",
+      "sourceFile": "seed",
+      "extractionMode": "manual",
+      "confidence": "high"
+    },
+    {
+      "id": "rfp_seed_003",
+      "title": "City of San Antonio municipal energy efficiency",
+      "agency": "City of San Antonio",
+      "state": "TX",
+      "segment": "Municipal",
+      "value": 1800000,
+      "winner": "Ameresco",
+      "losingBidders": ["Schneider Electric", "Siemens Smart Infrastructure"],
+      "awardDate": "2025-10-12",
+      "sourceFile": "seed",
+      "extractionMode": "manual",
+      "confidence": "high"
+    },
+    {
+      "id": "rfp_seed_004",
+      "title": "Texas A&M campus BAS modernization",
+      "agency": "Texas A&M University",
+      "state": "TX",
+      "segment": "University",
+      "value": 3800000,
+      "winner": "Siemens Smart Infrastructure",
+      "losingBidders": ["Schneider Electric", "Johnson Controls", "McKinstry"],
+      "awardDate": "2026-01-30",
+      "sourceFile": "seed",
+      "extractionMode": "manual",
+      "confidence": "high"
+    },
+    {
+      "id": "rfp_seed_005",
+      "title": "Baylor Scott & White facility energy upgrade",
+      "agency": "Baylor Scott & White Health",
+      "state": "TX",
+      "segment": "Healthcare",
+      "value": 2100000,
+      "winner": "Siemens Smart Infrastructure",
+      "losingBidders": ["Johnson Controls", "Trane Technologies"],
+      "awardDate": "2025-08-10",
+      "sourceFile": "seed",
+      "extractionMode": "manual",
+      "confidence": "high"
+    },
+    {
+      "id": "rfp_seed_006",
+      "title": "Cypress-Fairbanks ISD HVAC and controls",
+      "agency": "Cypress-Fairbanks ISD",
+      "state": "TX",
+      "segment": "Schools",
+      "value": 2200000,
+      "winner": "Trane Technologies",
+      "losingBidders": ["Johnson Controls", "McKinstry", "NORESCO"],
+      "awardDate": "2026-01-18",
+      "sourceFile": "seed",
+      "extractionMode": "manual",
+      "confidence": "high"
+    }
+  ]
+}
