@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15",
-  "last_updated_display": "June 15, 2026",
+  "last_updated": "2026-06-16",
+  "last_updated_display": "June 16, 2026",
   "data_sources_active": [
     "USASpending.gov",
     "SAM.gov",
@@ -16,7 +16,22 @@
     "Construction feeds"
   ],
   "bond_opportunities": [],
-  "construction_opportunities": [],
+  "construction_opportunities": [
+    {
+      "id": "construction-46256",
+      "title": "Manhattan, AECOM Hunt to manage $1.45B University of Florida stadium renovation",
+      "agency": "Construction Dive",
+      "type": "Construction Project",
+      "posted": "Tue, 16 Jun 2026 14:31:00 -0400",
+      "deadline": "",
+      "state": "",
+      "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/bZH2y6fuy6o31um_Q6FmVbD9a1o9qsi-oM02JkSXvVs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EYVN3YW1wLndlYnA=.webp\" /></div></figure><p>The team will partner on the renovation to expand concourses, upgrade spaces and improve acce",
+      "url": "https://www.constructiondive.com/news/manhattan-aecom-hunt-manage-university-florida-stadium/823063/",
+      "source": "Construction Dive",
+      "keyword_hit": "construction",
+      "segment": "University"
+    }
+  ],
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -250,231 +265,133 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "Tescom Components",
-          "state": "MS",
+          "title": "PRARNG Medical Professional Support Services (Administrative Provider and Behavioral Health Specialist Support)",
+          "state": "PR",
           "segment": "Other",
           "keywords": [
-            "tescom",
-            "components"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T07:00:00-05:00"
-        },
-        {
-          "title": "53--O-RING SET",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--o-ring"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Chilled Water Pumps",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "chilled",
-            "water",
-            "pumps"
-          ],
-          "agency": "",
-          "deadline": "2026-06-30T10:00:00-04:00"
-        },
-        {
-          "title": "48--VALVE,SOLENOID",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "48--valve,solenoid"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Medical Linen and Laundry Services / Wright Patterson AFB",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
+            "prarng",
             "medical",
-            "linen",
-            "laundry",
-            "services",
-            "wright"
+            "professional",
+            "support",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-08T09:00:00-04:00"
+          "deadline": "2026-06-30T13:00:00-04:00"
         },
         {
-          "title": "Solicitation: Swinomish Eelgrass Survey w/ Amendment 0001",
-          "state": "WA",
-          "segment": "Other",
-          "keywords": [
-            "solicitation:",
-            "swinomish",
-            "eelgrass",
-            "survey",
-            "amendment"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T12:00:00-07:00"
-        },
-        {
-          "title": "S222--First Receiver Patient Decontamination Program",
+          "title": "16--BOOSTER ASSEMBLY,AI, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "s222--first",
-            "receiver",
-            "patient",
-            "decontamination",
-            "program"
+            "16--booster",
+            "assembly,ai,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": ""
+          "deadline": "2026-07-16T16:30:00-04:00"
         },
         {
-          "title": "62--LAMP,LIGHT EMITTING",
+          "title": "48--VALVE,REGULATING,FL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--lamp,light",
-            "emitting"
+            "48--valve,regulating,fl"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "28--VALVE,GOVERNOR",
+          "title": "Advanced Management Program Support Services",
+          "state": "RI",
+          "segment": "Other",
+          "keywords": [
+            "advanced",
+            "management",
+            "program",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-25T11:00:00-04:00"
+        },
+        {
+          "title": "LTUY202005 Construct Vehicle Operations Covered Parking",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "ltuy202005",
+            "construct",
+            "vehicle",
+            "operations",
+            "covered"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T10:00:00-05:00"
+        },
+        {
+          "title": "16--REGULATOR,OXYGEN,DI",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "28--valve,governor"
+            "16--regulator,oxygen,di"
           ],
           "agency": "",
-          "deadline": "2026-06-26"
+          "deadline": "2026-07-16T14:00:00-04:00"
         },
         {
-          "title": "BRAND NAME MANDATORY BOHN MAGAZINE RECONDITIONING COMPRESSORS",
-          "state": "MD",
+          "title": "F--NE - CRESCENT LAKE NWR Hazardous Materials Removal",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "brand",
-            "mandatory",
-            "magazine",
-            "reconditioning",
-            "compressors"
+            "f--ne",
+            "crescent",
+            "hazardous",
+            "materials",
+            "removal"
           ],
           "agency": "",
-          "deadline": "2026-06-30T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "ID Scanners",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "scanners"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T14:00:00-07:00"
+        },
+        {
+          "title": "Gym Ceiling and Light Project",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "ceiling",
+            "light",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-06-18T16:00:00-04:00"
+        },
+        {
+          "title": "J045--BOILER REPAIR -  Repair Boiler 2 in Bldg. 20",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "j045--boiler",
+            "repair",
+            "repair",
+            "boiler",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T10:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Truck Based Customer Support Coordinator",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Sprinkler Inspector",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Truck Based Service Manager",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Controls System Engineer II",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Truck Based Controls Technician (union)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Sprinkler Service Technician (union)",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Experienced Fire Alarm Service Technician",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Controls System Engineer I",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Equipment CMS Project Manager",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Controls Systems Engineer",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Controls Systems Technician",
+          "title": "HVAC Controls Electrical Installer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -482,135 +399,117 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Sr Product Engineer",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Fire & Life Safety Inspector - Intern",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Fire Detection Systems Technician 3",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "HVAC Intern - Controls Tech School",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Fire Service Tech Intern",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-16"
         },
         {
           "title": "Field Services Technician Level 2",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Fire Detection Inspector 1",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Operations & Maintenance Administrative Assistant",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Field Services Technician Level 1",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Controls Systems Technician",
-          "state": "VA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Controls Systems Team Lead",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Truck Based Chiller Journeyman Mechanic (un)",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Sprinkler Inspector",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Fire Repair Scheduling Coordinator II",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "2nd shift Machine Repair Technician- Silent-Aire",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Traveling Security Field Engineer - Electronic / Integrated Security (Job ID: 1596)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "HVAC Territory/Domain AE",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Chiller Mechanic Apprentice, Navy Systems",
+          "title": "Construction Quality Control Manager",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Quality Engineer - Machining",
-          "state": "PA",
+          "title": "EDE Mechanical Designer",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-15"
         },
         {
-          "title": "Fire Alarm Technician",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
+          "title": "Commercial HVAC Estimator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
           "postedDate": "2026-06-15"
         },
         {
-          "title": "Commercial Security Alarm Technician",
+          "title": "HVAC Truck Based Serviceman (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-15"
+        },
+        {
+          "title": "HVAC Truck Based Senior Controls Technician",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-15"
+        },
+        {
+          "title": "Payroll and Compliance Analyst",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -644,7 +543,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 27 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 15 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -818,130 +717,176 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "Tescom Components",
-          "state": "MS",
+          "title": "PRARNG Medical Professional Support Services (Administrative Provider and Behavioral Health Specialist Support)",
+          "state": "PR",
           "segment": "Other",
           "keywords": [
-            "tescom",
-            "components"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T07:00:00-05:00"
-        },
-        {
-          "title": "53--O-RING SET",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--o-ring"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Chilled Water Pumps",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "chilled",
-            "water",
-            "pumps"
-          ],
-          "agency": "",
-          "deadline": "2026-06-30T10:00:00-04:00"
-        },
-        {
-          "title": "48--VALVE,SOLENOID",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "48--valve,solenoid"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Medical Linen and Laundry Services / Wright Patterson AFB",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
+            "prarng",
             "medical",
-            "linen",
-            "laundry",
-            "services",
-            "wright"
+            "professional",
+            "support",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-08T09:00:00-04:00"
+          "deadline": "2026-06-30T13:00:00-04:00"
         },
         {
-          "title": "Solicitation: Swinomish Eelgrass Survey w/ Amendment 0001",
-          "state": "WA",
-          "segment": "Other",
-          "keywords": [
-            "solicitation:",
-            "swinomish",
-            "eelgrass",
-            "survey",
-            "amendment"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T12:00:00-07:00"
-        },
-        {
-          "title": "S222--First Receiver Patient Decontamination Program",
+          "title": "16--BOOSTER ASSEMBLY,AI, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "s222--first",
-            "receiver",
-            "patient",
-            "decontamination",
-            "program"
+            "16--booster",
+            "assembly,ai,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": ""
+          "deadline": "2026-07-16T16:30:00-04:00"
         },
         {
-          "title": "62--LAMP,LIGHT EMITTING",
+          "title": "48--VALVE,REGULATING,FL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--lamp,light",
-            "emitting"
+            "48--valve,regulating,fl"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "28--VALVE,GOVERNOR",
+          "title": "Advanced Management Program Support Services",
+          "state": "RI",
+          "segment": "Other",
+          "keywords": [
+            "advanced",
+            "management",
+            "program",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-25T11:00:00-04:00"
+        },
+        {
+          "title": "LTUY202005 Construct Vehicle Operations Covered Parking",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "ltuy202005",
+            "construct",
+            "vehicle",
+            "operations",
+            "covered"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T10:00:00-05:00"
+        },
+        {
+          "title": "16--REGULATOR,OXYGEN,DI",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "28--valve,governor"
+            "16--regulator,oxygen,di"
           ],
           "agency": "",
-          "deadline": "2026-06-26"
+          "deadline": "2026-07-16T14:00:00-04:00"
         },
         {
-          "title": "BRAND NAME MANDATORY BOHN MAGAZINE RECONDITIONING COMPRESSORS",
-          "state": "MD",
+          "title": "F--NE - CRESCENT LAKE NWR Hazardous Materials Removal",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "brand",
-            "mandatory",
-            "magazine",
-            "reconditioning",
-            "compressors"
+            "f--ne",
+            "crescent",
+            "hazardous",
+            "materials",
+            "removal"
           ],
           "agency": "",
-          "deadline": "2026-06-30T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "ID Scanners",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "scanners"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T14:00:00-07:00"
+        },
+        {
+          "title": "Gym Ceiling and Light Project",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "ceiling",
+            "light",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-06-18T16:00:00-04:00"
+        },
+        {
+          "title": "J045--BOILER REPAIR -  Repair Boiler 2 in Bldg. 20",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "j045--boiler",
+            "repair",
+            "repair",
+            "boiler",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T10:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Tech",
-          "state": "OH",
+          "title": "HVAC Technician - Davenport, IA",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Commercial HVAC Service Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Data Center/Chiller Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-15"
+        },
+        {
+          "title": "Project Superintendent",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-15"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-15"
+        },
+        {
+          "title": "HVAC Technician - Ashland, VA",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-15"
@@ -968,14 +913,14 @@
           "postedDate": "2026-06-15"
         },
         {
-          "title": "HVAC Technician -Newport News, VA",
-          "state": "VA",
+          "title": "Journeyman Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-15"
         },
         {
-          "title": "Journeyman Technician",
+          "title": "Apprentice Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -984,13 +929,6 @@
         {
           "title": "Sr. Digital Services Remote Support Specialist",
           "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Apprentice Technician",
-          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-15"
@@ -1031,15 +969,15 @@
           "postedDate": "2026-06-15"
         },
         {
-          "title": "Chiller Technician - Journeyman",
-          "state": "",
+          "title": "Controls Installation Apprentice",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-15"
         },
         {
-          "title": "Controls Installation Apprentice",
-          "state": "FL",
+          "title": "Chiller Technician - Journeyman",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-15"
@@ -1054,20 +992,6 @@
         {
           "title": "Thermo King Service Manager - Marine (Eastern US) - Remote",
           "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-14"
-        },
-        {
-          "title": "Sr. Plant Quality Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-14"
-        },
-        {
-          "title": "Senior Packaging Engineer",
-          "state": "WI",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-14"
@@ -1103,7 +1027,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 19 active job postings.",
+      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 22 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -1231,13 +1155,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONm1Bcy1xeTFkcFN1SngweEZVdENrYW1uZnBMR3BtV09CRGR3VVJxZ2wtZ2ZORFkyNnVfR3FsWnJ5NzBZT3I1NDFEOVVBVWFVbDh3TXRWNWdMMkJJNHZ4LXAyUHZNWktsTmlWRjdsX0ItM1lBYlFpaDBYQ204VGlXTm1raEM5LUc5RUVCLVExUnRad0Z4WWs0NTFXOEdBekNjOHNJZncySUwwQmJsOFJsZy1DSEhoWS0wN1",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONm1Bcy1xeTFkcFN1SngweEZVdENrYW1uZnBMR3BtV09CRGR3VVJxZ2wtZ2ZORFkyNnVfR3FsWnJ5NzBZT3I1NDFEOVVBVWFVbDh3TXRWNWdMMkJJNHZ4LXAyUHZNWktsTmlWRjdsX0ItM1lBYlFpaDBYQ204VGlXTm1raEM5LUc5RUVCLVExUnRad0Z4WWs0NTFXOEdBekNjOHNJZncySUwwQmJsOFJsZy1DSEhoWS0wN1JiX2FDZWxUZnZOb2QtaFB30gHPAUFVX3lxTFBFSGhXNGpvcmdVQXVNYklIWGFSeVlaUzI5SlBiTXdTdndPNTNrT0trN3RJUDhTZ1MzR0VkSWo0ZU1ZWkVvSVNrOUJzX2pWRVZ0UUQ2V3hFYWdkTWcxOUZQLTRSd3IxTmpORFd4TzV5akZ4NTloQWlfWjI5c3o4d2FHbDJfR3Q2UHZfcmtPOERTVEctXzZTQmJQYllXVjE0WmdkWVc2S0lhZl9FeU95WGczUm5lb1luSlhib29Wb0hCbXJ5X3JvVGtjaXlxaXdOOA?oc=5",
           "published": "Thu, 23 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Ameresco completes two solar projects for Maryland school district - Solar Power World",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5\" t",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5",
-          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1246,142 +1163,141 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "Tescom Components",
-          "state": "MS",
+          "title": "PRARNG Medical Professional Support Services (Administrative Provider and Behavioral Health Specialist Support)",
+          "state": "PR",
           "segment": "Other",
           "keywords": [
-            "tescom",
-            "components"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T07:00:00-05:00"
-        },
-        {
-          "title": "53--O-RING SET",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--o-ring"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Chilled Water Pumps",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "chilled",
-            "water",
-            "pumps"
-          ],
-          "agency": "",
-          "deadline": "2026-06-30T10:00:00-04:00"
-        },
-        {
-          "title": "48--VALVE,SOLENOID",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "48--valve,solenoid"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Medical Linen and Laundry Services / Wright Patterson AFB",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
+            "prarng",
             "medical",
-            "linen",
-            "laundry",
-            "services",
-            "wright"
+            "professional",
+            "support",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-08T09:00:00-04:00"
+          "deadline": "2026-06-30T13:00:00-04:00"
         },
         {
-          "title": "Solicitation: Swinomish Eelgrass Survey w/ Amendment 0001",
-          "state": "WA",
-          "segment": "Other",
-          "keywords": [
-            "solicitation:",
-            "swinomish",
-            "eelgrass",
-            "survey",
-            "amendment"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T12:00:00-07:00"
-        },
-        {
-          "title": "S222--First Receiver Patient Decontamination Program",
+          "title": "16--BOOSTER ASSEMBLY,AI, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "s222--first",
-            "receiver",
-            "patient",
-            "decontamination",
-            "program"
+            "16--booster",
+            "assembly,ai,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": ""
+          "deadline": "2026-07-16T16:30:00-04:00"
         },
         {
-          "title": "62--LAMP,LIGHT EMITTING",
+          "title": "48--VALVE,REGULATING,FL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--lamp,light",
-            "emitting"
+            "48--valve,regulating,fl"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "28--VALVE,GOVERNOR",
+          "title": "Advanced Management Program Support Services",
+          "state": "RI",
+          "segment": "Other",
+          "keywords": [
+            "advanced",
+            "management",
+            "program",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-25T11:00:00-04:00"
+        },
+        {
+          "title": "LTUY202005 Construct Vehicle Operations Covered Parking",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "ltuy202005",
+            "construct",
+            "vehicle",
+            "operations",
+            "covered"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T10:00:00-05:00"
+        },
+        {
+          "title": "16--REGULATOR,OXYGEN,DI",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "28--valve,governor"
+            "16--regulator,oxygen,di"
           ],
           "agency": "",
-          "deadline": "2026-06-26"
+          "deadline": "2026-07-16T14:00:00-04:00"
         },
         {
-          "title": "BRAND NAME MANDATORY BOHN MAGAZINE RECONDITIONING COMPRESSORS",
-          "state": "MD",
+          "title": "F--NE - CRESCENT LAKE NWR Hazardous Materials Removal",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "brand",
-            "mandatory",
-            "magazine",
-            "reconditioning",
-            "compressors"
+            "f--ne",
+            "crescent",
+            "hazardous",
+            "materials",
+            "removal"
           ],
           "agency": "",
-          "deadline": "2026-06-30T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "ID Scanners",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "scanners"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T14:00:00-07:00"
+        },
+        {
+          "title": "Gym Ceiling and Light Project",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "ceiling",
+            "light",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-06-18T16:00:00-04:00"
+        },
+        {
+          "title": "J045--BOILER REPAIR -  Repair Boiler 2 in Bldg. 20",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "j045--boiler",
+            "repair",
+            "repair",
+            "boiler",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T10:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior Controls System Specialist",
+          "title": "Control Systems Integrator",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Operations Maintenance Technician",
-          "state": "IL",
-          "segment": "Municipal",
+          "segment": "Schools",
           "tags": [
-            "Municipal"
+            "Schools",
+            "Healthcare",
+            "University"
           ],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
           "title": "Mobile Controls Project Manager",
@@ -1472,13 +1388,6 @@
           "postedDate": "2026-06-09"
         },
         {
-          "title": "Field Supervisor - BESS",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-08"
-        },
-        {
           "title": "Building Performance Analyst",
           "state": "",
           "segment": "Schools",
@@ -1487,13 +1396,6 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-07"
-        },
-        {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
           "postedDate": "2026-06-07"
         },
         {
@@ -1682,6 +1584,39 @@
             "University"
           ],
           "postedDate": "2026-05-18"
+        },
+        {
+          "title": "Construction Program Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-16"
+        },
+        {
+          "title": "Energy Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-16"
+        },
+        {
+          "title": "Journeyman Plumber",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-05-15"
         }
       ],
       "historicalBids": [
@@ -1754,276 +1689,307 @@
       "earningsCallMentions": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "United States Energy as a Service Market Set to Reach USD 51.22 Billion by 2034 - openPR.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVpETjdacDVOY2hQaVFweTJncXJjV3p3dkNrM1JJWkREMGhqN2FSdWNxNFVza3FPRzR6VkxPSS1IbGU2emtHajFpODBYNmx2Ql9oME9SaDU3bmdhQVp3X2J6cmY0Y0pLc3hfa1FoVEo3R3gtT1BUSjBRR01MTkRxNWx4VzFwTWJZUkd0X3V2OGlwN3B4SnVzQlRYVGk0U3dj?oc=5\" target=\"_blank\">United Stat",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVpETjdacDVOY2hQaVFweTJncXJjV3p3dkNrM1JJWkREMGhqN2FSdWNxNFVza3FPRzR6VkxPSS1IbGU2emtHajFpODBYNmx2Ql9oME9SaDU3bmdhQVp3X2J6cmY0Y0pLc3hfa1FoVEo3R3gtT1BUSjBRR01MTkRxNWx4VzFwTWJZUkd0X3V2OGlwN3B4SnVzQlRYVGk0U3dj?oc=5",
-          "published": "Mon, 08 Jun 2026 12:32:32 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "Tescom Components",
-          "state": "MS",
+          "title": "PRARNG Medical Professional Support Services (Administrative Provider and Behavioral Health Specialist Support)",
+          "state": "PR",
           "segment": "Other",
           "keywords": [
-            "tescom",
-            "components"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T07:00:00-05:00"
-        },
-        {
-          "title": "53--O-RING SET",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--o-ring"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Chilled Water Pumps",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "chilled",
-            "water",
-            "pumps"
-          ],
-          "agency": "",
-          "deadline": "2026-06-30T10:00:00-04:00"
-        },
-        {
-          "title": "48--VALVE,SOLENOID",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "48--valve,solenoid"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Medical Linen and Laundry Services / Wright Patterson AFB",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
+            "prarng",
             "medical",
-            "linen",
-            "laundry",
-            "services",
-            "wright"
+            "professional",
+            "support",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-08T09:00:00-04:00"
+          "deadline": "2026-06-30T13:00:00-04:00"
         },
         {
-          "title": "Solicitation: Swinomish Eelgrass Survey w/ Amendment 0001",
-          "state": "WA",
-          "segment": "Other",
-          "keywords": [
-            "solicitation:",
-            "swinomish",
-            "eelgrass",
-            "survey",
-            "amendment"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T12:00:00-07:00"
-        },
-        {
-          "title": "S222--First Receiver Patient Decontamination Program",
+          "title": "16--BOOSTER ASSEMBLY,AI, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "s222--first",
-            "receiver",
-            "patient",
-            "decontamination",
-            "program"
+            "16--booster",
+            "assembly,ai,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": ""
+          "deadline": "2026-07-16T16:30:00-04:00"
         },
         {
-          "title": "62--LAMP,LIGHT EMITTING",
+          "title": "48--VALVE,REGULATING,FL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--lamp,light",
-            "emitting"
+            "48--valve,regulating,fl"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "28--VALVE,GOVERNOR",
+          "title": "Advanced Management Program Support Services",
+          "state": "RI",
+          "segment": "Other",
+          "keywords": [
+            "advanced",
+            "management",
+            "program",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-25T11:00:00-04:00"
+        },
+        {
+          "title": "LTUY202005 Construct Vehicle Operations Covered Parking",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "ltuy202005",
+            "construct",
+            "vehicle",
+            "operations",
+            "covered"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T10:00:00-05:00"
+        },
+        {
+          "title": "16--REGULATOR,OXYGEN,DI",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "28--valve,governor"
+            "16--regulator,oxygen,di"
           ],
           "agency": "",
-          "deadline": "2026-06-26"
+          "deadline": "2026-07-16T14:00:00-04:00"
         },
         {
-          "title": "BRAND NAME MANDATORY BOHN MAGAZINE RECONDITIONING COMPRESSORS",
-          "state": "MD",
+          "title": "F--NE - CRESCENT LAKE NWR Hazardous Materials Removal",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "brand",
-            "mandatory",
-            "magazine",
-            "reconditioning",
-            "compressors"
+            "f--ne",
+            "crescent",
+            "hazardous",
+            "materials",
+            "removal"
           ],
           "agency": "",
-          "deadline": "2026-06-30T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "ID Scanners",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "scanners"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T14:00:00-07:00"
+        },
+        {
+          "title": "Gym Ceiling and Light Project",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "ceiling",
+            "light",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-06-18T16:00:00-04:00"
+        },
+        {
+          "title": "J045--BOILER REPAIR -  Repair Boiler 2 in Bldg. 20",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "j045--boiler",
+            "repair",
+            "repair",
+            "boiler",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T10:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Electrical Assembler",
-          "state": "OH",
+          "title": "Construction Sales Representative",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Foxboro DCS -Training Instructor- Industrial Automation",
-          "state": "MA",
+          "title": "Universal Enclosure Business Developer",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Manufacturing Engineer",
-          "state": "OH",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-15"
+          "title": "Field Service Representative",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Foxboro DCS -Training Instructor- Industrial Automation",
+          "title": "Solar Engineer",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Building Automation Technician I",
-          "state": "GA",
+          "title": "Sr. System Commissioning Specialist",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Solar Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Functional Product Owner - Total Rewards & Benefits",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "HR Business Partner",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Solar Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Solar Engineer",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Field Service Representative",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Systems Field Service Representative - Power Distribution/Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Offer Quality Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
         },
         {
           "title": "Field Service Representative",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Industrialization Technology Chapter Leader - Electronics",
-          "state": "NC",
+          "title": "Sr. System Commissioning Specialist",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Segment Business Development",
+          "title": "Universal Enclosure Business Developer",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Material Handler - EOW",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Universal Enclosure Business Developer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Research Analyst \u2013 Data Center Infrastructure & Technology",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-15"
+          "postedDate": "2026-06-16"
         },
         {
-          "title": "Sr. Tender Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Sr. Tender Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Foxboro DCS -Training Instructor- Industrial Automation",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Production Associate I",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Manufacturing Quality Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Client Partner - Digital Services",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Assembly Technician - 2nd Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-15"
-        },
-        {
-          "title": "Plant Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-14"
-        },
-        {
-          "title": "Offer Manager \u2013 Busway Medium & High Power",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-14"
-        },
-        {
-          "title": "Upstream Flow Controllers (Buyer)",
+          "title": "Project Engineer",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-14"
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Field Service Technician I",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Manufacturing Production Cell Lead",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Universal Enclosure Business Developer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Field Service Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-16"
         }
       ],
       "historicalBids": [
@@ -2041,7 +2007,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 19 active job postings.",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 24 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -2206,13 +2172,6 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
-          "published": "Tue, 09 Jun 2026 17:23:09 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Siemens\u2019 Microgrid Sets New Standard For Resilient, Sustainable Power - Facility Executive Magazine",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5\" target=\"_blank\">Siemens\u2019 Mic",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5",
@@ -2232,124 +2191,128 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "Tescom Components",
-          "state": "MS",
+          "title": "PRARNG Medical Professional Support Services (Administrative Provider and Behavioral Health Specialist Support)",
+          "state": "PR",
           "segment": "Other",
           "keywords": [
-            "tescom",
-            "components"
-          ],
-          "agency": "",
-          "deadline": "2026-06-22T07:00:00-05:00"
-        },
-        {
-          "title": "53--O-RING SET",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--o-ring"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Chilled Water Pumps",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "chilled",
-            "water",
-            "pumps"
-          ],
-          "agency": "",
-          "deadline": "2026-06-30T10:00:00-04:00"
-        },
-        {
-          "title": "48--VALVE,SOLENOID",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "48--valve,solenoid"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "Medical Linen and Laundry Services / Wright Patterson AFB",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
+            "prarng",
             "medical",
-            "linen",
-            "laundry",
-            "services",
-            "wright"
+            "professional",
+            "support",
+            "services"
           ],
           "agency": "",
-          "deadline": "2026-07-08T09:00:00-04:00"
+          "deadline": "2026-06-30T13:00:00-04:00"
         },
         {
-          "title": "Solicitation: Swinomish Eelgrass Survey w/ Amendment 0001",
-          "state": "WA",
-          "segment": "Other",
-          "keywords": [
-            "solicitation:",
-            "swinomish",
-            "eelgrass",
-            "survey",
-            "amendment"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T12:00:00-07:00"
-        },
-        {
-          "title": "S222--First Receiver Patient Decontamination Program",
+          "title": "16--BOOSTER ASSEMBLY,AI, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "s222--first",
-            "receiver",
-            "patient",
-            "decontamination",
-            "program"
+            "16--booster",
+            "assembly,ai,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": ""
+          "deadline": "2026-07-16T16:30:00-04:00"
         },
         {
-          "title": "62--LAMP,LIGHT EMITTING",
+          "title": "48--VALVE,REGULATING,FL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--lamp,light",
-            "emitting"
+            "48--valve,regulating,fl"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "28--VALVE,GOVERNOR",
+          "title": "Advanced Management Program Support Services",
+          "state": "RI",
+          "segment": "Other",
+          "keywords": [
+            "advanced",
+            "management",
+            "program",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-06-25T11:00:00-04:00"
+        },
+        {
+          "title": "LTUY202005 Construct Vehicle Operations Covered Parking",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "ltuy202005",
+            "construct",
+            "vehicle",
+            "operations",
+            "covered"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T10:00:00-05:00"
+        },
+        {
+          "title": "16--REGULATOR,OXYGEN,DI",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "28--valve,governor"
+            "16--regulator,oxygen,di"
           ],
           "agency": "",
-          "deadline": "2026-06-26"
+          "deadline": "2026-07-16T14:00:00-04:00"
         },
         {
-          "title": "BRAND NAME MANDATORY BOHN MAGAZINE RECONDITIONING COMPRESSORS",
-          "state": "MD",
+          "title": "F--NE - CRESCENT LAKE NWR Hazardous Materials Removal",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "brand",
-            "mandatory",
-            "magazine",
-            "reconditioning",
-            "compressors"
+            "f--ne",
+            "crescent",
+            "hazardous",
+            "materials",
+            "removal"
           ],
           "agency": "",
-          "deadline": "2026-06-30T15:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "ID Scanners",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "scanners"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T14:00:00-07:00"
+        },
+        {
+          "title": "Gym Ceiling and Light Project",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "ceiling",
+            "light",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-06-18T16:00:00-04:00"
+        },
+        {
+          "title": "J045--BOILER REPAIR -  Repair Boiler 2 in Bldg. 20",
+          "state": "NY",
+          "segment": "Other",
+          "keywords": [
+            "j045--boiler",
+            "repair",
+            "repair",
+            "boiler",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-06-22T10:00:00-04:00"
         }
       ],
       "jobPostings": [],
