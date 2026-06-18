@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17",
-  "last_updated_display": "June 17, 2026",
+  "last_updated": "2026-06-18",
+  "last_updated_display": "June 18, 2026",
   "data_sources_active": [
     "USASpending.gov",
     "SAM.gov",
@@ -18,7 +18,35 @@
   "bond_opportunities": [],
   "construction_opportunities": [
     {
-      "id": "construction-94772",
+      "id": "construction-13186",
+      "title": "Walsh-Turner JV gets green light on $580M utility plant project",
+      "agency": "Construction Dive",
+      "type": "Construction Project",
+      "posted": "Thu, 18 Jun 2026 12:57:00 -0400",
+      "deadline": "",
+      "state": "",
+      "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/9-QEOIhsYQ1bs22j3gLODRePqfPZ6juFegSfB-SLFng/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjExMjYtVUstQ1VQLXByLmpwZw==.webp\" /></div></figure><p>The two construction firms add the University of Kentucky in Lexington project to",
+      "url": "https://www.constructiondive.com/news/walsh-turner-jv-university-kentucky-utility-plant-project/823303/",
+      "source": "Construction Dive",
+      "keyword_hit": "construction",
+      "segment": "University"
+    },
+    {
+      "id": "construction-5185",
+      "title": "Amazon plans $10B Missouri data center campus",
+      "agency": "Construction Dive",
+      "type": "Construction Project",
+      "posted": "Wed, 17 Jun 2026 16:48:00 -0400",
+      "deadline": "",
+      "state": "",
+      "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp\" /></div></figure><p>In addition to the construction of the facility, the tech giant will impr",
+      "url": "https://www.constructiondive.com/news/amazon-plans-missouri-data-center-campus/823215/",
+      "source": "Construction Dive",
+      "keyword_hit": "construction",
+      "segment": "University"
+    },
+    {
+      "id": "construction-22741",
       "title": "Manhattan, AECOM Hunt to manage $1.45B University of Florida stadium renovation",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -30,20 +58,6 @@
       "source": "Construction Dive",
       "keyword_hit": "construction",
       "segment": "University"
-    },
-    {
-      "id": "construction-97824",
-      "title": "Energy savings performance contracts offer a path to building upgrades when city budgets are tight",
-      "agency": "Construction Dive",
-      "type": "Construction Project",
-      "posted": "Tue, 16 Jun 2026 09:27:49 -0400",
-      "deadline": "",
-      "state": "",
-      "description": "<p>With deferred maintenance growing and capital dollars stretched thin, local governments are using ESPCs to fund energy and infrastructure improvements through future operational savings.</p>",
-      "url": "https://www.constructiondive.com/news/energy-savings-performance-contracts-building-upgrades/823129/",
-      "source": "Construction Dive",
-      "keyword_hit": "construction",
-      "segment": "Municipal"
     }
   ],
   "competitors": [
@@ -260,17 +274,17 @@
         },
         {
           "source": "google_news",
-          "title": "Johnson Controls Acquires Nantum AI to Accelerate AI-driven Energy Optimisation and Control Capabilities within OpenBlue - Trade Link Media",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pVjQ5RVk3UUlPcksxOG1WelFwUmFzdE1NRUJXR2N2OU9hWDl0NDBoZTVpYnZjeXJKY1FGSUJLSUQ3VHNIWUxOTXdkdjU5YThxMGFzblZXZTRxS1lkY0lXaEF0aWRSZw?oc=5\" target=\"_blank\">Johnson Controls Acquires Nantum AI to Accelerate AI-driven Energy Optimisation and Contr",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pVjQ5RVk3UUlPcksxOG1WelFwUmFzdE1NRUJXR2N2OU9hWDl0NDBoZTVpYnZjeXJKY1FGSUJLSUQ3VHNIWUxOTXdkdjU5YThxMGFzblZXZTRxS1lkY0lXaEF0aWRSZw?oc=5",
-          "published": "Fri, 08 May 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Johnson Controls acquires Nantum AI to accelerate AI-driven energy optimization and control capabilities within OpenBlue - Johnson Controls",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnRDcG9ZNEwzMEVqNWhweURLQm5zSl9vZzJLcXBERjN6ZVVNMThudGlPN01yUXFNZGlxdXVqM1NmZXAwU3hQLTctaFJtQ2dSb1hGelRZcUpKRl81cTFBc0EwSGtyeGZ2Q3lrYVhjek84ZGxPRXlWbmNzOU8ya3BhbDJqaVl1NXdNOEtHSjBQOXl5aDI0cEV5QktibXFEdU0zcTBQZE4xdTlsMUdSejJuVWR3a2phYl9Ldl",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnRDcG9ZNEwzMEVqNWhweURLQm5zSl9vZzJLcXBERjN6ZVVNMThudGlPN01yUXFNZGlxdXVqM1NmZXAwU3hQLTctaFJtQ2dSb1hGelRZcUpKRl81cTFBc0EwSGtyeGZ2Q3lrYVhjek84ZGxPRXlWbmNzOU8ya3BhbDJqaVl1NXdNOEtHSjBQOXl5aDI0cEV5QktibXFEdU0zcTBQZE4xdTlsMUdSejJuVWR3a2phYl9Ldloza01nWkNSc3ZvT0ZoQmJxVGtXUEpFNDBzcHZSMmRtRUFHOEFMT3VmSExCWHotVnlV?oc=5",
           "published": "Mon, 27 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Johnson Controls Acquires Nantum AI to Advance Smart Energy and Building Control - digital terminal",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmRqQU1kN1dWeVhiN3prMUowUFZLbDVjQ3RYZjBybDVFcW9Uc1lRZ0lNd1I2M29PTHFhUkF4S01WNURXeGFEeUhJdk94SzVDVWVrN1QtMFUxd1BRRlduRUV6OUdCYmlxNTVydXphbDdDZlJYQUNXbEtlel9mYXB5OWZ2SzNzaDJFQ3dWbmZFcG9nbnJfdURUSkVBWktUbmoyMk03Xzcxb1hsWXR5bG1QVml6QVZ2d3R3T2",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmRqQU1kN1dWeVhiN3prMUowUFZLbDVjQ3RYZjBybDVFcW9Uc1lRZ0lNd1I2M29PTHFhUkF4S01WNURXeGFEeUhJdk94SzVDVWVrN1QtMFUxd1BRRlduRUV6OUdCYmlxNTVydXphbDdDZlJYQUNXbEtlel9mYXB5OWZ2SzNzaDJFQ3dWbmZFcG9nbnJfdURUSkVBWktUbmoyMk03Xzcxb1hsWXR5bG1QVml6QVZ2d3R3T2fSAccBQVVfeXFMTTBqdnVWODBMUG1peW1ranNpcEZaenJjYXVqR0tVa3Z2dWxNUk9GQnVpdk5oZG5GcC1Wd0pGcU02MFdKYXBiWFQ2QXhHUm9xUTYwSEh5TUh4VjVwd1dYMHVQa2VmZzBMal96MllRRmkxcWpXMVpTWHVicktkVGhScmpSajMzX1ZRWlgtY3JvWnZhRlc4clhGM0N6Y0NaSWZRMFVCUTlndWRDenRtLWxGc0tRRDJwdlBlWHgxUkpqT005WnM1NVFLVQ?oc=5",
+          "published": "Fri, 01 May 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -279,187 +293,172 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "95--PLATE,METAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "95--plate,metal"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "29--FILTER ELEMENT,FLUI",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "29--filter",
-            "element,flui"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25"
-        },
-        {
-          "title": "Fiber Cable Assemblies",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "fiber",
-            "cable",
-            "assemblies"
-          ],
-          "agency": "",
-          "deadline": "2026-07-02T12:00:00-04:00"
-        },
-        {
-          "title": "LDC Gym Equipment",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "USNS TIPPECANOE (T-AO 199) FY27 Mid-Term Availability.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "tippecanoe",
-            "(t-ao",
-            "mid-term",
-            "availability."
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T15:00:00-04:00"
-        },
-        {
-          "title": "16--DRIVE SHAFT ASSEMBL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "16--drive",
-            "shaft",
-            "assembl"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "81--CYLINDER,COMPRESSED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--cylinder,compressed"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BPA Call Order Exceeding $20,000 Synopsis Requisition 117184",
+          "title": "Call for Solutions for Advanced Manufacturing  Industrial 3D X-Ray and Computed Tomography Capability",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "order",
-            "exceeding",
-            "$20,000",
-            "synopsis",
-            "requisition"
+            "solutions",
+            "advanced",
+            "manufacturing",
+            "industrial",
+            "x-ray"
           ],
           "agency": "",
-          "deadline": "2026-06-27T13:00:00-04:00"
+          "deadline": "2026-07-01T12:00:00-05:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--RESISTOR,VARIABLE,W",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--resistor,variable,w"
           ],
           "agency": "",
-          "deadline": "2026-06-25"
+          "deadline": null
         },
         {
-          "title": "Waste Service Pickup",
-          "state": "CA",
+          "title": "D--MWS Data Buy",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "waste",
-            "service",
-            "pickup"
+            "d--mws"
           ],
           "agency": "",
-          "deadline": "2026-06-19T14:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "10--CONTACT WIRED ASSEM",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--contact",
+            "wired",
+            "assem"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Crawlspace Water Mitigation - Piegan LPOE-Babb",
+          "state": "MT",
+          "segment": "Other",
+          "keywords": [
+            "crawlspace",
+            "water",
+            "mitigation",
+            "piegan",
+            "lpoe-babb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00"
+        },
+        {
+          "title": "Custodial Services at MI053",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "mi053"
+          ],
+          "agency": "",
+          "deadline": "2026-07-09T10:00:00-05:00"
+        },
+        {
+          "title": "DME INSTALLATION, DELIVERY AND RELATED SERVICES",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "installation,",
+            "delivery",
+            "related",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-02T14:00:00-04:00"
+        },
+        {
+          "title": "Neonatal Transport System",
+          "state": "TX",
+          "segment": "Other",
+          "keywords": [
+            "neonatal",
+            "transport",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T11:00:00-05:00"
+        },
+        {
+          "title": "30--                     BELTS,V,MATCHED",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "belts,v,matched"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "25--WINDOW,VEHICULAR",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "25--window,vehicular"
+          ],
+          "agency": "",
+          "deadline": null
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Equipment Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "CNC Manual machine Operator, 2nd Shift",
-          "state": "VA",
-          "segment": "Schools",
+          "title": "HVAC Controls Technician",
+          "state": "WA",
+          "segment": "University",
           "tags": [
-            "Schools",
-            "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Mechanical Engineer (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Compressor Tester, 2nd Shift",
-          "state": "VA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Director of Manufacturing Operations",
+          "title": "Assistant Controller",
           "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Client Services Coordinator 3",
+          "title": "HVAC Service Project Manager",
+          "state": "WA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Electrician I - SA-Gilbert",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Class II AHU Fabricator - 1st Shift",
+          "title": "1st Shift - Manufacturing Technician - Silent-Aire",
           "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-06-17"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Class III FAB Set-Up - 2nd Shift",
+          "title": "Manufacturing Technician - Silent-Aire",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Fire Sprinkler Inspector",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -467,66 +466,56 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Sprinkler Service Sales Representative",
+          "title": "Data Center Mech Svc Tech Jrny (un)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "2nd shift Fabrication Forklift Driver Silent-Aire",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "HVAC Truck Based Chiller Mechanic (Union)",
-          "state": "CA",
+          "title": "Sprinkler Service Technician",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Business Development Sales Associate, RFID - US Remote",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Security Installer III",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Construction Supervisor, Controls",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Transportation Coordinator - (Job Number: 1598)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Fire Construction Manager",
+          "title": "Field Service Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Project Manager",
+          "title": "Field Services Technician - Level 2",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "HVAC Journeyman Mechanic (Union) - Job Number: 1599",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "CNC Manual machine Operator, 2nd Shift",
+          "title": "HVAC Truck Based Journeymen Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -534,24 +523,24 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Controls Systems Technician (union)",
-          "state": "IL",
+          "title": "HVAC Project Mechanical Journeyman (Union)",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Service Operations, Initiatives Program Leader (Filled)",
+          "title": "Fire Detection Inspector - Intern",
           "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Senior Staff Electronics System Engineer (remote)",
+          "title": "Wall/ Roof Fabricator, 2nd shift",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -559,7 +548,7 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         }
       ],
       "historicalBids": [
@@ -589,7 +578,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 20 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 17 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -763,170 +752,165 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "95--PLATE,METAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "95--plate,metal"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "29--FILTER ELEMENT,FLUI",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "29--filter",
-            "element,flui"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25"
-        },
-        {
-          "title": "Fiber Cable Assemblies",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "fiber",
-            "cable",
-            "assemblies"
-          ],
-          "agency": "",
-          "deadline": "2026-07-02T12:00:00-04:00"
-        },
-        {
-          "title": "LDC Gym Equipment",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "USNS TIPPECANOE (T-AO 199) FY27 Mid-Term Availability.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "tippecanoe",
-            "(t-ao",
-            "mid-term",
-            "availability."
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T15:00:00-04:00"
-        },
-        {
-          "title": "16--DRIVE SHAFT ASSEMBL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "16--drive",
-            "shaft",
-            "assembl"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "81--CYLINDER,COMPRESSED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--cylinder,compressed"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BPA Call Order Exceeding $20,000 Synopsis Requisition 117184",
+          "title": "Call for Solutions for Advanced Manufacturing  Industrial 3D X-Ray and Computed Tomography Capability",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "order",
-            "exceeding",
-            "$20,000",
-            "synopsis",
-            "requisition"
+            "solutions",
+            "advanced",
+            "manufacturing",
+            "industrial",
+            "x-ray"
           ],
           "agency": "",
-          "deadline": "2026-06-27T13:00:00-04:00"
+          "deadline": "2026-07-01T12:00:00-05:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--RESISTOR,VARIABLE,W",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--resistor,variable,w"
           ],
           "agency": "",
-          "deadline": "2026-06-25"
+          "deadline": null
         },
         {
-          "title": "Waste Service Pickup",
-          "state": "CA",
+          "title": "D--MWS Data Buy",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "waste",
-            "service",
-            "pickup"
+            "d--mws"
           ],
           "agency": "",
-          "deadline": "2026-06-19T14:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "10--CONTACT WIRED ASSEM",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--contact",
+            "wired",
+            "assem"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Crawlspace Water Mitigation - Piegan LPOE-Babb",
+          "state": "MT",
+          "segment": "Other",
+          "keywords": [
+            "crawlspace",
+            "water",
+            "mitigation",
+            "piegan",
+            "lpoe-babb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00"
+        },
+        {
+          "title": "Custodial Services at MI053",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "mi053"
+          ],
+          "agency": "",
+          "deadline": "2026-07-09T10:00:00-05:00"
+        },
+        {
+          "title": "DME INSTALLATION, DELIVERY AND RELATED SERVICES",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "installation,",
+            "delivery",
+            "related",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-02T14:00:00-04:00"
+        },
+        {
+          "title": "Neonatal Transport System",
+          "state": "TX",
+          "segment": "Other",
+          "keywords": [
+            "neonatal",
+            "transport",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T11:00:00-05:00"
+        },
+        {
+          "title": "30--                     BELTS,V,MATCHED",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "belts,v,matched"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "25--WINDOW,VEHICULAR",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "25--window,vehicular"
+          ],
+          "agency": "",
+          "deadline": null
         }
       ],
       "jobPostings": [
         {
-          "title": "Maintenance Manager",
-          "state": "",
+          "title": "HVAC Field Service Technician",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-17"
+          "postedDate": "2026-06-18"
         },
         {
-          "title": "Journeyman HVAC Technician",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Water Treatment Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Talent Acquisition Center of Excellence Specialist",
+          "title": "Specialist-Payroll",
           "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-17"
         },
         {
-          "title": "HVAC Technician Apprentice",
+          "title": "Material Planner",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-17"
+        },
+        {
+          "title": "Sr. Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-17"
         },
         {
-          "title": "Environmental Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Retail Operation Manager",
+          "title": "Dealer Warranty Support Representative (Remote)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-16"
+          "postedDate": "2026-06-17"
+        },
+        {
+          "title": "Designer II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-17"
         }
       ],
       "historicalBids": [
@@ -959,7 +943,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 7 active job postings.",
+      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 6 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -1090,10 +1074,24 @@
         },
         {
           "source": "google_news",
+          "title": "Electric cremations and broken EV chargers: latest on Bristol City Leap\u2019s climate deal - Bristol Live",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBJRnFqT0RIMXB0WUFhZjV6RnVNTjdCVGF3QzNLTXRIMjI0TXFWbEF0V1ppUDhieWlHSzF0TVYxN0pjNjA0M0dhSGoweXhMNExxX3FLalFONk1DNFNSWVMzalZfU0JNV3RKckxXUFBxYjJQa1JRcHBsdFlRNUIyc29pTGxuQWNIczROTTFHQTdwN051OTVvdldpNA?oc=5\" target=\"_blank\">Electric crematio",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBJRnFqT0RIMXB0WUFhZjV6RnVNTjdCVGF3QzNLTXRIMjI0TXFWbEF0V1ppUDhieWlHSzF0TVYxN0pjNjA0M0dhSGoweXhMNExxX3FLalFONk1DNFNSWVMzalZfU0JNV3RKckxXUFBxYjJQa1JRcHBsdFlRNUIyc29pTGxuQWNIczROTTFHQTdwN051OTVvdldpNA?oc=5",
+          "published": "Mon, 08 Jun 2026 13:06:00 GMT"
+        },
+        {
+          "source": "google_news",
           "title": "Ameresco completes two solar projects for Maryland school district - Solar Power World",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5\" t",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5",
           "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Energy savings performance contracts offer a path to building upgrades when city budgets are tight - Smart Cities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5\" target=\"_blank\">Energy savi",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5",
+          "published": "Tue, 16 Jun 2026 14:08:27 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1102,122 +1100,153 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "95--PLATE,METAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "95--plate,metal"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "29--FILTER ELEMENT,FLUI",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "29--filter",
-            "element,flui"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25"
-        },
-        {
-          "title": "Fiber Cable Assemblies",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "fiber",
-            "cable",
-            "assemblies"
-          ],
-          "agency": "",
-          "deadline": "2026-07-02T12:00:00-04:00"
-        },
-        {
-          "title": "LDC Gym Equipment",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "USNS TIPPECANOE (T-AO 199) FY27 Mid-Term Availability.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "tippecanoe",
-            "(t-ao",
-            "mid-term",
-            "availability."
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T15:00:00-04:00"
-        },
-        {
-          "title": "16--DRIVE SHAFT ASSEMBL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "16--drive",
-            "shaft",
-            "assembl"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "81--CYLINDER,COMPRESSED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--cylinder,compressed"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BPA Call Order Exceeding $20,000 Synopsis Requisition 117184",
+          "title": "Call for Solutions for Advanced Manufacturing  Industrial 3D X-Ray and Computed Tomography Capability",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "order",
-            "exceeding",
-            "$20,000",
-            "synopsis",
-            "requisition"
+            "solutions",
+            "advanced",
+            "manufacturing",
+            "industrial",
+            "x-ray"
           ],
           "agency": "",
-          "deadline": "2026-06-27T13:00:00-04:00"
+          "deadline": "2026-07-01T12:00:00-05:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--RESISTOR,VARIABLE,W",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--resistor,variable,w"
           ],
           "agency": "",
-          "deadline": "2026-06-25"
+          "deadline": null
         },
         {
-          "title": "Waste Service Pickup",
-          "state": "CA",
+          "title": "D--MWS Data Buy",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "waste",
-            "service",
-            "pickup"
+            "d--mws"
           ],
           "agency": "",
-          "deadline": "2026-06-19T14:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "10--CONTACT WIRED ASSEM",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--contact",
+            "wired",
+            "assem"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Crawlspace Water Mitigation - Piegan LPOE-Babb",
+          "state": "MT",
+          "segment": "Other",
+          "keywords": [
+            "crawlspace",
+            "water",
+            "mitigation",
+            "piegan",
+            "lpoe-babb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00"
+        },
+        {
+          "title": "Custodial Services at MI053",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "mi053"
+          ],
+          "agency": "",
+          "deadline": "2026-07-09T10:00:00-05:00"
+        },
+        {
+          "title": "DME INSTALLATION, DELIVERY AND RELATED SERVICES",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "installation,",
+            "delivery",
+            "related",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-02T14:00:00-04:00"
+        },
+        {
+          "title": "Neonatal Transport System",
+          "state": "TX",
+          "segment": "Other",
+          "keywords": [
+            "neonatal",
+            "transport",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T11:00:00-05:00"
+        },
+        {
+          "title": "30--                     BELTS,V,MATCHED",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "belts,v,matched"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "25--WINDOW,VEHICULAR",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "25--window,vehicular"
+          ],
+          "agency": "",
+          "deadline": null
         }
       ],
       "jobPostings": [
+        {
+          "title": "Associate HVAC Mechanic",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-18"
+        },
         {
           "title": "Senior Controls Service Specialist",
           "state": "OH",
@@ -1283,6 +1312,22 @@
             "University"
           ],
           "postedDate": "2026-06-16"
+        },
+        {
+          "title": "Senior Controls System Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-15"
+        },
+        {
+          "title": "Operations Maintenance Technician",
+          "state": "IL",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-15"
         },
         {
           "title": "Mobile Controls Project Manager",
@@ -1384,6 +1429,13 @@
           "postedDate": "2026-06-07"
         },
         {
+          "title": "Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-07"
+        },
+        {
           "title": "Instrument & Controls Commissioning Technician",
           "state": "",
           "segment": "Schools",
@@ -1450,27 +1502,6 @@
           "postedDate": "2026-06-05"
         },
         {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-06-02"
-        },
-        {
-          "title": "Construction Estimator/Preconstruction Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-30"
-        },
-        {
           "title": "Facilities Manager - Boiler and Chiller Plant",
           "state": "WA",
           "segment": "Schools",
@@ -1502,50 +1533,6 @@
             "University"
           ],
           "postedDate": "2026-05-24"
-        },
-        {
-          "title": "Operations and Maintenance Safety Manager",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-22"
-        },
-        {
-          "title": "Operations & Maintenance Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-22"
-        },
-        {
-          "title": "Senior Account Executive",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-22"
-        },
-        {
-          "title": "Solar Electrician Technican",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-21"
         }
       ],
       "historicalBids": [
@@ -1625,240 +1612,151 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "95--PLATE,METAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "95--plate,metal"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "29--FILTER ELEMENT,FLUI",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "29--filter",
-            "element,flui"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25"
-        },
-        {
-          "title": "Fiber Cable Assemblies",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "fiber",
-            "cable",
-            "assemblies"
-          ],
-          "agency": "",
-          "deadline": "2026-07-02T12:00:00-04:00"
-        },
-        {
-          "title": "LDC Gym Equipment",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "USNS TIPPECANOE (T-AO 199) FY27 Mid-Term Availability.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "tippecanoe",
-            "(t-ao",
-            "mid-term",
-            "availability."
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T15:00:00-04:00"
-        },
-        {
-          "title": "16--DRIVE SHAFT ASSEMBL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "16--drive",
-            "shaft",
-            "assembl"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "81--CYLINDER,COMPRESSED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--cylinder,compressed"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BPA Call Order Exceeding $20,000 Synopsis Requisition 117184",
+          "title": "Call for Solutions for Advanced Manufacturing  Industrial 3D X-Ray and Computed Tomography Capability",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "order",
-            "exceeding",
-            "$20,000",
-            "synopsis",
-            "requisition"
+            "solutions",
+            "advanced",
+            "manufacturing",
+            "industrial",
+            "x-ray"
           ],
           "agency": "",
-          "deadline": "2026-06-27T13:00:00-04:00"
+          "deadline": "2026-07-01T12:00:00-05:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--RESISTOR,VARIABLE,W",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--resistor,variable,w"
           ],
           "agency": "",
-          "deadline": "2026-06-25"
+          "deadline": null
         },
         {
-          "title": "Waste Service Pickup",
-          "state": "CA",
+          "title": "D--MWS Data Buy",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "waste",
-            "service",
-            "pickup"
+            "d--mws"
           ],
           "agency": "",
-          "deadline": "2026-06-19T14:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "10--CONTACT WIRED ASSEM",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--contact",
+            "wired",
+            "assem"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Crawlspace Water Mitigation - Piegan LPOE-Babb",
+          "state": "MT",
+          "segment": "Other",
+          "keywords": [
+            "crawlspace",
+            "water",
+            "mitigation",
+            "piegan",
+            "lpoe-babb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00"
+        },
+        {
+          "title": "Custodial Services at MI053",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "mi053"
+          ],
+          "agency": "",
+          "deadline": "2026-07-09T10:00:00-05:00"
+        },
+        {
+          "title": "DME INSTALLATION, DELIVERY AND RELATED SERVICES",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "installation,",
+            "delivery",
+            "related",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-02T14:00:00-04:00"
+        },
+        {
+          "title": "Neonatal Transport System",
+          "state": "TX",
+          "segment": "Other",
+          "keywords": [
+            "neonatal",
+            "transport",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T11:00:00-05:00"
+        },
+        {
+          "title": "30--                     BELTS,V,MATCHED",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "belts,v,matched"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "25--WINDOW,VEHICULAR",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "25--window,vehicular"
+          ],
+          "agency": "",
+          "deadline": null
         }
       ],
       "jobPostings": [
         {
-          "title": "Assembly Technician Second Shift",
-          "state": "WI",
+          "title": "Field Service Representative",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-17"
         },
         {
-          "title": "Research Analyst \u2013 Data Center Infrastructure & Technology",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Lab Engineer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Mechanical Design Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Manufacturing Production Cell Lead",
+          "title": "Senior Control Systems Service Engineer",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-16"
+          "postedDate": "2026-06-17"
         },
         {
-          "title": "Field Service Representative",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Principal SAP BTP Architect",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Production Planner Assistant",
+          "title": "Warehouse Process Specialist",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-16"
+          "postedDate": "2026-06-17"
         },
         {
-          "title": "Solar Engineer",
-          "state": "",
+          "title": "Senior Account Executive",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Firmware Engineer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Universal Enclosure Business Developer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Universal Enclosure Business Developer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Solar Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Sr. System Commissioning Specialist",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Solar Engineer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Functional Product Owner - Total Rewards & Benefits",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-16"
+          "postedDate": "2026-06-17"
         }
       ],
       "historicalBids": [
@@ -1876,7 +1774,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 17 active job postings.",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 4 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -2041,6 +1939,13 @@
       "newsArticles": [
         {
           "source": "google_news",
+          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
+          "published": "Tue, 09 Jun 2026 17:23:09 GMT"
+        },
+        {
+          "source": "google_news",
           "title": "Siemens\u2019 Microgrid Sets New Standard For Resilient, Sustainable Power - Facility Executive Magazine",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5\" target=\"_blank\">Siemens\u2019 Mic",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGUxUFhzV2FyYllMSjhFeHl1SmhrZGtVU2V3VnNobklkV1o4dmllWkE3NDQxRDhtWXJwSFFvWktIWk02MTFZU20wV0EtOUh1RWxOSTZOWGZwZmtHT2tHYUx4T0QyRWZaWDRkcDNWOV9jaWxIVkNncGdhSmdzRXpYVkxZYkFpWFJaZC01LUhoTW92ODQ4VFVfRzRWNHQzVjg?oc=5",
@@ -2060,119 +1965,121 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "95--PLATE,METAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "95--plate,metal"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "29--FILTER ELEMENT,FLUI",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "29--filter",
-            "element,flui"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25"
-        },
-        {
-          "title": "Fiber Cable Assemblies",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "fiber",
-            "cable",
-            "assemblies"
-          ],
-          "agency": "",
-          "deadline": "2026-07-02T12:00:00-04:00"
-        },
-        {
-          "title": "LDC Gym Equipment",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "equipment"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "USNS TIPPECANOE (T-AO 199) FY27 Mid-Term Availability.",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "tippecanoe",
-            "(t-ao",
-            "mid-term",
-            "availability."
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T15:00:00-04:00"
-        },
-        {
-          "title": "16--DRIVE SHAFT ASSEMBL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "16--drive",
-            "shaft",
-            "assembl"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "81--CYLINDER,COMPRESSED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--cylinder,compressed"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BPA Call Order Exceeding $20,000 Synopsis Requisition 117184",
+          "title": "Call for Solutions for Advanced Manufacturing  Industrial 3D X-Ray and Computed Tomography Capability",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "order",
-            "exceeding",
-            "$20,000",
-            "synopsis",
-            "requisition"
+            "solutions",
+            "advanced",
+            "manufacturing",
+            "industrial",
+            "x-ray"
           ],
           "agency": "",
-          "deadline": "2026-06-27T13:00:00-04:00"
+          "deadline": "2026-07-01T12:00:00-05:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--RESISTOR,VARIABLE,W",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--resistor,variable,w"
           ],
           "agency": "",
-          "deadline": "2026-06-25"
+          "deadline": null
         },
         {
-          "title": "Waste Service Pickup",
-          "state": "CA",
+          "title": "D--MWS Data Buy",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "waste",
-            "service",
-            "pickup"
+            "d--mws"
           ],
           "agency": "",
-          "deadline": "2026-06-19T14:00:00-04:00"
+          "deadline": null
+        },
+        {
+          "title": "10--CONTACT WIRED ASSEM",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--contact",
+            "wired",
+            "assem"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Crawlspace Water Mitigation - Piegan LPOE-Babb",
+          "state": "MT",
+          "segment": "Other",
+          "keywords": [
+            "crawlspace",
+            "water",
+            "mitigation",
+            "piegan",
+            "lpoe-babb"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00"
+        },
+        {
+          "title": "Custodial Services at MI053",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "mi053"
+          ],
+          "agency": "",
+          "deadline": "2026-07-09T10:00:00-05:00"
+        },
+        {
+          "title": "DME INSTALLATION, DELIVERY AND RELATED SERVICES",
+          "state": "DC",
+          "segment": "Other",
+          "keywords": [
+            "installation,",
+            "delivery",
+            "related",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-02T14:00:00-04:00"
+        },
+        {
+          "title": "Neonatal Transport System",
+          "state": "TX",
+          "segment": "Other",
+          "keywords": [
+            "neonatal",
+            "transport",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-06-23T11:00:00-05:00"
+        },
+        {
+          "title": "30--                     BELTS,V,MATCHED",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "belts,v,matched"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "25--WINDOW,VEHICULAR",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "25--window,vehicular"
+          ],
+          "agency": "",
+          "deadline": null
         }
       ],
       "jobPostings": [],
