@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19",
-  "last_updated_display": "June 19, 2026",
+  "last_updated": "2026-06-20",
+  "last_updated_display": "June 20, 2026",
   "data_sources_active": [
     "USASpending.gov",
     "SAM.gov",
@@ -18,7 +18,7 @@
   "bond_opportunities": [],
   "construction_opportunities": [
     {
-      "id": "construction-88393",
+      "id": "construction-67444",
       "title": "Walsh-Turner JV gets green light on $580M utility plant project",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -32,7 +32,7 @@
       "segment": "University"
     },
     {
-      "id": "construction-25494",
+      "id": "construction-74690",
       "title": "Amazon plans $10B Missouri data center campus",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -46,7 +46,7 @@
       "segment": "University"
     },
     {
-      "id": "construction-82842",
+      "id": "construction-13625",
       "title": "Manhattan, AECOM Hunt to manage $1.45B University of Florida stadium renovation",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -300,185 +300,204 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "31 CES n. 25 military gear lockers.",
-          "state": "IT-PN",
+          "title": "GOW-MAC Analyzer",
+          "state": "ME",
           "segment": "Other",
           "keywords": [
-            "military",
-            "lockers."
+            "gow-mac",
+            "analyzer"
           ],
           "agency": "",
-          "deadline": "2026-06-23T19:00:00+02:00"
+          "deadline": null
         },
         {
-          "title": "Patient Ceiling Lift Slings Replacement",
-          "state": "WI",
+          "title": "Security and Caretaker Services at Gainesville Job Corps Center in Gainesville, FL",
+          "state": "FL",
           "segment": "Other",
           "keywords": [
-            "patient",
-            "ceiling",
-            "slings",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T16:00:00-05:00"
-        },
-        {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "shade",
-            "structure",
-            "canopy"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T15:00:00-05:00"
-        },
-        {
-          "title": "44--SHAFT SEAL ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "44--shaft",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T00:00:00-04:00"
-        },
-        {
-          "title": "Installation of Security Fence",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "installation",
             "security",
-            "fence"
+            "caretaker",
+            "services",
+            "gainesville",
+            "corps"
           ],
           "agency": "",
-          "deadline": "2026-06-22T16:00:00-06:00"
+          "deadline": null
         },
         {
-          "title": "Repair BEQ HP135",
+          "title": "Socket Head Cap Screws",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "socket",
+            "screws"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T15:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "NC",
           "segment": "Other",
           "keywords": [
-            "repair",
-            "hp135"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
         },
         {
-          "title": "EcoStruxure Panel Server Wired by Design (a universal concentrator Modbus gateway)",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "ecostruxure",
-            "panel",
-            "server",
-            "wired",
-            "design"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T16:00:00-04:00"
-        },
-        {
-          "title": "Atlanta Job Corps Center Caretaker and Security Services",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "atlanta",
-            "corps",
-            "center",
-            "caretaker",
-            "security"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25T17:00:00-04:00"
-        },
-        {
-          "title": "Notice of Intent to Award Sole Source W569QE-26-Q-A002",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "notice",
-            "intent",
-            "award",
-            "source",
-            "w569qe-26-q-a002"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T10:00:00-06:00"
-        },
-        {
-          "title": "N--METAL DOOR REFRAMING - Western Nevada Agency",
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n--metal",
-            "reframing",
-            "western",
-            "nevada",
-            "agency"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-07:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
+        },
+        {
+          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "non-research",
+            "long-term",
+            "facility",
+            "needed",
+            "enrichment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T17:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "6515--Dental Panoramic Machine",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--dental",
+            "panoramic",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T10:00:00-04:00"
+        },
+        {
+          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
+          "state": "NM",
+          "segment": "Other",
+          "keywords": [
+            "technology",
+            "licensing",
+            "opportunity:",
+            "reactor",
+            "mitigation"
+          ],
+          "agency": "",
+          "deadline": "2026-12-19T17:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Sr. Plant Production Supervisor, 2nd Shift - (Job ID: 1602)",
-          "state": "PA",
+          "title": "Plant Operations Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "HVAC Sr Controls Service Technician",
+          "title": "3rd Shift Assembly, Sentry Shell Wrangler",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "HVAC Project Mechanic Journeymen",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
         },
         {
           "title": "Security Installer",
-          "state": "FL",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "CMS Site Supervisor",
+          "title": "Mechanical Test Lab Engineer - 2nd Shift (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "HVAC Mechanical Service Tech Svcmn",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Sr. Plant Production Supervisor, 1st Shift - (Job ID: 1601)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
+          "title": "Electrical Engineering Technician (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Area Enterprise & Commercial Camera Sales Manager - Remote, Eastern US",
+          "title": "HVAC Mechanical Service Tech Svcmn",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Senior Supervisor",
+          "title": "Security Service Technician (union)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Wrapper (2nd Shift)",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -486,45 +505,39 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Security Commercial Offerings Systems Technician",
-          "state": "CO",
+          "title": "Data Center Mech Svc Tech Jrny (un)",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "HVAC Mechanical Apprentice",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Field Service Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
         },
         {
           "title": "HVAC Truck Based Service Controls Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Panel Insulator, 2nd Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Business Dev Mgr - Data Centers",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "HVAC Security & Fire Team Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Controls Pre-Install Application Eng 3",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -532,10 +545,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "HVAC Mechanical Systems Technician Tradesman (Union)",
+          "title": "Senior Lab Technician - 3rd Shift (onsite)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -543,17 +556,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Fire Inspection Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Sprinkler Service Technician",
+          "title": "Fire Installer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -561,64 +567,28 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Technical Support Lead - Web",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Fire Service Technician",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Sprinkler Fitter",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Sr. Mechanical Engineer",
+          "title": "Manager, Thermal Systems Product Engineering - Data Centers (onsite)",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Equipment Sales Representative",
-          "state": "",
+          "title": "Director Global Finance Transformation",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Continuous Improvement Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "HVAC Truck Based Mechanic Apprentice (union)",
+          "title": "Insulator 2nd Shift",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -626,21 +596,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Manufacturing Supervisor",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Strategic Accounts Business Development - Healthcare",
+          "title": "Fire & Security Inspector",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -648,7 +607,7 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         }
       ],
       "historicalBids": [
@@ -678,7 +637,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 25 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 20 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -852,249 +811,227 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "31 CES n. 25 military gear lockers.",
-          "state": "IT-PN",
+          "title": "GOW-MAC Analyzer",
+          "state": "ME",
           "segment": "Other",
           "keywords": [
-            "military",
-            "lockers."
+            "gow-mac",
+            "analyzer"
           ],
           "agency": "",
-          "deadline": "2026-06-23T19:00:00+02:00"
+          "deadline": null
         },
         {
-          "title": "Patient Ceiling Lift Slings Replacement",
-          "state": "WI",
+          "title": "Security and Caretaker Services at Gainesville Job Corps Center in Gainesville, FL",
+          "state": "FL",
           "segment": "Other",
           "keywords": [
-            "patient",
-            "ceiling",
-            "slings",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T16:00:00-05:00"
-        },
-        {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "shade",
-            "structure",
-            "canopy"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T15:00:00-05:00"
-        },
-        {
-          "title": "44--SHAFT SEAL ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "44--shaft",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T00:00:00-04:00"
-        },
-        {
-          "title": "Installation of Security Fence",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "installation",
             "security",
-            "fence"
+            "caretaker",
+            "services",
+            "gainesville",
+            "corps"
           ],
           "agency": "",
-          "deadline": "2026-06-22T16:00:00-06:00"
+          "deadline": null
         },
         {
-          "title": "Repair BEQ HP135",
+          "title": "Socket Head Cap Screws",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "socket",
+            "screws"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T15:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "NC",
           "segment": "Other",
           "keywords": [
-            "repair",
-            "hp135"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
         },
         {
-          "title": "EcoStruxure Panel Server Wired by Design (a universal concentrator Modbus gateway)",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "ecostruxure",
-            "panel",
-            "server",
-            "wired",
-            "design"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T16:00:00-04:00"
-        },
-        {
-          "title": "Atlanta Job Corps Center Caretaker and Security Services",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "atlanta",
-            "corps",
-            "center",
-            "caretaker",
-            "security"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25T17:00:00-04:00"
-        },
-        {
-          "title": "Notice of Intent to Award Sole Source W569QE-26-Q-A002",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "notice",
-            "intent",
-            "award",
-            "source",
-            "w569qe-26-q-a002"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T10:00:00-06:00"
-        },
-        {
-          "title": "N--METAL DOOR REFRAMING - Western Nevada Agency",
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n--metal",
-            "reframing",
-            "western",
-            "nevada",
-            "agency"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-07:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
+        },
+        {
+          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "non-research",
+            "long-term",
+            "facility",
+            "needed",
+            "enrichment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T17:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "6515--Dental Panoramic Machine",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--dental",
+            "panoramic",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T10:00:00-04:00"
+        },
+        {
+          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
+          "state": "NM",
+          "segment": "Other",
+          "keywords": [
+            "technology",
+            "licensing",
+            "opportunity:",
+            "reactor",
+            "mitigation"
+          ],
+          "agency": "",
+          "deadline": "2026-12-19T17:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Detection & Response Analyst",
+          "title": "Lead Software Engineer - AI & Agentic Systems",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Category Manager - Ferrous Castings",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "LCU Account Manager",
+          "title": "Lead Software Engineer - AI & Agentic Systems",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Technical Integration Architect",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Software Product Test Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Technical Integration Architect",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Account Manager",
-          "state": "FL",
+          "title": "Manufacturing Engineer Intern",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Account Manager Supply",
+          "title": "Service Account Manager",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Client Service Representative",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Area General Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Services Account Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Systems Account Manager",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Account Manager Supply",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Systems Account Manager",
+          "title": "Area General Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Account Manager Supply",
+          "title": "Account Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Services Account Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Services Account Manager",
+          "title": "Area General Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Senior Services Account Manager - Lawton\\Oklahoma City",
-          "state": "",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Service Account Manager - Mid Hudson Valley",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Controls Account Manager",
+          "title": "Controls Technician Apprentice",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Complex Solutions Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Services Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Turnkey Developer",
+          "title": "Sr. Environmental, Health and Safety Manager - EHS",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -1131,7 +1068,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 17 active job postings.",
+      "recentSignalSummary": "Recent $79.7M Municipal win in NY. 10 open bids. 15 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -1262,17 +1199,17 @@
         },
         {
           "source": "google_news",
-          "title": "Electric cremations and broken EV chargers: latest on Bristol City Leap\u2019s climate deal - Bristol Live",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBJRnFqT0RIMXB0WUFhZjV6RnVNTjdCVGF3QzNLTXRIMjI0TXFWbEF0V1ppUDhieWlHSzF0TVYxN0pjNjA0M0dhSGoweXhMNExxX3FLalFONk1DNFNSWVMzalZfU0JNV3RKckxXUFBxYjJQa1JRcHBsdFlRNUIyc29pTGxuQWNIczROTTFHQTdwN051OTVvdldpNA?oc=5\" target=\"_blank\">Electric crematio",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBJRnFqT0RIMXB0WUFhZjV6RnVNTjdCVGF3QzNLTXRIMjI0TXFWbEF0V1ppUDhieWlHSzF0TVYxN0pjNjA0M0dhSGoweXhMNExxX3FLalFONk1DNFNSWVMzalZfU0JNV3RKckxXUFBxYjJQa1JRcHBsdFlRNUIyc29pTGxuQWNIczROTTFHQTdwN051OTVvdldpNA?oc=5",
-          "published": "Mon, 08 Jun 2026 13:06:00 GMT"
+          "title": "Ameresco completes two solar projects for Maryland school district - Solar Power World",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5\" t",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0MxN3kzNVFGUFVBUnM2TzRfWGVxbVd4WjJ6VTl0S2NOU0xLUGdHRkhwa3ZzeHVCVVhOR2V5NGpCekw3bWc3UXlhSlNkWUJ3NTVwNUZEcWpMM2dGS3h6THN5Yms4SHJHMm1oSWc1MXZ6aWZLLUdoYXFpTm9yU1VjLU5zck5PdXFEQU9jN3pTbWwwZ2doNlZPVWIzd1hINTF0SnMybmRncFhpSm90OHJrUUN2dw?oc=5",
+          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
-          "title": "Energy savings performance contracts offer a path to building upgrades when city budgets are tight - Smart Cities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5\" target=\"_blank\">Energy savi",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5",
-          "published": "Tue, 16 Jun 2026 14:08:27 GMT"
+          "title": "Electric cremations and broken EV chargers: latest on Bristol City Leap\u2019s climate deal - Bristol Live",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBJRnFqT0RIMXB0WUFhZjV6RnVNTjdCVGF3QzNLTXRIMjI0TXFWbEF0V1ppUDhieWlHSzF0TVYxN0pjNjA0M0dhSGoweXhMNExxX3FLalFONk1DNFNSWVMzalZfU0JNV3RKckxXUFBxYjJQa1JRcHBsdFlRNUIyc29pTGxuQWNIczROTTFHQTdwN051OTVvdldpNA?oc=5\" target=\"_blank\">Electric crematio",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBJRnFqT0RIMXB0WUFhZjV6RnVNTjdCVGF3QzNLTXRIMjI0TXFWbEF0V1ppUDhieWlHSzF0TVYxN0pjNjA0M0dhSGoweXhMNExxX3FLalFONk1DNFNSWVMzalZfU0JNV3RKckxXUFBxYjJQa1JRcHBsdFlRNUIyc29pTGxuQWNIczROTTFHQTdwN051OTVvdldpNA?oc=5",
+          "published": "Mon, 08 Jun 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1281,135 +1218,195 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "31 CES n. 25 military gear lockers.",
-          "state": "IT-PN",
+          "title": "GOW-MAC Analyzer",
+          "state": "ME",
           "segment": "Other",
           "keywords": [
-            "military",
-            "lockers."
+            "gow-mac",
+            "analyzer"
           ],
           "agency": "",
-          "deadline": "2026-06-23T19:00:00+02:00"
+          "deadline": null
         },
         {
-          "title": "Patient Ceiling Lift Slings Replacement",
-          "state": "WI",
+          "title": "Security and Caretaker Services at Gainesville Job Corps Center in Gainesville, FL",
+          "state": "FL",
           "segment": "Other",
           "keywords": [
-            "patient",
-            "ceiling",
-            "slings",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T16:00:00-05:00"
-        },
-        {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "shade",
-            "structure",
-            "canopy"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T15:00:00-05:00"
-        },
-        {
-          "title": "44--SHAFT SEAL ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "44--shaft",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T00:00:00-04:00"
-        },
-        {
-          "title": "Installation of Security Fence",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "installation",
             "security",
-            "fence"
+            "caretaker",
+            "services",
+            "gainesville",
+            "corps"
           ],
           "agency": "",
-          "deadline": "2026-06-22T16:00:00-06:00"
+          "deadline": null
         },
         {
-          "title": "Repair BEQ HP135",
+          "title": "Socket Head Cap Screws",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "socket",
+            "screws"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T15:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "NC",
           "segment": "Other",
           "keywords": [
-            "repair",
-            "hp135"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
         },
         {
-          "title": "EcoStruxure Panel Server Wired by Design (a universal concentrator Modbus gateway)",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "ecostruxure",
-            "panel",
-            "server",
-            "wired",
-            "design"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T16:00:00-04:00"
-        },
-        {
-          "title": "Atlanta Job Corps Center Caretaker and Security Services",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "atlanta",
-            "corps",
-            "center",
-            "caretaker",
-            "security"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25T17:00:00-04:00"
-        },
-        {
-          "title": "Notice of Intent to Award Sole Source W569QE-26-Q-A002",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "notice",
-            "intent",
-            "award",
-            "source",
-            "w569qe-26-q-a002"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T10:00:00-06:00"
-        },
-        {
-          "title": "N--METAL DOOR REFRAMING - Western Nevada Agency",
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n--metal",
-            "reframing",
-            "western",
-            "nevada",
-            "agency"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-07:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
+        },
+        {
+          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "non-research",
+            "long-term",
+            "facility",
+            "needed",
+            "enrichment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T17:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "6515--Dental Panoramic Machine",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--dental",
+            "panoramic",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T10:00:00-04:00"
+        },
+        {
+          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
+          "state": "NM",
+          "segment": "Other",
+          "keywords": [
+            "technology",
+            "licensing",
+            "opportunity:",
+            "reactor",
+            "mitigation"
+          ],
+          "agency": "",
+          "deadline": "2026-12-19T17:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
+          "title": "Senior Proposal Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Project Manager",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Quality Control Manager At Large",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
           "title": "Senior Engineering Manager - Renewable Energy",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Multisite Energy Management System Specialist",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -1424,6 +1421,28 @@
           "state": "CA",
           "segment": "Other",
           "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Senior Superintendent",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
           "postedDate": "2026-06-19"
         },
         {
@@ -1457,6 +1476,13 @@
             "Healthcare",
             "University"
           ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-06-18"
         },
         {
@@ -1524,15 +1550,6 @@
             "University"
           ],
           "postedDate": "2026-06-16"
-        },
-        {
-          "title": "Operations Maintenance Technician",
-          "state": "IL",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-15"
         },
         {
           "title": "Mobile Controls Project Manager",
@@ -1623,13 +1640,6 @@
           "postedDate": "2026-06-09"
         },
         {
-          "title": "Field Supervisor - BESS",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-08"
-        },
-        {
           "title": "Building Performance Analyst",
           "state": "",
           "segment": "Schools",
@@ -1650,83 +1660,6 @@
             "University"
           ],
           "postedDate": "2026-06-06"
-        },
-        {
-          "title": "PV and Energy Storage Remote Operator & Data Analyst",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-06"
-        },
-        {
-          "title": "Power Plant Operator",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-06"
-        },
-        {
-          "title": "Mechanical Superintendent",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-06"
-        },
-        {
-          "title": "Controls Project Manager",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-05"
-        },
-        {
-          "title": "Power Plant Operator",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-05"
-        },
-        {
-          "title": "Facilities Manager - Boiler and Chiller Plant",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-30"
-        },
-        {
-          "title": "Property Tax Accountant",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-05-27"
         }
       ],
       "historicalBids": [
@@ -1814,283 +1747,219 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "31 CES n. 25 military gear lockers.",
-          "state": "IT-PN",
+          "title": "GOW-MAC Analyzer",
+          "state": "ME",
           "segment": "Other",
           "keywords": [
-            "military",
-            "lockers."
+            "gow-mac",
+            "analyzer"
           ],
           "agency": "",
-          "deadline": "2026-06-23T19:00:00+02:00"
+          "deadline": null
         },
         {
-          "title": "Patient Ceiling Lift Slings Replacement",
-          "state": "WI",
+          "title": "Security and Caretaker Services at Gainesville Job Corps Center in Gainesville, FL",
+          "state": "FL",
           "segment": "Other",
           "keywords": [
-            "patient",
-            "ceiling",
-            "slings",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T16:00:00-05:00"
-        },
-        {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "shade",
-            "structure",
-            "canopy"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T15:00:00-05:00"
-        },
-        {
-          "title": "44--SHAFT SEAL ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "44--shaft",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T00:00:00-04:00"
-        },
-        {
-          "title": "Installation of Security Fence",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "installation",
             "security",
-            "fence"
+            "caretaker",
+            "services",
+            "gainesville",
+            "corps"
           ],
           "agency": "",
-          "deadline": "2026-06-22T16:00:00-06:00"
+          "deadline": null
         },
         {
-          "title": "Repair BEQ HP135",
+          "title": "Socket Head Cap Screws",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "socket",
+            "screws"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T15:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "NC",
           "segment": "Other",
           "keywords": [
-            "repair",
-            "hp135"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
         },
         {
-          "title": "EcoStruxure Panel Server Wired by Design (a universal concentrator Modbus gateway)",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "ecostruxure",
-            "panel",
-            "server",
-            "wired",
-            "design"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T16:00:00-04:00"
-        },
-        {
-          "title": "Atlanta Job Corps Center Caretaker and Security Services",
-          "state": "GA",
-          "segment": "Other",
-          "keywords": [
-            "atlanta",
-            "corps",
-            "center",
-            "caretaker",
-            "security"
-          ],
-          "agency": "",
-          "deadline": "2026-06-25T17:00:00-04:00"
-        },
-        {
-          "title": "Notice of Intent to Award Sole Source W569QE-26-Q-A002",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "notice",
-            "intent",
-            "award",
-            "source",
-            "w569qe-26-q-a002"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T10:00:00-06:00"
-        },
-        {
-          "title": "N--METAL DOOR REFRAMING - Western Nevada Agency",
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n--metal",
-            "reframing",
-            "western",
-            "nevada",
-            "agency"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-07:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
+        },
+        {
+          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "non-research",
+            "long-term",
+            "facility",
+            "needed",
+            "enrichment"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T17:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "6515--Dental Panoramic Machine",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--dental",
+            "panoramic",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T10:00:00-04:00"
+        },
+        {
+          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
+          "state": "NM",
+          "segment": "Other",
+          "keywords": [
+            "technology",
+            "licensing",
+            "opportunity:",
+            "reactor",
+            "mitigation"
+          ],
+          "agency": "",
+          "deadline": "2026-12-19T17:00:00-07:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Business Development and Innovation Co-Op",
-          "state": "TX",
+          "title": "Quality Control Inspector",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Business Development and Innovation Co-Op",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Global Operational Technology Team Intern",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Business Development and Innovation Co-Op",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Jr. C++ Software Developer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Manufacturing Production Worker",
+          "title": "Material Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "Digital Customer Experience Adoption Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Tech Partner",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Technical Account Manager - Senior Professional",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Category Buyer",
+          "title": "Territory Manager - Service Operations",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "Engineer I, Mechanical Systems Design",
-          "state": "NC",
+          "title": "BAS Pre-Construction Estimator",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "HR Generalist",
-          "state": "TX",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Technical Account Manager - Senior Professional",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Technical Account Manager - Senior Professional",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Enterprise Systems Engineer",
+          "title": "Key Account Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "Channel Projects, Order Specialist - Inside Parameters",
-          "state": "MA",
+          "title": "Key Account Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "National Key Account Manager",
-          "state": "MA",
+          "title": "Key Account Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "Electrical Assembler - BOW",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "System Commissioning Specialist",
-          "state": "VA",
+          "title": "Wiring Associate",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools"
           ],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
         },
         {
-          "title": "Digital Customer Experience Adoption Leader",
-          "state": "MA",
+          "title": "BAS Pre-Construction Estimator",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "BAS Pre-Construction Estimator",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "BAS Pre-Construction Estimator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Field Service Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Construction Estimator, Cost Control, Procurement",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
         }
       ],
       "historicalBids": [
@@ -2108,7 +1977,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 21 active job postings.",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 13 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -2292,143 +2161,127 @@
       "bondMentions": [],
       "activeBids": [
         {
-          "title": "31 CES n. 25 military gear lockers.",
-          "state": "IT-PN",
+          "title": "GOW-MAC Analyzer",
+          "state": "ME",
           "segment": "Other",
           "keywords": [
-            "military",
-            "lockers."
+            "gow-mac",
+            "analyzer"
           ],
           "agency": "",
-          "deadline": "2026-06-23T19:00:00+02:00"
+          "deadline": null
         },
         {
-          "title": "Patient Ceiling Lift Slings Replacement",
-          "state": "WI",
+          "title": "Security and Caretaker Services at Gainesville Job Corps Center in Gainesville, FL",
+          "state": "FL",
           "segment": "Other",
           "keywords": [
-            "patient",
-            "ceiling",
-            "slings",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-06-24T16:00:00-05:00"
-        },
-        {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
-          "segment": "Other",
-          "keywords": [
-            "shade",
-            "structure",
-            "canopy"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T15:00:00-05:00"
-        },
-        {
-          "title": "44--SHAFT SEAL ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "44--shaft",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T00:00:00-04:00"
-        },
-        {
-          "title": "Installation of Security Fence",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "installation",
             "security",
-            "fence"
+            "caretaker",
+            "services",
+            "gainesville",
+            "corps"
           ],
           "agency": "",
-          "deadline": "2026-06-22T16:00:00-06:00"
+          "deadline": null
         },
         {
-          "title": "Repair BEQ HP135",
+          "title": "Socket Head Cap Screws",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "socket",
+            "screws"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T15:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
+        {
+          "title": "7195--Solar Shades - B3 PACT",
           "state": "NC",
           "segment": "Other",
           "keywords": [
-            "repair",
-            "hp135"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
         },
         {
-          "title": "EcoStruxure Panel Server Wired by Design (a universal concentrator Modbus gateway)",
-          "state": "TN",
+          "title": "7195--Solar Shades - B3 PACT",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "ecostruxure",
-            "panel",
-            "server",
-            "wired",
-            "design"
+            "7195--solar",
+            "shades"
           ],
           "agency": "",
-          "deadline": "2026-06-26T16:00:00-04:00"
+          "deadline": "2026-07-01T10:00:00-04:00"
         },
         {
-          "title": "Atlanta Job Corps Center Caretaker and Security Services",
+          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
           "state": "GA",
           "segment": "Other",
           "keywords": [
-            "atlanta",
-            "corps",
-            "center",
-            "caretaker",
-            "security"
+            "non-research",
+            "long-term",
+            "facility",
+            "needed",
+            "enrichment"
           ],
           "agency": "",
-          "deadline": "2026-06-25T17:00:00-04:00"
+          "deadline": "2026-07-13T17:00:00-04:00"
         },
         {
-          "title": "Notice of Intent to Award Sole Source W569QE-26-Q-A002",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "notice",
-            "intent",
-            "award",
-            "source",
-            "w569qe-26-q-a002"
-          ],
-          "agency": "",
-          "deadline": "2026-06-23T10:00:00-06:00"
-        },
-        {
-          "title": "N--METAL DOOR REFRAMING - Western Nevada Agency",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n--metal",
-            "reframing",
-            "western",
-            "nevada",
-            "agency"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-07:00"
-        }
-      ],
-      "jobPostings": [
+          "deadline": "2026-08-04T00:00:00-04:00"
+        },
         {
-          "title": "Implementation Lead, Continuous Engineering (MST/PST timezones)",
+          "title": "6515--Dental Panoramic Machine",
           "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
+          "segment": "Other",
+          "keywords": [
+            "6515--dental",
+            "panoramic",
+            "machine"
           ],
-          "postedDate": "2026-06-19"
+          "agency": "",
+          "deadline": "2026-06-26T10:00:00-04:00"
+        },
+        {
+          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
+          "state": "NM",
+          "segment": "Other",
+          "keywords": [
+            "technology",
+            "licensing",
+            "opportunity:",
+            "reactor",
+            "mitigation"
+          ],
+          "agency": "",
+          "deadline": "2026-12-19T17:00:00-07:00"
         }
       ],
+      "jobPostings": [],
       "historicalBids": [
         {
           "segment": "Healthcare"
@@ -2483,7 +2336,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids. 1 active job postings.",
+      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids.",
       "executiveMoves": [],
       "conferences": []
     }
