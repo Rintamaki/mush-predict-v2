@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20",
-  "last_updated_display": "June 20, 2026",
+  "last_updated": "2026-06-21",
+  "last_updated_display": "June 21, 2026",
   "data_sources_active": [
     "USASpending.gov",
     "SAM.gov",
@@ -18,7 +18,7 @@
   "bond_opportunities": [],
   "construction_opportunities": [
     {
-      "id": "construction-67444",
+      "id": "construction-87921",
       "title": "Walsh-Turner JV gets green light on $580M utility plant project",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -32,7 +32,7 @@
       "segment": "University"
     },
     {
-      "id": "construction-74690",
+      "id": "construction-42745",
       "title": "Amazon plans $10B Missouri data center campus",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -46,7 +46,7 @@
       "segment": "University"
     },
     {
-      "id": "construction-13625",
+      "id": "construction-67536",
       "title": "Manhattan, AECOM Hunt to manage $1.45B University of Florida stadium renovation",
       "agency": "Construction Dive",
       "type": "Construction Project",
@@ -260,13 +260,6 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Johnson Controls Acquires Nantum AI to Accelerate AI-driven Energy Optimisation and Control Capabilities within OpenBlue - Proptech Connect",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHhaUFhiWVlHWFAtR1lDUUpSZTZ1ZlpMVmZVNjR5aUM2ZEdZVm5PX3Fabkk5QjJ5dXgwV1pnSzd0Z0tUclpQSkxVTFB0UUh5alVsNXlXMnlNQzlfN0xsX2tJYVFzRWt1bnJUaHVQSWVlUG5sTzhFS1hPTzVhTl82dU9Lb0NsQmF5aF8zaUFEZS16c01VZ1dEU21KRmxKcUU2bFc0bV9oM1RLR2RqekIyeDhIbHRvd3pBcm",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHhaUFhiWVlHWFAtR1lDUUpSZTZ1ZlpMVmZVNjR5aUM2ZEdZVm5PX3Fabkk5QjJ5dXgwV1pnSzd0Z0tUclpQSkxVTFB0UUh5alVsNXlXMnlNQzlfN0xsX2tJYVFzRWt1bnJUaHVQSWVlUG5sTzhFS1hPTzVhTl82dU9Lb0NsQmF5aF8zaUFEZS16c01VZ1dEU21KRmxKcUU2bFc0bV9oM1RLR2RqekIyeDhIbHRvd3pBcm9NY1BIWkxSczRQQ01Neno1OGh6RVlhbG03eW1WSk5CU19sYnF3SGpjaw?oc=5",
-          "published": "Tue, 28 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Johnson Controls boosts OpenBlue with Nantum AI acquisition - Manufacturing Today India",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBHUHpGNzhPVjAzc2tnc0w3eUFkWEpjRGlHNF8wdEpuWk9hQThldENlUWJYdEJRNTVJaVY2anNTMzVYV3JHaVFpc1lwYnJFY1FGOXljX3haRmNFTVFVTlp5ckdBVTMxQzV5Q1hCWExUNWx1MnRuWVlaWjZQRGw?oc=5\" target=\"_blank\">Johnson Controls boosts OpenBlue with Nantum AI acquisition<",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHUHpGNzhPVjAzc2tnc0w3eUFkWEpjRGlHNF8wdEpuWk9hQThldENlUWJYdEJRNTVJaVY2anNTMzVYV3JHaVFpc1lwYnJFY1FGOXljX3haRmNFTVFVTlp5ckdBVTMxQzV5Q1hCWExUNWx1MnRuWVlaWjZQRGw?oc=5",
@@ -300,6 +293,59 @@
       "bondMentions": [],
       "activeBids": [
         {
+          "title": "6515--Nuclear Mediine Cabinets and Equipment for PET Procedures  for the Iowa City VA Health Care System,  Small Business Set-Aside",
+          "state": "IA",
+          "segment": "Other",
+          "keywords": [
+            "6515--nuclear",
+            "mediine",
+            "cabinets",
+            "equipment",
+            "procedures"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T17:00:00-05:00"
+        },
+        {
+          "title": "F--PCWR LOP AND SCATTER FY26",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "f--pcwr",
+            "scatter"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Contract Delivery Service (CDS) HCR 97560 SELMA, OR - H060, OR",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "contract",
+            "delivery",
+            "service",
+            "(cds)",
+            "97560"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T10:00:00-05:00"
+        },
+        {
+          "title": "Selective Service System Website Modernization",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "selective",
+            "service",
+            "system",
+            "website",
+            "modernization"
+          ],
+          "agency": "",
+          "deadline": "2026-06-30T14:00:00-04:00"
+        },
+        {
           "title": "GOW-MAC Analyzer",
           "state": "ME",
           "segment": "Other",
@@ -325,6 +371,19 @@
           "deadline": null
         },
         {
+          "title": "JSCG-P Cristobal Colon Base Life Support",
+          "state": "PA-3",
+          "segment": "Other",
+          "keywords": [
+            "jscg-p",
+            "cristobal",
+            "colon",
+            "support"
+          ],
+          "agency": "",
+          "deadline": "2026-06-24T15:00:00-05:00"
+        },
+        {
           "title": "Socket Head Cap Screws",
           "state": "ME",
           "segment": "Other",
@@ -347,103 +406,41 @@
           "deadline": "2026-08-04T00:00:00-04:00"
         },
         {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "title": "Notice of Intent to Sole Source services to maintain regular access to Advanced Photon Source (APS) - SER-CAT beam lines",
           "state": "GA",
           "segment": "Other",
           "keywords": [
-            "non-research",
-            "long-term",
-            "facility",
-            "needed",
-            "enrichment"
+            "notice",
+            "intent",
+            "source",
+            "services",
+            "maintain"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T00:00:00-04:00"
-        },
-        {
-          "title": "6515--Dental Panoramic Machine",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--dental",
-            "panoramic",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T10:00:00-04:00"
-        },
-        {
-          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
-          "state": "NM",
-          "segment": "Other",
-          "keywords": [
-            "technology",
-            "licensing",
-            "opportunity:",
-            "reactor",
-            "mitigation"
-          ],
-          "agency": "",
-          "deadline": "2026-12-19T17:00:00-07:00"
+          "deadline": "2026-07-05T20:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Plant Operations Manager",
-          "state": "",
+          "title": "CCR Service Account Rep",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "3rd Shift Assembly, Sentry Shell Wrangler",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-20"
+          "title": "Customer Support Coordinator",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "HVAC Project Mechanic Journeymen",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Security Installer",
+          "title": "HVAC Truck Based Journeyman Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -451,53 +448,28 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "Mechanical Test Lab Engineer - 2nd Shift (onsite)",
+          "title": "Senior Development Engineer",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Sr Strategic Buyer",
+          "state": "AZ",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "HVAC Mechanical Service Tech Svcmn",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Electrical Engineering Technician (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "HVAC Mechanical Service Tech Svcmn",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Security Service Technician (union)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Wrapper (2nd Shift)",
+          "title": "Complex Security Field Project Manager",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -505,28 +477,74 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "Data Center Mech Svc Tech Jrny (un)",
+          "title": "Staff Software Engineer - Zero Trust Networking (remote)",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Wrapper/ Shipper, 2nd Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "HVAC Mechanical Apprentice",
-          "state": "NC",
+          "title": "Pre Sales Field Engineer, Security and Fire",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Equipment Systems Application Engineer I",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Apprentice (union)",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "Field Service Coordinator",
+          "title": "Client Services Coordinator 3",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "HVAC Equipment Service Journeyman Techncian (un)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Quality Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Fire Inspection Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -534,61 +552,51 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "HVAC Truck Based Service Controls Engineer",
+          "title": "Customer Quality Analyst",
           "state": "",
-          "segment": "Schools",
+          "segment": "Healthcare",
           "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
+            "Healthcare"
           ],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Senior Lab Technician - 3rd Shift (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
           "title": "Fire Installer",
-          "state": "",
+          "state": "PA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "Manager, Thermal Systems Product Engineering - Data Centers (onsite)",
+          "title": "Field Project Coordinator",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Director Global Finance Transformation",
-          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "Insulator 2nd Shift",
+          "title": "Fire Sprinkler Inspector III",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeyman Mechanic (un)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Fitter Welder",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -596,10 +604,28 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
         },
         {
-          "title": "Fire & Security Inspector",
+          "title": "Pre-Construction Procurement Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Test Stand Operator B - 2nd shift",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -607,7 +633,43 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-20"
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Controls Systems Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Senior Talent Acquisition Partner",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "HVAC Truck Based Mechanic Apprentice (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Principle Product Manufacturing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
         }
       ],
       "historicalBids": [
@@ -637,7 +699,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 20 active job postings.",
+      "recentSignalSummary": "Recent $20.4M Healthcare win in WI. 10 open bids. 28 active job postings.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -796,20 +858,65 @@
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Northern Illinois University and Trane Technologies Transform Campus Sustainability - Trane Technologies",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTERkN3JWdWlETFp1aW84ekp6NEFNM2JwUGpVMTZmR2lWUTNBZkFDbU1vYTI5LXQwVGx2Uk1QX1diRk9qRnIyeHhmYS1oMjlRdlY5ZzlKWTdPRmtwN080M1U5Ql9halRnRHk0d29ObUVHY2RNRVgyU18yaTVnanN1SThKRkh0U0ZSNENMQnFnS1hhRVlVY0llZXpHemExU0lGQmdHY1N6ci10TV9LRWNBTkxjMHY1M2FmeD",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTERkN3JWdWlETFp1aW84ekp6NEFNM2JwUGpVMTZmR2lWUTNBZkFDbU1vYTI5LXQwVGx2Uk1QX1diRk9qRnIyeHhmYS1oMjlRdlY5ZzlKWTdPRmtwN080M1U5Ql9halRnRHk0d29ObUVHY2RNRVgyU18yaTVnanN1SThKRkh0U0ZSNENMQnFnS1hhRVlVY0llZXpHemExU0lGQmdHY1N6ci10TV9LRWNBTkxjMHY1M2FmeDhCOFVjTERYNHpOVnVLNVF4NnpaUQ?oc=5",
-          "published": "Wed, 22 Apr 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "bondMentions": [],
       "activeBids": [
+        {
+          "title": "6515--Nuclear Mediine Cabinets and Equipment for PET Procedures  for the Iowa City VA Health Care System,  Small Business Set-Aside",
+          "state": "IA",
+          "segment": "Other",
+          "keywords": [
+            "6515--nuclear",
+            "mediine",
+            "cabinets",
+            "equipment",
+            "procedures"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T17:00:00-05:00"
+        },
+        {
+          "title": "F--PCWR LOP AND SCATTER FY26",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "f--pcwr",
+            "scatter"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Contract Delivery Service (CDS) HCR 97560 SELMA, OR - H060, OR",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "contract",
+            "delivery",
+            "service",
+            "(cds)",
+            "97560"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T10:00:00-05:00"
+        },
+        {
+          "title": "Selective Service System Website Modernization",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "selective",
+            "service",
+            "system",
+            "website",
+            "modernization"
+          ],
+          "agency": "",
+          "deadline": "2026-06-30T14:00:00-04:00"
+        },
         {
           "title": "GOW-MAC Analyzer",
           "state": "ME",
@@ -836,6 +943,19 @@
           "deadline": null
         },
         {
+          "title": "JSCG-P Cristobal Colon Base Life Support",
+          "state": "PA-3",
+          "segment": "Other",
+          "keywords": [
+            "jscg-p",
+            "cristobal",
+            "colon",
+            "support"
+          ],
+          "agency": "",
+          "deadline": "2026-06-24T15:00:00-05:00"
+        },
+        {
           "title": "Socket Head Cap Screws",
           "state": "ME",
           "segment": "Other",
@@ -858,184 +978,125 @@
           "deadline": "2026-08-04T00:00:00-04:00"
         },
         {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "title": "Notice of Intent to Sole Source services to maintain regular access to Advanced Photon Source (APS) - SER-CAT beam lines",
           "state": "GA",
           "segment": "Other",
           "keywords": [
-            "non-research",
-            "long-term",
-            "facility",
-            "needed",
-            "enrichment"
+            "notice",
+            "intent",
+            "source",
+            "services",
+            "maintain"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T00:00:00-04:00"
-        },
-        {
-          "title": "6515--Dental Panoramic Machine",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--dental",
-            "panoramic",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T10:00:00-04:00"
-        },
-        {
-          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
-          "state": "NM",
-          "segment": "Other",
-          "keywords": [
-            "technology",
-            "licensing",
-            "opportunity:",
-            "reactor",
-            "mitigation"
-          ],
-          "agency": "",
-          "deadline": "2026-12-19T17:00:00-07:00"
+          "deadline": "2026-07-05T20:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Lead Software Engineer - AI & Agentic Systems",
+          "title": "Lead Coating & Corrosion Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Lead Coating & Corrosion Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Lead Serviceability Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Clean Energy & Sustainability Leader",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-21"
+        },
+        {
+          "title": "Strategic Sales Executive",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-20"
         },
         {
-          "title": "Category Manager - Ferrous Castings",
+          "title": "Quality Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Inside Sales Representative",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Material Handler - Driver II - 1st shift - VDC",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Lead Coating & Corrosion Engineer",
           "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-20"
         },
         {
-          "title": "Lead Software Engineer - AI & Agentic Systems",
-          "state": "WI",
+          "title": "Lighting Project Developer",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-20"
         },
         {
-          "title": "Technical Integration Architect",
-          "state": "WI",
+          "title": "Clean Energy & Sustainability Leader",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-20"
         },
         {
-          "title": "Software Product Test Engineer",
-          "state": "WI",
+          "title": "Technical Engineer I (Remote)",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-20"
         },
         {
-          "title": "Technical Integration Architect",
+          "title": "Team Leader - P2 Station 10",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Lead Serviceability Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         },
         {
-          "title": "Manufacturing Engineer Intern",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Service Account Manager",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Client Service Representative",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Area General Manager",
+          "title": "Strategic Sales Executive",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Area General Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Account Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Area General Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Controls Technician Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Sr. Environmental, Health and Safety Manager - EHS",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
+          "postedDate": "2026-06-20"
         }
       ],
       "historicalBids": [
@@ -1218,6 +1279,59 @@
       "bondMentions": [],
       "activeBids": [
         {
+          "title": "6515--Nuclear Mediine Cabinets and Equipment for PET Procedures  for the Iowa City VA Health Care System,  Small Business Set-Aside",
+          "state": "IA",
+          "segment": "Other",
+          "keywords": [
+            "6515--nuclear",
+            "mediine",
+            "cabinets",
+            "equipment",
+            "procedures"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T17:00:00-05:00"
+        },
+        {
+          "title": "F--PCWR LOP AND SCATTER FY26",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "f--pcwr",
+            "scatter"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Contract Delivery Service (CDS) HCR 97560 SELMA, OR - H060, OR",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "contract",
+            "delivery",
+            "service",
+            "(cds)",
+            "97560"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T10:00:00-05:00"
+        },
+        {
+          "title": "Selective Service System Website Modernization",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "selective",
+            "service",
+            "system",
+            "website",
+            "modernization"
+          ],
+          "agency": "",
+          "deadline": "2026-06-30T14:00:00-04:00"
+        },
+        {
           "title": "GOW-MAC Analyzer",
           "state": "ME",
           "segment": "Other",
@@ -1243,6 +1357,19 @@
           "deadline": null
         },
         {
+          "title": "JSCG-P Cristobal Colon Base Life Support",
+          "state": "PA-3",
+          "segment": "Other",
+          "keywords": [
+            "jscg-p",
+            "cristobal",
+            "colon",
+            "support"
+          ],
+          "agency": "",
+          "deadline": "2026-06-24T15:00:00-05:00"
+        },
+        {
           "title": "Socket Head Cap Screws",
           "state": "ME",
           "segment": "Other",
@@ -1265,77 +1392,18 @@
           "deadline": "2026-08-04T00:00:00-04:00"
         },
         {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "title": "Notice of Intent to Sole Source services to maintain regular access to Advanced Photon Source (APS) - SER-CAT beam lines",
           "state": "GA",
           "segment": "Other",
           "keywords": [
-            "non-research",
-            "long-term",
-            "facility",
-            "needed",
-            "enrichment"
+            "notice",
+            "intent",
+            "source",
+            "services",
+            "maintain"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T00:00:00-04:00"
-        },
-        {
-          "title": "6515--Dental Panoramic Machine",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--dental",
-            "panoramic",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T10:00:00-04:00"
-        },
-        {
-          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
-          "state": "NM",
-          "segment": "Other",
-          "keywords": [
-            "technology",
-            "licensing",
-            "opportunity:",
-            "reactor",
-            "mitigation"
-          ],
-          "agency": "",
-          "deadline": "2026-12-19T17:00:00-07:00"
+          "deadline": "2026-07-05T20:00:00-04:00"
         }
       ],
       "jobPostings": [
@@ -1417,13 +1485,6 @@
           "postedDate": "2026-06-19"
         },
         {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
           "title": "Senior Superintendent",
           "state": "WA",
           "segment": "Schools",
@@ -1476,13 +1537,6 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Operations and Maintenance Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
           "postedDate": "2026-06-18"
         },
         {
@@ -1660,6 +1714,28 @@
             "University"
           ],
           "postedDate": "2026-06-06"
+        },
+        {
+          "title": "PV and Energy Storage Remote Operator & Data Analyst",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Power Plant Operator",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-06"
         }
       ],
       "historicalBids": [
@@ -1747,6 +1823,59 @@
       "bondMentions": [],
       "activeBids": [
         {
+          "title": "6515--Nuclear Mediine Cabinets and Equipment for PET Procedures  for the Iowa City VA Health Care System,  Small Business Set-Aside",
+          "state": "IA",
+          "segment": "Other",
+          "keywords": [
+            "6515--nuclear",
+            "mediine",
+            "cabinets",
+            "equipment",
+            "procedures"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T17:00:00-05:00"
+        },
+        {
+          "title": "F--PCWR LOP AND SCATTER FY26",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "f--pcwr",
+            "scatter"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Contract Delivery Service (CDS) HCR 97560 SELMA, OR - H060, OR",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "contract",
+            "delivery",
+            "service",
+            "(cds)",
+            "97560"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T10:00:00-05:00"
+        },
+        {
+          "title": "Selective Service System Website Modernization",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "selective",
+            "service",
+            "system",
+            "website",
+            "modernization"
+          ],
+          "agency": "",
+          "deadline": "2026-06-30T14:00:00-04:00"
+        },
+        {
           "title": "GOW-MAC Analyzer",
           "state": "ME",
           "segment": "Other",
@@ -1772,6 +1901,19 @@
           "deadline": null
         },
         {
+          "title": "JSCG-P Cristobal Colon Base Life Support",
+          "state": "PA-3",
+          "segment": "Other",
+          "keywords": [
+            "jscg-p",
+            "cristobal",
+            "colon",
+            "support"
+          ],
+          "agency": "",
+          "deadline": "2026-06-24T15:00:00-05:00"
+        },
+        {
           "title": "Socket Head Cap Screws",
           "state": "ME",
           "segment": "Other",
@@ -1794,174 +1936,21 @@
           "deadline": "2026-08-04T00:00:00-04:00"
         },
         {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "title": "Notice of Intent to Sole Source services to maintain regular access to Advanced Photon Source (APS) - SER-CAT beam lines",
           "state": "GA",
           "segment": "Other",
           "keywords": [
-            "non-research",
-            "long-term",
-            "facility",
-            "needed",
-            "enrichment"
+            "notice",
+            "intent",
+            "source",
+            "services",
+            "maintain"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T00:00:00-04:00"
-        },
-        {
-          "title": "6515--Dental Panoramic Machine",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--dental",
-            "panoramic",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T10:00:00-04:00"
-        },
-        {
-          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
-          "state": "NM",
-          "segment": "Other",
-          "keywords": [
-            "technology",
-            "licensing",
-            "opportunity:",
-            "reactor",
-            "mitigation"
-          ],
-          "agency": "",
-          "deadline": "2026-12-19T17:00:00-07:00"
+          "deadline": "2026-07-05T20:00:00-04:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Quality Control Inspector",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Material Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Territory Manager - Service Operations",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Key Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Key Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Key Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Wiring Associate",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Construction Estimator, Cost Control, Procurement",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-19"
-        }
-      ],
+      "jobPostings": [],
       "historicalBids": [
         {
           "segment": "Healthcare"
@@ -1977,7 +1966,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids. 13 active job postings.",
+      "recentSignalSummary": "Recent $11.2M Healthcare win in MA. 10 open bids.",
       "executiveMoves": [],
       "conferences": []
     },
@@ -2161,6 +2150,59 @@
       "bondMentions": [],
       "activeBids": [
         {
+          "title": "6515--Nuclear Mediine Cabinets and Equipment for PET Procedures  for the Iowa City VA Health Care System,  Small Business Set-Aside",
+          "state": "IA",
+          "segment": "Other",
+          "keywords": [
+            "6515--nuclear",
+            "mediine",
+            "cabinets",
+            "equipment",
+            "procedures"
+          ],
+          "agency": "",
+          "deadline": "2026-06-26T17:00:00-05:00"
+        },
+        {
+          "title": "F--PCWR LOP AND SCATTER FY26",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "f--pcwr",
+            "scatter"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Contract Delivery Service (CDS) HCR 97560 SELMA, OR - H060, OR",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "contract",
+            "delivery",
+            "service",
+            "(cds)",
+            "97560"
+          ],
+          "agency": "",
+          "deadline": "2026-07-06T10:00:00-05:00"
+        },
+        {
+          "title": "Selective Service System Website Modernization",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "selective",
+            "service",
+            "system",
+            "website",
+            "modernization"
+          ],
+          "agency": "",
+          "deadline": "2026-06-30T14:00:00-04:00"
+        },
+        {
           "title": "GOW-MAC Analyzer",
           "state": "ME",
           "segment": "Other",
@@ -2186,6 +2228,19 @@
           "deadline": null
         },
         {
+          "title": "JSCG-P Cristobal Colon Base Life Support",
+          "state": "PA-3",
+          "segment": "Other",
+          "keywords": [
+            "jscg-p",
+            "cristobal",
+            "colon",
+            "support"
+          ],
+          "agency": "",
+          "deadline": "2026-06-24T15:00:00-05:00"
+        },
+        {
           "title": "Socket Head Cap Screws",
           "state": "ME",
           "segment": "Other",
@@ -2208,80 +2263,31 @@
           "deadline": "2026-08-04T00:00:00-04:00"
         },
         {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "NC",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "7195--Solar Shades - B3 PACT",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "7195--solar",
-            "shades"
-          ],
-          "agency": "",
-          "deadline": "2026-07-01T10:00:00-04:00"
-        },
-        {
-          "title": "Non-Research Long-Term Care facility needed for the enrichment and socialization of Non-Human Primate colony",
+          "title": "Notice of Intent to Sole Source services to maintain regular access to Advanced Photon Source (APS) - SER-CAT beam lines",
           "state": "GA",
           "segment": "Other",
           "keywords": [
-            "non-research",
-            "long-term",
-            "facility",
-            "needed",
-            "enrichment"
+            "notice",
+            "intent",
+            "source",
+            "services",
+            "maintain"
           ],
           "agency": "",
-          "deadline": "2026-07-13T17:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T00:00:00-04:00"
-        },
-        {
-          "title": "6515--Dental Panoramic Machine",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--dental",
-            "panoramic",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-06-26T10:00:00-04:00"
-        },
-        {
-          "title": "TECHNOLOGY LICENSING OPPORTUNITY: Heat Pipe Reactor Fire Mitigation and Suppression System",
-          "state": "NM",
-          "segment": "Other",
-          "keywords": [
-            "technology",
-            "licensing",
-            "opportunity:",
-            "reactor",
-            "mitigation"
-          ],
-          "agency": "",
-          "deadline": "2026-12-19T17:00:00-07:00"
+          "deadline": "2026-07-05T20:00:00-04:00"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Team Assistant",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-21"
+        }
+      ],
       "historicalBids": [
         {
           "segment": "Healthcare"
@@ -2336,7 +2342,7 @@
         }
       ],
       "statusToday": "risk",
-      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids.",
+      "recentSignalSummary": "Recent $11.8M Healthcare win in MD. 10 open bids. 1 active job postings.",
       "executiveMoves": [],
       "conferences": []
     }
