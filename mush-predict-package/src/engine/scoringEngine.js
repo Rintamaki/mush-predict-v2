@@ -1,3 +1,4 @@
+import { getIncumbencyBoost } from './incumbency'
 import { computeWinStats, getRealWinRate, getStateWinRate } from './rfpDatabase'
 let RFP_STATS = {}
 
@@ -105,6 +106,17 @@ function computeBehavioralFit(competitor, opportunity) {
       detail: recentPermits.slice(0, 2).map(p => p.location).join('; '),
       contribution: +contribution.toFixed(2),
       source: 'Socrata permits',
+    })
+  }
+ // Incumbency boost — repeat clients are strong behavioral signal
+  const { boost, reason } = getIncumbencyBoost(competitor, opportunity)
+  if (boost > 0) {
+    score += boost
+    signals.push({
+      label:        'Incumbent or near-incumbent position',
+      detail:       reason,
+      contribution: +boost.toFixed(2),
+      source:       'Contract award history',
     })
   }
 
