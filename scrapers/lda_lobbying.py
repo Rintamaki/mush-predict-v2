@@ -5,7 +5,7 @@ Pulls lobbying disclosures from the Senate Lobbying Disclosure Act database.
 
 When competitors lobby for school infrastructure funding, healthcare
 facility legislation, or municipal energy bills — that's their pipeline
-strategy on paper. This catches it.
+strategy on paper.
 
 API docs: https://lda.senate.gov/api/
 """
@@ -16,11 +16,10 @@ from datetime import datetime, timedelta
 
 logger = logging.getLogger(__name__)
 
-BASE_URL     = "https://lda.senate.gov/api/v1"
-HEADERS      = {"Accept": "application/json"}
+BASE_URL      = "https://lda.senate.gov/api/v1"
+HEADERS       = {"Accept": "application/json"}
 LOOKBACK_DAYS = 365
 
-# Keywords indicating MUSH-relevant lobbying activity
 MUSH_LOBBY_KEYWORDS = [
     "energy efficiency", "school", "k-12", "hospital", "healthcare",
     "university", "municipal", "building", "hvac", "infrastructure",
@@ -39,15 +38,16 @@ def fetch_lobbying(competitor: dict) -> list[dict]:
     Pull recent lobbying filings where this competitor is the registrant.
     Returns list of { date, topics, bills, amount } dicts.
     """
-    activities   = []
-    registrant   = competitor.get("lda_registrant_name", competitor["name"])
-    cutoff_year  = (datetime.utcnow() - timedelta(days=LOOKBACK_DAYS)).year
+    activities  = []
+    registrant  = competitor.get("lda_registrant_name", competitor["name"])
+    cutoff_year = (datetime.utcnow() - timedelta(days=LOOKBACK_DAYS)).year
 
     try:
+        # Note: 'filing_type' is NOT a valid LDA param and triggers a 400 error.
+        # Use 'filing_specific_lobbying_issues' search at higher level instead.
         params = {
             "registrant_name": registrant,
             "filing_year":     cutoff_year,
-            "filing_type":     "1",  # LD-1 registrations + LD-2 reports
             "format":          "json",
             "page_size":       20,
         }
@@ -56,7 +56,6 @@ def fetch_lobbying(competitor: dict) -> list[dict]:
         data = resp.json()
 
         for filing in data.get("results", []):
-            # Extract issue areas from the filing
             lobbying_activities = filing.get("lobbying_activities", [])
             topics = []
             bills  = []
@@ -66,7 +65,6 @@ def fetch_lobbying(competitor: dict) -> list[dict]:
                 description   = activity.get("description", "")
                 if _is_mush_relevant(general_issue + " " + description):
                     topics.append(general_issue)
-                    # Extract bill numbers mentioned
                     for gov_entity in activity.get("government_entities", []):
                         if gov_entity.strip():
                             bills.append(gov_entity.strip())
@@ -81,7 +79,7 @@ def fetch_lobbying(competitor: dict) -> list[dict]:
                 "date":   period_start[:7] if period_start else str(cutoff_year),
                 "topics": list(set(topics))[:4],
                 "bills":  list(set(bills))[:4],
-                "amount": float(income.replace(",", "").replace("$", "") or 0),
+                "amount": float(str(income).replace(",", "").replace("$", "") or 0),
             })
 
     except Exception as e:
