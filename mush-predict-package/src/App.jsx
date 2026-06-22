@@ -9,6 +9,7 @@ import SignalStream       from './components/SignalStream'
 import RFPDatabase        from './components/RFPDatabase'
 import { useCompetitorData } from './hooks/useCompetitorData'
 import { rankCompetitorsForOpportunity, loadRFPStats } from './engine/scoringEngine'
+import DistrictContextPanel from './components/DistrictContextPanel'
 
 export default function App() {
   const { competitors, sources, lastUpdated, loading, error } = useCompetitorData()
@@ -73,6 +74,7 @@ export default function App() {
                 {predictions && (
                   <div className="space-y-3 animate-fade-in">
                     <div className="flex items-center justify-between mb-4">
+                      <DistrictContextPanel opportunity={scoredOpp} />
                       <div>
                         <h2 className="font-barlow font-semibold text-white text-lg">Predictions for: {scoredOpp.title}</h2>
                         <p className="text-white/40 text-xs font-mono mt-1">
