@@ -1,15 +1,22 @@
 import { useState, useEffect } from 'react'
 import { Info } from 'lucide-react'
-import TopBar             from './components/TopBar'
-import TabNav             from './components/TabNav'
-import RFPInputForm       from './components/RFPInputForm'
-import PredictionCard     from './components/PredictionCard'
-import StrategicForecast  from './components/StrategicForecast'
-import SignalStream       from './components/SignalStream'
-import RFPDatabase        from './components/RFPDatabase'
-import { useCompetitorData } from './hooks/useCompetitorData'
-import { rankCompetitorsForOpportunity, loadRFPStats } from './engine/scoringEngine'
+import TopBar               from './components/TopBar'
+import TabNav               from './components/TabNav'
+import RFPInputForm         from './components/RFPInputForm'
+import PredictionCard       from './components/PredictionCard'
+import StrategicForecast    from './components/StrategicForecast'
+import SignalStream         from './components/SignalStream'
+import RFPDatabase          from './components/RFPDatabase'
 import DistrictContextPanel from './components/DistrictContextPanel'
+import WeightTuner          from './components/WeightTuner'
+import CalibrationDashboard from './components/CalibrationDashboard'
+import { useCompetitorData } from './hooks/useCompetitorData'
+import {
+  rankCompetitorsForOpportunity,
+  loadRFPStats,
+  loadSavedWeights,
+} from './engine/scoringEngine'
+import { recordPredictionBatch } from './engine/accuracyTracker'
 
 export default function App() {
   const { competitors, sources, lastUpdated, loading, error } = useCompetitorData()
@@ -17,7 +24,15 @@ export default function App() {
   const [predictions, setPredictions] = useState(null)
   const [scoredOpp, setScoredOpp]     = useState(null)
   const [rfpRecords, setRfpRecords]   = useState([])
+  const [tunerOpen, setTunerOpen]     = useState(false)
+  const [recomputeKey, setRecomputeKey] = useState(0)
 
+  // Load saved weights from localStorage on app startup
+  useEffect(() => {
+    loadSavedWeights()
+  }, [])
+
+  // Load RFP history once on mount — feeds real win rates into the engine
   useEffect(() => {
     fetch('./data/rfp_history.json?t=' + Date.now())
       .then(r => r.ok ? r.json() : { rfps: [] })
@@ -32,11 +47,25 @@ export default function App() {
     const ranked = rankCompetitorsForOpportunity(competitors, opportunity)
     setPredictions(ranked)
     setScoredOpp(opportunity)
+    recordPredictionBatch(opportunity, ranked)
+  }
+
+  // When weights change, re-rank using the latest weights
+  function handleTunerChange() {
+    if (scoredOpp) {
+      const ranked = rankCompetitorsForOpportunity(competitors, scoredOpp)
+      setPredictions(ranked)
+    }
+    setRecomputeKey(k => k + 1)
   }
 
   return (
     <div className="dark min-h-screen bg-mk-blue text-white">
-      <TopBar lastUpdated={lastUpdated} sourceCount={sources.length} />
+      <TopBar
+        lastUpdated={lastUpdated}
+        sourceCount={sources.length}
+        onTuneClick={() => setTunerOpen(true)}
+      />
 
       <main className="max-w-screen-2xl mx-auto px-4 sm:px-6 py-6">
 
@@ -73,8 +102,10 @@ export default function App() {
 
                 {predictions && (
                   <div className="space-y-3 animate-fade-in">
+
+                    <DistrictContextPanel opportunity={scoredOpp} />
+
                     <div className="flex items-center justify-between mb-4">
-                      <DistrictContextPanel opportunity={scoredOpp} />
                       <div>
                         <h2 className="font-barlow font-semibold text-white text-lg">Predictions for: {scoredOpp.title}</h2>
                         <p className="text-white/40 text-xs font-mono mt-1">
@@ -92,7 +123,7 @@ export default function App() {
 
                     {predictions.map((p, i) => (
                       <PredictionCard
-                        key={p.competitor}
+                        key={p.competitor + '-' + recomputeKey}
                         prediction={p}
                         isLeader={i === 0}
                         rank={i + 1}
@@ -119,6 +150,9 @@ export default function App() {
                 }}
               />
             )}
+
+            {/* ── ACCURACY / CALIBRATION ── */}
+            {activeTab === 'accuracy' && <CalibrationDashboard />}
           </>
         )}
       </main>
@@ -128,6 +162,13 @@ export default function App() {
           McKinstry Predict · Phase 1 · {competitors.length} competitors · {sources.length} data sources · Predictions are probabilistic, not guarantees
         </p>
       </footer>
+
+      {/* Sensitivity tuner — opens via the Tune button in the TopBar */}
+      <WeightTuner
+        open={tunerOpen}
+        onClose={() => setTunerOpen(false)}
+        onChange={handleTunerChange}
+      />
     </div>
   )
 }

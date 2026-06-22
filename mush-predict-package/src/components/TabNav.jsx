@@ -1,10 +1,11 @@
-import { Target, TrendingUp, Activity, Database } from 'lucide-react'
+import { Target as TargetIcon, TrendingUp, Activity, Database, Crosshair } from 'lucide-react'
 
 const TABS = [
-  { key: 'predict',  label: 'RFP Scorer',          icon: Target },
-  { key: 'forecast', label: 'Strategic Forecast',  icon: TrendingUp },
-  { key: 'stream',   label: 'Signal Stream',       icon: Activity },
-  { key: 'rfpdb',    label: 'RFP Database',         icon: Database },
+  { key: 'predict',    label: 'RFP Scorer',          icon: TargetIcon },
+  { key: 'forecast',   label: 'Strategic Forecast',  icon: TrendingUp },
+  { key: 'stream',     label: 'Signal Stream',       icon: Activity },
+  { key: 'rfpdb',      label: 'RFP Database',         icon: Database },
+  { key: 'accuracy',   label: 'Accuracy',             icon: Crosshair },   // NEW
 ]
 
 export default function TabNav({ active, setActive }) {

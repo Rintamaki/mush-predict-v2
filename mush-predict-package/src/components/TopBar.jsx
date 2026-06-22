@@ -1,6 +1,6 @@
-import { Activity, Sparkles } from 'lucide-react'
+import { Activity, Sliders } from 'lucide-react'
 
-export default function TopBar({ lastUpdated, sourceCount }) {
+export default function TopBar({ lastUpdated, sourceCount, onTuneClick }) {
   return (
     <header className="sticky top-0 z-50 bg-mk-blue border-b border-white/10 shadow-xl shadow-mk-blue/30">
       <div className="max-w-screen-2xl mx-auto px-6 h-16 flex items-center justify-between">
@@ -24,6 +24,14 @@ export default function TopBar({ lastUpdated, sourceCount }) {
               {sourceCount} sources · refreshed {lastUpdated}
             </span>
           </div>
+          <button
+            onClick={onTuneClick}
+            className="flex items-center gap-1.5 px-3 py-1.5 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full text-white/60 hover:text-white text-xs transition-colors"
+            title="Tune scoring weights"
+          >
+            <Sliders size={11} />
+            <span className="font-mono uppercase tracking-wider text-[10px]">Tune</span>
+          </button>
         </div>
       </div>
     </header>

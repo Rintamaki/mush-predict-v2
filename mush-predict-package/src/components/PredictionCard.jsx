@@ -1,3 +1,4 @@
+import CalculationTrace from './CalculationTrace'
 import { useState } from 'react'
 import { ChevronDown, ChevronUp, Trophy } from 'lucide-react'
 import ProbabilityRing from './ProbabilityRing'
@@ -94,6 +95,9 @@ export default function PredictionCard({ prediction, isLeader, rank }) {
           </div>
         </div>
       )}
+      ```javascript
+<CalculationTrace prediction={prediction} />
+```
     </div>
   )
 }
