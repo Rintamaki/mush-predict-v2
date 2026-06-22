@@ -1,22 +1,20 @@
 import { getIncumbencyBoost } from './incumbency'
 import { computeWinStats, getRealWinRate, getStateWinRate } from './rfpDatabase'
+
 let RFP_STATS = {}
 
 export function loadRFPStats(rfpRecords) {
   RFP_STATS = computeWinStats(rfpRecords || [])
 }
+
 /**
  * scoringEngine.js
  *
  * Pure-function scoring engine. Takes a competitor profile and an
  * opportunity, returns explainable probability scores.
- *
- * Design principle: every score must be traceable to observable signals.
- * No black-box outputs. Every percentage in the UI comes from this file.
  */
 
 // ── WEIGHTS ───────────────────────────────────────────────────────────────────
-// These four factors compose the Pursuit Likelihood. Adjustable later.
 export const DEFAULT_WEIGHTS = {
   behavioral:  0.40,
   geographic:  0.20,
@@ -24,14 +22,8 @@ export const DEFAULT_WEIGHTS = {
   strategic:   0.15,
 }
 
-// Mutable runtime weights — start as a copy of defaults
 export let WEIGHTS = { ...DEFAULT_WEIGHTS }
 
-/**
- * Update the weights used by the scoring engine. Values are auto-normalized
- * so they always sum to 1.0, preserving valid probability semantics.
- * Persists to localStorage so refreshes preserve the user's tuning.
- */
 export function setWeights(newWeights) {
   const sum = (newWeights.behavioral || 0) + (newWeights.geographic || 0) +
               (newWeights.segment || 0)    + (newWeights.strategic || 0)
@@ -48,17 +40,11 @@ export function setWeights(newWeights) {
   try { localStorage.setItem('mush-predict-weights', JSON.stringify(WEIGHTS)) } catch {}
 }
 
-/**
- * Restore default weights.
- */
 export function resetWeights() {
   WEIGHTS = { ...DEFAULT_WEIGHTS }
   try { localStorage.removeItem('mush-predict-weights') } catch {}
 }
 
-/**
- * Load saved weights on app startup. Call once from App.jsx useEffect.
- */
 export function loadSavedWeights() {
   try {
     const saved = localStorage.getItem('mush-predict-weights')
@@ -66,8 +52,7 @@ export function loadSavedWeights() {
   } catch {}
 }
 
-
-// ── DISTANCE & TIME HELPERS ───────────────────────────────────────────────────
+// ── HELPERS ───────────────────────────────────────────────────────────────────
 const STATE_REGIONS = {
   PNW:        ['WA','OR','ID','MT','AK'],
   TX_SOUTH:   ['TX','OK','LA','AR','NM'],
@@ -92,7 +77,6 @@ function monthsAgo(dateStr) {
   return (now.getFullYear() - then.getFullYear()) * 12 + (now.getMonth() - then.getMonth())
 }
 
-// Decay function: signals from 0–6 months ago count fully, then taper to ~0 by 24 months
 function recencyDecay(monthsOld) {
   if (monthsOld <= 6)  return 1.0
   if (monthsOld <= 12) return 0.75
@@ -102,12 +86,10 @@ function recencyDecay(monthsOld) {
 }
 
 // ── SUB-SCORE 1: BEHAVIORAL FIT ───────────────────────────────────────────────
-// What is this competitor actively doing right now that resembles this opportunity?
 function computeBehavioralFit(competitor, opportunity) {
   const signals = []
   let score = 0
 
-  // Recent wins in the same segment
   const segmentWins = (competitor.contractAwards ?? []).filter(
     a => a.segment === opportunity.segment && monthsAgo(a.date) < 18
   )
@@ -124,7 +106,6 @@ function computeBehavioralFit(competitor, opportunity) {
     })
   }
 
-  // Currently bidding on similar work
   const activeBids = (competitor.activeBids ?? []).filter(
     b => b.segment === opportunity.segment || (b.keywords ?? []).some(k => opportunity.keywords?.includes(k))
   )
@@ -139,7 +120,6 @@ function computeBehavioralFit(competitor, opportunity) {
     })
   }
 
-  // Building permits naming them
   const recentPermits = (competitor.permitMentions ?? []).filter(p => monthsAgo(p.date) < 12)
   if (recentPermits.length) {
     const contribution = Math.min(0.25, recentPermits.length * 0.08)
@@ -151,7 +131,7 @@ function computeBehavioralFit(competitor, opportunity) {
       source: 'Socrata permits',
     })
   }
- // Incumbency boost — repeat clients are strong behavioral signal
+
   const { boost, reason } = getIncumbencyBoost(competitor, opportunity)
   if (boost > 0) {
     score += boost
@@ -173,7 +153,6 @@ function computeGeographicFit(competitor, opportunity) {
   const oppState  = opportunity.state?.toUpperCase()
   const oppRegion = getRegion(oppState)
 
-  // Office presence in state
   const localOffices = (competitor.offices ?? []).filter(o => o.state === oppState)
   if (localOffices.length) {
     score += 0.50
@@ -184,7 +163,6 @@ function computeGeographicFit(competitor, opportunity) {
       source: 'LinkedIn · Company website',
     })
   } else {
-    // Office in same region
     const regionalOffices = (competitor.offices ?? []).filter(o => getRegion(o.state) === oppRegion)
     if (regionalOffices.length) {
       score += 0.25
@@ -197,7 +175,6 @@ function computeGeographicFit(competitor, opportunity) {
     }
   }
 
-  // Historical wins in state
   const stateWins = (competitor.contractAwards ?? []).filter(a => a.state === oppState)
   if (stateWins.length) {
     const contribution = Math.min(0.35, stateWins.length * 0.07)
@@ -210,7 +187,6 @@ function computeGeographicFit(competitor, opportunity) {
     })
   }
 
-  // Recent job postings in state
   const localJobs = (competitor.jobPostings ?? []).filter(j => j.state === oppState && monthsAgo(j.postedDate) < 6)
   if (localJobs.length) {
     const contribution = Math.min(0.20, localJobs.length * 0.04)
@@ -232,7 +208,6 @@ function computeSegmentFit(competitor, opportunity) {
   let score = 0
   const seg = opportunity.segment
 
-  // Declared segment focus
   if ((competitor.segments ?? []).includes(seg)) {
     score += 0.30
     signals.push({
@@ -243,7 +218,6 @@ function computeSegmentFit(competitor, opportunity) {
     })
   }
 
-  // % of historical wins in this segment
   const allWins = competitor.contractAwards ?? []
   if (allWins.length) {
     const segWins = allWins.filter(a => a.segment === seg)
@@ -260,7 +234,6 @@ function computeSegmentFit(competitor, opportunity) {
     }
   }
 
-  // Patent filings in this segment
   const segPatents = (competitor.patents ?? []).filter(
     p => (p.tags ?? []).some(t => t.toLowerCase().includes(seg.toLowerCase())) && monthsAgo(p.date) < 24
   )
@@ -275,7 +248,6 @@ function computeSegmentFit(competitor, opportunity) {
     })
   }
 
-  // Job postings indicating segment focus
   const segJobs = (competitor.jobPostings ?? []).filter(
     j => (j.segment === seg || (j.tags ?? []).includes(seg)) && monthsAgo(j.postedDate) < 6
   )
@@ -299,7 +271,6 @@ function computeStrategicMomentum(competitor, opportunity) {
   let score = 0
   const seg = opportunity.segment
 
-  // Earnings call mentions of this segment
   const segMentions = (competitor.earningsCallMentions ?? []).filter(
     m => m.topic?.toLowerCase().includes(seg.toLowerCase()) && monthsAgo(m.quarter) < 12
   )
@@ -314,7 +285,6 @@ function computeStrategicMomentum(competitor, opportunity) {
     })
   }
 
-  // Recent executive hires
   const recentExecMoves = (competitor.executiveMoves ?? []).filter(
     m => monthsAgo(m.date) < 9 && (
       m.title?.toLowerCase().includes(seg.toLowerCase()) ||
@@ -332,7 +302,6 @@ function computeStrategicMomentum(competitor, opportunity) {
     })
   }
 
-  // Lobbying activity related to this segment
   const segLobbying = (competitor.lobbyingActivity ?? []).filter(
     l => (l.topics ?? []).some(t => t.toLowerCase().includes(seg.toLowerCase())) && monthsAgo(l.date) < 12
   )
@@ -347,7 +316,6 @@ function computeStrategicMomentum(competitor, opportunity) {
     })
   }
 
-  // Conference appearances in target region
   const targetConferences = (competitor.conferences ?? []).filter(
     c => c.state === opportunity.state?.toUpperCase() && monthsAgo(c.date) < 9
   )
@@ -367,32 +335,22 @@ function computeStrategicMomentum(competitor, opportunity) {
 
 // ── HISTORICAL WIN RATE ───────────────────────────────────────────────────────
 function computeHistoricalWinRate(competitor, opportunity) {
-  // 1. Try REAL win rate from logged RFP outcomes first
   const realRate = getRealWinRate(RFP_STATS, competitor.name, opportunity.segment)
-  if (realRate !== null) {
-    return realRate
-  }
+  if (realRate !== null) return realRate
 
-  // 2. Fall back to estimate from federal contract data
   const wins = competitor.contractAwards ?? []
   const bids = competitor.historicalBids ?? []
   const segBids = bids.filter(b => b.segment === opportunity.segment)
   const segWins = wins.filter(w => w.segment === opportunity.segment)
 
   if (segBids.length < 3) {
-    if (bids.length >= 5) {
-      return wins.length / bids.length
-    }
+    if (bids.length >= 5) return wins.length / bids.length
     return 0.32
   }
   return Math.min(0.85, segWins.length / segBids.length)
 }
 
 // ── MAIN ENTRY POINT ──────────────────────────────────────────────────────────
-/**
- * Compute a full prediction for one competitor on one opportunity.
- * Returns: { pursuitLikelihood, winLikelihood, subScores, signals, confidence }
- */
 export function scoreCompetitorOpportunity(competitor, opportunity) {
   const behavioral = computeBehavioralFit(competitor, opportunity)
   const geographic = computeGeographicFit(competitor, opportunity)
@@ -407,17 +365,14 @@ export function scoreCompetitorOpportunity(competitor, opportunity) {
 
   const histWinRate = computeHistoricalWinRate(competitor, opportunity)
 
-  // Win likelihood: pursuit × win-rate, with recency multiplier from strategic score
-  const recencyMultiplier = 0.85 + (strategic.score * 0.30)  // 0.85-1.15
+  const recencyMultiplier = 0.85 + (strategic.score * 0.30)
   const winLikelihood = pursuitLikelihood * histWinRate * recencyMultiplier
 
-  // Confidence = data density. More signals = higher confidence in the prediction.
   const totalSignals =
     behavioral.signals.length + geographic.signals.length +
     segment.signals.length + strategic.signals.length
-  const confidence = Math.min(1, totalSignals / 8)  // 8 signals = full confidence
+  const confidence = Math.min(1, totalSignals / 8)
 
-    // Build a step-by-step calculation trace for audit purposes
   const trace = {
     inputs: {
       opportunity: {
@@ -430,44 +385,14 @@ export function scoreCompetitorOpportunity(competitor, opportunity) {
       weights: { ...WEIGHTS },
     },
     steps: [
-      {
-        name:        'Behavioral fit',
-        rawScore:    +behavioral.score.toFixed(3),
-        weight:      WEIGHTS.behavioral,
-        weighted:    +(WEIGHTS.behavioral * behavioral.score).toFixed(3),
-        signalCount: behavioral.signals.length,
-        signals:     behavioral.signals,
-      },
-      {
-        name:        'Geographic fit',
-        rawScore:    +geographic.score.toFixed(3),
-        weight:      WEIGHTS.geographic,
-        weighted:    +(WEIGHTS.geographic * geographic.score).toFixed(3),
-        signalCount: geographic.signals.length,
-        signals:     geographic.signals,
-      },
-      {
-        name:        'Segment fit',
-        rawScore:    +segment.score.toFixed(3),
-        weight:      WEIGHTS.segment,
-        weighted:    +(WEIGHTS.segment * segment.score).toFixed(3),
-        signalCount: segment.signals.length,
-        signals:     segment.signals,
-      },
-      {
-        name:        'Strategic momentum',
-        rawScore:    +strategic.score.toFixed(3),
-        weight:      WEIGHTS.strategic,
-        weighted:    +(WEIGHTS.strategic * strategic.score).toFixed(3),
-        signalCount: strategic.signals.length,
-        signals:     strategic.signals,
-      },
+      { name: 'Behavioral fit',     rawScore: +behavioral.score.toFixed(3), weight: WEIGHTS.behavioral, weighted: +(WEIGHTS.behavioral * behavioral.score).toFixed(3), signalCount: behavioral.signals.length, signals: behavioral.signals },
+      { name: 'Geographic fit',     rawScore: +geographic.score.toFixed(3), weight: WEIGHTS.geographic, weighted: +(WEIGHTS.geographic * geographic.score).toFixed(3), signalCount: geographic.signals.length, signals: geographic.signals },
+      { name: 'Segment fit',        rawScore: +segment.score.toFixed(3),    weight: WEIGHTS.segment,    weighted: +(WEIGHTS.segment    * segment.score).toFixed(3),    signalCount: segment.signals.length,    signals: segment.signals    },
+      { name: 'Strategic momentum', rawScore: +strategic.score.toFixed(3),  weight: WEIGHTS.strategic,  weighted: +(WEIGHTS.strategic  * strategic.score).toFixed(3),  signalCount: strategic.signals.length,  signals: strategic.signals  },
     ],
-    pursuitFormula: `0.4×${behavioral.score.toFixed(2)} + 0.2×${geographic.score.toFixed(2)} + 0.25×${segment.score.toFixed(2)} + 0.15×${strategic.score.toFixed(2)} = ${pursuitLikelihood.toFixed(3)}`,
+    pursuitFormula: `${WEIGHTS.behavioral.toFixed(2)}×${behavioral.score.toFixed(2)} + ${WEIGHTS.geographic.toFixed(2)}×${geographic.score.toFixed(2)} + ${WEIGHTS.segment.toFixed(2)}×${segment.score.toFixed(2)} + ${WEIGHTS.strategic.toFixed(2)}×${strategic.score.toFixed(2)} = ${pursuitLikelihood.toFixed(3)}`,
     winFormula:     `pursuit(${pursuitLikelihood.toFixed(3)}) × winRate(${histWinRate.toFixed(2)}) × recency(${recencyMultiplier.toFixed(2)}) = ${winLikelihood.toFixed(3)}`,
-    winRateSource:  getRealWinRate(RFP_STATS, competitor.name, opportunity.segment) !== null
-                      ? 'real RFP outcomes'
-                      : 'estimated from federal contracts',
+    winRateSource:  getRealWinRate(RFP_STATS, competitor.name, opportunity.segment) !== null ? 'real RFP outcomes' : 'estimated from federal contracts',
   }
 
   return {
@@ -488,5 +413,79 @@ export function scoreCompetitorOpportunity(competitor, opportunity) {
       ...segment.signals.map(s    => ({ ...s, category: 'Segment'    })),
       ...strategic.signals.map(s  => ({ ...s, category: 'Strategic'  })),
     ],
-    trace,   // NEW — full calculation trace
+    trace,
   }
+}
+
+// ── RANK ALL COMPETITORS AGAINST ONE OPPORTUNITY ──────────────────────────────
+export function rankCompetitorsForOpportunity(competitors, opportunity) {
+  return competitors
+    .map(c => scoreCompetitorOpportunity(c, opportunity))
+    .sort((a, b) => b.winLikelihood - a.winLikelihood)
+}
+
+// ── PREDICT NEXT MOVE ─────────────────────────────────────────────────────────
+export function predictNextMove(competitor) {
+  const moves    = []
+  const segments = ['Municipal', 'University', 'Schools', 'Healthcare']
+  const states   = ['TX', 'WA', 'OR', 'CA', 'CO', 'IL', 'NY', 'FL']
+
+  for (const seg of segments) {
+    for (const state of states) {
+      const score =
+        ((competitor.jobPostings ?? []).filter(j =>
+          j.state === state &&
+          (j.segment === seg || (j.tags ?? []).includes(seg)) &&
+          monthsAgo(j.postedDate) < 6
+        ).length * 0.25) +
+        ((competitor.activeBids ?? []).filter(b =>
+          b.state === state && b.segment === seg
+        ).length * 0.30) +
+        ((competitor.contractAwards ?? []).filter(a =>
+          a.state === state && a.segment === seg && monthsAgo(a.date) < 24
+        ).length * 0.20) +
+        ((competitor.texasContracts ?? []).filter(a =>
+          a.state === state && a.segment === seg
+        ).length * 0.20) +
+        ((competitor.earningsCallMentions ?? []).filter(m =>
+          m.topic?.includes(seg) && monthsAgo(m.quarter) < 12
+        ).length * 0.15) +
+        ((competitor.executiveMoves ?? []).filter(m =>
+          monthsAgo(m.date) < 9 &&
+          (m.title?.includes(seg) || m.title?.includes(state))
+        ).length * 0.15) +
+        ((competitor.permitMentions ?? []).filter(p =>
+          p.state === state && monthsAgo(p.date) < 9
+        ).length * 0.10)
+
+      if (score > 0.05) {
+        moves.push({
+          segment:     seg,
+          state,
+          score:       +score.toFixed(2),
+          probability: Math.min(0.95, score / 2.0),
+        })
+      }
+    }
+  }
+
+  if (moves.length === 0) {
+    const awards = competitor.contractAwards ?? []
+    const segCounts = {}
+    awards.forEach(a => {
+      if (a.segment && a.segment !== 'Other') {
+        segCounts[a.segment] = (segCounts[a.segment] || 0) + 1
+      }
+    })
+    Object.entries(segCounts).forEach(([seg, count]) => {
+      moves.push({
+        segment:     seg,
+        state:       'Multiple',
+        score:       +(count * 0.1).toFixed(2),
+        probability: Math.min(0.60, count * 0.08),
+      })
+    })
+  }
+
+  return moves.sort((a, b) => b.score - a.score).slice(0, 5)
+}
