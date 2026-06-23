@@ -8,7 +8,7 @@ const path = require("path")
 const crypto = require("crypto")
 
 // === CONFIG ===
-const INPUT_FILE = path.join(__dirname, "public/data/data.json")   // <-- adjust if needed
+const INPUT_FILE = path.join(__dirname, "public/data/competitors.json")   // <-- adjust if needed
 const OUTPUT_FILE = path.join(__dirname, "public/data/signals.json")
 
 // ==============================
