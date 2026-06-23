@@ -8,8 +8,8 @@ const path = require("path")
 const crypto = require("crypto")
 
 // === CONFIG ===
-const INPUT_FILE = path.join(__dirname, "public/data/competitors.json")   // <-- adjust if needed
-const OUTPUT_FILE = path.join(__dirname, "public/data/signals.json")
+const INPUT_FILE = path.join(__dirname, "competitors.json")
+const OUTPUT_FILE = path.join(__dirname, "signals.json")
 
 // ==============================
 // Generate unique ID (dedupe key)
