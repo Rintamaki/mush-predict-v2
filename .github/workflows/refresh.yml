@@ -24,6 +24,14 @@ jobs:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scrapers/run_pipeline.py
+        - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Build signals (persist history)
+        run: node buildSignals.js
+
       - name: Upload data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
