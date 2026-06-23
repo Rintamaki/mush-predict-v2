@@ -38,7 +38,7 @@ jobs:
           node-version: '18'
 
       - name: Build signals (persist history)
-        run: node buildSignals.js
+        run: node public/data/BuildSignals.js
 
       # ✅ FIX: Upload BOTH files
       - name: Upload data
