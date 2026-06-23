@@ -133,9 +133,12 @@ function mergeSignals(newSignals) {
 // ==============================
 function run() {
   if (!fs.existsSync(INPUT_FILE)) {
-    console.error("❌ Input file not found:", INPUT_FILE)
-    return
-  }
+  console.error("❌ Input file not found:", INPUT_FILE)
+
+  // ✅ Create empty signals file so workflow doesn't crash
+  fs.writeFileSync(OUTPUT_FILE, JSON.stringify([], null, 2))
+  return
+}
 
   const rawData = JSON.parse(fs.readFileSync(INPUT_FILE))
 
