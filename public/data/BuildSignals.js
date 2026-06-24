@@ -12,7 +12,11 @@ const INPUT_FILE = path.join(
   __dirname,
   "../mush-predict-package/public/data/competitors.json"
 )
-const OUTPUT_FILE = path.join(__dirname, "signals.json")
+const OUTPUT_FILE = path.join(
+  __dirname,
+  "../mush-predict-package/public/data/signals.json"
+)
+
 
 // ==============================
 // Generate unique ID (dedupe key)
