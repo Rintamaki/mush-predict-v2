@@ -15,7 +15,7 @@ const OUTPUT_FILE = path.join(__dirname, "signals.json")
 // Generate unique ID (dedupe key)
 // ==============================
 function generateId(signal) {
-  const base = `${signal.company}-${signal.type}-${signal.title}-${signal.url || ""}`
+  const base = `${signal.company}-${signal.type}-${signal.title}-${signal.timestamp}-${signal.url || ""}`
   return crypto.createHash("md5").update(base).digest("hex")
 }
 
