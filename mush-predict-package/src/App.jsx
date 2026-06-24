@@ -138,7 +138,7 @@ export default function App() {
             {activeTab === 'forecast' && <StrategicForecast competitors={competitors} />}
 
             {/* ── SIGNAL STREAM ── */}
-            {activeTab === 'stream' && <SignalStream competitors={competitors} />}
+            {activeTab === 'stream' && <SignalStream signals={signals} />}
 
             {/* ── RFP DATABASE ── */}
             {activeTab === 'rfpdb' && (
