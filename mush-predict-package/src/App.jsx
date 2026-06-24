@@ -19,7 +19,7 @@ import {
 import { recordPredictionBatch } from './engine/accuracyTracker'
 
 export default function App() {
-  const { competitors, sources, lastUpdated, loading, error } = useCompetitorData()
+  const { competitors, sources, lastUpdated, signals, loading, error } = useCompetitorData()
   const [activeTab, setActiveTab]     = useState('predict')
   const [predictions, setPredictions] = useState(null)
   const [scoredOpp, setScoredOpp]     = useState(null)
