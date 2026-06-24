@@ -142,56 +142,44 @@ def build_competitor_record(competitor: dict, bond_data: list) -> dict:
 def run():
     logger.info("=" * 60)
     logger.info(f"MUSH Predict Pipeline — {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
-    logger.info("Tier 1: USASpending · SEC · USPTO · Socrata · News · LDA")
-    logger.info("        TX ESBD · OpenCorporates · Bond News")
-    logger.info("Tier 2: SAM.gov · Adzuna")
     logger.info("=" * 60)
 
-    # Pre-fetch bond news once — shared across all competitors
-    logger.info("\nPre-fetching Texas bond news (Google News)...")
-    bond_data = fetch_bond_news()
-    logger.info(f"  {len(bond_data)} recent Texas bond passes detected")
+    all_data = []
 
-    # Pre-fetch construction projects if module available
-    construction_data = []
-    if HAS_CONSTRUCTION:
-        logger.info("Pre-fetching construction project feeds...")
-        construction_data = fetch_construction_projects()
-        logger.info(f"  {len(construction_data)} MUSH construction projects loaded")
+    for competitor in COMPETITORS:
+        name = competitor["name"]
+        logger.info(f"\n→ {name}")
 
-    competitors = [build_competitor_record(c, bond_data) for c in COMPETITORS]
+        record = {
+            "name": name,
+            "segments": competitor.get("segments", []),
+            "offices": competitor.get("offices", []),
+            "contractAwards": fetch_contract_awards(competitor),
+            "activeBids": fetch_active_bids(competitor),
+            "jobPostings": fetch_job_postings(competitor),
+            "patents": fetch_patents(competitor),
+            "permitMentions": fetch_permit_mentions(competitor),
+            "newsArticles": fetch_news(competitor),
+            "lobbyingActivity": fetch_lobbying(competitor),
+            "texasContracts": fetch_texas_contracts(competitor),
+            "entityRegistrations": fetch_entity_registrations(competitor),
+        }
 
-    today  = datetime.utcnow().strftime("%Y-%m-%d")
+        # optional sources
+        if HAS_CONSTRUCTION:
+            record["constructionProjects"] = fetch_construction_projects()
+
+        all_data.append(record)
+
     output = {
-        "last_updated":          today,
-        "last_updated_display":  datetime.utcnow().strftime("%B %d, %Y"),
-        "data_sources_active": [
-            "USASpending.gov", "SAM.gov", "SEC EDGAR", "USPTO PatentsView",
-            "Adzuna Jobs", "Socrata permits", "Google News RSS",
-            "Senate LDA lobbying", "TX ESBD", "Bond News",
-            "OpenCorporates",
-        ] + (["Construction feeds"] if HAS_CONSTRUCTION else []),
-        "bond_opportunities":         bond_data,
-        "construction_opportunities": construction_data,
-        "competitors":                competitors,
+        "last_updated": datetime.utcnow().strftime("%Y-%m-%d"),
+        "competitors": all_data,
     }
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(output, f, indent=2)
 
-    logger.info(f"\n{'='*60}")
-    logger.info(f"✓ Wrote {len(competitors)} competitors → {OUTPUT_PATH}")
-    logger.info(f"  {len(bond_data)} TX bond opportunities")
-    if HAS_CONSTRUCTION:
-        logger.info(f"  {len(construction_data)} construction opportunities")
-    for c in competitors:
-        total = sum(len(c.get(k, [])) for k in [
-            "contractAwards","activeBids","earningsCallMentions","patents",
-            "jobPostings","permitMentions","newsArticles","lobbyingActivity",
-            "texasContracts","entityRegistrations","bondMentions",
-        ])
-        logger.info(f"  {c['name']:<32} {total:>3} signals → {c['statusToday']}")
-    logger.info("\nPipeline complete.")
+    logger.info("✅ competitors.json updated")
 
 
 if __name__ == "__main__":
