@@ -19,7 +19,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r scrapers/requirements.txt
 
       - name: Run pipeline
         run: python scrapers/run_pipeline.py
@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add public/data/competitors.json
-          git commit -m "Daily refresh"
+          git add mush-predict-package/public/data/competitors.json
+          git commit -m "daily refresh"
           git push
