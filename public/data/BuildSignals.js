@@ -8,7 +8,10 @@ const path = require("path")
 const crypto = require("crypto")
 
 // === CONFIG ===
-const INPUT_FILE = path.join(__dirname, "competitors.json")
+const INPUT_FILE = path.join(
+  __dirname,
+  "../mush-predict-package/public/data/competitors.json"
+)
 const OUTPUT_FILE = path.join(__dirname, "signals.json")
 
 // ==============================
