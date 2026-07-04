@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03",
+  "last_updated": "2026-07-04",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -27,7 +27,72 @@
           "state": "WA"
         }
       ],
-      "contractAwards": [],
+      "contractAwards": [
+        {
+          "date": "2018-05-31",
+          "value": 20406875.71,
+          "state": "WI",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF - C106210 - PREVENTATIVE MAINTENANCE SERVICES FOR THE JOHNSON CONTROLS BAS SYSTEMS TO INCLUDE 24/7/365 MONITORING FOR THE BETHE"
+        },
+        {
+          "date": "2018-09-17",
+          "value": 1630725.0,
+          "state": "GA",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "NON-HCL ADX/NAE UPGRADES GARO0018"
+        },
+        {
+          "date": "2018-07-09",
+          "value": 649768.43,
+          "state": "CO",
+          "segment": "University",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE FOR THE CAMPUS WIDE METASYS SYSTEM"
+        },
+        {
+          "date": "2021-10-18",
+          "value": 421524.0,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES FOR BUILDING AUTOMATION SYSTEM UPGRADE AT NATHANIEL JONES FEDERAL BUILDING AND COURTHOUSE 10 EAST COMMERCE STREET YOUN"
+        },
+        {
+          "date": "2016-08-30",
+          "value": 399888.0,
+          "state": "GA",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF ANTI-TAILGAITING SYSTEM"
+        },
+        {
+          "date": "2020-09-28",
+          "value": 288684.14,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Defense",
+          "description": "CALIBRATION AND MAINTENANCE OF REFRIGERATION SYSTEMS IN SUPPORT OF ARMY PUBLIC HEALTH COMMAND."
+        },
+        {
+          "date": "2023-09-15",
+          "value": 241422.0,
+          "state": "SD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "TEMPORARY CHILLER UNIT, FACILITIES, CRHC"
+        },
+        {
+          "date": "2023-05-25",
+          "value": 188170.28,
+          "state": "SD",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
+        }
+      ],
       "activeBids": [],
       "jobPostings": [],
       "patents": [],
@@ -63,80 +128,7 @@
           "state": "NC"
         }
       ],
-      "contractAwards": [
-        {
-          "date": "2016-04-20",
-          "value": 88909710.09,
-          "state": "NY",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "IGF::OT::IGF FOR OTHER FUNCTIONS  GSA R2 2016 NYC ESPC PROJECT FOR 10 FEDERAL BUILDINGS. THE PROJECT CONSISTS OF THE INSTALLATION OF 98 ENER"
-        },
-        {
-          "date": "2024-06-14",
-          "value": 1482340.0,
-          "state": "RI",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "DESIGN - BUILD CONSTRUCTION CONTRACT FOR REMOVAL AND REPLACEMENT OF TWO PUMPS AND TWO CHILLERS AT THE PROVIDENCE RHODE ISLAND FEDERAL COURTH"
-        },
-        {
-          "date": "2023-05-26",
-          "value": 736509.0,
-          "state": "RI",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "AWARD OF COOLING TOWERS REPLACEMENT AT THE PROVIDENCE FEDERAL COURTHOUSE IN PROVIDENCE, RI."
-        },
-        {
-          "date": "2023-05-25",
-          "value": 734356.44,
-          "state": "MA",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "AWARD OF THE DONOHUE COOLING TOWERS 2 & 3 REPLACEMENT AT THE DONOHUE FEDERAL BUILDING AND COURTHOUSE IN WORCESTER, MA."
-        },
-        {
-          "date": "2019-01-08",
-          "value": 511547.24,
-          "state": "CA",
-          "segment": "Healthcare",
-          "agency": "Department of Veterans Affairs",
-          "description": "SERVICE TO PERFORM TRANE CHILLER PM SELECT SERVICE AGREEMENT, VA GREATER LOS ANGELES HEALTHCARE SYSTEM."
-        },
-        {
-          "date": "2019-12-20",
-          "value": 459526.67,
-          "state": "LA",
-          "segment": "Schools",
-          "agency": "Department of Defense",
-          "description": "BASE YEAR SERVICES FOR ANNUAL CHILLER MAINTENANCE FOR U.S. ARMY CORPS OF ENGINEERS (USACE), NEW ORLEANS DISTRICT (NOD), NEW ORLEANS, LA"
-        },
-        {
-          "date": "2021-02-03",
-          "value": 445811.54,
-          "state": "OH",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "CONSTRUCTION SERVICES REBUILD CHILLERS, KINNEARY COURTHOUSE, 85 MARCONI BLVD, COLUMBUS, OHIO"
-        },
-        {
-          "date": "2022-06-03",
-          "value": 313000.0,
-          "state": "IL",
-          "segment": "Healthcare",
-          "agency": "Department of Veterans Affairs",
-          "description": "DELIVERY AND INSTALLATION OF A TRANE 200 TON AIR-COOLED WATER CHILLER FOR BUILDING 58, VA ILLIANA HEALTH CARE SYSTEM, DANVILLE, ILLINOIS."
-        },
-        {
-          "date": "2019-08-06",
-          "value": 304262.09,
-          "state": "NE",
-          "segment": "Healthcare",
-          "agency": "Department of Veterans Affairs",
-          "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
-        }
-      ],
+      "contractAwards": [],
       "activeBids": [],
       "jobPostings": [],
       "patents": [],
@@ -233,7 +225,40 @@
           "state": "MA"
         }
       ],
-      "contractAwards": [],
+      "contractAwards": [
+        {
+          "date": "2015-09-30",
+          "value": 11233143.18,
+          "state": "MA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "IGF::CL::IGF VETERANS INTEGRATED SERVICE NETWORK 1, ENERGY SAVINGS PERFORMANCE CONTRACT FOR VA BOSTON HEALTHCARE SYSTEM LOCATIONS (JAMAICA P"
+        },
+        {
+          "date": "2016-09-23",
+          "value": 4893821.0,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT.  INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENTS AND VERIFICATION OF ENERGY CONSERVAT"
+        },
+        {
+          "date": "2025-08-04",
+          "value": 312272.0,
+          "state": "TX",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PUGET SOUND VA MEDICAL CENTER - AMERICAN LAKE CAMPUS, TACOMA, WASHINGTON - BUILDING MANAGEMENT SYSTEM (BMS) SOTWARE CONVERSION AND UPGRADE."
+        },
+        {
+          "date": "2023-10-01",
+          "value": 165432.88,
+          "state": "NC",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
+        }
+      ],
       "activeBids": [],
       "jobPostings": [],
       "patents": [],
@@ -281,13 +306,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
           "published": "Tue, 09 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Tracer Ensemble from Trane Technologies - HVAC oversight moves to the browser - Ad-hoc-news.de",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MD",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MDBRc1cyd2YxS1Js?oc=5",
-          "published": "Tue, 30 Jun 2026 17:00:34 GMT"
         },
         {
           "source": "google_news",
