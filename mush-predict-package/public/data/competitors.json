@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-05",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -100,10 +100,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "How OpenBlue turns sustainability into business value - Johnson Controls",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOH",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOHRLZGxNMVNPVkJaYmc?oc=5",
-          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
+          "title": "5 Ways OpenBlue Central Utility Plant Optimization boosts efficiency, reliability and sustainable growth - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDZiZ3Q0Vkk1UlcydmFNMzNycHcwVjE3SXdZcm1rMGVRUlF2SVJMWTVaVHBuenpoUWtyWnBUTVpDWDZUbElnekdELVJBczF2LVpzeFZkYVd1MkF3M1ZTc0NlTUo1V1NoclRhRk9hS3pjSTRVMEpaaUVEeUp5a2RlQm04LUdpQXRURnF4QnNwNjhaTGxHbHAxVmpyc25uQ0daQ3NoWXYySTV3Y0h6eFR6N0tiZnlHc0dybz",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDZiZ3Q0Vkk1UlcydmFNMzNycHcwVjE3SXdZcm1rMGVRUlF2SVJMWTVaVHBuenpoUWtyWnBUTVpDWDZUbElnekdELVJBczF2LVpzeFZkYVd1MkF3M1ZTc0NlTUo1V1NoclRhRk9hS3pjSTRVMEpaaUVEeUp5a2RlQm04LUdpQXRURnF4QnNwNjhaTGxHbHAxVmpyc25uQ0daQ3NoWXYySTV3Y0h6eFR6N0tiZnlHc0dybzI3YTZST053S3NNQ2M5bENIdWQ?oc=5",
+          "published": "Wed, 20 May 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -128,7 +128,80 @@
           "state": "NC"
         }
       ],
-      "contractAwards": [],
+      "contractAwards": [
+        {
+          "date": "2016-04-20",
+          "value": 88909710.09,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF FOR OTHER FUNCTIONS  GSA R2 2016 NYC ESPC PROJECT FOR 10 FEDERAL BUILDINGS. THE PROJECT CONSISTS OF THE INSTALLATION OF 98 ENER"
+        },
+        {
+          "date": "2024-06-14",
+          "value": 1482340.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "DESIGN - BUILD CONSTRUCTION CONTRACT FOR REMOVAL AND REPLACEMENT OF TWO PUMPS AND TWO CHILLERS AT THE PROVIDENCE RHODE ISLAND FEDERAL COURTH"
+        },
+        {
+          "date": "2023-05-26",
+          "value": 736509.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF COOLING TOWERS REPLACEMENT AT THE PROVIDENCE FEDERAL COURTHOUSE IN PROVIDENCE, RI."
+        },
+        {
+          "date": "2023-05-25",
+          "value": 734356.44,
+          "state": "MA",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF THE DONOHUE COOLING TOWERS 2 & 3 REPLACEMENT AT THE DONOHUE FEDERAL BUILDING AND COURTHOUSE IN WORCESTER, MA."
+        },
+        {
+          "date": "2019-01-08",
+          "value": 511547.24,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE TO PERFORM TRANE CHILLER PM SELECT SERVICE AGREEMENT, VA GREATER LOS ANGELES HEALTHCARE SYSTEM."
+        },
+        {
+          "date": "2019-12-20",
+          "value": 459526.67,
+          "state": "LA",
+          "segment": "Schools",
+          "agency": "Department of Defense",
+          "description": "BASE YEAR SERVICES FOR ANNUAL CHILLER MAINTENANCE FOR U.S. ARMY CORPS OF ENGINEERS (USACE), NEW ORLEANS DISTRICT (NOD), NEW ORLEANS, LA"
+        },
+        {
+          "date": "2021-02-03",
+          "value": 445811.54,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES REBUILD CHILLERS, KINNEARY COURTHOUSE, 85 MARCONI BLVD, COLUMBUS, OHIO"
+        },
+        {
+          "date": "2022-06-03",
+          "value": 313000.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "DELIVERY AND INSTALLATION OF A TRANE 200 TON AIR-COOLED WATER CHILLER FOR BUILDING 58, VA ILLIANA HEALTH CARE SYSTEM, DANVILLE, ILLINOIS."
+        },
+        {
+          "date": "2019-08-06",
+          "value": 304262.09,
+          "state": "NE",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
+        }
+      ],
       "activeBids": [],
       "jobPostings": [],
       "patents": [],
@@ -294,7 +367,144 @@
           "state": "NJ"
         }
       ],
-      "contractAwards": [],
+      "contractAwards": [
+        {
+          "date": "2026-04-01",
+          "value": 11788536.16,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS APF/CGMP FUNDING FOR OPTION YEAR 3 THROUGH APRIL 1, 2026 TO MAY 31, 2026."
+        },
+        {
+          "date": "2023-08-01",
+          "value": 10857274.8,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS OPTION YEAR 2 FUNDING CALL (1 MONTH'S WORTH OF INITIAL FUNDING)"
+        },
+        {
+          "date": "2023-08-01",
+          "value": 10619215.08,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "FUNDING APPROVAL FOR SIEMENS CONTRACT 75N99023AF00001 1ST-YEAR OPTION FUNDING 1-MONTH DURATION [24-002769]"
+        },
+        {
+          "date": "2022-08-01",
+          "value": 7089525.84,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT. DETRICK,"
+        },
+        {
+          "date": "2021-08-01",
+          "value": 6922992.69,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C108591- NIH BPA EXERCISE OPTION YEAR 1 FOR BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT."
+        },
+        {
+          "date": "2023-08-01",
+          "value": 6759034.47,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BASE YEAR - BUILDING AUTOMATION SERVICES (BAS) OF SIEMENS INVENTORY DEVICES, NIH"
+        },
+        {
+          "date": "2020-08-01",
+          "value": 6753776.99,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C108591 - THE CONTRACTOR SHALL PROVIDE ALL MAINTENANCE, REPAIRS, EMERGENCY SERVICES, PREVENTIVE MAINTENANCE INSPECTIONS, CALIBRATION, HARDWA"
+        },
+        {
+          "date": "2018-07-31",
+          "value": 6266316.73,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C104939 - RENEWAL OPTION YEAR 1 - MAINTENANCE, REPAIRS, CALIBRATION - BETHESDA - CAN 8016640 - STEPHANIE GALLOWAY - POP 8/1/18 - 9/30/18"
+        },
+        {
+          "date": "2022-09-19",
+          "value": 5280004.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT. DETRICK,"
+        },
+        {
+          "date": "2019-08-23",
+          "value": 3942670.35,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C107824 - LABOR AND MATERIAL TO UPGRADE SIEMENS BAS FIELD PANELS WITH THE LATEST HARDWARE - STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2021-09-20",
+          "value": 3881952.51,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C111119 SIEMENS BUILDING AUTOMATION SYSTEM (BAS) HARDWARE AND FIRMWARE UPGRADES STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2020-01-24",
+          "value": 3670503.93,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS SERVICES FOR NIH"
+        },
+        {
+          "date": "2023-02-10",
+          "value": 1595500.06,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BLDG 33 REVALIDATION 24/7 BAS SUPPORT"
+        },
+        {
+          "date": "2023-07-01",
+          "value": 1429753.91,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SIEMENS APOGEE BUILDING AUTOMATION SYSTEM SERVICES - 5 MONTH CONTRACT FOR GREATER LOS ANGELES HEALTHCARE SYSTEM, WEST LOS ANGELES VA MEDICAL"
+        },
+        {
+          "date": "2024-04-05",
+          "value": 1105302.0,
+          "state": "MN",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "FIRE ALARM DEVICE REPLACEMENT, PHASE 2 REPLACE ALL THE FIRE ALARM DEVICES AND RELAYS AT THE DIANA MURPHY COURTHOUSE, MINNEAPOLIS, MN."
+        },
+        {
+          "date": "2019-08-01",
+          "value": 1077734.62,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C104939 - RENEWAL OPT. YR. 1 SIEMENS CONTRACT, EFFECTIVE POP: 8/1/19 TO 7/31/20; (2) MONTH TASK: 8/1/19 TO 9/30/19, STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2019-10-01",
+          "value": 1045891.68,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
+        }
+      ],
       "activeBids": [],
       "jobPostings": [],
       "patents": [],
@@ -306,6 +516,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
           "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Building Management System Market Share, Size, Trend, 2034 - Fortune Business Insights",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1ZzTGNQMkQ5cmJmajhSTkh0MDBMcjZyTUFLaVBHaUFSUFdUX2tXeFQ1LVpYWlpTdGZWTzZVT3haNXdXYTFjQnVCaFlWa25MT19NOHlVRndSbGFTbXIzT0MxQzlEYzh2eWJNMHJleXc4RHZob3Z2TkdGN1BvZjZHMmpvWUxwdnc?oc=5\" target=\"_blank\">Building Management System Market Share, Siz",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1ZzTGNQMkQ5cmJmajhSTkh0MDBMcjZyTUFLaVBHaUFSUFdUX2tXeFQ1LVpYWlpTdGZWTzZVT3haNXdXYTFjQnVCaFlWa25MT19NOHlVRndSbGFTbXIzT0MxQzlEYzh2eWJNMHJleXc4RHZob3Z2TkdGN1BvZjZHMmpvWUxwdnc?oc=5",
+          "published": "Mon, 08 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Tracer Ensemble from Trane Technologies - HVAC oversight moves to the browser - AD HOC NEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MD",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MDBRc1cyd2YxS1Js?oc=5",
+          "published": "Tue, 30 Jun 2026 17:00:34 GMT"
         },
         {
           "source": "google_news",
