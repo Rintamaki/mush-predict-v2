@@ -12,24 +12,30 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install -r scrapers/requirements.txt
+
       - name: Run pipeline
         env:
           SAM_GOV_API_KEY: ${{ secrets.SAM_GOV_API_KEY }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scrapers/run_pipeline.py
-        - name: Setup Node
+
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
       - name: Build persistent signals
         run: node scrapers/buildSignals.js
+
       - name: Upload data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,7 +44,6 @@ jobs:
           import base64, json, os, urllib.request, urllib.error
           token = os.environ["GITHUB_TOKEN"]
           repo = os.environ["GITHUB_REPOSITORY"]
-
           for path in [
               "mush-predict-package/public/data/competitors.json",
               "mush-predict-package/public/data/signals.json",
