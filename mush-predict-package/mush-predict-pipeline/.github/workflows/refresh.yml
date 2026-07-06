@@ -32,18 +32,25 @@ jobs:
           import base64, json, os, urllib.request, urllib.error
           token = os.environ["GITHUB_TOKEN"]
           repo = os.environ["GITHUB_REPOSITORY"]
-          path = "public/data/competitors.json"
-          with open(path, "rb") as f:
-              content = base64.b64encode(f.read()).decode()
-          url = f"https://api.github.com/repos/{repo}/contents/{path}"
-          req = urllib.request.Request(url, headers={"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"})
-          try:
-              with urllib.request.urlopen(req) as r:
-                  sha = json.loads(r.read())["sha"]
-          except:
-              sha = ""
-          data = json.dumps({"message": "Daily competitor refresh", "content": content, "sha": sha}).encode()
-          req2 = urllib.request.Request(url, data=data, method="PUT", headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
-          urllib.request.urlopen(req2)
-          print("Done")
+
+          for path in [
+              "mush-predict-package/public/data/competitors.json",
+              "mush-predict-package/public/data/signals.json",
+          ]:
+              if not os.path.exists(path):
+                  print(f"Skipping missing file: {path}")
+                  continue
+              with open(path, "rb") as f:
+                  content = base64.b64encode(f.read()).decode()
+              url = f"https://api.github.com/repos/{repo}/contents/{path}"
+              req = urllib.request.Request(url, headers={"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"})
+              try:
+                  with urllib.request.urlopen(req) as r:
+                      sha = json.loads(r.read())["sha"]
+              except:
+                  sha = ""
+              data = json.dumps({"message": f"Daily refresh: {path}", "content": content, "sha": sha}).encode()
+              req2 = urllib.request.Request(url, data=data, method="PUT", headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
+              urllib.request.urlopen(req2)
+              print(f"Uploaded {path}")
           PYEOF
