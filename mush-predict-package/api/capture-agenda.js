@@ -1,12 +1,14 @@
 /**
  * /api/capture-agenda.js
  *
- * Vercel serverless function. Two operations:
- *   POST — receive a new capture and append to agenda_captures.json
+ * Vercel serverless function. Three operations:
+ *   POST   — create a new capture
  *   DELETE — remove a capture by id
+ *   PATCH  — re-run extraction on an existing capture's stored text
  *
- * Writes to `mush-predict-package/public/data/agenda_captures.json`
- * via the GitHub API using a server-side token.
+ * PATCH is designed so that when the Anthropic API key lands, we swap out
+ * `extractAgendaDetails()` for an AI-powered version and the rescore button
+ * automatically uses it. No frontend changes needed.
  */
 
 export default async function handler(req, res) {
@@ -18,18 +20,19 @@ export default async function handler(req, res) {
 
   if (req.method === 'POST')   return handleCreate(req, res, token, repo)
   if (req.method === 'DELETE') return handleDelete(req, res, token, repo)
+  if (req.method === 'PATCH')  return handleRescore(req, res, token, repo)
 
   return res.status(405).json({ error: 'Method not allowed' })
 }
 
-// ── POST: create a new capture ──────────────────────────────────────────────
+// ── POST: create ────────────────────────────────────────────────────────────
 async function handleCreate(req, res, token, repo) {
   const { agency, state, url, meetingDate, agendaText, submittedBy } = req.body || {}
   if (!agency || !agendaText) {
     return res.status(400).json({ error: 'agency and agendaText are required' })
   }
 
-  const extracted = extractAgendaDetails(agendaText)
+  const extracted = await extractAgendaDetails(agendaText)
 
   const capture = {
     id:            'cap_' + Date.now().toString(36) + '_' + Math.random().toString(36).slice(2, 8),
@@ -44,6 +47,8 @@ async function handleCreate(req, res, token, repo) {
     actionTypes:   extracted.actionTypes,
     keywordHits:   extracted.keywordHits,
     relevanceScore: extracted.relevanceScore,
+    extractionMethod: extracted.method,       // "rules" or "ai" — for auditability
+    scoredAt:      new Date().toISOString(),
   }
 
   try {
@@ -56,7 +61,7 @@ async function handleCreate(req, res, token, repo) {
   }
 }
 
-// ── DELETE: remove a capture by id ──────────────────────────────────────────
+// ── DELETE: remove by id ────────────────────────────────────────────────────
 async function handleDelete(req, res, token, repo) {
   const id = req.query?.id || req.body?.id
   if (!id) return res.status(400).json({ error: 'id required' })
@@ -71,6 +76,45 @@ async function handleDelete(req, res, token, repo) {
     return res.status(200).json({ ok: true, deletedId: id, remaining: filtered.length })
   } catch (err) {
     return res.status(500).json({ error: 'Delete failed', detail: err.message })
+  }
+}
+
+// ── PATCH: rescore an existing capture ──────────────────────────────────────
+async function handleRescore(req, res, token, repo) {
+  const id = req.query?.id || req.body?.id
+  if (!id) return res.status(400).json({ error: 'id required' })
+
+  try {
+    const { existing, sha } = await readCurrentFile(token, repo)
+    const idx = existing.findIndex(c => c.id === id)
+    if (idx === -1) return res.status(404).json({ error: 'Capture not found' })
+
+    const cap = existing[idx]
+    if (!cap.agendaText || cap.agendaText.length < 20) {
+      return res.status(400).json({ error: 'No stored agenda text to re-score' })
+    }
+
+    // Re-run extraction on the stored text
+    const extracted = await extractAgendaDetails(cap.agendaText)
+
+    const rescored = {
+      ...cap,
+      items:            extracted.items,
+      actionTypes:      extracted.actionTypes,
+      keywordHits:      extracted.keywordHits,
+      relevanceScore:   extracted.relevanceScore,
+      extractionMethod: extracted.method,
+      scoredAt:         new Date().toISOString(),
+    }
+
+    const updated = [...existing]
+    updated[idx] = rescored
+
+    await writeFile(token, repo, updated, sha, `Rescore agenda capture ${id}`)
+    return res.status(200).json({ ok: true, capture: rescored })
+
+  } catch (err) {
+    return res.status(500).json({ error: 'Rescore failed', detail: err.message })
   }
 }
 
@@ -119,8 +163,35 @@ async function writeFile(token, repo, content, sha, message) {
   return true
 }
 
-// ── Extraction ──────────────────────────────────────────────────────────────
-function extractAgendaDetails(text) {
+// ─────────────────────────────────────────────────────────────────────────────
+// EXTRACTION — this is the swap point for AI upgrade
+// ─────────────────────────────────────────────────────────────────────────────
+/**
+ * When ANTHROPIC_API_KEY is set as an env var, uses Claude to extract structured
+ * data from the agenda text. Otherwise falls back to rules-based extraction.
+ *
+ * Both paths return the same shape:
+ *   { items, actionTypes, keywordHits, relevanceScore, method }
+ *
+ * The `method` field is stamped onto the capture so you can see which captures
+ * used AI vs rules extraction. Useful for tracking coverage after the API key
+ * lands.
+ */
+async function extractAgendaDetails(text) {
+  const apiKey = process.env.ANTHROPIC_API_KEY
+  if (apiKey) {
+    try {
+      return await extractWithAI(text, apiKey)
+    } catch (err) {
+      console.error('AI extraction failed, falling back to rules:', err.message)
+      return extractWithRules(text)
+    }
+  }
+  return extractWithRules(text)
+}
+
+// ── Rules-based extraction (works today, no API key needed) ─────────────────
+function extractWithRules(text) {
   const lower = text.toLowerCase()
   const actionSignals = {
     'RFP mention':     ['rfp', 'request for proposals', 'request for qualifications', 'rfq'],
@@ -154,5 +225,76 @@ function extractAgendaDetails(text) {
   if (actionTypes.includes('Vote / Action'))   relevanceScore += 1
   if (actionTypes.includes('Budget'))          relevanceScore += 1
   relevanceScore = Math.min(5, relevanceScore)
-  return { items, actionTypes, keywordHits, relevanceScore }
+  return { items, actionTypes, keywordHits, relevanceScore, method: 'rules' }
+}
+
+// ── AI-based extraction (used automatically when ANTHROPIC_API_KEY is set) ──
+async function extractWithAI(text, apiKey) {
+  const trimmed = text.slice(0, 12000)
+
+  const prompt = `You're analyzing a school district or public sector board meeting agenda for signals relevant to McKinstry — a public-sector energy, HVAC, and facilities modernization contractor.
+
+Read this agenda and return ONLY a JSON object with these fields:
+
+{
+  "items": [array of concrete agenda items you found, cleaned up as 1-2 sentence descriptions],
+  "actionTypes": [array from this set: "RFP mention", "Bond", "HVAC / Facility", "Energy", "Construction", "Vote / Action", "Budget", "Discussion"],
+  "keywordHits": [array of specific phrases that triggered each actionType],
+  "relevanceScore": integer 0-5,
+  "summary": "one sentence describing what this meeting is about"
+}
+
+Score 0-5 based on McKinstry sales relevance:
+  5 = active RFP release or bond program directly involving facilities/HVAC/energy
+  4 = imminent RFP or bond planning with facility scope
+  3 = clear discussion of facility, HVAC, or energy work
+  2 = general capital planning or budget movement with likely facility touch
+  1 = tangential mention
+  0 = no signal
+
+Return ONLY the JSON. No preamble, no explanation.
+
+AGENDA:
+${trimmed}`
+
+  const resp = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 2000,
+      messages: [{ role: 'user', content: prompt }],
+    }),
+  })
+
+  if (!resp.ok) {
+    const err = await resp.text()
+    throw new Error(`Anthropic API error: ${err}`)
+  }
+
+  const data = await resp.json()
+  const content = data.content?.[0]?.text || ''
+
+  // Extract JSON from response — Claude sometimes wraps in ```json blocks
+  const cleaned = content.replace(/```json\s*|\s*```/g, '').trim()
+
+  let parsed
+  try {
+    parsed = JSON.parse(cleaned)
+  } catch {
+    throw new Error('Could not parse AI response as JSON')
+  }
+
+  return {
+    items:          Array.isArray(parsed.items) ? parsed.items.slice(0, 50) : [],
+    actionTypes:    Array.isArray(parsed.actionTypes) ? parsed.actionTypes : [],
+    keywordHits:    Array.isArray(parsed.keywordHits) ? parsed.keywordHits : [],
+    relevanceScore: Math.max(0, Math.min(5, parseInt(parsed.relevanceScore) || 0)),
+    summary:        parsed.summary || '',
+    method:         'ai',
+  }
 }
