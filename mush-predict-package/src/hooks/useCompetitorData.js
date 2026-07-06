@@ -44,10 +44,10 @@ export function useCompetitorData() {
 
   return {
     competitors: data?.competitors ?? [],
+    bondOpportunities: data?.bond_opportunities ?? [],
     sources:     data?.data_sources_active?.length ? data.data_sources_active : (data ? DEFAULT_SOURCES : []),
     lastUpdated: data?.last_updated_display ?? formatDate(data?.last_updated),
     signals,
     loading,
     error,
   }
-}
