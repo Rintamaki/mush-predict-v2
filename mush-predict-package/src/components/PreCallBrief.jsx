@@ -1,13 +1,14 @@
 import { useState } from 'react'
 import {
   Briefcase, Copy, Sparkles, AlertTriangle, MessageSquare,
-  Target, Users, TrendingUp, MapPin, ClipboardList, Loader2
+  Target, Users, TrendingUp, MapPin, ClipboardList, Loader2,
+  Landmark, Newspaper, ExternalLink
 } from 'lucide-react'
 import { generateBrief, formatBriefAsText } from '../engine/briefGenerator'
 
 const SEGMENTS = ['Schools', 'Healthcare', 'University', 'Municipal']
 
-export default function PreCallBrief({ competitors, signals, rfpRecords }) {
+export default function PreCallBrief({ competitors, signals, rfpRecords, bondOpportunities }) {
   const [form, setForm] = useState({
     agency: '',
     state: 'TX',
@@ -23,8 +24,6 @@ export default function PreCallBrief({ competitors, signals, rfpRecords }) {
   function handleGenerate() {
     if (!form.agency) return
     setGenerating(true)
-
-    // Small delay so the loading state is visible — makes it feel less mechanical
     setTimeout(() => {
       const opportunity = {
         title:   form.rfpTitle || `${form.agency} opportunity`,
@@ -40,7 +39,10 @@ export default function PreCallBrief({ competitors, signals, rfpRecords }) {
         meetingPurpose: form.meetingPurpose,
       }
       const result = generateBrief({
-        opportunity, meetingContext, competitors, signals, rfpHistory: rfpRecords,
+        opportunity, meetingContext,
+        competitors, signals,
+        rfpHistory: rfpRecords,
+        bondOpportunities,
       })
       setBrief(result)
       setGenerating(false)
@@ -60,7 +62,7 @@ export default function PreCallBrief({ competitors, signals, rfpRecords }) {
           Pre-call brief
         </h2>
         <p className="text-white/40 text-sm mt-0.5">
-          Generate a briefing document from all available data — competitor scoring, incumbency, recent signals, and district context. Use before any customer meeting.
+          Generate a briefing document from all available data — competitor scoring, incumbency, bond cycle, district news, and market signals.
         </p>
       </div>
 
@@ -126,17 +128,15 @@ export default function PreCallBrief({ competitors, signals, rfpRecords }) {
         </button>
       </div>
 
-      {/* Generated brief */}
       {brief && <BriefDisplay brief={brief} onCopy={copyBrief} />}
     </div>
   )
 }
 
-// ── Brief display component — shared with the QuickBrief modal ────────────────
+// ── Brief display component ───────────────────────────────────────────────────
 export function BriefDisplay({ brief, onCopy }) {
   return (
     <div className="animate-fade-in bg-white/[0.02] border border-white/10 rounded-2xl overflow-hidden">
-      {/* Header */}
       <div className="px-5 py-4 border-b border-white/8 flex items-start justify-between gap-3">
         <div className="flex-1">
           <div className="text-[10px] font-mono uppercase tracking-wider text-mk-lblue mb-1">Pre-call brief</div>
@@ -153,6 +153,35 @@ export function BriefDisplay({ brief, onCopy }) {
       </div>
 
       <div className="p-5 space-y-5">
+        {/* NEW: Bond cycle position — high-value at top */}
+        {brief.bondActivity?.found && (
+          <div className="bg-mk-gold/8 border border-mk-gold/25 rounded-xl p-4">
+            <div className="flex items-center gap-2 mb-2">
+              <Landmark size={14} className="text-mk-gold" />
+              <h4 className="font-barlow font-semibold text-white text-sm">Bond cycle position</h4>
+              <span className="ml-auto text-[10px] font-mono uppercase tracking-wider text-mk-gold">
+                {brief.bondActivity.cycleStage}
+              </span>
+            </div>
+            <p className="text-sm text-white/85 leading-relaxed mb-2">{brief.bondActivity.timing}</p>
+            <p className="text-[11px] font-mono text-white/40">
+              Most recent bond signal: {brief.bondActivity.monthsSinceLast} months ago
+              {brief.bondActivity.mostRecent?.value ? ` · ~$${(brief.bondActivity.mostRecent.value / 1e6).toFixed(0)}M` : ''}
+            </p>
+            {brief.bondActivity.mentions?.length > 1 && (
+              <div className="mt-3 pt-3 border-t border-white/8 space-y-1">
+                <div className="text-[10px] font-mono uppercase tracking-wider text-white/35 mb-1">Related mentions</div>
+                {brief.bondActivity.mentions.slice(0, 3).map((m, i) => (
+                  <div key={i} className="text-[11px] text-white/55">
+                    <span className="text-white/30 font-mono mr-2">{m.date?.slice(0, 10) || '?'}</span>
+                    {m.title}
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
         {/* Talking points */}
         {brief.talkingPoints.length > 0 && (
           <Section icon={<Target size={13} className="text-mk-lgreen" />} title="Talking points">
@@ -187,11 +216,42 @@ export function BriefDisplay({ brief, onCopy }) {
             <ol className="space-y-1.5 list-none">
               {brief.questions.map((q, i) => (
                 <li key={i} className="flex items-start gap-3 text-sm text-white/75">
-                  <span className="text-mk-lblue font-mono text-[11px] mt-0.5">{String(i + 1).padStart(2, '0')}</span>
+                  <span className="text-mk-lblue font-mono text-[11px] mt-0.5 flex-shrink-0">{String(i + 1).padStart(2, '0')}</span>
                   <span>{q}</span>
                 </li>
               ))}
             </ol>
+          </Section>
+        )}
+
+        {/* NEW: District news */}
+        {brief.districtNews?.length > 0 && (
+          <Section icon={<Newspaper size={13} className="text-mk-lblue" />} title="District news">
+            <div className="space-y-1.5">
+              {brief.districtNews.map((n, i) => (
+                <a
+                  key={i}
+                  href={n.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block bg-white/[0.02] border border-white/5 rounded-md px-3 py-2 hover:bg-white/[0.04] hover:border-white/10 transition-colors group"
+                >
+                  <div className="flex items-start justify-between gap-2">
+                    <div className="flex-1 min-w-0">
+                      <div className="text-sm text-white/80 group-hover:text-white leading-snug flex items-start gap-1">
+                        <span>{n.title}</span>
+                        {n.url && <ExternalLink size={10} className="text-white/25 flex-shrink-0 mt-1" />}
+                      </div>
+                      <div className="text-[10px] font-mono text-white/30 mt-1 flex items-center gap-2 flex-wrap">
+                        <span>{n.timestamp?.slice(0, 10) || 'recent'}</span>
+                        {n.source && <><span>·</span><span>{n.source}</span></>}
+                        {n.mentionsCompetitor && <><span>·</span><span className="text-mk-gold">mentions {n.mentionsCompetitor}</span></>}
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              ))}
+            </div>
           </Section>
         )}
 
@@ -233,7 +293,7 @@ export function BriefDisplay({ brief, onCopy }) {
           </Section>
         )}
 
-        {/* McKinstry history at this account */}
+        {/* McKinstry history */}
         {brief.mckinstryHistory && (
           <Section icon={<ClipboardList size={13} className="text-mk-lgreen" />} title="McKinstry's history here">
             <div className="bg-mk-lblue/5 border border-mk-lblue/20 rounded-lg p-3 text-sm text-white/80">
@@ -243,7 +303,7 @@ export function BriefDisplay({ brief, onCopy }) {
           </Section>
         )}
 
-        {/* Recent signals */}
+        {/* Recent market signals */}
         {brief.relevantSignals.length > 0 && (
           <Section icon={<MapPin size={13} className="text-mk-lblue" />} title="Recent activity in this market">
             <div className="space-y-1">
