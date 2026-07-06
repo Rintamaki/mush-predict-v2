@@ -97,157 +97,185 @@ COMPETITORS = [
             '"Siemens" building automation university hospital energy',
             '"Siemens Smart Infrastructure" MUSH contract award',
         ],
-# ============================================================================
-# NEW COMPETITORS — 10 additions
-# ============================================================================
-#
-# Copy each of these dict entries into the COMPETITORS list inside your
-# existing scrapers/config.py file — add them alongside the existing five
-# (Johnson Controls, Trane Technologies, Ameresco, Schneider Electric,
-# Siemens Smart Infrastructure).
-#
-# The pattern is: each entry is a dict, all separated by commas, all inside
-# the COMPETITORS = [ ... ] list.
-#
-# For public companies I've included ticker only — leave sec_cik out and
-# the scraper will skip SEC EDGAR gracefully. If you want SEC data flowing
-# for those, look up the CIK on sec.gov/cgi-bin/browse-edgar and add it.
-#
-# For private companies (no ticker/CIK), you'll naturally see fewer signals
-# — no earnings calls, no patents in most cases. That's expected.
-# ============================================================================
-
-    {
-        "name": "Cenergistic",
-        "segments": ["Schools", "University", "Healthcare", "Municipal"],
-        "offices": [
-            {"city": "Dallas", "state": "TX"},
-        ],
-        "usaspending_recipient": "CENERGISTIC LLC",
-        "sam_gov_search": "Cenergistic",
-        "uspto_assignee": "Cenergistic",
-        "adzuna_company": "Cenergistic",
-        "lda_registrant_name": "Cenergistic",
     },
     {
-        "name": "Willdan Group",
-        "segments": ["Municipal", "Schools", "University"],
-        "offices": [
+        "name":            "Cenergistic",
+        "segments":        ["Schools", "University", "Healthcare", "Municipal"],
+        "offices":         [
+            {"city": "Dallas", "state": "TX"},
+        ],
+        "usaspending_names":   ["CENERGISTIC LLC", "CENERGISTIC"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "Cenergistic",
+        "adzuna_query":        "Cenergistic",
+        "lda_registrant_name": "Cenergistic",
+        "news_queries": [
+            '"Cenergistic" school district energy conservation',
+            '"Cenergistic" university healthcare ENERGY STAR',
+        ],
+    },
+    {
+        "name":            "Willdan Group",
+        "segments":        ["Municipal", "Schools", "University"],
+        "offices":         [
             {"city": "Anaheim", "state": "CA"},
             {"city": "Houston", "state": "TX"},
         ],
-        "usaspending_recipient": "WILLDAN GROUP INC",
-        "sam_gov_search": "Willdan",
-        "sec_ticker": "WLDN",
-        "uspto_assignee": "Willdan Energy Solutions",
-        "adzuna_company": "Willdan",
+        "usaspending_names":   ["WILLDAN GROUP INC", "WILLDAN ENERGY SOLUTIONS", "WILLDAN"],
+        "sec_cik":             None,
+        "sec_ticker":          "WLDN",
+        "uspto_assignee":      "Willdan Energy Solutions",
+        "adzuna_query":        "Willdan",
         "lda_registrant_name": "Willdan Group",
-    },
-    {
-        "name": "Energy Systems Group",
-        "segments": ["Schools", "University", "Healthcare", "Municipal"],
-        "offices": [
-            {"city": "Newburgh", "state": "IN"},
-            {"city": "Houston", "state": "TX"},
+        "news_queries": [
+            '"Willdan" municipal energy efficiency contract',
+            '"Willdan Energy Solutions" school university award',
         ],
-        "usaspending_recipient": "ENERGY SYSTEMS GROUP LLC",
-        "sam_gov_search": "Energy Systems Group",
-        "uspto_assignee": "Energy Systems Group",
-        "adzuna_company": "Energy Systems Group",
-        "lda_registrant_name": "Energy Systems Group",
     },
     {
-        "name": "NORESCO",
-        "segments": ["Schools", "University", "Healthcare", "Municipal"],
-        "offices": [
+        "name":            "Energy Systems Group",
+        "segments":        ["Schools", "University", "Healthcare", "Municipal"],
+        "offices":         [
+            {"city": "Newburgh", "state": "IN"},
+            {"city": "Houston",  "state": "TX"},
+        ],
+        "usaspending_names":   ["ENERGY SYSTEMS GROUP LLC", "ENERGY SYSTEMS GROUP"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "Energy Systems Group",
+        "adzuna_query":        "Energy Systems Group",
+        "lda_registrant_name": "Energy Systems Group",
+        "news_queries": [
+            '"Energy Systems Group" ESPC school award',
+            '"Energy Systems Group" municipal healthcare contract',
+        ],
+    },
+    {
+        "name":            "NORESCO",
+        "segments":        ["Schools", "University", "Healthcare", "Municipal"],
+        "offices":         [
             {"city": "Westborough", "state": "MA"},
         ],
-        "usaspending_recipient": "NORESCO LLC",
-        "sam_gov_search": "NORESCO",
-        "uspto_assignee": "NORESCO",
-        "adzuna_company": "NORESCO",
+        "usaspending_names":   ["NORESCO LLC", "NORESCO"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "NORESCO",
+        "adzuna_query":        "NORESCO",
         "lda_registrant_name": "NORESCO",
+        "news_queries": [
+            '"NORESCO" energy performance contract',
+            '"NORESCO" school university healthcare',
+        ],
     },
     {
-        "name": "EMCOR Group",
-        "segments": ["Healthcare", "University", "Municipal"],
-        "offices": [
+        "name":            "EMCOR Group",
+        "segments":        ["Healthcare", "University", "Municipal"],
+        "offices":         [
             {"city": "Norwalk", "state": "CT"},
-            {"city": "Dallas", "state": "TX"},
+            {"city": "Dallas",  "state": "TX"},
             {"city": "Houston", "state": "TX"},
         ],
-        "usaspending_recipient": "EMCOR GOVERNMENT SERVICES INC",
-        "sam_gov_search": "EMCOR",
-        "sec_ticker": "EME",
-        "uspto_assignee": "EMCOR Group",
-        "adzuna_company": "EMCOR",
+        "usaspending_names":   ["EMCOR GOVERNMENT SERVICES INC", "EMCOR FACILITIES SERVICES", "EMCOR"],
+        "sec_cik":             "0000105634",
+        "sec_ticker":          "EME",
+        "uspto_assignee":      "EMCOR Group",
+        "adzuna_query":        "EMCOR",
         "lda_registrant_name": "EMCOR Group",
+        "news_queries": [
+            '"EMCOR" federal facilities contract',
+            '"EMCOR Group" hospital university mechanical',
+        ],
     },
     {
-        "name": "Ideal Impact",
-        "segments": ["Schools", "University"],
-        "offices": [
+        "name":            "Ideal Impact",
+        "segments":        ["Schools", "University"],
+        "offices":         [
             {"city": "Fort Worth", "state": "TX"},
         ],
-        "usaspending_recipient": "IDEAL IMPACT INC",
-        "sam_gov_search": "Ideal Impact",
-        "uspto_assignee": "Ideal Impact",
-        "adzuna_company": "Ideal Impact",
+        "usaspending_names":   ["IDEAL IMPACT INC", "IDEAL IMPACT"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "Ideal Impact",
+        "adzuna_query":        "Ideal Impact",
         "lda_registrant_name": "Ideal Impact",
+        "news_queries": [
+            '"Ideal Impact" school district energy',
+            '"Ideal Impact" Texas ISD conservation',
+        ],
     },
     {
-        "name": "ENGIE Services US",
-        "segments": ["University", "Healthcare", "Municipal", "Schools"],
-        "offices": [
+        "name":            "ENGIE Services US",
+        "segments":        ["University", "Healthcare", "Municipal", "Schools"],
+        "offices":         [
             {"city": "Oakland", "state": "CA"},
             {"city": "Houston", "state": "TX"},
         ],
-        "usaspending_recipient": "ENGIE SERVICES US INC",
-        "sam_gov_search": "ENGIE Services",
-        "uspto_assignee": "ENGIE",
-        "adzuna_company": "ENGIE",
+        "usaspending_names":   ["ENGIE SERVICES US INC", "ENGIE SERVICES", "ENGIE NORTH AMERICA"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "ENGIE",
+        "adzuna_query":        "ENGIE",
         "lda_registrant_name": "ENGIE North America",
+        "news_queries": [
+            '"ENGIE" university campus energy partnership',
+            '"ENGIE Services" ESPC contract award',
+        ],
     },
     {
-        "name": "Bernhard",
-        "segments": ["University", "Healthcare", "Municipal"],
-        "offices": [
+        "name":            "Bernhard",
+        "segments":        ["University", "Healthcare", "Municipal"],
+        "offices":         [
             {"city": "Baton Rouge", "state": "LA"},
-            {"city": "Houston", "state": "TX"},
-            {"city": "Dallas", "state": "TX"},
+            {"city": "Houston",     "state": "TX"},
+            {"city": "Dallas",      "state": "TX"},
         ],
-        "usaspending_recipient": "BERNHARD LLC",
-        "sam_gov_search": "Bernhard",
-        "uspto_assignee": "Bernhard",
-        "adzuna_company": "Bernhard",
+        "usaspending_names":   ["BERNHARD LLC", "BERNHARD ENERGY", "BERNHARD MCC"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "Bernhard",
+        "adzuna_query":        "Bernhard",
         "lda_registrant_name": "Bernhard",
+        "news_queries": [
+            '"Bernhard" university energy partnership',
+            '"Bernhard" hospital central utility plant',
+        ],
     },
     {
-        "name": "CMTA",
-        "segments": ["Schools", "University", "Healthcare", "Municipal"],
-        "offices": [
+        "name":            "CMTA",
+        "segments":        ["Schools", "University", "Healthcare", "Municipal"],
+        "offices":         [
             {"city": "Louisville", "state": "KY"},
-            {"city": "Austin", "state": "TX"},
+            {"city": "Austin",     "state": "TX"},
         ],
-        "usaspending_recipient": "CMTA INC",
-        "sam_gov_search": "CMTA",
-        "uspto_assignee": "CMTA",
-        "adzuna_company": "CMTA",
+        "usaspending_names":   ["CMTA INC", "CMTA"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "CMTA",
+        "adzuna_query":        "CMTA",
         "lda_registrant_name": "CMTA",
+        "news_queries": [
+            '"CMTA" school district net zero',
+            '"CMTA" university healthcare engineering',
+        ],
     },
     {
-        "name": "Southland Industries",
-        "segments": ["Healthcare", "University", "Municipal"],
-        "offices": [
+        "name":            "Southland Industries",
+        "segments":        ["Healthcare", "University", "Municipal"],
+        "offices":         [
             {"city": "Garden Grove", "state": "CA"},
-            {"city": "Dallas", "state": "TX"},
+            {"city": "Dallas",       "state": "TX"},
         ],
-        "usaspending_recipient": "SOUTHLAND INDUSTRIES",
-        "sam_gov_search": "Southland Industries",
-        "uspto_assignee": "Southland Industries",
-        "adzuna_company": "Southland Industries",
+        "usaspending_names":   ["SOUTHLAND INDUSTRIES", "SOUTHLAND ENERGY"],
+        "sec_cik":             None,
+        "sec_ticker":          None,
+        "uspto_assignee":      "Southland Industries",
+        "adzuna_query":        "Southland Industries",
         "lda_registrant_name": "Southland Industries",
-    },
+        "news_queries": [
+            '"Southland Industries" hospital mechanical',
+            '"Southland Industries" university energy',
+        ],
     },
 ]
 
