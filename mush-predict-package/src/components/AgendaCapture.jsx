@@ -1,36 +1,26 @@
 import { useState, useEffect } from 'react'
 import {
   ClipboardList, Send, Loader2, Check, AlertCircle,
-  ExternalLink, Star, Calendar, MapPin
+  ExternalLink, Star, Calendar, Trash2
 } from 'lucide-react'
 
-/**
- * AgendaCapture
- *
- * A new tab where AEs paste in agenda content they see on district websites.
- * The system extracts action types and relevance scores, then commits the
- * capture to a shared JSON file in the repo via the serverless function.
- */
 export default function AgendaCapture() {
   const [form, setForm] = useState({
-    agency: '',
-    state: 'TX',
-    url: '',
-    meetingDate: '',
-    agendaText: '',
-    submittedBy: '',
+    agency: '', state: 'TX', url: '',
+    meetingDate: '', agendaText: '', submittedBy: '',
   })
   const [submitting, setSubmitting] = useState(false)
   const [result, setResult] = useState(null)
   const [captures, setCaptures] = useState([])
+  const [deletingId, setDeletingId] = useState(null)
+  const [refreshKey, setRefreshKey] = useState(0)
 
   useEffect(() => {
-    // Load recent captures from the shared file
     fetch('./data/agenda_captures.json?t=' + Date.now())
       .then(r => r.ok ? r.json() : [])
       .then(arr => setCaptures(Array.isArray(arr) ? arr : []))
       .catch(() => setCaptures([]))
-  }, [result])
+  }, [refreshKey])
 
   async function handleSubmit() {
     if (!form.agency || !form.agendaText || form.agendaText.length < 50) {
@@ -39,7 +29,6 @@ export default function AgendaCapture() {
     }
     setSubmitting(true)
     setResult(null)
-
     try {
       const resp = await fetch('/api/capture-agenda', {
         method:  'POST',
@@ -48,9 +37,10 @@ export default function AgendaCapture() {
       })
       const data = await resp.json()
       if (resp.ok) {
-        setResult({ ok: true, capture: data.capture, message: 'Captured successfully.' })
-        // Reset the form
+        setResult({ ok: true, capture: data.capture, message: 'Captured successfully. May take ~1 min to appear below (Vercel rebuild).' })
         setForm({ ...form, url: '', meetingDate: '', agendaText: '' })
+        // Delay the refresh a bit so Vercel has time to rebuild
+        setTimeout(() => setRefreshKey(k => k + 1), 60000)
       } else {
         setResult({ ok: false, message: data.error || 'Something went wrong.' })
       }
@@ -58,6 +48,29 @@ export default function AgendaCapture() {
       setResult({ ok: false, message: 'Network error: ' + err.message })
     } finally {
       setSubmitting(false)
+    }
+  }
+
+  async function handleDelete(capture) {
+    if (!confirm(`Delete this capture for ${capture.agency}?`)) return
+    setDeletingId(capture.id)
+    try {
+      const resp = await fetch(`/api/capture-agenda?id=${encodeURIComponent(capture.id)}`, {
+        method: 'DELETE',
+      })
+      const data = await resp.json()
+      if (resp.ok) {
+        // Optimistic — remove from local list immediately
+        setCaptures(prev => prev.filter(c => c.id !== capture.id))
+        // Then refresh from source in a minute
+        setTimeout(() => setRefreshKey(k => k + 1), 60000)
+      } else {
+        alert('Delete failed: ' + (data.error || 'unknown error'))
+      }
+    } catch (err) {
+      alert('Network error: ' + err.message)
+    } finally {
+      setDeletingId(null)
     }
   }
 
@@ -138,7 +151,7 @@ export default function AgendaCapture() {
           {result && (
             <div className={`flex items-center gap-2 text-sm ${result.ok ? 'text-mk-lgreen' : 'text-mk-orange'}`}>
               {result.ok ? <Check size={14} /> : <AlertCircle size={14} />}
-              {result.message}
+              <span>{result.message}</span>
               {result.ok && result.capture && (
                 <span className="text-white/40 text-xs font-mono ml-1">
                   · relevance {result.capture.relevanceScore}/5 · {result.capture.actionTypes.length} action types
@@ -153,9 +166,15 @@ export default function AgendaCapture() {
       <div>
         <div className="flex items-center justify-between mb-3">
           <h3 className="font-barlow font-semibold text-white text-sm">Recent captures</h3>
-          <span className="text-[10px] font-mono uppercase tracking-wider text-white/40">
-            {captures.length} total · showing 20 newest
-          </span>
+          <div className="flex items-center gap-3">
+            <span className="text-[10px] font-mono uppercase tracking-wider text-white/40">
+              {captures.length} total · showing 20 newest
+            </span>
+            <button onClick={() => setRefreshKey(k => k + 1)}
+              className="text-[10px] font-mono uppercase tracking-wider text-mk-lblue hover:text-mk-lblue/80">
+              refresh
+            </button>
+          </div>
         </div>
 
         {recentCaptures.length === 0 ? (
@@ -189,7 +208,19 @@ export default function AgendaCapture() {
                       )}
                     </div>
                   </div>
-                  <RelevanceBadge score={cap.relevanceScore} />
+
+                  <div className="flex items-center gap-2 flex-shrink-0">
+                    <RelevanceBadge score={cap.relevanceScore} />
+                    <button
+                      onClick={() => handleDelete(cap)}
+                      disabled={deletingId === cap.id}
+                      title="Delete this capture"
+                      className="p-1.5 rounded-md border border-white/10 hover:border-mk-orange/40 hover:bg-mk-orange/10 text-white/40 hover:text-mk-orange transition-colors disabled:opacity-40 disabled:cursor-not-allowed">
+                      {deletingId === cap.id
+                        ? <Loader2 size={11} className="animate-spin" />
+                        : <Trash2 size={11} />}
+                    </button>
+                  </div>
                 </div>
 
                 {cap.actionTypes?.length > 0 && (
