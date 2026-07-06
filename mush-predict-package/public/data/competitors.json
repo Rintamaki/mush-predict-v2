@@ -93,137 +93,15 @@
           "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
         }
       ],
-      "activeBids": [
-        {
-          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--award",
-            "notice:",
-            "source",
-            "delivery",
-            "order"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T12:00:00-05:00"
-        },
-        {
-          "title": "Automated Media Preparation Instrument for Dissolution Testing",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "automated",
-            "media",
-            "preparation",
-            "instrument",
-            "dissolution"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T12:00:00-04:00"
-        },
-        {
-          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
-          "state": "JP-42",
-          "segment": "Other",
-          "keywords": [
-            "tripoli",
-            "(lha-7)",
-            "portable",
-            "ramp;",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-10T10:00:00+09:00"
-        },
-        {
-          "title": "DEBURRING AND POLISHING MACHINE",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "deburring",
-            "polishing",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T10:00:00-04:00"
-        },
-        {
-          "title": "Amended _721 APS Baggage Conveyor System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amended",
-            "baggage",
-            "conveyor",
-            "system"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T16:00:00-04:00"
-        },
-        {
-          "title": "EFO - My DOD Identity Solutions (MYDIS)",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "identity",
-            "solutions",
-            "(mydis)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUMED Mission Assurance Support Services",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "bumed",
-            "mission",
-            "assurance",
-            "support",
-            "services"
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T13:00:00-04:00"
-        },
-        {
-          "title": "30--BELLOWS,PRESSURE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "30--bellows,pressure"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14"
-        },
-        {
-          "title": "34--ANODE ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "34--anode",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17"
-        },
-        {
-          "title": "Sources Sought - High Resolution Near-Infrared Camera",
-          "state": "CO",
-          "segment": "Other",
-          "keywords": [
-            "sources",
-            "sought",
-            "resolution",
-            "near-infrared",
-            "camera"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14T12:00:00-06:00"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
+        {
+          "title": "HVAC Data Center Journeyman Mechanic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
         {
           "title": "Security Installer",
           "state": "WA",
@@ -379,13 +257,6 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Fire Alarm Technician",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
           "title": "Fire Suppression Service Technician",
           "state": "",
           "segment": "Schools",
@@ -394,13 +265,6 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Electronic Security Sales Account Executive",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
           "postedDate": "2026-07-06"
         },
         {
@@ -429,7 +293,25 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Fire Alarm Service Technician",
+          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Truck Based Sr Controls Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Fire Installer",
           "state": "PA",
           "segment": "Schools",
           "tags": [
@@ -440,15 +322,8 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Quality Engineer - Machining",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Truck Based Journeymen Mechanic (union)",
-          "state": "GA",
+          "title": "Fire Sprinkler Service Technician Team Lead",
+          "state": "NY",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
@@ -568,136 +443,7 @@
           "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
         }
       ],
-      "activeBids": [
-        {
-          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--award",
-            "notice:",
-            "source",
-            "delivery",
-            "order"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T12:00:00-05:00"
-        },
-        {
-          "title": "Automated Media Preparation Instrument for Dissolution Testing",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "automated",
-            "media",
-            "preparation",
-            "instrument",
-            "dissolution"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T12:00:00-04:00"
-        },
-        {
-          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
-          "state": "JP-42",
-          "segment": "Other",
-          "keywords": [
-            "tripoli",
-            "(lha-7)",
-            "portable",
-            "ramp;",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-10T10:00:00+09:00"
-        },
-        {
-          "title": "DEBURRING AND POLISHING MACHINE",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "deburring",
-            "polishing",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T10:00:00-04:00"
-        },
-        {
-          "title": "Amended _721 APS Baggage Conveyor System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amended",
-            "baggage",
-            "conveyor",
-            "system"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T16:00:00-04:00"
-        },
-        {
-          "title": "EFO - My DOD Identity Solutions (MYDIS)",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "identity",
-            "solutions",
-            "(mydis)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUMED Mission Assurance Support Services",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "bumed",
-            "mission",
-            "assurance",
-            "support",
-            "services"
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T13:00:00-04:00"
-        },
-        {
-          "title": "30--BELLOWS,PRESSURE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "30--bellows,pressure"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14"
-        },
-        {
-          "title": "34--ANODE ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "34--anode",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17"
-        },
-        {
-          "title": "Sources Sought - High Resolution Near-Infrared Camera",
-          "state": "CO",
-          "segment": "Other",
-          "keywords": [
-            "sources",
-            "sought",
-            "resolution",
-            "near-infrared",
-            "camera"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14T12:00:00-06:00"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
           "title": "Data Center/Chiller Technician",
@@ -815,136 +561,7 @@
           "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT. INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION ME"
         }
       ],
-      "activeBids": [
-        {
-          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--award",
-            "notice:",
-            "source",
-            "delivery",
-            "order"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T12:00:00-05:00"
-        },
-        {
-          "title": "Automated Media Preparation Instrument for Dissolution Testing",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "automated",
-            "media",
-            "preparation",
-            "instrument",
-            "dissolution"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T12:00:00-04:00"
-        },
-        {
-          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
-          "state": "JP-42",
-          "segment": "Other",
-          "keywords": [
-            "tripoli",
-            "(lha-7)",
-            "portable",
-            "ramp;",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-10T10:00:00+09:00"
-        },
-        {
-          "title": "DEBURRING AND POLISHING MACHINE",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "deburring",
-            "polishing",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T10:00:00-04:00"
-        },
-        {
-          "title": "Amended _721 APS Baggage Conveyor System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amended",
-            "baggage",
-            "conveyor",
-            "system"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T16:00:00-04:00"
-        },
-        {
-          "title": "EFO - My DOD Identity Solutions (MYDIS)",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "identity",
-            "solutions",
-            "(mydis)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUMED Mission Assurance Support Services",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "bumed",
-            "mission",
-            "assurance",
-            "support",
-            "services"
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T13:00:00-04:00"
-        },
-        {
-          "title": "30--BELLOWS,PRESSURE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "30--bellows,pressure"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14"
-        },
-        {
-          "title": "34--ANODE ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "34--anode",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17"
-        },
-        {
-          "title": "Sources Sought - High Resolution Near-Infrared Camera",
-          "state": "CO",
-          "segment": "Other",
-          "keywords": [
-            "sources",
-            "sought",
-            "resolution",
-            "near-infrared",
-            "camera"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14T12:00:00-06:00"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
           "title": "Plant Specialist",
@@ -1343,136 +960,7 @@
           "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
         }
       ],
-      "activeBids": [
-        {
-          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--award",
-            "notice:",
-            "source",
-            "delivery",
-            "order"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T12:00:00-05:00"
-        },
-        {
-          "title": "Automated Media Preparation Instrument for Dissolution Testing",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "automated",
-            "media",
-            "preparation",
-            "instrument",
-            "dissolution"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T12:00:00-04:00"
-        },
-        {
-          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
-          "state": "JP-42",
-          "segment": "Other",
-          "keywords": [
-            "tripoli",
-            "(lha-7)",
-            "portable",
-            "ramp;",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-10T10:00:00+09:00"
-        },
-        {
-          "title": "DEBURRING AND POLISHING MACHINE",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "deburring",
-            "polishing",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T10:00:00-04:00"
-        },
-        {
-          "title": "Amended _721 APS Baggage Conveyor System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amended",
-            "baggage",
-            "conveyor",
-            "system"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T16:00:00-04:00"
-        },
-        {
-          "title": "EFO - My DOD Identity Solutions (MYDIS)",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "identity",
-            "solutions",
-            "(mydis)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUMED Mission Assurance Support Services",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "bumed",
-            "mission",
-            "assurance",
-            "support",
-            "services"
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T13:00:00-04:00"
-        },
-        {
-          "title": "30--BELLOWS,PRESSURE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "30--bellows,pressure"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14"
-        },
-        {
-          "title": "34--ANODE ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "34--anode",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17"
-        },
-        {
-          "title": "Sources Sought - High Resolution Near-Infrared Camera",
-          "state": "CO",
-          "segment": "Other",
-          "keywords": [
-            "sources",
-            "sought",
-            "resolution",
-            "near-infrared",
-            "camera"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14T12:00:00-06:00"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
           "title": "Industrial Territory Sales Engineer",
@@ -1757,136 +1245,7 @@
           "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
         }
       ],
-      "activeBids": [
-        {
-          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--award",
-            "notice:",
-            "source",
-            "delivery",
-            "order"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T12:00:00-05:00"
-        },
-        {
-          "title": "Automated Media Preparation Instrument for Dissolution Testing",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "automated",
-            "media",
-            "preparation",
-            "instrument",
-            "dissolution"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T12:00:00-04:00"
-        },
-        {
-          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
-          "state": "JP-42",
-          "segment": "Other",
-          "keywords": [
-            "tripoli",
-            "(lha-7)",
-            "portable",
-            "ramp;",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-10T10:00:00+09:00"
-        },
-        {
-          "title": "DEBURRING AND POLISHING MACHINE",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "deburring",
-            "polishing",
-            "machine"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T10:00:00-04:00"
-        },
-        {
-          "title": "Amended _721 APS Baggage Conveyor System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amended",
-            "baggage",
-            "conveyor",
-            "system"
-          ],
-          "agency": "",
-          "deadline": "2026-07-08T16:00:00-04:00"
-        },
-        {
-          "title": "EFO - My DOD Identity Solutions (MYDIS)",
-          "state": "CA",
-          "segment": "Other",
-          "keywords": [
-            "identity",
-            "solutions",
-            "(mydis)"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "BUMED Mission Assurance Support Services",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "bumed",
-            "mission",
-            "assurance",
-            "support",
-            "services"
-          ],
-          "agency": "",
-          "deadline": "2026-07-07T13:00:00-04:00"
-        },
-        {
-          "title": "30--BELLOWS,PRESSURE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "30--bellows,pressure"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14"
-        },
-        {
-          "title": "34--ANODE ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "34--anode",
-            "assembly"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17"
-        },
-        {
-          "title": "Sources Sought - High Resolution Near-Infrared Camera",
-          "state": "CO",
-          "segment": "Other",
-          "keywords": [
-            "sources",
-            "sought",
-            "resolution",
-            "near-infrared",
-            "camera"
-          ],
-          "agency": "",
-          "deadline": "2026-07-14T12:00:00-06:00"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
