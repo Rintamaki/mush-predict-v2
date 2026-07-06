@@ -9,6 +9,7 @@ import SignalStream         from './components/SignalStream'
 import RFPDatabase          from './components/RFPDatabase'
 import DistrictContextPanel from './components/DistrictContextPanel'
 import WeightTuner          from './components/WeightTuner'
+import PreCallBrief from './components/PreCallBrief'
 import CalibrationDashboard from './components/CalibrationDashboard'
 import { useCompetitorData } from './hooks/useCompetitorData'
 import {
@@ -151,12 +152,19 @@ export default function App() {
               />
             )}
 
-            {/* ── ACCURACY / CALIBRATION ── */}
+           {/* ── ACCURACY / CALIBRATION ── */}
             {activeTab === 'accuracy' && <CalibrationDashboard />}
+
+            {/* ── PRE-CALL BRIEF ── */}
+            {activeTab === 'brief' && (
+              <PreCallBrief
+                competitors={competitors}
+                signals={signals}
+                rfpRecords={rfpRecords}
+              />
+            )}
           </>
         )}
-      </main>
-
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
         <p className="font-mono text-[10px] uppercase tracking-widest text-white/25">
           McKinstry Predict · Phase 1 · {competitors.length} competitors · {sources.length} data sources · Predictions are probabilistic, not guarantees
