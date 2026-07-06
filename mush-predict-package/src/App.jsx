@@ -154,13 +154,15 @@ export default function App() {
 
             {/* ── PRE-CALL BRIEF ── */}
             {activeTab === 'brief' && (
-  <PreCallBrief
-    competitors={competitors}
-    signals={signals}
-    rfpRecords={rfpRecords}
-    bondOpportunities={bondOpportunities}
-  />
-)}
+              <PreCallBrief
+                competitors={competitors}
+                signals={signals}
+                rfpRecords={rfpRecords}
+                bondOpportunities={bondOpportunities}
+              />
+            )}
+          </>
+        )}
       </main>
 
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
