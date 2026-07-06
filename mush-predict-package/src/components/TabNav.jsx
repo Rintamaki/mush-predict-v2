@@ -1,4 +1,4 @@
-import { Target as TargetIcon, TrendingUp, Activity, Database, Crosshair, Briefcase } from 'lucide-react'
+import { Target as TargetIcon, TrendingUp, Activity, Database, Crosshair, Briefcase, ClipboardList } from 'lucide-react'
 
 const TABS = [
   { key: 'predict',    label: 'RFP Scorer',          icon: TargetIcon },
@@ -7,6 +7,7 @@ const TABS = [
   { key: 'rfpdb',      label: 'RFP Database',        icon: Database },
   { key: 'accuracy',   label: 'Accuracy',            icon: Crosshair },
   { key: 'brief',      label: 'Pre-Call Brief',      icon: Briefcase },
+  { key: 'agenda',     label: 'Agenda Capture',      icon: ClipboardList },
 ]
 
 export default function TabNav({ active, setActive }) {
