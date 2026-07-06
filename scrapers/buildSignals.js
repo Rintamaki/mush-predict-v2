@@ -1,6 +1,6 @@
 // ==============================
 // Persistent Signal Builder
-// Drop into your repo and run: node buildSignals.js
+// Drop into scrapers/ and run: node buildSignals.js
 // ==============================
 
 const fs = require("fs")
@@ -17,7 +17,6 @@ const OUTPUT_FILE = path.join(
   "../mush-predict-package/public/data/signals.json"
 )
 
-
 // ==============================
 // Generate unique ID (dedupe key)
 // ==============================
@@ -27,7 +26,8 @@ function generateId(signal) {
 }
 
 // ==============================
-// Convert your structured data → flat signals
+// Convert structured competitor data → flat signals
+// Now preserves state + segment fields so the UI can filter on them.
 // ==============================
 function extractSignals(data) {
   const signals = []
@@ -43,6 +43,8 @@ function extractSignals(data) {
           type: "job",
           title: job.title,
           timestamp: job.postedDate || null,
+          state: job.state || "",
+          segment: job.segment || "",
           source: "Adzuna",
           url: "",
         })
@@ -57,6 +59,8 @@ function extractSignals(data) {
           type: "news",
           title: article.title,
           timestamp: article.published || null,
+          state: "",                // news usually has no state
+          segment: "",
           source: article.source || "news",
           url: article.url || "",
         })
@@ -71,6 +75,8 @@ function extractSignals(data) {
           type: "bid",
           title: bid.title,
           timestamp: bid.deadline || null,
+          state: bid.state || "",
+          segment: bid.segment || "",
           source: "SAM.gov",
           url: "",
         })
@@ -85,6 +91,8 @@ function extractSignals(data) {
           type: "contract",
           title: contract.description || "Contract Award",
           timestamp: contract.date || null,
+          state: contract.state || "",
+          segment: contract.segment || "",
           source: contract.agency || "USASpending",
           url: "",
         })
@@ -99,6 +107,8 @@ function extractSignals(data) {
           type: "earnings",
           title: call.snippet || "Earnings Mention",
           timestamp: call.quarter || null,
+          state: "",                // earnings calls are company-level, no state
+          segment: call.topic || "",
           source: "SEC EDGAR",
           url: "",
         })
@@ -106,11 +116,7 @@ function extractSignals(data) {
     }
   })
 
-  // Attach IDs
-  return signals.map(s => ({
-    ...s,
-    id: generateId(s)
-  }))
+  return signals.map(s => ({ ...s, id: generateId(s) }))
 }
 
 // ==============================
@@ -118,41 +124,26 @@ function extractSignals(data) {
 // ==============================
 function mergeSignals(newSignals) {
   let existing = []
-
   if (fs.existsSync(OUTPUT_FILE)) {
     existing = JSON.parse(fs.readFileSync(OUTPUT_FILE))
   }
-
   const existingIds = new Set(existing.map(s => s.id))
-
   const uniqueNew = newSignals.filter(s => !existingIds.has(s.id))
-
   const merged = [...existing, ...uniqueNew]
-
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(merged, null, 2))
-
   console.log("✅ New signals added:", uniqueNew.length)
   console.log("📈 Total signals stored:", merged.length)
 }
 
-// ==============================
-// MAIN EXECUTION
-// ==============================
 function run() {
   if (!fs.existsSync(INPUT_FILE)) {
-  console.error("❌ Input file not found:", INPUT_FILE)
-
-  // ✅ Create empty signals file so workflow doesn't crash
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify([], null, 2))
-  return
-}
-
+    console.error("❌ Input file not found:", INPUT_FILE)
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify([], null, 2))
+    return
+  }
   const rawData = JSON.parse(fs.readFileSync(INPUT_FILE))
-
   const newSignals = extractSignals(rawData)
-
   console.log("🔍 Extracted signals:", newSignals.length)
-
   mergeSignals(newSignals)
 }
 
