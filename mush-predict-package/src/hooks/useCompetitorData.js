@@ -13,7 +13,7 @@ export function useCompetitorData() {
       .then(json => setData(json))
       .catch(e => setError(e.message))
 
-    // Load persistent signals (feeds the Signal Stream tab)
+    // Load persistent signals (feeds the Signal Stream tab and brief)
     fetch('./data/signals.json?t=' + Date.now())
       .then(r => r.ok ? r.json() : [])
       .then(json => setSignals(Array.isArray(json) ? json : []))
@@ -43,11 +43,12 @@ export function useCompetitorData() {
   }
 
   return {
-    competitors: data?.competitors ?? [],
+    competitors:       data?.competitors ?? [],
     bondOpportunities: data?.bond_opportunities ?? [],
-    sources:     data?.data_sources_active?.length ? data.data_sources_active : (data ? DEFAULT_SOURCES : []),
-    lastUpdated: data?.last_updated_display ?? formatDate(data?.last_updated),
+    sources:           data?.data_sources_active?.length ? data.data_sources_active : (data ? DEFAULT_SOURCES : []),
+    lastUpdated:       data?.last_updated_display ?? formatDate(data?.last_updated),
     signals,
     loading,
     error,
   }
+}
