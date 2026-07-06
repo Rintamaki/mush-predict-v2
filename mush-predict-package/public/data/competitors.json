@@ -109,6 +109,20 @@
           "deadline": "2026-08-06T12:00:00-05:00"
         },
         {
+          "title": "Automated Media Preparation Instrument for Dissolution Testing",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "automated",
+            "media",
+            "preparation",
+            "instrument",
+            "dissolution"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T12:00:00-04:00"
+        },
+        {
           "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
           "state": "JP-42",
           "segment": "Other",
@@ -121,6 +135,18 @@
           ],
           "agency": "",
           "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "DEBURRING AND POLISHING MACHINE",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "deburring",
+            "polishing",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T10:00:00-04:00"
         },
         {
           "title": "Amended _721 APS Baggage Conveyor System",
@@ -183,39 +209,18 @@
           "deadline": "2026-07-17"
         },
         {
-          "title": "RESTRICTOR,FLUID FL",
-          "state": "",
+          "title": "Sources Sought - High Resolution Near-Infrared Camera",
+          "state": "CO",
           "segment": "Other",
           "keywords": [
-            "restrictor,fluid"
+            "sources",
+            "sought",
+            "resolution",
+            "near-infrared",
+            "camera"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "w912hn26ra012",
-            "(lpta)",
-            "project",
-            "90737-",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T11:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T14:00:00-04:00"
+          "deadline": "2026-07-14T12:00:00-06:00"
         }
       ],
       "jobPostings": [
@@ -374,6 +379,13 @@
           "postedDate": "2026-07-06"
         },
         {
+          "title": "Fire Alarm Technician",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
           "title": "Fire Suppression Service Technician",
           "state": "",
           "segment": "Schools",
@@ -382,6 +394,13 @@
             "Healthcare",
             "University"
           ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Electronic Security Sales Account Executive",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-06"
         },
         {
@@ -410,8 +429,8 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "",
+          "title": "Fire Alarm Service Technician",
+          "state": "PA",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -421,33 +440,15 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "HVAC Truck Based Sr Controls Service Technician",
-          "state": "TX",
+          "title": "Quality Engineer - Machining",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Fire Sprinkler Service Technician Team Lead",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Security & Fire Equipment Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Journeyman Mechanic (un)",
-          "state": "",
+          "title": "HVAC Truck Based Journeymen Mechanic (union)",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
@@ -583,6 +584,20 @@
           "deadline": "2026-08-06T12:00:00-05:00"
         },
         {
+          "title": "Automated Media Preparation Instrument for Dissolution Testing",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "automated",
+            "media",
+            "preparation",
+            "instrument",
+            "dissolution"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T12:00:00-04:00"
+        },
+        {
           "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
           "state": "JP-42",
           "segment": "Other",
@@ -595,6 +610,18 @@
           ],
           "agency": "",
           "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "DEBURRING AND POLISHING MACHINE",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "deburring",
+            "polishing",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T10:00:00-04:00"
         },
         {
           "title": "Amended _721 APS Baggage Conveyor System",
@@ -657,39 +684,18 @@
           "deadline": "2026-07-17"
         },
         {
-          "title": "RESTRICTOR,FLUID FL",
-          "state": "",
+          "title": "Sources Sought - High Resolution Near-Infrared Camera",
+          "state": "CO",
           "segment": "Other",
           "keywords": [
-            "restrictor,fluid"
+            "sources",
+            "sought",
+            "resolution",
+            "near-infrared",
+            "camera"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "w912hn26ra012",
-            "(lpta)",
-            "project",
-            "90737-",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T11:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T14:00:00-04:00"
+          "deadline": "2026-07-14T12:00:00-06:00"
         }
       ],
       "jobPostings": [
@@ -825,6 +831,20 @@
           "deadline": "2026-08-06T12:00:00-05:00"
         },
         {
+          "title": "Automated Media Preparation Instrument for Dissolution Testing",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "automated",
+            "media",
+            "preparation",
+            "instrument",
+            "dissolution"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T12:00:00-04:00"
+        },
+        {
           "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
           "state": "JP-42",
           "segment": "Other",
@@ -837,6 +857,18 @@
           ],
           "agency": "",
           "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "DEBURRING AND POLISHING MACHINE",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "deburring",
+            "polishing",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T10:00:00-04:00"
         },
         {
           "title": "Amended _721 APS Baggage Conveyor System",
@@ -899,39 +931,18 @@
           "deadline": "2026-07-17"
         },
         {
-          "title": "RESTRICTOR,FLUID FL",
-          "state": "",
+          "title": "Sources Sought - High Resolution Near-Infrared Camera",
+          "state": "CO",
           "segment": "Other",
           "keywords": [
-            "restrictor,fluid"
+            "sources",
+            "sought",
+            "resolution",
+            "near-infrared",
+            "camera"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "w912hn26ra012",
-            "(lpta)",
-            "project",
-            "90737-",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T11:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T14:00:00-04:00"
+          "deadline": "2026-07-14T12:00:00-06:00"
         }
       ],
       "jobPostings": [
@@ -1348,6 +1359,20 @@
           "deadline": "2026-08-06T12:00:00-05:00"
         },
         {
+          "title": "Automated Media Preparation Instrument for Dissolution Testing",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "automated",
+            "media",
+            "preparation",
+            "instrument",
+            "dissolution"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T12:00:00-04:00"
+        },
+        {
           "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
           "state": "JP-42",
           "segment": "Other",
@@ -1360,6 +1385,18 @@
           ],
           "agency": "",
           "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "DEBURRING AND POLISHING MACHINE",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "deburring",
+            "polishing",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T10:00:00-04:00"
         },
         {
           "title": "Amended _721 APS Baggage Conveyor System",
@@ -1422,39 +1459,18 @@
           "deadline": "2026-07-17"
         },
         {
-          "title": "RESTRICTOR,FLUID FL",
-          "state": "",
+          "title": "Sources Sought - High Resolution Near-Infrared Camera",
+          "state": "CO",
           "segment": "Other",
           "keywords": [
-            "restrictor,fluid"
+            "sources",
+            "sought",
+            "resolution",
+            "near-infrared",
+            "camera"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "w912hn26ra012",
-            "(lpta)",
-            "project",
-            "90737-",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T11:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T14:00:00-04:00"
+          "deadline": "2026-07-14T12:00:00-06:00"
         }
       ],
       "jobPostings": [
@@ -1568,73 +1584,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Industrial Territory Sales Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Accounting Intern",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Assembly Technician - 1st Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Systems Application Engineer II",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Wiring Associate",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Manufacturing Quality Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "BMS Service Account Executive",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Site Superintendent II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Energy Performance Specialist II",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
         }
       ],
       "patents": [],
@@ -1824,6 +1773,20 @@
           "deadline": "2026-08-06T12:00:00-05:00"
         },
         {
+          "title": "Automated Media Preparation Instrument for Dissolution Testing",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "automated",
+            "media",
+            "preparation",
+            "instrument",
+            "dissolution"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T12:00:00-04:00"
+        },
+        {
           "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
           "state": "JP-42",
           "segment": "Other",
@@ -1836,6 +1799,18 @@
           ],
           "agency": "",
           "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "DEBURRING AND POLISHING MACHINE",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "deburring",
+            "polishing",
+            "machine"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T10:00:00-04:00"
         },
         {
           "title": "Amended _721 APS Baggage Conveyor System",
@@ -1898,57 +1873,21 @@
           "deadline": "2026-07-17"
         },
         {
-          "title": "RESTRICTOR,FLUID FL",
-          "state": "",
+          "title": "Sources Sought - High Resolution Near-Infrared Camera",
+          "state": "CO",
           "segment": "Other",
           "keywords": [
-            "restrictor,fluid"
+            "sources",
+            "sought",
+            "resolution",
+            "near-infrared",
+            "camera"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "w912hn26ra012",
-            "(lpta)",
-            "project",
-            "90737-",
-            "repair"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T11:00:00-04:00"
-        },
-        {
-          "title": "81--SHIPPING AND STORAG",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "81--shipping",
-            "storag"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T14:00:00-04:00"
+          "deadline": "2026-07-14T12:00:00-06:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Construction Sales Engineer - Electrical Products",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Engineering Test Technician - Low Voltage Products",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
