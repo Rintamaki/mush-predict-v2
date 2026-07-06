@@ -1150,5 +1150,115 @@
     "source": "Department of Health and Human Services",
     "url": "",
     "id": "9a23b89a391748aa39f5f682030c2d7e"
+  },
+  {
+    "company": "Johnson Controls",
+    "type": "job",
+    "title": "Construction Project Coordinator",
+    "timestamp": "2026-07-06",
+    "state": "",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "fcc9751378df387b04a618632ad69ac1"
+  },
+  {
+    "company": "Johnson Controls",
+    "type": "job",
+    "title": "HVAC Truck Based Technician Team Lead Mechanic (union)",
+    "timestamp": "2026-07-06",
+    "state": "MI",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "59c075136e51cb64ff535b148c6afe0f"
+  },
+  {
+    "company": "Trane Technologies",
+    "type": "job",
+    "title": "Equipment Project Manager",
+    "timestamp": "2026-07-06",
+    "state": "FL",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "a23b2b90add01f07bff0bcc8ff91b4f7"
+  },
+  {
+    "company": "Trane Technologies",
+    "type": "job",
+    "title": "HVAC Technician",
+    "timestamp": "2026-07-06",
+    "state": "",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "fcaa2bb540f2684d2d2248fd32ec10e0"
+  },
+  {
+    "company": "Trane Technologies",
+    "type": "job",
+    "title": "HVAC Service Technician - Journeyman",
+    "timestamp": "2026-07-06",
+    "state": "TX",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "067bc4600aae1b3710c40620b5736958"
+  },
+  {
+    "company": "Trane Technologies",
+    "type": "job",
+    "title": "DC Supervisor",
+    "timestamp": "2026-07-06",
+    "state": "",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "5370d9dbc20f26d13b1b9c5d96059b97"
+  },
+  {
+    "company": "Ameresco",
+    "type": "job",
+    "title": "Building Automation Specialist",
+    "timestamp": "2026-06-17",
+    "state": "OH",
+    "segment": "Schools",
+    "source": "Adzuna",
+    "url": "",
+    "id": "81b006b869dc3b28297c08efb6aa1048"
+  },
+  {
+    "company": "Siemens Smart Infrastructure",
+    "type": "job",
+    "title": "Construction Sales Engineer",
+    "timestamp": "2026-07-06",
+    "state": "CA",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "1527d8a188857a10c0b2930b6db52304"
+  },
+  {
+    "company": "Siemens Smart Infrastructure",
+    "type": "job",
+    "title": "Manufacturing Training Supervisor",
+    "timestamp": "2026-07-06",
+    "state": "NC",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "5c7f7a7f295b86a568fe27ea914e3975"
+  },
+  {
+    "company": "Siemens Smart Infrastructure",
+    "type": "job",
+    "title": "Production Supervisor - 2nd Shift",
+    "timestamp": "2026-07-06",
+    "state": "CA",
+    "segment": "Other",
+    "source": "Adzuna",
+    "url": "",
+    "id": "de84c564de97582e86ceb8e894675438"
   }
 ]

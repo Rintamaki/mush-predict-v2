@@ -96,8 +96,15 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "HVAC Data Center Journeyman Mechanic",
+          "title": "Construction Project Coordinator",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Electrician",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
@@ -111,6 +118,20 @@
             "Healthcare",
             "University"
           ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Truck Based Technician Team Lead Mechanic (union)",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Data Center Journeyman Mechanic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-06"
         },
         {
@@ -291,42 +312,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Truck Based Sr Controls Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Fire Installer",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Fire Sprinkler Service Technician Team Lead",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
         }
       ],
       "patents": [],
@@ -446,6 +431,34 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Equipment Project Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Service Technician - Journeyman",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "DC Supervisor",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
           "title": "Data Center/Chiller Technician",
           "state": "TX",
           "segment": "Other",
@@ -489,13 +502,6 @@
         },
         {
           "title": "SR Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "Controls Account Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -584,16 +590,6 @@
             "University"
           ],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-01"
         },
         {
           "title": "Senior Energy Engineer",
@@ -883,6 +879,17 @@
         },
         {
           "title": "DDC Controls Installation Technician",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-17"
+        },
+        {
+          "title": "Building Automation Specialist",
           "state": "OH",
           "segment": "Schools",
           "tags": [
@@ -1246,7 +1253,29 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Construction Sales Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Manufacturing Training Supervisor",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Production Supervisor - 2nd Shift",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
