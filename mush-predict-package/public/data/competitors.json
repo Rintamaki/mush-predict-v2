@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -93,8 +93,366 @@
           "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
         }
       ],
-      "activeBids": [],
-      "jobPostings": [],
+      "activeBids": [
+        {
+          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--award",
+            "notice:",
+            "source",
+            "delivery",
+            "order"
+          ],
+          "agency": "",
+          "deadline": "2026-08-06T12:00:00-05:00"
+        },
+        {
+          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "tripoli",
+            "(lha-7)",
+            "portable",
+            "ramp;",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "Amended _721 APS Baggage Conveyor System",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "amended",
+            "baggage",
+            "conveyor",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T16:00:00-04:00"
+        },
+        {
+          "title": "EFO - My DOD Identity Solutions (MYDIS)",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "identity",
+            "solutions",
+            "(mydis)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUMED Mission Assurance Support Services",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "bumed",
+            "mission",
+            "assurance",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-07T13:00:00-04:00"
+        },
+        {
+          "title": "30--BELLOWS,PRESSURE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "30--bellows,pressure"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14"
+        },
+        {
+          "title": "34--ANODE ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "34--anode",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17"
+        },
+        {
+          "title": "RESTRICTOR,FLUID FL",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "restrictor,fluid"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T16:30:00-04:00"
+        },
+        {
+          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "w912hn26ra012",
+            "(lpta)",
+            "project",
+            "90737-",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T11:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T14:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Security Installer",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Equipment Systems Application Engineer I",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Territory Sales Manager",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Equipment Commercial Systems Specialist",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Commercial Security Systems Account Executive",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Sr. Software Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Lab Technician",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Selling Sales Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Territory Sales Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Product Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Wall/ Roof Fabricator, 2nd shift",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Electrician",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Account Representative",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Fire Sprinkler Systems Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Measurement & Verification (M&V) Specialist (Mid to Senior Level)\"",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Chiller Engineering Manager (onsite)",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Welder 2nd Shift",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Mechanical Service Technician Serviceman (Union)",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Fire Suppression Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Lab Technician - 3rd Shift (onsite)",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Commercial HVAC Service Sales Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Mechanic Serviceman (Union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Truck Based Sr Controls Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Fire Sprinkler Service Technician Team Lead",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Security & Fire Equipment Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeyman Mechanic (un)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -104,6 +462,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDZiZ3Q0Vkk1UlcydmFNMzNycHcwVjE3SXdZcm1rMGVRUlF2SVJMWTVaVHBuenpoUWtyWnBUTVpDWDZUbElnekdELVJBczF2LVpzeFZkYVd1MkF3M1ZTc0NlTUo1V1NoclRhRk9hS3pjSTRVMEpaaUVEeUp5a2RlQm04LUdpQXRURnF4QnNwNjhaTGxHbHAxVmpyc25uQ0daQ3NoWXYySTV3Y0h6eFR6N0tiZnlHc0dybz",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDZiZ3Q0Vkk1UlcydmFNMzNycHcwVjE3SXdZcm1rMGVRUlF2SVJMWTVaVHBuenpoUWtyWnBUTVpDWDZUbElnekdELVJBczF2LVpzeFZkYVd1MkF3M1ZTc0NlTUo1V1NoclRhRk9hS3pjSTRVMEpaaUVEeUp5a2RlQm04LUdpQXRURnF4QnNwNjhaTGxHbHAxVmpyc25uQ0daQ3NoWXYySTV3Y0h6eFR6N0tiZnlHc0dybzI3YTZST053S3NNQ2M5bENIdWQ?oc=5",
           "published": "Wed, 20 May 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "How OpenBlue turns sustainability into business value - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOH",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOHRLZGxNMVNPVkJaYmc?oc=5",
+          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -202,8 +567,189 @@
           "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
         }
       ],
-      "activeBids": [],
-      "jobPostings": [],
+      "activeBids": [
+        {
+          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--award",
+            "notice:",
+            "source",
+            "delivery",
+            "order"
+          ],
+          "agency": "",
+          "deadline": "2026-08-06T12:00:00-05:00"
+        },
+        {
+          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "tripoli",
+            "(lha-7)",
+            "portable",
+            "ramp;",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "Amended _721 APS Baggage Conveyor System",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "amended",
+            "baggage",
+            "conveyor",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T16:00:00-04:00"
+        },
+        {
+          "title": "EFO - My DOD Identity Solutions (MYDIS)",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "identity",
+            "solutions",
+            "(mydis)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUMED Mission Assurance Support Services",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "bumed",
+            "mission",
+            "assurance",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-07T13:00:00-04:00"
+        },
+        {
+          "title": "30--BELLOWS,PRESSURE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "30--bellows,pressure"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14"
+        },
+        {
+          "title": "34--ANODE ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "34--anode",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17"
+        },
+        {
+          "title": "RESTRICTOR,FLUID FL",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "restrictor,fluid"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T16:30:00-04:00"
+        },
+        {
+          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "w912hn26ra012",
+            "(lpta)",
+            "project",
+            "90737-",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T11:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T14:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Data Center/Chiller Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Project Admin Leader- Regional Contracting",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Project Administrator- Core",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Project Administrator- Core",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-04"
+        },
+        {
+          "title": "Assembler IV",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-04"
+        },
+        {
+          "title": "Shipping Material Handler",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-04"
+        },
+        {
+          "title": "SR Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-04"
+        },
+        {
+          "title": "Controls Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-04"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -263,8 +809,462 @@
           "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT. INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION ME"
         }
       ],
-      "activeBids": [],
-      "jobPostings": [],
+      "activeBids": [
+        {
+          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--award",
+            "notice:",
+            "source",
+            "delivery",
+            "order"
+          ],
+          "agency": "",
+          "deadline": "2026-08-06T12:00:00-05:00"
+        },
+        {
+          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "tripoli",
+            "(lha-7)",
+            "portable",
+            "ramp;",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "Amended _721 APS Baggage Conveyor System",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "amended",
+            "baggage",
+            "conveyor",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T16:00:00-04:00"
+        },
+        {
+          "title": "EFO - My DOD Identity Solutions (MYDIS)",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "identity",
+            "solutions",
+            "(mydis)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUMED Mission Assurance Support Services",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "bumed",
+            "mission",
+            "assurance",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-07T13:00:00-04:00"
+        },
+        {
+          "title": "30--BELLOWS,PRESSURE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "30--bellows,pressure"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14"
+        },
+        {
+          "title": "34--ANODE ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "34--anode",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17"
+        },
+        {
+          "title": "RESTRICTOR,FLUID FL",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "restrictor,fluid"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T16:30:00-04:00"
+        },
+        {
+          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "w912hn26ra012",
+            "(lpta)",
+            "project",
+            "90737-",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T11:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T14:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Plant Specialist",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-04"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-03"
+        },
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Senior Energy Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Generalist Support Intern",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Director of Construction - MHPI",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Proposal Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Journeyman Electrician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-28"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-27"
+        },
+        {
+          "title": "Maintenance Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-27"
+        },
+        {
+          "title": "Small Business Liaison Officer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-27"
+        },
+        {
+          "title": "Operations and Maintenance Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-26"
+        },
+        {
+          "title": "Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-25"
+        },
+        {
+          "title": "DER Monitoring Platform Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-24"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-24"
+        },
+        {
+          "title": "Project Engineer - Distributed Energy Resources",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-24"
+        },
+        {
+          "title": "PV and Energy Storage Remote Operator & Data Analyst",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-22"
+        },
+        {
+          "title": "Senior Proposal Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Quality Control Manager At Large",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Senior Engineering Manager - Renewable Energy",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Multisite Energy Management System Specialist",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Senior Superintendent",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Energy Engineer Co-Op",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Associate HVAC Mechanic",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Senior Controls Service Specialist",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-17"
+        },
+        {
+          "title": "DDC Controls Installation Technician",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-17"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -332,8 +1332,311 @@
           "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
         }
       ],
-      "activeBids": [],
-      "jobPostings": [],
+      "activeBids": [
+        {
+          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--award",
+            "notice:",
+            "source",
+            "delivery",
+            "order"
+          ],
+          "agency": "",
+          "deadline": "2026-08-06T12:00:00-05:00"
+        },
+        {
+          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "tripoli",
+            "(lha-7)",
+            "portable",
+            "ramp;",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "Amended _721 APS Baggage Conveyor System",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "amended",
+            "baggage",
+            "conveyor",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T16:00:00-04:00"
+        },
+        {
+          "title": "EFO - My DOD Identity Solutions (MYDIS)",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "identity",
+            "solutions",
+            "(mydis)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUMED Mission Assurance Support Services",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "bumed",
+            "mission",
+            "assurance",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-07T13:00:00-04:00"
+        },
+        {
+          "title": "30--BELLOWS,PRESSURE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "30--bellows,pressure"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14"
+        },
+        {
+          "title": "34--ANODE ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "34--anode",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17"
+        },
+        {
+          "title": "RESTRICTOR,FLUID FL",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "restrictor,fluid"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T16:30:00-04:00"
+        },
+        {
+          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "w912hn26ra012",
+            "(lpta)",
+            "project",
+            "90737-",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T11:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T14:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Industrial Territory Sales Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Functional Product Owner - Total Rewards & Benefits",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Service Specialist II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Territory Manager Service Sales",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "BAS Technician II",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Territory Manager Service Sales",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Analyst, SE Ventures",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Territory Manager - Service Sales",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Territory Manager Service Sales",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Site Superintendent II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Cooling Technical Support Specialist",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Functional Product Owner - Total Rewards & Benefits",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Territory Manager - Service Sales",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Functional Product Owner - Total Rewards & Benefits",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Industrial Territory Sales Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Industrial Territory Sales Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Accounting Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Assembly Technician - 1st Shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Systems Application Engineer II",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Wiring Associate",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Manufacturing Quality Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "BMS Service Account Executive",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Site Superintendent II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-05"
+        },
+        {
+          "title": "Energy Performance Specialist II",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-04"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -505,8 +1808,147 @@
           "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
         }
       ],
-      "activeBids": [],
-      "jobPostings": [],
+      "activeBids": [
+        {
+          "title": "6515--Award Notice: Sole Source FSS Delivery Order for  Omnicell Oracle EHR Migration VISN23",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "6515--award",
+            "notice:",
+            "source",
+            "delivery",
+            "order"
+          ],
+          "agency": "",
+          "deadline": "2026-08-06T12:00:00-05:00"
+        },
+        {
+          "title": "USS TRIPOLI (LHA-7) PORTABLE SIDE PORT RAMP; REPAIR",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "tripoli",
+            "(lha-7)",
+            "portable",
+            "ramp;",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T10:00:00+09:00"
+        },
+        {
+          "title": "Amended _721 APS Baggage Conveyor System",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "amended",
+            "baggage",
+            "conveyor",
+            "system"
+          ],
+          "agency": "",
+          "deadline": "2026-07-08T16:00:00-04:00"
+        },
+        {
+          "title": "EFO - My DOD Identity Solutions (MYDIS)",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "identity",
+            "solutions",
+            "(mydis)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "BUMED Mission Assurance Support Services",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "bumed",
+            "mission",
+            "assurance",
+            "support",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-07T13:00:00-04:00"
+        },
+        {
+          "title": "30--BELLOWS,PRESSURE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "30--bellows,pressure"
+          ],
+          "agency": "",
+          "deadline": "2026-07-14"
+        },
+        {
+          "title": "34--ANODE ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "34--anode",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17"
+        },
+        {
+          "title": "RESTRICTOR,FLUID FL",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "restrictor,fluid"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T16:30:00-04:00"
+        },
+        {
+          "title": "W912HN26RA012 (LPTA) Project No: 90737- Repair Barracks Building 399 (Section D); Fort Benning, GA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "w912hn26ra012",
+            "(lpta)",
+            "project",
+            "90737-",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T11:00:00-04:00"
+        },
+        {
+          "title": "81--SHIPPING AND STORAG",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--shipping",
+            "storag"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T14:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Construction Sales Engineer - Electrical Products",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Engineering Test Technician - Low Voltage Products",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -519,24 +1961,10 @@
         },
         {
           "source": "google_news",
-          "title": "Building Management System Market Share, Size, Trend, 2034 - Fortune Business Insights",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1ZzTGNQMkQ5cmJmajhSTkh0MDBMcjZyTUFLaVBHaUFSUFdUX2tXeFQ1LVpYWlpTdGZWTzZVT3haNXdXYTFjQnVCaFlWa25MT19NOHlVRndSbGFTbXIzT0MxQzlEYzh2eWJNMHJleXc4RHZob3Z2TkdGN1BvZjZHMmpvWUxwdnc?oc=5\" target=\"_blank\">Building Management System Market Share, Siz",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1ZzTGNQMkQ5cmJmajhSTkh0MDBMcjZyTUFLaVBHaUFSUFdUX2tXeFQ1LVpYWlpTdGZWTzZVT3haNXdXYTFjQnVCaFlWa25MT19NOHlVRndSbGFTbXIzT0MxQzlEYzh2eWJNMHJleXc4RHZob3Z2TkdGN1BvZjZHMmpvWUxwdnc?oc=5",
-          "published": "Mon, 08 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Tracer Ensemble from Trane Technologies - HVAC oversight moves to the browser - AD HOC NEWS",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MD",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MDBRc1cyd2YxS1Js?oc=5",
           "published": "Tue, 30 Jun 2026 17:00:34 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "A smart hospital with 600 years of tradition - Siemens",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM21wbG5PTWZGQ0FMMGpsUXh1TnUxTzZIeFFOOHVkRThSUERBWm1EYWg2T0FjNmZTOEh4RVVnMEgzNU5IaERzS1gzLWI0X0FLNkJIX2R4cXRiUjlnN3hPZ0w3dUZ2Q2FBRXc?oc=5\" target=\"_blank\">A smart hospital with 600 years of tradition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Si",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM21wbG5PTWZGQ0FMMGpsUXh1TnUxTzZIeFFOOHVkRThSUERBWm1EYWg2T0FjNmZTOEh4RVVnMEgzNU5IaERzS1gzLWI0X0FLNkJIX2R4cXRiUjlnN3hPZ0w3dUZ2Q2FBRXc?oc=5",
-          "published": "Wed, 06 May 2026 14:08:33 GMT"
         }
       ],
       "lobbyingActivity": [],
