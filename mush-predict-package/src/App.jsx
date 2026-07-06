@@ -20,7 +20,7 @@ import {
 import { recordPredictionBatch } from './engine/accuracyTracker'
 
 export default function App() {
-  const { competitors, sources, lastUpdated, signals, loading, error } = useCompetitorData()
+  const { competitors, sources, lastUpdated, signals, bondOpportunities, loading, error } = useCompetitorData()
   const [activeTab, setActiveTab]     = useState('predict')
   const [predictions, setPredictions] = useState(null)
   const [scoredOpp, setScoredOpp]     = useState(null)
@@ -154,14 +154,13 @@ export default function App() {
 
             {/* ── PRE-CALL BRIEF ── */}
             {activeTab === 'brief' && (
-              <PreCallBrief
-                competitors={competitors}
-                signals={signals}
-                rfpRecords={rfpRecords}
-              />
-            )}
-          </>
-        )}
+  <PreCallBrief
+    competitors={competitors}
+    signals={signals}
+    rfpRecords={rfpRecords}
+    bondOpportunities={bondOpportunities}
+  />
+)}
       </main>
 
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
