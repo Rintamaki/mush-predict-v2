@@ -10,6 +10,7 @@ import RFPDatabase          from './components/RFPDatabase'
 import DistrictContextPanel from './components/DistrictContextPanel'
 import WeightTuner          from './components/WeightTuner'
 import PreCallBrief         from './components/PreCallBrief'
+import AgendaCapture from './components/AgendaCapture'
 import CalibrationDashboard from './components/CalibrationDashboard'
 import { useCompetitorData } from './hooks/useCompetitorData'
 import {
@@ -163,6 +164,8 @@ export default function App() {
             )}
           </>
         )}
+        {/* ── AGENDA CAPTURE ── */}
+{activeTab === 'agenda' && <AgendaCapture />}
       </main>
 
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
