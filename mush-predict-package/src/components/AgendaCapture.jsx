@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import {
   ClipboardList, Send, Loader2, Check, AlertCircle,
-  ExternalLink, Star, Calendar, Trash2
+  ExternalLink, Star, Calendar, Trash2, RefreshCw, Sparkles
 } from 'lucide-react'
 
 export default function AgendaCapture() {
@@ -13,6 +13,7 @@ export default function AgendaCapture() {
   const [result, setResult] = useState(null)
   const [captures, setCaptures] = useState([])
   const [deletingId, setDeletingId] = useState(null)
+  const [rescoringId, setRescoringId] = useState(null)
   const [refreshKey, setRefreshKey] = useState(0)
 
   useEffect(() => {
@@ -37,9 +38,12 @@ export default function AgendaCapture() {
       })
       const data = await resp.json()
       if (resp.ok) {
-        setResult({ ok: true, capture: data.capture, message: 'Captured successfully. May take ~1 min to appear below (Vercel rebuild).' })
+        setResult({
+          ok: true,
+          capture: data.capture,
+          message: `Captured (${data.capture.extractionMethod === 'ai' ? 'AI-analyzed' : 'rules-based'}). May take ~1 min to appear below.`,
+        })
         setForm({ ...form, url: '', meetingDate: '', agendaText: '' })
-        // Delay the refresh a bit so Vercel has time to rebuild
         setTimeout(() => setRefreshKey(k => k + 1), 60000)
       } else {
         setResult({ ok: false, message: data.error || 'Something went wrong.' })
@@ -60,9 +64,7 @@ export default function AgendaCapture() {
       })
       const data = await resp.json()
       if (resp.ok) {
-        // Optimistic — remove from local list immediately
         setCaptures(prev => prev.filter(c => c.id !== capture.id))
-        // Then refresh from source in a minute
         setTimeout(() => setRefreshKey(k => k + 1), 60000)
       } else {
         alert('Delete failed: ' + (data.error || 'unknown error'))
@@ -71,6 +73,28 @@ export default function AgendaCapture() {
       alert('Network error: ' + err.message)
     } finally {
       setDeletingId(null)
+    }
+  }
+
+  async function handleRescore(capture) {
+    setRescoringId(capture.id)
+    try {
+      const resp = await fetch(`/api/capture-agenda?id=${encodeURIComponent(capture.id)}`, {
+        method: 'PATCH',
+      })
+      const data = await resp.json()
+      if (resp.ok) {
+        // Optimistically update the in-memory capture with the rescored version
+        setCaptures(prev => prev.map(c => c.id === capture.id ? data.capture : c))
+        // Refresh from source in a minute (after Vercel rebuild)
+        setTimeout(() => setRefreshKey(k => k + 1), 60000)
+      } else {
+        alert('Rescore failed: ' + (data.error || 'unknown error'))
+      }
+    } catch (err) {
+      alert('Network error: ' + err.message)
+    } finally {
+      setRescoringId(null)
     }
   }
 
@@ -125,7 +149,7 @@ export default function AgendaCapture() {
             <label className="block text-[11px] font-mono uppercase tracking-wider text-white/40 mb-1.5">Agenda text *</label>
             <textarea rows={10} value={form.agendaText}
               onChange={e => setForm({ ...form, agendaText: e.target.value })}
-              placeholder="Copy and paste agenda items, meeting minutes, or the whole packet content here. The system will extract action types and relevance signals automatically."
+              placeholder="Copy and paste agenda items, meeting minutes, or the whole packet content here."
               className="w-full px-3 py-2 bg-white/5 border border-white/10 rounded-lg text-sm text-white placeholder-white/20 focus:outline-none focus:border-mk-lblue/50 resize-none font-mono" />
             <div className="mt-1 text-[10px] font-mono text-white/25">
               {form.agendaText.length.toLocaleString()} characters
@@ -133,7 +157,7 @@ export default function AgendaCapture() {
           </div>
 
           <div className="md:col-span-2">
-            <label className="block text-[11px] font-mono uppercase tracking-wider text-white/40 mb-1.5">Your initials (optional — for team attribution)</label>
+            <label className="block text-[11px] font-mono uppercase tracking-wider text-white/40 mb-1.5">Your initials (optional)</label>
             <input type="text" maxLength={4} value={form.submittedBy}
               onChange={e => setForm({ ...form, submittedBy: e.target.value.toUpperCase() })}
               placeholder="FR"
@@ -154,7 +178,7 @@ export default function AgendaCapture() {
               <span>{result.message}</span>
               {result.ok && result.capture && (
                 <span className="text-white/40 text-xs font-mono ml-1">
-                  · relevance {result.capture.relevanceScore}/5 · {result.capture.actionTypes.length} action types
+                  · relevance {result.capture.relevanceScore}/5
                 </span>
               )}
             </div>
@@ -194,10 +218,18 @@ export default function AgendaCapture() {
                       {cap.submittedBy && (
                         <span className="text-[10px] font-mono text-white/30">by {cap.submittedBy}</span>
                       )}
+                      {cap.extractionMethod === 'ai' && (
+                        <span className="text-[10px] font-mono px-1.5 py-0.5 rounded bg-mk-lgreen/10 border border-mk-lgreen/30 text-mk-lgreen flex items-center gap-1">
+                          <Sparkles size={8} /> AI
+                        </span>
+                      )}
                     </div>
-                    <div className="flex items-center gap-2 mt-1 text-[10px] font-mono text-white/35">
+                    <div className="flex items-center gap-2 mt-1 text-[10px] font-mono text-white/35 flex-wrap">
                       {cap.meetingDate && <><Calendar size={9} /><span>{cap.meetingDate}</span><span>·</span></>}
                       <span>captured {new Date(cap.capturedAt).toLocaleDateString()}</span>
+                      {cap.scoredAt && cap.scoredAt !== cap.capturedAt && (
+                        <><span>·</span><span>rescored {new Date(cap.scoredAt).toLocaleDateString()}</span></>
+                      )}
                       {cap.url && (
                         <>
                           <span>·</span>
@@ -211,6 +243,15 @@ export default function AgendaCapture() {
 
                   <div className="flex items-center gap-2 flex-shrink-0">
                     <RelevanceBadge score={cap.relevanceScore} />
+                    <button
+                      onClick={() => handleRescore(cap)}
+                      disabled={rescoringId === cap.id}
+                      title="Re-run extraction on this capture"
+                      className="p-1.5 rounded-md border border-white/10 hover:border-mk-lblue/40 hover:bg-mk-lblue/10 text-white/40 hover:text-mk-lblue transition-colors disabled:opacity-40 disabled:cursor-not-allowed">
+                      {rescoringId === cap.id
+                        ? <Loader2 size={11} className="animate-spin" />
+                        : <RefreshCw size={11} />}
+                    </button>
                     <button
                       onClick={() => handleDelete(cap)}
                       disabled={deletingId === cap.id}
