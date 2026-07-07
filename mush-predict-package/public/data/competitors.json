@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -93,49 +93,229 @@
           "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [
         {
-          "title": "Construction Project Coordinator",
+          "title": "HVAC Controls Systems Technician Team Leader",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Electrician",
-          "state": "AZ",
+          "title": "Experienced Sprinkler Installer",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeyman Mechanic (un)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Experienced Fire Sprinkler Service Technician (union)",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Controls Systems Technician Team Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Fire Service Technician",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Welder, 2nd Shift",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Truck Based Service Controls Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Smart Building Account Executive",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Data Center Journeymen Mechanic (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union) LAREDO, TX",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Smart Building Sales Rep",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
         },
         {
           "title": "Security Installer",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Truck Based Technician Team Lead Mechanic (union)",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Data Center Journeyman Mechanic",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Equipment Systems Application Engineer I",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -143,49 +323,17 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Territory Sales Manager",
-          "state": "MA",
+          "title": "HVAC TB Data Center Mechanic (un)",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "HVAC Equipment Commercial Systems Specialist",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Commercial Security Systems Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Sr. Software Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Lab Technician",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Selling Sales Manager",
+          "title": "HVAC Truck Based Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -193,17 +341,38 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Territory Sales Manager",
+          "title": "Sprinkler Service Sales Representative",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Product Manager",
+          "title": "Certified Payroll Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Mechanic Serviceman (Union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Mechanic Serviceman (Union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Sr Controls Service Tech",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -211,10 +380,17 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Wall/ Roof Fabricator, 2nd shift",
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -222,60 +398,39 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Electrician",
-          "state": "AZ",
+          "title": "HVAC Truck Based Sr Controls Service Technician",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "HVAC Account Representative",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Fire Sprinkler Systems Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Measurement & Verification (M&V) Specialist (Mid to Senior Level)\"",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Chiller Engineering Manager (onsite)",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Welder 2nd Shift",
+          "title": "CMM Operator (Measurement/Inspection) - 2nd Shift (Job ID: 1604)",
           "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "HVAC Mechanical Service Technician Serviceman (Union)",
-          "state": "CA",
+          "title": "CNC Machinist",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Security & Fire Equipment Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-07"
         },
         {
           "title": "Fire Suppression Service Technician",
@@ -286,7 +441,14 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Welder 2nd Shift",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
         },
         {
           "title": "Senior Lab Technician - 3rd Shift (onsite)",
@@ -297,21 +459,7 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Commercial HVAC Service Sales Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Mechanic Serviceman (Union)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         }
       ],
       "patents": [],
@@ -428,32 +576,202 @@
           "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [
         {
-          "title": "Equipment Project Manager",
+          "title": "HVAC Apprentice -Charleston, WV",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "HVAC Technician -Chesapeake, VA",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Commercial HVAC Service Technician",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Controls Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Turnkey Install Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Procurement Program Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Sr. HVAC Field Technician - Albuquerque, NM",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Commercial HVAC Service Technician",
           "state": "FL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
         },
         {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "HVAC Service Technician - Journeyman",
+          "title": "Senior HVAC Technician",
           "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
         },
         {
-          "title": "DC Supervisor",
+          "title": "HVAC Apprentice",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
@@ -480,7 +798,7 @@
           "postedDate": "2026-07-05"
         },
         {
-          "title": "Project Administrator- Core",
+          "title": "Shipping Material Handler",
           "state": "CO",
           "segment": "Other",
           "tags": [],
@@ -494,15 +812,8 @@
           "postedDate": "2026-07-04"
         },
         {
-          "title": "Shipping Material Handler",
+          "title": "Project Administrator- Core",
           "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "SR Construction Project Manager",
-          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-04"
@@ -567,8 +878,138 @@
           "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT. INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION ME"
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [
+        {
+          "title": "Operations Maintenance Technician",
+          "state": "IL",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-05"
+        },
         {
           "title": "Plant Specialist",
           "state": "",
@@ -590,6 +1031,16 @@
             "University"
           ],
           "postedDate": "2026-07-03"
+        },
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-01"
         },
         {
           "title": "Senior Energy Engineer",
@@ -768,17 +1219,6 @@
           "postedDate": "2026-06-20"
         },
         {
-          "title": "Quality Control Manager At Large",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
           "title": "Senior Project Manager",
           "state": "AZ",
           "segment": "Schools",
@@ -809,6 +1249,13 @@
             "Healthcare",
             "University"
           ],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-06-19"
         },
         {
@@ -868,28 +1315,6 @@
         },
         {
           "title": "Senior Controls Service Specialist",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "DDC Controls Installation Technician",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-17"
-        },
-        {
-          "title": "Building Automation Specialist",
           "state": "OH",
           "segment": "Schools",
           "tags": [
@@ -967,8 +1392,220 @@
           "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [
+        {
+          "title": "Construction Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Senior Leader Accelerator Program",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "BAS Technician II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior JavaScript Web Developer",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Customer Project Manager",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Warehouse Supervisor",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Production Planner",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Power Systems Architect",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Manager, Test Engineering",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Security Project Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Project Engineer",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Security Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "PEX Manufacturing Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
         {
           "title": "Industrial Territory Sales Engineer",
           "state": "TX",
@@ -1002,80 +1639,6 @@
         {
           "title": "BAS Technician II",
           "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Territory Manager Service Sales",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Analyst, SE Ventures",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Territory Manager - Service Sales",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Territory Manager Service Sales",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Site Superintendent II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Cooling Technical Support Specialist",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Functional Product Owner - Total Rewards & Benefits",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Territory Manager - Service Sales",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Functional Product Owner - Total Rewards & Benefits",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Industrial Territory Sales Engineer",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-05"
@@ -1252,28 +1815,144 @@
           "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
         }
       ],
-      "activeBids": [],
-      "jobPostings": [
+      "activeBids": [
         {
-          "title": "Construction Sales Engineer",
-          "state": "CA",
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
         },
         {
-          "title": "Manufacturing Training Supervisor",
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
           "state": "NC",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
+        {
+          "title": "Travel CT Technologist - $2,885 per week",
+          "state": "NC",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Production Supervisor - 2nd Shift",
-          "state": "CA",
+          "title": "Production Operator",
+          "state": "IL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         }
       ],
       "patents": [],
@@ -1314,7 +1993,128 @@
         }
       ],
       "contractAwards": [],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [
         {
           "title": "Energy Specialist",
@@ -1483,17 +2283,129 @@
         }
       ],
       "contractAwards": [],
-      "activeBids": [],
-      "jobPostings": [
+      "activeBids": [
         {
-          "title": "Building Inspector",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
           ],
-          "postedDate": "2026-07-06"
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
         },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
+      "jobPostings": [
         {
           "title": "Assistant Project Manager II",
           "state": "NY",
@@ -1728,6 +2640,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-03"
+        },
+        {
+          "title": "Estimator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-05-30"
         }
       ],
       "patents": [],
@@ -1766,7 +2685,128 @@
           "description": "ENERGY SAVINGS PERFORMANCE CONTRACT TASK ORDER FOR RESEARCH TRIANGLE PARK CAMPUS, RTP, NORTH CAROLINA"
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
@@ -1840,17 +2880,138 @@
           "description": "ENERGY SAVINGS PERFORMANCE CONTRACT  DIRKSEN FEDERAL COURTHOUSE AND 5 OTHER LOCATIONS, CHICAGO, IL  FOR ADMINISTRATIVE PURPOSES TO CHANGE TH"
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Efficiency today, savings tomorrow: Why now is the time for building upgrades - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWl2N3hpT1dlV2FVWWNiU2pIaGJxWHh6QnU5OUdxZXpDc1J5T216SDcxS2hoLWVpRTRHeHJNWHJuWXlhVGx2YmZIR3daVXNpd0N4OEdRT09QVm03RkFuVkpzcVl1VzUzRnZab0Q3Y01NUGczNkNvTl80dlFvZTZnMk1MLTlTZHZpSUQybjJhLWhSYUR6Tm9ZUUNoT3dRY1Vwei11TWlhWjAxWFNiellkLXVKT2lnVlRpbW",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWl2N3hpT1dlV2FVWWNiU2pIaGJxWHh6QnU5OUdxZXpDc1J5T216SDcxS2hoLWVpRTRHeHJNWHJuWXlhVGx2YmZIR3daVXNpd0N4OEdRT09QVm03RkFuVkpzcVl1VzUzRnZab0Q3Y01NUGczNkNvTl80dlFvZTZnMk1MLTlTZHZpSUQybjJhLWhSYUR6Tm9ZUUNoT3dRY1Vwei11TWlhWjAxWFNiellkLXVKT2lnVlRpbWc?oc=5",
-          "published": "Mon, 18 May 2026 07:00:00 GMT"
+          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - EIN News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeU5NMDlvbURsTU9yWFh3dE9jdVNwQjNpaVg1N05obVBvWTFTNXRZcXQ2VG1LRHNjSkJOZjdiSTQ3aW5fdjA3QmV1M2M0UkcteVNmSHV4cnlPUVNTTUd0WVFIYUx1RkM2b01STURvSVMxUTFLTmR6NnVfQV9BWEd1dEs3UkV1V3dUd3V6ZXh2MFJtd0hZUmgxVWFZaW9jQVdEX1JsZzc2bFN2ZllfeEtaR2s2cEQtSHl3bV",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeU5NMDlvbURsTU9yWFh3dE9jdVNwQjNpaVg1N05obVBvWTFTNXRZcXQ2VG1LRHNjSkJOZjdiSTQ3aW5fdjA3QmV1M2M0UkcteVNmSHV4cnlPUVNTTUd0WVFIYUx1RkM2b01STURvSVMxUTFLTmR6NnVfQV9BWEd1dEs3UkV1V3dUd3V6ZXh2MFJtd0hZUmgxVWFZaW9jQVdEX1JsZzc2bFN2ZllfeEtaR2s2cEQtSHl3bVZaeTdEcVUyRXpmNGpj?oc=5",
+          "published": "Tue, 07 Jul 2026 00:02:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1929,54 +3090,277 @@
           "description": "BPA CALL TO REPLACE PLATES AND GASKETS ON TWO (2) EXISTING HEAT EXCHANGERS LOCATED IN THE WEST ADDITION AT ST. ELIZABETHS CAMPUS."
         }
       ],
-      "activeBids": [],
+      "activeBids": [
+        {
+          "title": "Wastewater and Stormwater Sewer Network Connectivity Verification, USAG-J, Kanto Area",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "wastewater",
+            "stormwater",
+            "sewer",
+            "network",
+            "connectivity"
+          ],
+          "agency": "",
+          "deadline": "2026-07-22T13:00:00+09:00"
+        },
+        {
+          "title": "VARIOUS HOSE ASSEMBLIES PNSY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "various",
+            "assemblies"
+          ],
+          "agency": "",
+          "deadline": "2026-07-13T08:00:00-04:00"
+        },
+        {
+          "title": "59--SWITCH ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--switch",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "COMPRESSOR,MARC350A",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "compressor,marc350a"
+          ],
+          "agency": "",
+          "deadline": "2026-07-10T16:30:00-04:00"
+        },
+        {
+          "title": "Custodial Services for Misawa Commissary, Bldg. 325, Misawa Air Base, Japan",
+          "state": "JP-02",
+          "segment": "Other",
+          "keywords": [
+            "custodial",
+            "services",
+            "misawa",
+            "commissary,",
+            "bldg."
+          ],
+          "agency": "",
+          "deadline": "2026-07-15T10:00:00+09:00"
+        },
+        {
+          "title": "31 CS Airfield Systems Fiber Channel Banks Network Materials and Installation",
+          "state": "AE",
+          "segment": "Other",
+          "keywords": [
+            "airfield",
+            "systems",
+            "fiber",
+            "channel",
+            "banks"
+          ],
+          "agency": "",
+          "deadline": "2026-07-16T16:00:00+02:00"
+        },
+        {
+          "title": "53--BOLT,ASSEMBLED WASHER",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--bolt,assembled",
+            "washer"
+          ],
+          "agency": "",
+          "deadline": "2026-07-15"
+        },
+        {
+          "title": "USS RUSHMORE (LSD-47) ELM-245219 FOR WELL DECK OVERHEAD STRUCTURE REPAIR; ACCOMPLISH",
+          "state": "JP-42",
+          "segment": "Other",
+          "keywords": [
+            "rushmore",
+            "(lsd-47)",
+            "elm-245219",
+            "overhead",
+            "structure"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T10:00:00+09:00"
+        },
+        {
+          "title": "81--SUPPORT,SHIPPING AN",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "81--support,shipping"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "BLDG 66 Windows Replacement",
+          "state": "NC",
+          "segment": "Other",
+          "keywords": [
+            "windows",
+            "replacement"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T15:00:00-04:00"
+        }
+      ],
       "jobPostings": [
         {
-          "title": "Commercial HVAC Service Technician",
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Design Project Manager",
-          "state": "GA",
+          "title": "Gibson Electric Co., Inc.",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "John W. Danforth Company",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Contra Costa Electric, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "DeBra-Kuempel Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Gowan/Garrett, Inc.",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Regional Mechanical Operations Director",
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Miller Electric Company",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-07"
         },
         {
-          "title": "Refrigeration / HVAC Service Technician",
+          "title": "Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "MOR PPM, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "CA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "John W. Danforth Company",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Ardent Services, LLC",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Dallas Mechanical Group LLC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "CCI Mechanical, Inc.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "PPM Maintenance Tech (AOR) 6.7",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Commercial HVAC Service Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Electrician Apprentice - Abilene, Texas",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Commercial HVAC Boiler Technician",
+          "title": "Welder II",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2032,113 +3416,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Control Solutions Group, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Fire Protection Inspector-Pump Runs",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "Automation Technician III",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "Fire Protection Inspector",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
         }
       ],
       "patents": [],
@@ -2320,6 +3597,104 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Engineer - Energy Solutions - CMTA",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Mechanical Engineer - Energy Solutions - CMTA",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Senior Mechanical Engineer - Energy Solutions - CMTA",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
           "title": "Marketing Coordinator",
           "state": "NY",
           "segment": "Municipal",
@@ -2338,6 +3713,34 @@
         {
           "title": "Senior Plumbing Engineer",
           "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Mechanical Engineering Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-06"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-06"
@@ -2383,13 +3786,6 @@
           "postedDate": "2026-07-05"
         },
         {
-          "title": "Senior Construction Administrator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
           "title": "Senior Mechanical Engineer",
           "state": "",
           "segment": "Other",
@@ -2397,7 +3793,7 @@
           "postedDate": "2026-07-05"
         },
         {
-          "title": "Electrical Engineer",
+          "title": "Senior Construction Administrator",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2409,118 +3805,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Construction Manager - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Senior Construction Administrator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Senior Construction Administrator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "Construction Site Superintendent",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-04"
-        },
-        {
-          "title": "Senior Electrical Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Plumbing Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Senior Electrical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Electrical Engineer Intern/Co-op Fall 2026",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
         }
       ],
       "patents": [],
@@ -2553,13 +3837,6 @@
       "jobPostings": [
         {
           "title": "Superintendent Mechanical Sheetmetal",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Project Accountant",
           "state": "TX",
           "segment": "Other",
           "tags": [],
@@ -2610,13 +3887,6 @@
         {
           "title": "Purchasing Agent, Associate",
           "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-05"
-        },
-        {
-          "title": "Project Manager- Mechanical",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-05"
@@ -2762,6 +4032,20 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-27"
+        },
+        {
+          "title": "Senior Safety Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-26"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-26"
         }
       ],
       "patents": [],
