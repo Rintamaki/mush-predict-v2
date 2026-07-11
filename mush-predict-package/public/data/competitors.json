@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,6 +95,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -104,6 +166,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -116,193 +213,27 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Suppression Service Technician",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Fire Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Security Alarm Installer IV",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Controls Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Systems Design Assistant",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Fire Sprinkler Systems Technician 5",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Fire Alarm Technician (Lubbock Location)",
+          "title": "Healthcare Construction Project Manager - Yokota AFB",
           "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Fire Alarm Inspector",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Fire Suppression Technician",
-          "state": "VA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "HVAC Truck Based Serviceman (union)",
-          "state": "OR",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Application Engineer (hybrid)",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Controls Electrical Installer",
+          "title": "Fire Alarm Installer V",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -310,21 +241,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Fire Alarm Installer IV",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Fire Alarm Inspection",
+          "title": "Sprinkler Service Technician",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -332,7 +252,18 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Sprinkler Fitter",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
         },
         {
           "title": "HVAC Truck Based Chiller Mechanic (union)",
@@ -343,103 +274,128 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "HVAC Truck Based Mechanic (union)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Fire Suppression Service Technician 3",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Security Service Technician V",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Healthcare Construction Project Executive - OCONUS / International",
+          "title": "HVAC Data Center Journeymen Mechanic (union)",
           "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Engineer - Entry Level",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC TB Data Center Mechanic (un)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC Truck Based Journeymen Mechanic (union)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Fire Alarm Installer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Controls Systems Engineer (BAS/DDC/BMS/UMCS/FRCS) - International / OCONUS",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Security Alarm Technician - Electronic / Integrated Security",
+          "state": "PA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Healthcare Construction Project Manager - Yokota AFB",
+          "state": "FL",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "O&M Fire & Security Specialist Technician",
-          "state": "",
+          "title": "HVAC Truck Based Service Manager",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC Project Manager / Project Engineer",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union) LAREDO, TX",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Quality Tester II (1st Shift)",
-          "state": "FL",
+          "title": "HVAC Maintenance Agreement Sales Representative",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "HVAC Controls Systems Engineer I",
-          "state": "IL",
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Sprinkler Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Product Engineer",
-          "state": "",
+          "title": "HVAC Truck Based Chiller Mechanic (Union)",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Network Engineer - Security Systems (Job number: 1621)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         }
       ],
       "patents": [],
@@ -465,7 +421,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -477,20 +433,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -587,6 +529,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -596,6 +600,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -608,151 +647,96 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior Business Insights Analyst",
-          "state": "WI",
+          "title": "Remote Monitoring Specialist",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "CHVAC SBU Materials Lead",
-          "state": "WI",
+          "title": "Remote Monitoring Specialist",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "HVAC Service Technician",
-          "state": "WI",
+          "title": "Remote Monitoring Specialist",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Engineering Manager",
+          "title": "Remote Monitoring Specialist",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Remote Monitoring Specialist",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Remote Monitoring Specialist",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Remote Monitoring Specialist",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Lab Technician II",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "SBU Manufacturing Quality Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Agentic Software Test Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Is Trane Technologies plc (TT) among the Best Electrical Contracting Stocks to Buy for Data Hall Fit-outs? - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDJJSU1tYXliTVZyOUhBZ05GNzd5Vkc1bXlUeHU1Q0dZQkFfQnRtQTdQc1lWcFBTSjhMbmtvZ3lYY1ZqMjh3MFZJNnE3NWQ0NFEyUThzTzJVTEtuV3UySHdFNXBHb2JKUTh4U2UzZ1RNN2p0UEk0WjdwdTk3ZG83VTdUaUtyMlU2WVFnREVXM05JdGlOZmhTd3d1R0E?oc=5\" target=\"_blank\">Is Trane Technol",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDJJSU1tYXliTVZyOUhBZ05GNzd5Vkc1bXlUeHU1Q0dZQkFfQnRtQTdQc1lWcFBTSjhMbmtvZ3lYY1ZqMjh3MFZJNnE3NWQ0NFEyUThzTzJVTEtuV3UySHdFNXBHb2JKUTh4U2UzZ1RNN2p0UEk0WjdwdTk3ZG83VTdUaUtyMlU2WVFnREVXM05JdGlOZmhTd3d1R0E?oc=5",
-          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -764,20 +748,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -826,6 +796,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -835,6 +867,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -847,105 +914,20 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Solar Electrician",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
         {
           "title": "Senior Project Manager",
           "state": "",
@@ -959,6 +941,17 @@
         },
         {
           "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Construction Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -1002,15 +995,6 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Operations Maintenance Technician",
-          "state": "IL",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
           "title": "Plant Specialist",
           "state": "",
           "segment": "Schools",
@@ -1031,16 +1015,6 @@
             "University"
           ],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-01"
         },
         {
           "title": "Senior Energy Engineer",
@@ -1261,6 +1235,17 @@
             "University"
           ],
           "postedDate": "2026-06-18"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-18"
         }
       ],
       "patents": [],
@@ -1268,24 +1253,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Evansville to power municipal facilities with solar energy - AOL.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5\" target=\"_blank\">Evansville to power municipal fa",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:19:20 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
-          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
-          "published": "Wed, 08 Jul 2026 12:08:52 GMT"
+          "published": "Wed, 08 Jul 2026 12:05:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1293,7 +1264,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1305,20 +1276,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1375,6 +1332,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -1384,6 +1403,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -1396,160 +1450,85 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Associate General Counsel - Employee Benefits",
+          "title": "Sr Mechanical Engineer - Central Engineering",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Front Desk Coordinator",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Expert, Data Platform Engineer",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-09"
+          "postedDate": "2026-07-10"
         },
         {
-          "title": "Senior Supply Chain Controller",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Team Lead",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Associate General Counsel - Employee Benefits",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Production Planner / Scheduler",
+          "title": "Engineering Liasion",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-09"
+          "postedDate": "2026-07-10"
         },
         {
-          "title": "Senior Engineer I, Power System, Study Consultant",
+          "title": "Site Manager I",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Material Handler",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-09"
+          "postedDate": "2026-07-10"
         },
         {
-          "title": "Strategic Communications Manager",
-          "state": "MA",
+          "title": "Plant Procurement Manager",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-09"
+          "postedDate": "2026-07-10"
         },
         {
-          "title": "Technology Lead - AI Assisted Development",
+          "title": "Plant Customer Project Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Expert, Data Platform Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-09"
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Application Engineer - MV Drives",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Building Automation Service Specialist II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
         }
       ],
       "patents": [],
@@ -1560,7 +1539,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1572,20 +1551,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1746,6 +1711,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -1755,6 +1782,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -1767,105 +1829,28 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "US Beamline Braze Assembly Technician",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Medical Imaging Field Engineer - AX/XP - Atlanta, GA",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1882,7 +1867,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1894,20 +1879,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1928,6 +1899,68 @@
       "contractAwards": [],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -1937,6 +1970,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -1949,102 +2017,6 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
@@ -2239,7 +2211,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2251,20 +2223,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2288,6 +2246,68 @@
       "contractAwards": [],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -2297,6 +2317,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -2309,107 +2364,32 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
+          "title": "20 - Administrative Assistant I",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Technical Sales Engineer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
           "title": "Help Desk Technician I",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Construction Accounting Manager",
           "state": "IL",
           "segment": "Other",
           "tags": [],
@@ -2626,31 +2606,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-05"
-        },
-        {
-          "title": "Building Inspector",
-          "state": "",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-05"
-        },
-        {
-          "title": "Senior Building Inspector",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-05"
-        },
-        {
-          "title": "Building Inspector",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-03"
         }
       ],
       "patents": [],
@@ -2661,7 +2616,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2673,20 +2628,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2720,6 +2661,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -2729,6 +2732,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -2741,102 +2779,6 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -2848,7 +2790,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2860,20 +2802,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2943,6 +2871,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -2952,6 +2942,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -2964,102 +2989,6 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -3079,7 +3008,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3091,20 +3020,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -3181,6 +3096,68 @@
       ],
       "activeBids": [
         {
+          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "99--fairing,",
+            "aircraft",
+            "similar",
+            "replacement",
+            "parts"
+          ],
+          "agency": "",
+          "deadline": "2026-08-11T00:00:00-04:00"
+        },
+        {
+          "title": "No Cost Scrap Agreement",
+          "state": "QA-RA",
+          "segment": "Other",
+          "keywords": [
+            "scrap",
+            "agreement"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:30:00+03:00"
+        },
+        {
+          "title": "47--HOSE,NONMETALLIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "47--hose,nonmetallic"
+          ],
+          "agency": "",
+          "deadline": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "multi-discipline",
+            "architect/engineer",
+            "(a/e)",
+            "indefinite",
+            "delivery/indefinite"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "elevator",
+            "dayton",
+            "(services)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-21T15:00:00-04:00"
+        },
+        {
           "title": "ADJACENT JUMPER",
           "state": "",
           "segment": "Other",
@@ -3190,6 +3167,41 @@
           ],
           "agency": "",
           "deadline": "2026-08-10T16:30:00-04:00"
+        },
+        {
+          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "combi",
+            "ovens",
+            "convection",
+            "steamers"
+          ],
+          "agency": "",
+          "deadline": "2026-07-17T11:00:00-05:00"
+        },
+        {
+          "title": "178th Wing Base Microgrid Construction",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "178th",
+            "microgrid",
+            "construction"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T11:00:00-04:00"
+        },
+        {
+          "title": "Fuel Bowsers",
+          "state": "OR",
+          "segment": "Other",
+          "keywords": [
+            "bowsers"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00-04:00"
         },
         {
           "title": "RFP - VCS Devices Piece Parts",
@@ -3202,169 +3214,17 @@
           ],
           "agency": "",
           "deadline": "2026-08-07T17:00:00-04:00"
-        },
-        {
-          "title": "Coupling Half, Quick",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "coupling",
-            "half,",
-            "quick"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T14:00:00-04:00"
-        },
-        {
-          "title": "Urology Imaging System OS Upgrade | Topeka, KS VAMC",
-          "state": "KS",
-          "segment": "Other",
-          "keywords": [
-            "urology",
-            "imaging",
-            "system",
-            "upgrade",
-            "topeka,"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T11:00:00-05:00"
-        },
-        {
-          "title": "BATTERY BOX",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "battery"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T16:30:00-04:00"
-        },
-        {
-          "title": "CLOTH,CLEANING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cloth,cleaning"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T16:30:00-04:00"
-        },
-        {
-          "title": "9130--Saratoga National Cemetery  Propane Supply Delivery  Sources Sought Notice",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "9130--saratoga",
-            "national",
-            "cemetery",
-            "propane",
-            "supply"
-          ],
-          "agency": "",
-          "deadline": "2026-07-15T10:00:00-04:00"
-        },
-        {
-          "title": "Landscaping/Grounds Services - US Embassy Kingston",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "landscaping/grounds",
-            "services",
-            "embassy",
-            "kingston"
-          ],
-          "agency": "",
-          "deadline": "2026-07-27T12:00:00-04:00"
-        },
-        {
-          "title": "CTX Water Heater Repair and Replacement",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "water",
-            "heater",
-            "repair",
-            "replacement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-16T10:00:00-05:00"
-        },
-        {
-          "title": "CABLE TIE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
+          "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "DeBra-Kuempel Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "University Mechanical & Engineering AZ",
-          "state": "AZ",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
           "title": "EMCOR Services Northeast, Inc.",
@@ -3374,75 +3234,31 @@
             "Schools",
             "Healthcare"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
+          "title": "EMCOR Government Services, Inc.",
           "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Gowan/Garrett, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "University Mechanical & Engineering AZ",
-          "state": "AZ",
           "segment": "Healthcare",
           "tags": [
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Tucker Mechanical",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
         },
         {
           "title": "EMCOR Government Services, Inc.",
@@ -3451,87 +3267,183 @@
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Shambaugh & Son, L.P.",
+          "title": "Miller Electric Company",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "KDC Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Gaston Electrical Co., LLC",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Gaston Electrical Co., LLC",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "ECM Holding Group, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Ardent Services, LLC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "KDC Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Ardent Services, LLC",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
         },
         {
           "title": "S. A. Comunale Co., Inc.",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "EMCOR Services New York/New Jersey, Inc.",
-          "state": "NJ",
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "NY",
+          "segment": "Schools",
           "tags": [
+            "Schools",
             "Healthcare"
           ],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "EMCOR Services New York/New Jersey, Inc.",
-          "state": "NY",
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "CA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "EMCOR Services New York/New Jersey, Inc.",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "EMCOR Services New York/New Jersey, Inc.",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "EMCOR Services New York/New Jersey, Inc.",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
           "title": "Miller Electric Company",
-          "state": "FL",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Principal Engineer, Quality",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electro-Mechanical Assembler II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Project Coordinator",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-10"
         },
         {
-          "title": "Electro-Mechanical Assembler I",
-          "state": "CA",
+          "title": "General Maintenance Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-10"
@@ -3545,7 +3457,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3557,20 +3469,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -3605,7 +3503,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3617,20 +3515,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -3663,7 +3547,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3675,20 +3559,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -3772,7 +3642,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3784,20 +3654,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -3840,11 +3696,32 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
+          "title": "Solar Energy Engineer - Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-09"
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Senior Mechanical Engineer - Energy Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Senior Mechanical Engineer - Energy Solutions",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Construction Manager - Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
         },
         {
           "title": "Mechanical Engineer - Energy Solutions - CMTA",
@@ -3861,20 +3738,6 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Construction Manager - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
           "title": "Senior Electrical Engineer",
           "state": "AZ",
           "segment": "Other",
@@ -3884,13 +3747,6 @@
         {
           "title": "Electrical Engineer",
           "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-09"
@@ -3908,13 +3764,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
         },
         {
           "title": "Senior Associate, Commissioning",
@@ -4053,7 +3902,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -4065,20 +3914,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -4192,7 +4027,7 @@
           "postedDate": "2026-07-05"
         },
         {
-          "title": "Associate Project Accountant",
+          "title": "Associate Project Accountant - Temp to Perm",
           "state": "TX",
           "segment": "Other",
           "tags": [],
@@ -4329,7 +4164,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-15243",
+          "id": "construction-34781",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -4341,20 +4176,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Schools"
-        },
-        {
-          "id": "construction-28189",
-          "title": "How AI could reduce struck-bys in road work zones",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 08 Jul 2026 13:11:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp\" /></div></figure><p>&ldquo;VR- and AI-based safety training should not be viewed as an experi",
-          "url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     }
