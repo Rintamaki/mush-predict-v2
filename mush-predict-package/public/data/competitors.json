@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11",
+  "last_updated": "2026-07-12",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,145 +95,112 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
         {
-          "title": "Healthcare Construction Project Manager - Yokota AFB",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Fire Alarm Inspector",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Fire Alarm Installer V",
+          "title": "Fire Service Technician",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -241,10 +208,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Sprinkler Service Technician",
+          "title": "Client Services Coordinator 1",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -252,21 +219,63 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Sprinkler Fitter",
-          "state": "WA",
+          "title": "Retail Systems Security Technician",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Maintenance Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Fire Detection Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Jr. Fire Project Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "HVAC PRJ Mechanical Apprentice",
+          "state": "CA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "title": "Fire Design Engineer",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Electronics Technician II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Fire Installer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -274,45 +283,53 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "HVAC Data Center Journeymen Mechanic (union)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
+          "title": "Controls Project Manager 1",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Engineer - Entry Level",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
+          "title": "Fire Sprinkler Inspector",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "HVAC TB Data Center Mechanic (un)",
-          "state": "TX",
+          "title": "P3 Call Center Representative",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Fire Sales Manager",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
           "title": "HVAC Truck Based Journeymen Mechanic (union)",
-          "state": "TX",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Fire Alarm Installer",
+          "title": "Fire Alarm Inspector",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -320,46 +337,36 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Controls Systems Engineer (BAS/DDC/BMS/UMCS/FRCS) - International / OCONUS",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Security Alarm Technician - Electronic / Integrated Security",
-          "state": "PA",
-          "segment": "University",
+          "title": "Manager, Transformation",
+          "state": "",
+          "segment": "Schools",
           "tags": [
+            "Schools",
+            "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Healthcare Construction Project Manager - Yokota AFB",
-          "state": "FL",
-          "segment": "Healthcare",
+          "title": "HVAC Controls Technician",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "HVAC Controls Project Manager 2",
+          "state": "",
+          "segment": "Schools",
           "tags": [
-            "Healthcare"
+            "Schools",
+            "Healthcare",
+            "University"
           ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "HVAC Truck Based Service Manager",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "HVAC Project Manager / Project Engineer",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
           "title": "HVAC Truck Based Chiller Mechanic (union) LAREDO, TX",
@@ -370,14 +377,18 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "HVAC Maintenance Agreement Sales Representative",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
+          "title": "Fire CAD Operator",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
         },
         {
           "title": "HVAC Truck Based Chiller Mechanic (union)",
@@ -388,14 +399,71 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "HVAC Truck Based Chiller Mechanic (Union)",
-          "state": "CA",
+          "title": "HVAC Controls Service Technician Team Lead",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "HVAC Scheduling Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Maintenance Technician 1 - 2nd Shift",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Senior Software and Algorithm Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "HVAC Truck Based Technician Team Lead Mechanic (union)",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Talent Acquisition Partner (Candidate Facing)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Design for Manufacturing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Mechanic Serviceman (Union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
         }
       ],
       "patents": [],
@@ -421,7 +489,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -529,200 +597,260 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
         {
-          "title": "Remote Monitoring Specialist",
+          "title": "Assistant Director, Tax Advisory",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Workday Configurator - Learning",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Associate General Counsel, Labor & Employment",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "HVAC Controls Project Manager",
           "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         },
         {
-          "title": "Remote Monitoring Specialist",
-          "state": "WA",
+          "title": "Senior Business Insights Analyst",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Project Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Remote Monitoring Specialist",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Remote Monitoring Specialist",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Remote Monitoring Specialist",
-          "state": "WA",
+          "title": "Controls Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
           "title": "Remote Monitoring Specialist",
-          "state": "WI",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Engineering Manager, Data Center New Product Development",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Data Center Order Fulfillment Designer IV",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Data Center Submittal Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Engineering Manager, Data Center Product Engineering",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Data Center Order Fulfillment Designer III",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Data Center Controls Design Engineer",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
           "title": "Remote Monitoring Specialist",
-          "state": "WI",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Lab Technician II",
-          "state": "WI",
+          "title": "Area Service Leader",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "SBU Manufacturing Quality Engineer",
-          "state": "WI",
+          "title": "Remote Monitoring Specialist",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "HVAC Field Service Technician",
-          "state": "WI",
+          "title": "Project Coordinator",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Agentic Software Test Engineer",
-          "state": "WI",
+          "title": "Remote Monitoring Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Remote Monitoring Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Remote Monitoring Specialist",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "SR Corporate Counsel - Digital Business & Product",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
@@ -730,13 +858,21 @@
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Is Tetra Tech's Latest Hydropower Win a Game-Changer for TTEK Stock - Kavout | AI",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQckdlZjZINWlKU1B2dUlxaUpWY1NYMnJWb0FtME9OU0NJRzRpanl1blZKNjdMREd0VEMybk1OenZNeV9yek5udnFNc0lUdF9NVnZrM1d0MG1xYkVZbzN4UHYyTk9ab1Rndzh0eHl5cEZtTG9WTzFZVnlWdG5lVTVOWm9aSkdZSWRiQ09Uelk0THZWMzdxZU5SLWpSSXBOU3NlYVJ3eQ?oc=5\" target=\"_blank\">Is Te",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckdlZjZINWlKU1B2dUlxaUpWY1NYMnJWb0FtME9OU0NJRzRpanl1blZKNjdMREd0VEMybk1OenZNeV9yek5udnFNc0lUdF9NVnZrM1d0MG1xYkVZbzN4UHYyTk9ab1Rndzh0eHl5cEZtTG9WTzFZVnlWdG5lVTVOWm9aSkdZSWRiQ09Uelk0THZWMzdxZU5SLWpSSXBOU3NlYVJ3eQ?oc=5",
+          "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -796,127 +932,154 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Regional Construction Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Senior Business Developer Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Account Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
         {
           "title": "Solar Electrician",
           "state": "TX",
@@ -995,6 +1158,15 @@
           "postedDate": "2026-07-09"
         },
         {
+          "title": "Operations Maintenance Technician",
+          "state": "IL",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
           "title": "Plant Specialist",
           "state": "",
           "segment": "Schools",
@@ -1015,17 +1187,6 @@
             "University"
           ],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Senior Energy Engineer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-01"
         },
         {
           "title": "Generalist Support Intern",
@@ -1202,50 +1363,6 @@
             "University"
           ],
           "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Senior Superintendent",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-19"
-        },
-        {
-          "title": "Energy Engineer Co-Op",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Associate HVAC Mechanic",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Operations and Maintenance Technician",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-18"
         }
       ],
       "patents": [],
@@ -1257,6 +1374,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
           "published": "Wed, 08 Jul 2026 12:05:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia - CleanTechnica",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5\" target=\"_blank\">A",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5",
+          "published": "Thu, 09 Jul 2026 03:50:41 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1264,7 +1388,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1332,203 +1456,249 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
         {
-          "title": "Sr Mechanical Engineer - Central Engineering",
+          "title": "Lead Solution Architect",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Front Desk Coordinator",
-          "state": "AZ",
+          "title": "Lead Solution Architect",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Expert, Data Platform Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Engineering Liasion",
+          "title": "Manufacturing Supervisor",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Site Manager I",
-          "state": "CO",
+          "title": "Executive Assistant II",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Material Handler",
+          "title": "BMS Service Specialist I",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Lead Solution Architect",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
         },
         {
-          "title": "Plant Procurement Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Plant Customer Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Expert, Data Platform Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Application Engineer - MV Drives",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Building Automation Service Specialist II",
+          "title": "Business Development Manager, Energy Parks",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-10"
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Senior Engineer I - Application",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Warehouse Operator (2nd Shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Continuous Improvement Leader",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Territory Sales Engineer",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Business Development Manager, Energy Parks",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Production Supervisor",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Senior Field Service Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Lead Solution Architect",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Logistics Engineering Internship - Fall 2026",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Quality Engineer Internship - Fall 2026",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Business Development Manager, Energy Parks",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Business Development Manager, Energy Parks",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Strategic Supplier Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
         }
       ],
       "patents": [],
@@ -1539,7 +1709,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1711,144 +1881,118 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
         {
-          "title": "US Beamline Braze Assembly Technician",
+          "title": "Clinical Applications Specialist - Dosimetrist (Travelling position)",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Medical Imaging Field Engineer - AX/XP - Atlanta, GA",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-11"
+          "postedDate": "2026-07-12"
         }
       ],
       "patents": [],
@@ -1860,6 +2004,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
           "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Tracer Ensemble from Trane Technologies - HVAC oversight moves to the browser - ad-hoc-news.de",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MD",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MDBRc1cyd2YxS1Js?oc=5",
+          "published": "Tue, 30 Jun 2026 17:00:34 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1867,7 +2018,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1899,124 +2050,107 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
@@ -2211,7 +2345,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2246,130 +2380,113 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
         {
-          "title": "20 - Administrative Assistant I",
-          "state": "CA",
+          "title": "Outreach Coordinator",
+          "state": "NY",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
@@ -2517,13 +2634,6 @@
           "postedDate": "2026-06-13"
         },
         {
-          "title": "Outreach Coordinator",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-10"
-        },
-        {
           "title": "Senior Land Surveyor",
           "state": "CA",
           "segment": "Municipal",
@@ -2606,6 +2716,15 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-05"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-05"
         }
       ],
       "patents": [],
@@ -2616,7 +2735,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2661,124 +2780,107 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [],
@@ -2790,7 +2892,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2871,124 +2973,107 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [],
@@ -3008,7 +3093,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3096,127 +3181,273 @@
       ],
       "activeBids": [
         {
-          "title": "99--FAIRING, AIRCRAFT - AND SIMILAR REPLACEMENT PARTS",
+          "title": "16--LAP ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "99--fairing,",
-            "aircraft",
-            "similar",
-            "replacement",
-            "parts"
+            "16--lap",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-11T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "No Cost Scrap Agreement",
-          "state": "QA-RA",
-          "segment": "Other",
-          "keywords": [
-            "scrap",
-            "agreement"
-          ],
-          "agency": "",
-          "deadline": "2026-07-17T11:30:00+03:00"
-        },
-        {
-          "title": "47--HOSE,NONMETALLIC",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "47--hose,nonmetallic"
+            "20--door,metal,marine"
           ],
           "agency": "",
-          "deadline": "2026-08-25T00:00:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Multi-Discipline Architect/Engineer (A/E) Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)",
+          "title": "41--FAN,CENTRIFUGAL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "multi-discipline",
-            "architect/engineer",
-            "(a/e)",
-            "indefinite",
-            "delivery/indefinite"
+            "41--fan,centrifugal"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-23"
         },
         {
-          "title": "Repair Elevator - Bldg 425 Dayton VAMC (Services)",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "repair",
-            "elevator",
-            "dayton",
-            "(services)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-21T15:00:00-04:00"
-        },
-        {
-          "title": "ADJACENT JUMPER",
+          "title": "59--COVER,RADOME",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "adjacent",
-            "jumper"
+            "59--cover,radome"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:30:00-04:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "JBSA DFAC Combi Ovens ? Convection Steamers",
+          "title": "59--CONNECTOR,PLUG,ELEC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "combi",
-            "ovens",
-            "convection",
-            "steamers"
+            "59--connector,plug,elec"
           ],
           "agency": "",
-          "deadline": "2026-07-17T11:00:00-05:00"
+          "deadline": "2026-07-23"
         },
         {
-          "title": "178th Wing Base Microgrid Construction",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "178th",
-            "microgrid",
-            "construction"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Fuel Bowsers",
-          "state": "OR",
-          "segment": "Other",
-          "keywords": [
-            "bowsers"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T13:00:00-04:00"
-        },
-        {
-          "title": "RFP - VCS Devices Piece Parts",
+          "title": "59--SWITCH ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "devices",
-            "piece",
-            "parts"
+            "59--switch",
+            "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-07T17:00:00-04:00"
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "20--MAT,CARGO",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "20--mat,cargo"
+          ],
+          "agency": "",
+          "deadline": "2026-07-23"
+        },
+        {
+          "title": "53--NUT,SELF-LOCKING,BA",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--nut,self-locking,ba"
+          ],
+          "agency": "",
+          "deadline": "2026-07-20"
+        },
+        {
+          "title": "10--TRACK ASSEMBLY,CHUTE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "10--track",
+            "assembly,chute"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
+        },
+        {
+          "title": "53--CLAMP,LOOP",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--clamp,loop"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Service Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Lead HVAC Technician",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Administrative Assistant - Contracts/Insurance",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Construction Manager (BT)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical Assistant Project Manager (BT)",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical Project Manager (BT)",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "CDL A Truck Driver",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Systems Administrator",
+          "state": "AZ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Desktop Support Technician",
+          "state": "AZ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Assistant Project Manager",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Project Scheduler",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Project Manager",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Account Coordinator",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical Project Manager (BT)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical Assistant Project Manager (BT)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical Point Layout Specialist-Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "HVAC Mechanic (ND)",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-11"
+        },
         {
           "title": "EMCOR Government Services, Inc.",
           "state": "VA",
@@ -3237,46 +3468,6 @@
           "postedDate": "2026-07-11"
         },
         {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Tucker Mechanical",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "VA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Miller Electric Company",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
           "title": "Mesa Energy Systems, Inc.",
           "state": "",
           "segment": "Other",
@@ -3284,7 +3475,7 @@
           "postedDate": "2026-07-11"
         },
         {
-          "title": "EMCOR Government Services, Inc.",
+          "title": "Shambaugh & Son, L.P.",
           "state": "",
           "segment": "Healthcare",
           "tags": [
@@ -3293,21 +3484,14 @@
           "postedDate": "2026-07-11"
         },
         {
-          "title": "EMCOR Facilities Services, Inc.",
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "KDC Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
+          "title": "EMCOR Government Services, Inc.",
           "state": "VA",
           "segment": "Healthcare",
           "tags": [
@@ -3316,21 +3500,24 @@
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Gaston Electrical Co., LLC",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Gaston Electrical Co., LLC",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
+          "title": "DeBra-Kuempel Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-11"
         },
         {
@@ -3339,114 +3526,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
-        },
-        {
-          "title": "ECM Holding Group, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Ardent Services, LLC",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "KDC Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Ardent Services, LLC",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "New England Mechanical Services, Inc.",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Miller Electric Company",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Principal Engineer, Quality",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Electro-Mechanical Assembler II",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "General Maintenance Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
         }
       ],
       "patents": [],
@@ -3457,7 +3536,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3503,7 +3582,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3547,7 +3626,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3642,7 +3721,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3694,206 +3773,7 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Solar Energy Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Mechanical Engineer - Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Mechanical Engineer - Energy Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Construction Manager - Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Senior Associate, Commissioning",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Proposal Coordinator",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Marketing Coordinator",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Construction Manager - Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Lighting Designer - Energy Solutions - CMTA",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Mechanical Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Mechanical Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-07"
-        },
-        {
-          "title": "Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-07"
-        },
-        {
-          "title": "Senior Mechanical Engineer - Energy Solutions - CMTA",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-07"
-        },
-        {
-          "title": "Lighting Designer - Energy Solutions - CMTA",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-07"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-07"
-        },
-        {
-          "title": "HVAC Controls Service Professional - Energy Solutions - CMTA",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-07"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-06"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -3902,7 +3782,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3937,6 +3817,111 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Senior Safety Coordinator",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Associate Project Accountant - Temp to Perm",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Service Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Proposal Specialist",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Driver II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical Superintendent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Managing Principal Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Piping Foreman",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Electrical General Foreman",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Detailer I- Plumbing or Piping",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Piping Superintendent- Fab Shop",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Senior Energy Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Senior Energy Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Project Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
         {
           "title": "Senior Estimator",
           "state": "PA",
@@ -4034,7 +4019,7 @@
           "postedDate": "2026-07-05"
         },
         {
-          "title": "Purchasing Agent, Associate",
+          "title": "Associate Purchasing Agent - Temp to Hire",
           "state": "CA",
           "segment": "Other",
           "tags": [],
@@ -4046,106 +4031,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Controls Programmer III",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Operations Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Safety Coordinator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Billing Administrator - Temp to Hire",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Senior Project Accountant",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Project Executive",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Business Development Lead",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "QC Electrical Supervisor",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Electrical Estimator I",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Service Warranty Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Talent Acquisition Partner- Construction Operations",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Director of Corporate Real Estate & Facilities",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-30"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-30"
         }
       ],
       "patents": [],
@@ -4164,7 +4049,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-34781",
+          "id": "construction-79687",
           "title": "Skanska tops out $292M Virginia Tech facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
