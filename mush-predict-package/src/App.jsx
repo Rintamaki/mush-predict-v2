@@ -9,6 +9,7 @@ import SignalStream         from './components/SignalStream'
 import RFPDatabase          from './components/RFPDatabase'
 import DistrictContextPanel from './components/DistrictContextPanel'
 import WeightTuner          from './components/WeightTuner'
+import DistrictSpending from './components/DistrictSpending'
 import PreCallBrief         from './components/PreCallBrief'
 import AgendaCapture from './components/AgendaCapture'
 import CalibrationDashboard from './components/CalibrationDashboard'
@@ -166,6 +167,8 @@ export default function App() {
         )}
         {/* ── AGENDA CAPTURE ── */}
 {activeTab === 'agenda' && <AgendaCapture />}
+        {/* ── TEXAS ISDs ── */}
+{activeTab === 'districts' && <DistrictSpending />}
       </main>
 
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
