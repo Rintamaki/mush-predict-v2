@@ -134,7 +134,7 @@ export default function App() {
             )}
 
             {/* ── STRATEGIC FORECAST ── */}
-            {activeTab === 'forecast' && <StrategicForecast competitors={competitors} />}
+            {activeTab === 'forecast' && <StrategicForecast competitors={competitors} signals={signals} />}
 
             {/* ── SIGNAL STREAM ── */}
             {activeTab === 'stream' && <SignalStream signals={signals} />}
