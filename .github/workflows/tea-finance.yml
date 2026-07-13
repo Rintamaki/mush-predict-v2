@@ -26,6 +26,8 @@ jobs:
         run: pip install openpyxl
 
       - name: Run TEA scraper
+        env:
+          TEA_XLSX_URL: https://tea.texas.gov/reports-and-data/financial-reports/school-finance-reports-and-data/2009-2025-summarized-financial-data-04-08-2026.xlsx
         run: python scrapers/tx_district_finance.py
 
       - name: Upload data
