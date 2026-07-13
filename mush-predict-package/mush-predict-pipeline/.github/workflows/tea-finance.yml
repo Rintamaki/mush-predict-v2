@@ -1,0 +1,56 @@
+name: TEA District Finance Refresh
+
+on:
+  # Manual trigger — run whenever
+  workflow_dispatch:
+  # And monthly on the 1st (data updates infrequently, no need to run daily)
+  schedule:
+    - cron: '0 12 1 * *'
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install openpyxl
+
+      - name: Run TEA scraper
+        run: python scrapers/tx_district_finance.py
+
+      - name: Upload data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import base64, json, os, urllib.request
+          token = os.environ["GITHUB_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          path = "mush-predict-package/public/data/tx_district_finance.json"
+          if not os.path.exists(path):
+              print("No output file to upload")
+              exit(0)
+          with open(path, "rb") as f:
+              content = base64.b64encode(f.read()).decode()
+          url = f"https://api.github.com/repos/{repo}/contents/{path}"
+          req = urllib.request.Request(url, headers={"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"})
+          try:
+              with urllib.request.urlopen(req) as r:
+                  sha = json.loads(r.read())["sha"]
+          except:
+              sha = ""
+          data = json.dumps({"message": "TEA district finance refresh", "content": content, "sha": sha}).encode()
+          req2 = urllib.request.Request(url, data=data, method="PUT", headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
+          urllib.request.urlopen(req2)
+          print(f"Uploaded {path}")
+          PYEOF
