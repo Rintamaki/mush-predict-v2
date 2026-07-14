@@ -221,8 +221,7 @@ export function BriefDisplay({ brief, onCopy }) {
           </div>
         )}
 
-        {/* Talking points */}
-        {brief.talkingPoints.length > 0 && (
+       
         {/* Talking points */}
         {brief.talkingPoints.length > 0 && (
           <Section icon={<Target size={13} className="text-mk-lgreen" />} title="Talking points">
