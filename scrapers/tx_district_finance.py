@@ -91,7 +91,9 @@ def parse_tea_xlsx(data: bytes):
     log.info(f'Opened workbook: sheet "{ws.title}", {ws.max_row} rows')
 
     header = [str(c.value).strip() if c.value else '' for c in next(ws.iter_rows(min_row=1, max_row=1))]
-    log.info(f'Detected columns ({len(header)}): {header[:15]}…')
+    log.info(f'Detected {len(header)} columns. Full list:')
+    for i, h in enumerate(header):
+        log.info(f'  [{i:3d}] {h}')
 
     def find_col(candidates):
         low_hdr = [h.lower() for h in header]
@@ -104,22 +106,23 @@ def parse_tea_xlsx(data: bytes):
     col_dist_id   = find_col(['district id', 'district-id', 'district number', 'cdn', 'district'])
     col_dist_name = find_col(['district name', 'district-name', 'name'])
     col_year      = find_col(['school year', 'year', 'fiscal'])
-    col_function  = find_col(['function-code', 'function code', 'function'])
-    col_amount    = find_col(['actual-amount', 'actual amount', 'amount', 'total'])
 
     log.info(
-        f'Column mapping: '
+        f'Basic column mapping: '
         f'dist_id={col_dist_id}({header[col_dist_id] if col_dist_id is not None else "?"}), '
         f'dist_name={col_dist_name}({header[col_dist_name] if col_dist_name is not None else "?"}), '
-        f'year={col_year}({header[col_year] if col_year is not None else "?"}), '
-        f'function={col_function}({header[col_function] if col_function is not None else "?"}), '
-        f'amount={col_amount}({header[col_amount] if col_amount is not None else "?"})'
+        f'year={col_year}({header[col_year] if col_year is not None else "?"})'
     )
 
-    if None in (col_dist_id, col_dist_name, col_year, col_function, col_amount):
-        log.error('Could not locate all required columns')
-        log.error(f'Available columns: {header}')
-        return None
+    log.info('DIAGNOSTIC MODE: searching for facility-related column names…')
+    facility_keywords = ['plant', 'maint', 'security', 'facilit', 'construct', 'function 51', 'function 52', 'function 81', 'func-51', 'func-52', 'func-81', '-51-', '-52-', '-81-']
+    for i, h in enumerate(header):
+        h_low = h.lower()
+        if any(kw in h_low for kw in facility_keywords):
+            log.info(f'  CANDIDATE [{i:3d}] {h}')
+
+    log.info('Stopping here so we can identify the correct columns from the log above.')
+    return None
 
     districts = defaultdict(lambda: {'name': '', 'years': defaultdict(lambda: defaultdict(float))})
     row_count = 0
