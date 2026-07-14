@@ -74,16 +74,42 @@ def normalize_district_name(name):
 
 
 def load_csv_with_diagnostics(path, source_label):
-    """Read a CSV, log its column headers, return (rows, fieldnames) or (None, None)."""
+    """Read a CSV, auto-detecting the real header row (TEA exports often
+    have title/letterhead rows above the actual data table), log columns,
+    return (rows, fieldnames) or (None, None)."""
     if not path.exists():
         log.warning(f'[{source_label}] File not found: {path} — skipping this data source')
         return None, None
 
     log.info(f'[{source_label}] Reading {path} ({path.stat().st_size / 1e6:.1f} MB)')
+
     with open(path, 'r', encoding='utf-8-sig', errors='ignore') as f:
-        reader = csv.DictReader(f)
-        rows = list(reader)
-        fieldnames = reader.fieldnames
+        raw_lines = f.readlines()
+
+    # Scan the first 30 lines for the one that looks most like a real header:
+    # highest comma count, and not just a single decorative title string.
+    best_idx = 0
+    best_commas = -1
+    scan_limit = min(30, len(raw_lines))
+    for i in range(scan_limit):
+        commas = raw_lines[i].count(',')
+        if commas > best_commas:
+            best_commas = commas
+            best_idx = i
+
+    if best_commas < 2:
+        log.error(f'[{source_label}] Could not find a real header row in the first {scan_limit} lines '
+                  f'(best candidate had only {best_commas} commas). File may not be a standard CSV export.')
+        log.error(f'[{source_label}] First few lines: {[l.strip() for l in raw_lines[:5]]}')
+        return None, None
+
+    if best_idx > 0:
+        log.info(f'[{source_label}] Detected {best_idx} title/letterhead row(s) before the real header — skipping them')
+
+    data_str = ''.join(raw_lines[best_idx:])
+    reader = csv.DictReader(io.StringIO(data_str))
+    rows = list(reader)
+    fieldnames = reader.fieldnames
 
     log.info(f'[{source_label}] {len(rows)} rows, columns: {fieldnames}')
     return rows, fieldnames
@@ -136,9 +162,11 @@ def load_financial_data():
 
 def compute_trend(values):
     """Given a list of yearly values (oldest to newest), return a 0-100
-    trend score. 50 = flat. Higher = growing. Lower = shrinking."""
+    trend score. 50 = flat. Higher = growing. Lower = shrinking.
+    Requires a minimum baseline value to avoid tiny districts (e.g. small
+    charter schools) producing misleading extreme swings off near-zero bases."""
     values = [v for v in values if v is not None]
-    if len(values) < 2 or values[0] == 0:
+    if len(values) < 2 or values[0] < 50000:  # ignore baselines under $50K — too noisy
         return None
     pct_change = (values[-1] - values[0]) / values[0]
     # Map -50%..+50% change to 0..100, clamped
@@ -188,13 +216,27 @@ def load_enrollment_data():
     for key, records in by_district.items():
         records.sort(key=lambda r: r[0])  # sort by year
         values = [r[1] for r in records]
+        # Skip enrollment trend for very small districts/schools — same
+        # noise problem as the financial trend calc.
+        enroll_trend = compute_enrollment_trend(values)
         result[key] = {
             'district_name':             records[-1][2],
             'latest_enrollment':         values[-1],
-            'enrollment_growth_score':   compute_trend(values),
+            'enrollment_growth_score':   enroll_trend,
         }
     log.info(f'[Enrollment] Parsed {len(result)} districts')
     return result
+
+
+def compute_enrollment_trend(values):
+    """Same idea as compute_trend() but with an enrollment-appropriate
+    minimum baseline (100 students) instead of a dollar amount."""
+    values = [v for v in values if v is not None]
+    if len(values) < 2 or values[0] < 100:
+        return None
+    pct_change = (values[-1] - values[0]) / values[0]
+    score = 50 + (pct_change * 100)
+    return max(0, min(100, round(score)))
 
 
 # ── Source 3: TX Bond Review Board — Debt Data ───────────────────────────────
@@ -416,7 +458,10 @@ def build_district_intelligence():
         }
 
         available = [v for v in sub_scores.values() if v is not None]
-        opportunity_score = round(sum(available) / len(available)) if available else None
+        # Require at least 2 real sub-scores before computing an overall
+        # opportunity score — a single noisy trend from one small district
+        # shouldn't be able to claim a top-5 spot on its own.
+        opportunity_score = round(sum(available) / len(available)) if len(available) >= 2 else None
 
         districts.append({
             'district_key':          key,
