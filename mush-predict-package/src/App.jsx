@@ -26,7 +26,7 @@ export default function App() {
   const [activeTab, setActiveTab]     = useState('predict')
   const [predictions, setPredictions] = useState(null)
   const [scoredOpp, setScoredOpp]     = useState(null)
-  const [rfpRecords, setRfpRecords]   = useState([])
+  const [districtIntelligence, setDistrictIntelligence] = useState([])
   const [tunerOpen, setTunerOpen]     = useState(false)
   const [recomputeKey, setRecomputeKey] = useState(0)
 
@@ -43,7 +43,12 @@ export default function App() {
       })
       .catch(() => loadRFPStats([]))
   }, [])
-
+useEffect(() => {
+    fetch('./data/district_intelligence.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : { districts: [] })
+      .then(data => setDistrictIntelligence(data.districts || []))
+      .catch(() => setDistrictIntelligence([]))
+  }, [])
   function handleScore(opportunity) {
   const ranked = rankCompetitorsForOpportunity(competitors, opportunity, signals)
   setPredictions(ranked)
@@ -156,13 +161,14 @@ export default function App() {
 
             {/* ── PRE-CALL BRIEF ── */}
             {activeTab === 'brief' && (
-              <PreCallBrief
-                competitors={competitors}
-                signals={signals}
-                rfpRecords={rfpRecords}
-                bondOpportunities={bondOpportunities}
-              />
-            )}
+  <PreCallBrief
+    competitors={competitors}
+    signals={signals}
+    rfpRecords={rfpRecords}
+    bondOpportunities={bondOpportunities}
+    districtIntelligence={districtIntelligence}
+  />
+)}
           </>
         )}
         {/* ── AGENDA CAPTURE ── */}
