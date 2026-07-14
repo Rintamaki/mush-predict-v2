@@ -178,21 +178,19 @@ def compute_trend(values):
 def load_enrollment_data():
     """
     Download from: https://tea.texas.gov/data-reports/student-data/standard-reports/peims-standard-reports
-    Look for a district-level enrollment export (CSV).
-    Save to: scrapers/tea_data/enrollment-data.csv
 
-    NOTE: exact column names are unverified — this is a first pass. If the
-    log shows a column mismatch, send the logged column list back and
-    we'll fix the find_col() candidates below.
+    NOTE: this file is broken down by district/year/ETHNICITY subgroup —
+    each row is a partial count, not the district total. We must sum all
+    ethnicity rows for a given district+year before computing any trend.
     """
     path = DATA_DIR / 'enrollment-data.csv'
     rows, fieldnames = load_csv_with_diagnostics(path, 'Enrollment')
     if rows is None:
         return {}
 
-    col_name = find_col(fieldnames, ['district name', 'district'])
-    col_year = find_col(fieldnames, ['year', 'school year'])
-    col_enroll = find_col(fieldnames, ['enrollment', 'total students', 'student count'])
+    col_name = find_col(fieldnames, ['district name'])
+    col_year = find_col(fieldnames, ['year'])
+    col_enroll = find_col(fieldnames, ['enrollment'])
 
     if not all([col_name, col_year, col_enroll]):
         log.error(f'[Enrollment] Could not find required columns. '
@@ -200,31 +198,36 @@ def load_enrollment_data():
         log.error(f'[Enrollment] Available columns: {fieldnames}')
         return {}
 
-    by_district = defaultdict(list)
+    # Sum across ethnicity subgroups: key is (district_key, year)
+    by_district_year = defaultdict(lambda: {'total': 0.0, 'name': ''})
     for row in rows:
         try:
             name = row[col_name].strip()
             year = row[col_year].strip()
-            enrollment = float(row[col_enroll].replace(',', ''))
+            enrollment = float(str(row[col_enroll]).replace(',', '') or 0)
         except (ValueError, AttributeError, KeyError):
             continue
         if not name:
             continue
-        by_district[normalize_district_name(name)].append((year, enrollment, name))
+        key = (normalize_district_name(name), year)
+        by_district_year[key]['total'] += enrollment
+        by_district_year[key]['name'] = name
+
+    # Now build a per-district time series from the summed year totals
+    by_district = defaultdict(list)
+    for (district_key, year), data in by_district_year.items():
+        by_district[district_key].append((year, data['total'], data['name']))
 
     result = {}
     for key, records in by_district.items():
         records.sort(key=lambda r: r[0])  # sort by year
         values = [r[1] for r in records]
-        # Skip enrollment trend for very small districts/schools — same
-        # noise problem as the financial trend calc.
-        enroll_trend = compute_enrollment_trend(values)
         result[key] = {
             'district_name':             records[-1][2],
             'latest_enrollment':         values[-1],
-            'enrollment_growth_score':   enroll_trend,
+            'enrollment_growth_score':   compute_enrollment_trend(values),
         }
-    log.info(f'[Enrollment] Parsed {len(result)} districts')
+    log.info(f'[Enrollment] Parsed {len(result)} districts (summed across ethnicity subgroups)')
     return result
 
 
@@ -243,59 +246,64 @@ def compute_enrollment_trend(values):
 def load_bond_debt_data():
     """
     Download from: https://debtsearch.brb.texas.gov/local_debt_search.aspx
-    Search/export for Texas school districts, save the result as CSV.
-    Save to: scrapers/tea_data/bond_debt.csv
 
-    NOTE: this is a search tool, not a bulk download page — you may need to
-    search "school district" as the entity type and export results, or
-    check if BRB offers a bulk data file elsewhere on their site. Column
-    names below are best-guess and will likely need adjustment.
+    NOTE: the file you have is a narrower report on Capital Appreciation
+    Bonds (CABs) specifically — columns are GovernmentName,
+    CABPrincipalOutstanding, CABInterestOutstanding, CABDebtService. This
+    is real data but only covers CAB-type debt, not a district's total
+    outstanding debt or assessed valuation. Without valuation, we can't
+    compute a true debt-to-valuation capacity ratio — so this produces a
+    much rougher score based on CAB principal alone (lower CAB debt =
+    higher rough "capacity" score). If you can find BRB's general debt
+    search results with total debt + assessed valuation, that would
+    produce a much more meaningful score — this is a placeholder using
+    what's actually available.
     """
     path = DATA_DIR / 'bond_debt.csv'
     rows, fieldnames = load_csv_with_diagnostics(path, 'Bond Debt')
     if rows is None:
         return {}
 
-    col_name = find_col(fieldnames, ['entity name', 'district name', 'issuer'])
-    col_debt = find_col(fieldnames, ['debt outstanding', 'total debt', 'outstanding'])
-    col_valuation = find_col(fieldnames, ['assessed valuation', 'taxable value'])
+    col_name = find_col(fieldnames, ['governmentname', 'entity name', 'district name'])
+    col_debt = find_col(fieldnames, ['cabprincipaloutstanding', 'debt outstanding', 'total debt'])
 
     if not all([col_name, col_debt]):
-        log.error(f'[Bond Debt] Could not find required columns. '
-                  f'name={col_name}, debt={col_debt}, valuation={col_valuation}')
+        log.error(f'[Bond Debt] Could not find required columns. name={col_name}, debt={col_debt}')
         log.error(f'[Bond Debt] Available columns: {fieldnames}')
         return {}
 
-    result = {}
+    log.info(f'[Bond Debt] Using CAB-principal-only data (no valuation available) — rough capacity proxy only')
+
+    debts = []
+    result_raw = {}
     for row in rows:
         try:
             name = row[col_name].strip()
-            debt = float(row[col_debt].replace(',', '').replace('$', ''))
-            valuation = float(row[col_valuation].replace(',', '').replace('$', '')) if col_valuation else None
+            debt = float(str(row[col_debt]).replace(',', '').replace('$', '') or 0)
         except (ValueError, AttributeError, KeyError):
             continue
         if not name:
             continue
+        result_raw[normalize_district_name(name)] = {'district_name': name, 'debt_outstanding': debt}
+        debts.append(debt)
 
-        # Debt capacity score: lower debt-to-valuation ratio = more room to
-        # borrow = higher capacity for a future bond. If we don't have
-        # valuation, fall back to raw debt level (lower = higher capacity,
-        # very rough).
-        if valuation and valuation > 0:
-            ratio = debt / valuation
-            # Typical Texas ISD debt ratios run roughly 0-15% of valuation.
-            # Map that range to a 100 (low debt, high capacity) .. 0 (high debt) score.
-            capacity_score = max(0, min(100, round(100 - (ratio / 0.15 * 100))))
-        else:
-            capacity_score = None
+    if not debts:
+        return {}
 
-        result[normalize_district_name(name)] = {
-            'district_name':        name,
-            'debt_outstanding':     debt,
-            'assessed_valuation':   valuation,
-            'debt_capacity_score':  capacity_score,
+    # Without valuation, rank districts by CAB debt relative to the range
+    # seen in this file — inverted so lower debt = higher capacity score.
+    # This is a rough proxy, clearly labeled as such in the notes field.
+    max_debt = max(debts) or 1
+    result = {}
+    for key, data in result_raw.items():
+        capacity_score = round(100 - (data['debt_outstanding'] / max_debt * 100))
+        result[key] = {
+            'district_name':       data['district_name'],
+            'debt_outstanding':    data['debt_outstanding'],
+            'assessed_valuation':  None,
+            'debt_capacity_score': capacity_score,
         }
-    log.info(f'[Bond Debt] Parsed {len(result)} districts')
+    log.info(f'[Bond Debt] Parsed {len(result)} districts (CAB-only, rough relative scoring)')
     return result
 
 
@@ -305,44 +313,64 @@ def load_bond_elections_data():
     Download from: https://debtsearch.brb.texas.gov/bond_elections_search.aspx
     Save results as CSV to: scrapers/tea_data/bond_elections.csv
 
-    NOTE: same caveat as bond debt — this looks like a search tool rather
-    than a bulk export. Column names are best-guess.
+    NOTE: this file has NO header row — first line is already data. Based
+    on the observed column order:
+      [0] District name       (e.g. "Liberty Hill ISD")
+      [1] Entity type          (e.g. "ISD")
+      [2] County                (e.g. "Williamson")
+      [3] Election date         (e.g. "5/7/2016")
+      [4] Proposition number
+      [5] Outcome               (e.g. "Carried" / "Failed")
+      [6] Amount                (e.g. "35000000.0000")
+      [7] Category              (e.g. "Building")
+      [8] Description
+      [9] Votes for
+      [10] Votes against
+    If BRB changes their export format, these indices will need updating —
+    check the logged sample row if this stops matching.
     """
     path = DATA_DIR / 'bond_elections.csv'
-    rows, fieldnames = load_csv_with_diagnostics(path, 'Bond Elections')
-    if rows is None:
+    if not path.exists():
+        log.warning(f'[Bond Elections] File not found: {path} — skipping this data source')
         return {}
 
-    col_name = find_col(fieldnames, ['entity name', 'district name', 'issuer'])
-    col_date = find_col(fieldnames, ['election date', 'date'])
-    col_amount = find_col(fieldnames, ['proposition amount', 'amount', 'bond amount'])
-    col_outcome = find_col(fieldnames, ['outcome', 'result', 'passed'])
+    log.info(f'[Bond Elections] Reading {path} ({path.stat().st_size / 1e6:.1f} MB)')
+    with open(path, 'r', encoding='utf-8-sig', errors='ignore') as f:
+        reader = csv.reader(f)
+        raw_rows = list(reader)
 
-    if not all([col_name, col_date]):
-        log.error(f'[Bond Elections] Could not find required columns. '
-                  f'name={col_name}, date={col_date}')
-        log.error(f'[Bond Elections] Available columns: {fieldnames}')
-        return {}
+    log.info(f'[Bond Elections] {len(raw_rows)} rows. Sample first row: {raw_rows[0] if raw_rows else "EMPTY"}')
+
+    IDX_NAME, IDX_DATE, IDX_OUTCOME, IDX_AMOUNT = 0, 3, 5, 6
 
     by_district = defaultdict(list)
-    for row in rows:
+    skipped = 0
+    for row in raw_rows:
+        if len(row) <= max(IDX_NAME, IDX_DATE, IDX_OUTCOME, IDX_AMOUNT):
+            skipped += 1
+            continue
         try:
-            name = row[col_name].strip()
-            date = row[col_date].strip()
-            amount = float(row[col_amount].replace(',', '').replace('$', '')) if col_amount and row.get(col_amount) else 0
-            outcome = row[col_outcome].strip() if col_outcome else ''
-        except (ValueError, AttributeError, KeyError):
+            name = row[IDX_NAME].strip()
+            date = row[IDX_DATE].strip()
+            outcome = row[IDX_OUTCOME].strip()
+            amount = float(row[IDX_AMOUNT].replace(',', '').replace('$', '') or 0)
+        except (ValueError, IndexError):
+            skipped += 1
             continue
         if not name or not date:
+            skipped += 1
             continue
         by_district[normalize_district_name(name)].append({
             'date': date, 'amount': amount, 'outcome': outcome, 'name': name,
         })
 
+    if skipped:
+        log.info(f'[Bond Elections] Skipped {skipped} malformed rows')
+
     result = {}
     for key, elections in by_district.items():
         elections.sort(key=lambda e: e['date'], reverse=True)
-        passed = [e for e in elections if 'pass' in e['outcome'].lower() or 'approve' in e['outcome'].lower()]
+        passed = [e for e in elections if 'carr' in e['outcome'].lower() or 'pass' in e['outcome'].lower() or 'approve' in e['outcome'].lower()]
         most_recent_passed = passed[0] if passed else None
 
         bond_cycle_stage = None
