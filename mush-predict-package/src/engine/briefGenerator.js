@@ -19,7 +19,7 @@
 
 import { rankCompetitorsForOpportunity } from './scoringEngine'
 import { computeIncumbencies } from './incumbency'
-
+import { findDistrictOpportunity, buildOpportunityTalkingPoint } from './districtOpportunity'
 /**
  * Main entry point.
  */
@@ -30,13 +30,18 @@ export function generateBrief({
   signals,
   districtProfile,
   rfpHistory,
-  bondOpportunities,     // NEW — from competitors.json top-level bond_opportunities
+  bondOpportunities,        // from competitors.json top-level bond_opportunities
+  districtIntelligence,    // NEW — from district_intelligence.json `districts` array
 }) {
   const rankedCompetitors = rankCompetitorsForOpportunity(competitors, opportunity)
   const topCompetitors    = rankedCompetitors.slice(0, 3)
   const incumbents        = findIncumbentsAtAgency(competitors, opportunity.agency)
   const relevantSignals   = filterRelevantSignals(signals, opportunity)
   const mckinstryHistory  = findMcKinstryHistory(rfpHistory, opportunity)
+
+  // NEW — district opportunity score (enrollment growth, Plant M&O trend,
+  // construction spend trend, debt capacity, bond cycle)
+  const districtOpportunity = findDistrictOpportunity(districtIntelligence, opportunity.agency)
 
   // NEW — district-specific news from accumulated signals
   const districtNews = findDistrictNews(signals, competitors, opportunity)
@@ -47,6 +52,7 @@ export function generateBrief({
   const talkingPoints = buildTalkingPoints({
     opportunity, meetingContext, topCompetitors, incumbents,
     relevantSignals, mckinstryHistory, districtProfile, bondActivity,
+    districtOpportunity,
   })
 
   const watchOuts = buildWatchOuts({
@@ -63,8 +69,9 @@ export function generateBrief({
     topCompetitors, incumbents,
     relevantSignals: relevantSignals.slice(0, 8),
     mckinstryHistory, districtProfile,
-    districtNews,          // NEW
-    bondActivity,          // NEW
+    districtNews,
+    bondActivity,
+    districtOpportunity,   // NEW
     talkingPoints, watchOuts, questions,
   }
 }
@@ -311,8 +318,15 @@ function findMcKinstryHistory(rfpHistory, opportunity) {
 function buildTalkingPoints({
   opportunity, meetingContext, topCompetitors, incumbents,
   relevantSignals, mckinstryHistory, districtProfile, bondActivity,
+  districtOpportunity,
 }) {
   const points = []
+
+  // NEW — district opportunity score, leads the brief when available
+  const oppPoint = buildOpportunityTalkingPoint(districtOpportunity)
+  if (oppPoint) points.push(oppPoint)
+
+  // District scale
 
   // District scale
   if (districtProfile?.enrollment?.total) {
@@ -554,7 +568,14 @@ export function formatBriefAsText(brief) {
     lines.push(`  ${brief.bondActivity.timing}`)
     lines.push('')
   }
-
+if (brief.districtOpportunity?.opportunity_score != null) {
+    lines.push('DISTRICT OPPORTUNITY SCORE')
+    lines.push(`  Overall: ${brief.districtOpportunity.opportunity_score}/100`)
+    if (brief.districtOpportunity.bond_cycle_stage) {
+      lines.push(`  Bond cycle: ${brief.districtOpportunity.bond_cycle_stage}`)
+    }
+    lines.push('')
+  }
   if (brief.talkingPoints.length) {
     lines.push('TALKING POINTS')
     brief.talkingPoints.forEach(p => {
