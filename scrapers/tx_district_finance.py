@@ -1,12 +1,23 @@
 """
 tx_district_finance.py
 
-Scrapes TEA (Texas Education Agency) PEIMS financial data to identify
+Parses TEA (Texas Education Agency) PEIMS financial data to identify
 Texas school districts by their facility-related spending.
 
-TEA changes the xlsx URL periodically (they embed the file date in the URL).
-So we first scrape the download page, find the xlsx link dynamically, then
-download and parse it.
+NOTE ON DATA SOURCE:
+TEA's website blocks automated downloads from cloud/datacenter IP ranges
+(including GitHub Actions runners), even though the data itself is fully
+public. Rather than fight that block, this script reads the xlsx from a
+file committed to the repo. Since TEA only republishes this file about
+once a year, the workflow is:
+
+  1. Once a year, download the xlsx yourself in a browser from:
+     https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/peims-financial-data-downloads
+  2. Upload it to: scrapers/tea_data/summarized-financial-data.xlsx
+     (always use this exact filename regardless of what TEA names it)
+  3. Commit it to the repo
+  4. Run this script (manually or via the scheduled workflow) — it reads
+     the local file and regenerates tx_district_finance.json
 
 FUNCTION CODES that matter for McKinstry work:
   51 = Plant Maintenance & Operations (HVAC, custodial, utilities)
@@ -17,10 +28,7 @@ FUNCTION CODES that matter for McKinstry work:
 import io
 import json
 import logging
-import os
-import re
 import sys
-import urllib.request
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -33,11 +41,6 @@ logging.basicConfig(
 log = logging.getLogger('tea')
 
 # ── Config ──────────────────────────────────────────────────────────────────
-TEA_DOWNLOADS_PAGE = (
-    'https://tea.texas.gov/finance-and-grants/state-funding/'
-    'state-funding-reports-and-data/peims-financial-data-downloads'
-)
-
 FACILITY_FUNCTIONS = {
     '51': 'plant_maintenance',
     '52': 'security_monitoring',
@@ -46,60 +49,32 @@ FACILITY_FUNCTIONS = {
 
 YEARS_TO_KEEP = 3
 
-OUTPUT_FILE = Path(__file__).parent.parent / 'mush-predict-package' / 'public' / 'data' / 'tx_district_finance.json'
-
-USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-
-
-# ── Discover the current xlsx URL ───────────────────────────────────────────
-def find_xlsx_url():
-    """Scrape the TEA downloads page to find the summarized xlsx link."""
-    # Allow env-var override so this doesn't break if the whole page moves
-    if os.environ.get('TEA_XLSX_URL'):
-        url = os.environ['TEA_XLSX_URL']
-        log.info(f'Using TEA_XLSX_URL from env: {url}')
-        return url
-
-    log.info(f'Scraping TEA downloads page for current xlsx URL')
-    req = urllib.request.Request(TEA_DOWNLOADS_PAGE, headers={'User-Agent': USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        html = resp.read().decode('utf-8', errors='ignore')
-
-    # Look for an href pointing at a summarized financial data xlsx.
-    # Pattern: matches URLs like
-    #   /reports-and-data/financial-reports/.../2009-2025-summarized-financial-data-04-08-2026.xlsx
-    patterns = [
-        r'href="(https://tea\.texas\.gov/[^"]*summarized[^"]*\.xlsx)"',
-        r'href="(/[^"]*summarized[^"]*financial[^"]*\.xlsx)"',
-        r'href="([^"]*summarized-financial-data[^"]*\.xlsx)"',
-    ]
-    for pattern in patterns:
-        matches = re.findall(pattern, html, re.IGNORECASE)
-        if matches:
-            url = matches[0]
-            if url.startswith('/'):
-                url = 'https://tea.texas.gov' + url
-            log.info(f'Found xlsx URL: {url}')
-            return url
-
-    log.error('Could not find any summarized financial xlsx link on the TEA page')
-    log.error('Set TEA_XLSX_URL env var to override, or check the page manually:')
-    log.error(f'  {TEA_DOWNLOADS_PAGE}')
-    return None
+SCRIPT_DIR   = Path(__file__).parent
+LOCAL_XLSX   = SCRIPT_DIR / 'tea_data' / 'summarized-financial-data.xlsx'
+OUTPUT_FILE  = SCRIPT_DIR.parent / 'mush-predict-package' / 'public' / 'data' / 'tx_district_finance.json'
 
 
-# ── Download ────────────────────────────────────────────────────────────────
-def download_tea_data(url):
-    log.info(f'Downloading TEA PEIMS data from {url}')
-    req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
-    try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            data = resp.read()
-            log.info(f'Downloaded {len(data)/1e6:.1f} MB')
-            return data
-    except Exception as e:
-        log.error(f'TEA download failed: {e}')
+# ── Load local file ─────────────────────────────────────────────────────────
+def load_local_xlsx():
+    """Read the manually-uploaded xlsx from the repo."""
+    if not LOCAL_XLSX.exists():
+        log.error(f'File not found: {LOCAL_XLSX}')
+        log.error('')
+        log.error('This scraper reads a manually-downloaded file rather than fetching')
+        log.error('from TEA directly (their site blocks automated/cloud IP downloads).')
+        log.error('')
+        log.error('To fix this:')
+        log.error('  1. Go to https://tea.texas.gov/finance-and-grants/state-funding/'
+                   'state-funding-reports-and-data/peims-financial-data-downloads')
+        log.error('  2. Download the "Summarized PEIMS Actual Financial Data" xlsx')
+        log.error(f'  3. Upload it to the repo at: scrapers/tea_data/summarized-financial-data.xlsx')
+        log.error('  4. Commit and re-run this workflow')
         return None
+
+    size_mb = LOCAL_XLSX.stat().st_size / 1e6
+    log.info(f'Reading local file: {LOCAL_XLSX} ({size_mb:.1f} MB)')
+    with open(LOCAL_XLSX, 'rb') as f:
+        return f.read()
 
 
 # ── Parse ───────────────────────────────────────────────────────────────────
@@ -110,12 +85,11 @@ def parse_tea_xlsx(data: bytes):
         log.error('openpyxl not installed — add openpyxl to requirements.txt')
         return None
 
-    log.info('Parsing xlsx (this can take a minute)…')
+    log.info('Parsing xlsx (this can take a minute for large files)…')
     wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True)
     ws = wb.active
     log.info(f'Opened workbook: sheet "{ws.title}", {ws.max_row} rows')
 
-    # Discover column layout from header row
     header = [str(c.value).strip() if c.value else '' for c in next(ws.iter_rows(min_row=1, max_row=1))]
     log.info(f'Detected columns ({len(header)}): {header[:15]}…')
 
@@ -127,13 +101,20 @@ def parse_tea_xlsx(data: bytes):
                     return i
         return None
 
-    col_dist_id     = find_col(['district id', 'district-id', 'district number', 'cdn', 'district'])
-    col_dist_name   = find_col(['district name', 'district-name', 'name'])
-    col_year        = find_col(['school year', 'year', 'fiscal'])
-    col_function    = find_col(['function-code', 'function code', 'function'])
-    col_amount      = find_col(['actual-amount', 'actual amount', 'amount', 'total'])
+    col_dist_id   = find_col(['district id', 'district-id', 'district number', 'cdn', 'district'])
+    col_dist_name = find_col(['district name', 'district-name', 'name'])
+    col_year      = find_col(['school year', 'year', 'fiscal'])
+    col_function  = find_col(['function-code', 'function code', 'function'])
+    col_amount    = find_col(['actual-amount', 'actual amount', 'amount', 'total'])
 
-    log.info(f'Column mapping: dist_id={col_dist_id}({header[col_dist_id] if col_dist_id is not None else "?"}), dist_name={col_dist_name}({header[col_dist_name] if col_dist_name is not None else "?"}), year={col_year}({header[col_year] if col_year is not None else "?"}), function={col_function}({header[col_function] if col_function is not None else "?"}), amount={col_amount}({header[col_amount] if col_amount is not None else "?"})')
+    log.info(
+        f'Column mapping: '
+        f'dist_id={col_dist_id}({header[col_dist_id] if col_dist_id is not None else "?"}), '
+        f'dist_name={col_dist_name}({header[col_dist_name] if col_dist_name is not None else "?"}), '
+        f'year={col_year}({header[col_year] if col_year is not None else "?"}), '
+        f'function={col_function}({header[col_function] if col_function is not None else "?"}), '
+        f'amount={col_amount}({header[col_amount] if col_amount is not None else "?"})'
+    )
 
     if None in (col_dist_id, col_dist_name, col_year, col_function, col_amount):
         log.error('Could not locate all required columns')
@@ -170,7 +151,6 @@ def parse_tea_xlsx(data: bytes):
             continue
 
         matched_rows += 1
-        # Normalize year format to something like "2024-2025"
         year_clean = year[:9] if len(year) >= 9 else year
 
         d = districts[dist_id]
@@ -238,11 +218,12 @@ def build_output(districts_data):
     return {
         'generated_at':   datetime.utcnow().isoformat() + 'Z',
         'source':         'Texas Education Agency PEIMS Summarized Actual Financial Data',
-        'source_url':     TEA_DOWNLOADS_PAGE,
+        'source_url':     'https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/peims-financial-data-downloads',
         'years_included': sorted_years,
         'notes': (
             'Annual actual expenditures per Texas ISD. Data is 1-2 years behind current. '
-            'Function 51 = Plant M&O. Function 52 = Security. Function 81 = Facilities Construction.'
+            'Function 51 = Plant M&O. Function 52 = Security. Function 81 = Facilities Construction. '
+            'Source file is manually downloaded and committed to the repo (TEA blocks automated fetches).'
         ),
         'district_count': len(records),
         'districts':      records,
@@ -252,14 +233,10 @@ def build_output(districts_data):
 # ── Main ────────────────────────────────────────────────────────────────────
 def run():
     log.info('=' * 60)
-    log.info('TEA District Finance Scraper')
+    log.info('TEA District Finance Scraper (local file mode)')
     log.info('=' * 60)
 
-    url = find_xlsx_url()
-    if not url:
-        return 1
-
-    raw = download_tea_data(url)
+    raw = load_local_xlsx()
     if not raw:
         return 1
 
