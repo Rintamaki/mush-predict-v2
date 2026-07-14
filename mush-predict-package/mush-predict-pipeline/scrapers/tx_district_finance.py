@@ -48,7 +48,7 @@ YEARS_TO_KEEP = 3
 
 OUTPUT_FILE = Path(__file__).parent.parent / 'mush-predict-package' / 'public' / 'data' / 'tx_district_finance.json'
 
-USER_AGENT = 'mush-predict/1.0 (McKinstry public-sector research)'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 
 
 # ── Discover the current xlsx URL ───────────────────────────────────────────
