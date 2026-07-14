@@ -8,7 +8,7 @@ import { generateBrief, formatBriefAsText } from '../engine/briefGenerator'
 
 const SEGMENTS = ['Schools', 'Healthcare', 'University', 'Municipal']
 
-export default function PreCallBrief({ competitors, signals, rfpRecords, bondOpportunities }) {
+export default function PreCallBrief({ competitors, signals, rfpRecords, bondOpportunities, districtIntelligence }) {
   const [form, setForm] = useState({
     agency: '',
     state: 'TX',
@@ -43,6 +43,7 @@ export default function PreCallBrief({ competitors, signals, rfpRecords, bondOpp
         competitors, signals,
         rfpHistory: rfpRecords,
         bondOpportunities,
+        districtIntelligence,
       })
       setBrief(result)
       setGenerating(false)
@@ -181,7 +182,47 @@ export function BriefDisplay({ brief, onCopy }) {
             )}
           </div>
         )}
+{/* District opportunity score */}
+        {brief.districtOpportunity?.opportunity_score != null && (
+          <div className="bg-mk-lgreen/8 border border-mk-lgreen/25 rounded-xl p-4">
+            <div className="flex items-center gap-2 mb-3">
+              <Target size={14} className="text-mk-lgreen" />
+              <h4 className="font-barlow font-semibold text-white text-sm">District opportunity score</h4>
+              <span className="ml-auto text-lg font-mono font-bold text-mk-lgreen">
+                {brief.districtOpportunity.opportunity_score}<span className="text-xs text-white/40">/100</span>
+              </span>
+            </div>
+            <div className="grid grid-cols-2 gap-2 text-[11px]">
+              {brief.districtOpportunity.sub_scores?.enrollment_growth_score != null && (
+                <div className="flex justify-between bg-white/[0.03] rounded px-2 py-1.5">
+                  <span className="text-white/50">Enrollment growth</span>
+                  <span className="font-mono text-white/80">{brief.districtOpportunity.sub_scores.enrollment_growth_score}</span>
+                </div>
+              )}
+              {brief.districtOpportunity.sub_scores?.plant_mo_trend_score != null && (
+                <div className="flex justify-between bg-white/[0.03] rounded px-2 py-1.5">
+                  <span className="text-white/50">Plant M&O trend</span>
+                  <span className="font-mono text-white/80">{brief.districtOpportunity.sub_scores.plant_mo_trend_score}</span>
+                </div>
+              )}
+              {brief.districtOpportunity.sub_scores?.construction_spend_score != null && (
+                <div className="flex justify-between bg-white/[0.03] rounded px-2 py-1.5">
+                  <span className="text-white/50">Construction spend</span>
+                  <span className="font-mono text-white/80">{brief.districtOpportunity.sub_scores.construction_spend_score}</span>
+                </div>
+              )}
+              {brief.districtOpportunity.sub_scores?.debt_capacity_score != null && (
+                <div className="flex justify-between bg-white/[0.03] rounded px-2 py-1.5">
+                  <span className="text-white/50">Debt capacity</span>
+                  <span className="font-mono text-white/80">{brief.districtOpportunity.sub_scores.debt_capacity_score}</span>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
 
+        {/* Talking points */}
+        {brief.talkingPoints.length > 0 && (
         {/* Talking points */}
         {brief.talkingPoints.length > 0 && (
           <Section icon={<Target size={13} className="text-mk-lgreen" />} title="Talking points">
