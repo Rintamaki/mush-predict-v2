@@ -10,8 +10,17 @@ export function loadRFPStats(rfpRecords) {
 /**
  * scoringEngine.js
  *
- * Pure-function scoring engine. Takes a competitor profile and an
- * opportunity, returns explainable probability scores.
+ * Pure-function scoring engine. Takes a competitor profile, an opportunity,
+ * and (optionally) the accumulated signals array, and returns explainable
+ * probability scores.
+ *
+ * SIGNALS INTEGRATION:
+ * Each sub-score now also considers accumulated signals.json history for
+ * that competitor, on top of the existing competitors.json snapshot data.
+ * Signals are recency-decayed (30/90/180 day standard, matching the
+ * Strategic Forecast engine) so recent activity counts more than old.
+ * This is additive — snapshot-only behavior is unchanged when no signals
+ * are passed in, so nothing breaks if a caller doesn't supply them.
  */
 
 // ── WEIGHTS ───────────────────────────────────────────────────────────────────
@@ -85,9 +94,33 @@ function recencyDecay(monthsOld) {
   return 0.05
 }
 
+// ── SIGNALS HELPERS ────────────────────────────────────────────────────────────
+// Standard 30/90/180 day decay, same as Strategic Forecast's signalsForecast.js
+function daysAgo(timestamp) {
+  if (!timestamp) return 9999
+  try {
+    const then = new Date(timestamp)
+    if (isNaN(then)) return 9999
+    return (Date.now() - then.getTime()) / 86400000
+  } catch { return 9999 }
+}
+
+function signalDecay(days) {
+  if (days <= 30)  return 1.0
+  if (days <= 90)  return 0.5
+  if (days <= 180) return 0.25
+  return 0.1
+}
+
+/** Filter the full signals array down to just this competitor's signals. */
+function signalsFor(signals, competitorName) {
+  if (!signals?.length) return []
+  return signals.filter(s => s.company === competitorName)
+}
+
 // ── SUB-SCORE 1: BEHAVIORAL FIT ───────────────────────────────────────────────
-function computeBehavioralFit(competitor, opportunity) {
-  const signals = []
+function computeBehavioralFit(competitor, opportunity, signals) {
+  const sigs = []
   let score = 0
 
   const segmentWins = (competitor.contractAwards ?? []).filter(
@@ -98,7 +131,7 @@ function computeBehavioralFit(competitor, opportunity) {
     const recencyBoost = segmentWins.reduce((s, a) => s + recencyDecay(monthsAgo(a.date)), 0) / segmentWins.length
     const contribution = Math.min(0.45, (segmentWins.length / 6) * recencyBoost)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${segmentWins.length} ${opportunity.segment} wins in last 18 months`,
       detail: `${segmentWins.length} contracts totaling $${(total/1e6).toFixed(1)}M`,
       contribution: +contribution.toFixed(2),
@@ -112,7 +145,7 @@ function computeBehavioralFit(competitor, opportunity) {
   if (activeBids.length) {
     const contribution = Math.min(0.30, activeBids.length * 0.10)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${activeBids.length} similar bids active right now`,
       detail: activeBids.map(b => b.title).slice(0, 2).join('; '),
       contribution: +contribution.toFixed(2),
@@ -124,7 +157,7 @@ function computeBehavioralFit(competitor, opportunity) {
   if (recentPermits.length) {
     const contribution = Math.min(0.25, recentPermits.length * 0.08)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `Named on ${recentPermits.length} building permits in last 12 months`,
       detail: recentPermits.slice(0, 2).map(p => p.location).join('; '),
       contribution: +contribution.toFixed(2),
@@ -135,7 +168,7 @@ function computeBehavioralFit(competitor, opportunity) {
   const { boost, reason } = getIncumbencyBoost(competitor, opportunity)
   if (boost > 0) {
     score += boost
-    signals.push({
+    sigs.push({
       label:        'Incumbent or near-incumbent position',
       detail:       reason,
       contribution: +boost.toFixed(2),
@@ -143,12 +176,37 @@ function computeBehavioralFit(competitor, opportunity) {
     })
   }
 
-  return { score: Math.min(1, score), signals }
+  // ── SIGNALS: accumulated bid/contract/job momentum for this competitor,
+  //    in this exact state + segment, recency-decayed. Capped so it can't
+  //    dwarf the snapshot-based contributions above.
+  const compSignals = signalsFor(signals, competitor.name)
+  const oppState = opportunity.state?.toUpperCase()
+  const relevantMomentum = compSignals.filter(s =>
+    (s.type === 'contract' || s.type === 'bid' || s.type === 'job') &&
+    s.state?.toUpperCase() === oppState
+  )
+  if (relevantMomentum.length) {
+    const weighted = relevantMomentum.reduce((sum, s) => {
+      const typeW = s.type === 'contract' ? 1.0 : s.type === 'bid' ? 0.8 : 0.5
+      return sum + signalDecay(daysAgo(s.timestamp)) * typeW
+    }, 0)
+    const contribution = Math.min(0.20, weighted * 0.05)
+    const recentCount = relevantMomentum.filter(s => daysAgo(s.timestamp) <= 30).length
+    score += contribution
+    sigs.push({
+      label: `${relevantMomentum.length} accumulated signals in ${oppState} (${recentCount} in last 30 days)`,
+      detail: `Recency-weighted momentum from contracts, bids, and jobs history`,
+      contribution: +contribution.toFixed(2),
+      source: 'Accumulated signal history',
+    })
+  }
+
+  return { score: Math.min(1, score), signals: sigs }
 }
 
 // ── SUB-SCORE 2: GEOGRAPHIC FIT ───────────────────────────────────────────────
-function computeGeographicFit(competitor, opportunity) {
-  const signals = []
+function computeGeographicFit(competitor, opportunity, signals) {
+  const sigs = []
   let score = 0
   const oppState  = opportunity.state?.toUpperCase()
   const oppRegion = getRegion(oppState)
@@ -156,7 +214,7 @@ function computeGeographicFit(competitor, opportunity) {
   const localOffices = (competitor.offices ?? []).filter(o => o.state === oppState)
   if (localOffices.length) {
     score += 0.50
-    signals.push({
+    sigs.push({
       label: `${localOffices.length} office${localOffices.length > 1 ? 's' : ''} in ${oppState}`,
       detail: localOffices.map(o => o.city).join(', '),
       contribution: 0.50,
@@ -166,7 +224,7 @@ function computeGeographicFit(competitor, opportunity) {
     const regionalOffices = (competitor.offices ?? []).filter(o => getRegion(o.state) === oppRegion)
     if (regionalOffices.length) {
       score += 0.25
-      signals.push({
+      sigs.push({
         label: `${regionalOffices.length} office${regionalOffices.length > 1 ? 's' : ''} in ${oppRegion} region (no in-state)`,
         detail: regionalOffices.map(o => `${o.city}, ${o.state}`).join(', '),
         contribution: 0.25,
@@ -179,7 +237,7 @@ function computeGeographicFit(competitor, opportunity) {
   if (stateWins.length) {
     const contribution = Math.min(0.35, stateWins.length * 0.07)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${stateWins.length} historical wins in ${oppState}`,
       detail: `Total: $${(stateWins.reduce((s, a) => s + (a.value ?? 0), 0) / 1e6).toFixed(1)}M`,
       contribution: +contribution.toFixed(2),
@@ -191,7 +249,7 @@ function computeGeographicFit(competitor, opportunity) {
   if (localJobs.length) {
     const contribution = Math.min(0.20, localJobs.length * 0.04)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${localJobs.length} recent job postings in ${oppState}`,
       detail: localJobs.slice(0, 3).map(j => j.title).join('; '),
       contribution: +contribution.toFixed(2),
@@ -199,18 +257,34 @@ function computeGeographicFit(competitor, opportunity) {
     })
   }
 
-  return { score: Math.min(1, score), signals }
+  // ── SIGNALS: accumulated presence in this state beyond today's snapshot —
+  //    catches sustained activity a single day's data would miss.
+  const compSignals = signalsFor(signals, competitor.name)
+  const stateSignals = compSignals.filter(s => s.state?.toUpperCase() === oppState)
+  if (stateSignals.length >= 5) {  // only meaningful once there's real history
+    const weighted = stateSignals.reduce((sum, s) => sum + signalDecay(daysAgo(s.timestamp)), 0)
+    const contribution = Math.min(0.15, weighted * 0.015)
+    score += contribution
+    sigs.push({
+      label: `${stateSignals.length} accumulated signals show sustained ${oppState} presence`,
+      detail: `Includes jobs, contracts, bids, and news across accumulated history`,
+      contribution: +contribution.toFixed(2),
+      source: 'Accumulated signal history',
+    })
+  }
+
+  return { score: Math.min(1, score), signals: sigs }
 }
 
 // ── SUB-SCORE 3: SEGMENT FIT ──────────────────────────────────────────────────
-function computeSegmentFit(competitor, opportunity) {
-  const signals = []
+function computeSegmentFit(competitor, opportunity, signals) {
+  const sigs = []
   let score = 0
   const seg = opportunity.segment
 
   if ((competitor.segments ?? []).includes(seg)) {
     score += 0.30
-    signals.push({
+    sigs.push({
       label: `${seg} is a stated competitor segment`,
       detail: `Competes in: ${(competitor.segments ?? []).join(', ')}`,
       contribution: 0.30,
@@ -225,7 +299,7 @@ function computeSegmentFit(competitor, opportunity) {
     const contribution = Math.min(0.40, segPct * 0.8)
     if (segPct > 0.05) {
       score += contribution
-      signals.push({
+      sigs.push({
         label: `${seg} = ${(segPct * 100).toFixed(0)}% of historical wins`,
         detail: `${segWins.length} of ${allWins.length} tracked contracts`,
         contribution: +contribution.toFixed(2),
@@ -240,7 +314,7 @@ function computeSegmentFit(competitor, opportunity) {
   if (segPatents.length) {
     const contribution = Math.min(0.20, segPatents.length * 0.05)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${segPatents.length} patent filings in ${seg} in last 24 months`,
       detail: segPatents.slice(0, 2).map(p => p.title).join('; '),
       contribution: +contribution.toFixed(2),
@@ -254,7 +328,7 @@ function computeSegmentFit(competitor, opportunity) {
   if (segJobs.length >= 2) {
     const contribution = Math.min(0.15, segJobs.length * 0.03)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${segJobs.length} ${seg}-focused job postings in last 6 months`,
       detail: segJobs.slice(0, 2).map(j => j.title).join('; '),
       contribution: +contribution.toFixed(2),
@@ -262,12 +336,28 @@ function computeSegmentFit(competitor, opportunity) {
     })
   }
 
-  return { score: Math.min(1, score), signals }
+  // ── SIGNALS: accumulated segment-tagged activity — catches segment focus
+  //    that today's snapshot alone wouldn't show enough volume to register.
+  const compSignals = signalsFor(signals, competitor.name)
+  const segSignals = compSignals.filter(s => s.segment === seg)
+  if (segSignals.length >= 5) {
+    const weighted = segSignals.reduce((sum, s) => sum + signalDecay(daysAgo(s.timestamp)), 0)
+    const contribution = Math.min(0.15, weighted * 0.012)
+    score += contribution
+    sigs.push({
+      label: `${segSignals.length} accumulated ${seg} signals over time`,
+      detail: `Sustained segment focus visible across signal history`,
+      contribution: +contribution.toFixed(2),
+      source: 'Accumulated signal history',
+    })
+  }
+
+  return { score: Math.min(1, score), signals: sigs }
 }
 
 // ── SUB-SCORE 4: STRATEGIC MOMENTUM ───────────────────────────────────────────
-function computeStrategicMomentum(competitor, opportunity) {
-  const signals = []
+function computeStrategicMomentum(competitor, opportunity, signals) {
+  const sigs = []
   let score = 0
   const seg = opportunity.segment
 
@@ -277,7 +367,7 @@ function computeStrategicMomentum(competitor, opportunity) {
   if (segMentions.length) {
     const contribution = Math.min(0.35, segMentions.length * 0.10)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `Mentioned ${seg} on ${segMentions.length} earnings call${segMentions.length > 1 ? 's' : ''}`,
       detail: segMentions.slice(0, 2).map(m => `${m.quarter}: "${m.snippet}"`).join('; '),
       contribution: +contribution.toFixed(2),
@@ -294,7 +384,7 @@ function computeStrategicMomentum(competitor, opportunity) {
   if (recentExecMoves.length) {
     const contribution = Math.min(0.25, recentExecMoves.length * 0.10)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${recentExecMoves.length} relevant executive hire${recentExecMoves.length > 1 ? 's' : ''} in last 9 months`,
       detail: recentExecMoves.slice(0, 2).map(m => `${m.name} — ${m.title}`).join('; '),
       contribution: +contribution.toFixed(2),
@@ -308,7 +398,7 @@ function computeStrategicMomentum(competitor, opportunity) {
   if (segLobbying.length) {
     const contribution = Math.min(0.20, segLobbying.length * 0.08)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${segLobbying.length} lobbying disclosures touching ${seg}`,
       detail: segLobbying[0]?.bills?.slice(0, 2).join('; '),
       contribution: +contribution.toFixed(2),
@@ -322,7 +412,7 @@ function computeStrategicMomentum(competitor, opportunity) {
   if (targetConferences.length) {
     const contribution = Math.min(0.20, targetConferences.length * 0.07)
     score += contribution
-    signals.push({
+    sigs.push({
       label: `${targetConferences.length} conference appearance${targetConferences.length > 1 ? 's' : ''} in target region`,
       detail: targetConferences.slice(0, 2).map(c => c.event).join('; '),
       contribution: +contribution.toFixed(2),
@@ -330,7 +420,24 @@ function computeStrategicMomentum(competitor, opportunity) {
     })
   }
 
-  return { score: Math.min(1, score), signals }
+  // ── SIGNALS: recent news volume mentioning this competitor — a rough
+  //    proxy for "how active/visible are they right now" that the daily
+  //    snapshot (usually 1-4 news articles) can't capture well on its own.
+  const compSignals = signalsFor(signals, competitor.name)
+  const recentNews = compSignals.filter(s => s.type === 'news' && daysAgo(s.timestamp) <= 90)
+  if (recentNews.length >= 3) {
+    const weighted = recentNews.reduce((sum, s) => sum + signalDecay(daysAgo(s.timestamp)), 0)
+    const contribution = Math.min(0.15, weighted * 0.03)
+    score += contribution
+    sigs.push({
+      label: `${recentNews.length} news mentions in last 90 days`,
+      detail: `Elevated media/market visibility relative to baseline`,
+      contribution: +contribution.toFixed(2),
+      source: 'Accumulated signal history',
+    })
+  }
+
+  return { score: Math.min(1, score), signals: sigs }
 }
 
 // ── HISTORICAL WIN RATE ───────────────────────────────────────────────────────
@@ -351,11 +458,17 @@ function computeHistoricalWinRate(competitor, opportunity) {
 }
 
 // ── MAIN ENTRY POINT ──────────────────────────────────────────────────────────
-export function scoreCompetitorOpportunity(competitor, opportunity) {
-  const behavioral = computeBehavioralFit(competitor, opportunity)
-  const geographic = computeGeographicFit(competitor, opportunity)
-  const segment    = computeSegmentFit(competitor, opportunity)
-  const strategic  = computeStrategicMomentum(competitor, opportunity)
+/**
+ * @param {Object} competitor
+ * @param {Object} opportunity
+ * @param {Array}  signals  — optional, accumulated signals.json array.
+ *                            If omitted, behaves exactly as before (snapshot-only).
+ */
+export function scoreCompetitorOpportunity(competitor, opportunity, signals = []) {
+  const behavioral = computeBehavioralFit(competitor, opportunity, signals)
+  const geographic = computeGeographicFit(competitor, opportunity, signals)
+  const segment    = computeSegmentFit(competitor, opportunity, signals)
+  const strategic  = computeStrategicMomentum(competitor, opportunity, signals)
 
   const pursuitLikelihood =
       WEIGHTS.behavioral * behavioral.score
@@ -372,6 +485,12 @@ export function scoreCompetitorOpportunity(competitor, opportunity) {
     behavioral.signals.length + geographic.signals.length +
     segment.signals.length + strategic.signals.length
   const confidence = Math.min(1, totalSignals / 8)
+
+  // How many of the signal entries actually came from accumulated history
+  // vs. today's snapshot — surfaced so the UI/audit trail can show it.
+  const signalDrivenCount = [
+    ...behavioral.signals, ...geographic.signals, ...segment.signals, ...strategic.signals,
+  ].filter(s => s.source === 'Accumulated signal history').length
 
   const trace = {
     inputs: {
@@ -393,6 +512,8 @@ export function scoreCompetitorOpportunity(competitor, opportunity) {
     pursuitFormula: `${WEIGHTS.behavioral.toFixed(2)}×${behavioral.score.toFixed(2)} + ${WEIGHTS.geographic.toFixed(2)}×${geographic.score.toFixed(2)} + ${WEIGHTS.segment.toFixed(2)}×${segment.score.toFixed(2)} + ${WEIGHTS.strategic.toFixed(2)}×${strategic.score.toFixed(2)} = ${pursuitLikelihood.toFixed(3)}`,
     winFormula:     `pursuit(${pursuitLikelihood.toFixed(3)}) × winRate(${histWinRate.toFixed(2)}) × recency(${recencyMultiplier.toFixed(2)}) = ${winLikelihood.toFixed(3)}`,
     winRateSource:  getRealWinRate(RFP_STATS, competitor.name, opportunity.segment) !== null ? 'real RFP outcomes' : 'estimated from federal contracts',
+    signalsUsed:    signals?.length ?? 0,
+    signalDrivenContributions: signalDrivenCount,
   }
 
   return {
@@ -418,13 +539,20 @@ export function scoreCompetitorOpportunity(competitor, opportunity) {
 }
 
 // ── RANK ALL COMPETITORS AGAINST ONE OPPORTUNITY ──────────────────────────────
-export function rankCompetitorsForOpportunity(competitors, opportunity) {
+/**
+ * @param {Array} competitors
+ * @param {Object} opportunity
+ * @param {Array} signals — optional, same as scoreCompetitorOpportunity
+ */
+export function rankCompetitorsForOpportunity(competitors, opportunity, signals = []) {
   return competitors
-    .map(c => scoreCompetitorOpportunity(c, opportunity))
+    .map(c => scoreCompetitorOpportunity(c, opportunity, signals))
     .sort((a, b) => b.winLikelihood - a.winLikelihood)
 }
 
-// ── PREDICT NEXT MOVE ─────────────────────────────────────────────────────────
+// ── PREDICT NEXT MOVE (legacy — superseded by signalsForecast.js) ────────────
+// Kept for backward compatibility only. Strategic Forecast now uses
+// forecastFromSignals() in signalsForecast.js instead of this function.
 export function predictNextMove(competitor) {
   const moves    = []
   const segments = ['Municipal', 'University', 'Schools', 'Healthcare']
