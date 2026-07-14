@@ -163,14 +163,19 @@ def load_financial_data():
 def compute_trend(values):
     """Given a list of yearly values (oldest to newest), return a 0-100
     trend score. 50 = flat. Higher = growing. Lower = shrinking.
-    Requires a minimum baseline value to avoid tiny districts (e.g. small
-    charter schools) producing misleading extreme swings off near-zero bases."""
+
+    Requires a $250K minimum baseline — well above small-district noise
+    range. Uses a wider ±100% scaling range (a full doubling/halving to
+    saturate at 100/0) rather than ±50%, since large districts rarely see
+    swings that big and small districts commonly do from single one-time
+    expenditures — the old tighter range let small districts dominate
+    rankings purely from noise."""
     values = [v for v in values if v is not None]
-    if len(values) < 2 or values[0] < 50000:  # ignore baselines under $50K — too noisy
+    if len(values) < 2 or values[0] < 250000:
         return None
     pct_change = (values[-1] - values[0]) / values[0]
-    # Map -50%..+50% change to 0..100, clamped
-    score = 50 + (pct_change * 100)
+    # Map -100%..+100% change to 0..100 (needs a full doubling to saturate)
+    score = 50 + (pct_change * 50)
     return max(0, min(100, round(score)))
 
 
@@ -233,12 +238,14 @@ def load_enrollment_data():
 
 def compute_enrollment_trend(values):
     """Same idea as compute_trend() but with an enrollment-appropriate
-    minimum baseline (100 students) instead of a dollar amount."""
+    minimum baseline (1,000 students — filters out tiny/rural districts
+    where a handful of students moving away or transferring in produces a
+    huge percentage swing) and the same wider ±100% saturation range."""
     values = [v for v in values if v is not None]
-    if len(values) < 2 or values[0] < 100:
+    if len(values) < 2 or values[0] < 1000:
         return None
     pct_change = (values[-1] - values[0]) / values[0]
-    score = 50 + (pct_change * 100)
+    score = 50 + (pct_change * 50)
     return max(0, min(100, round(score)))
 
 
@@ -486,10 +493,22 @@ def build_district_intelligence():
         }
 
         available = [v for v in sub_scores.values() if v is not None]
-        # Require at least 2 real sub-scores before computing an overall
-        # opportunity score — a single noisy trend from one small district
-        # shouldn't be able to claim a top-5 spot on its own.
-        opportunity_score = round(sum(available) / len(available)) if len(available) >= 2 else None
+
+        # Require at least 3 real sub-scores (now that 4 sources are
+        # flowing) AND a minimum district size before computing an overall
+        # opportunity score. This keeps tiny districts — which are more
+        # prone to noisy single-source swings — out of the ranked list,
+        # even if one or two of their individual sub-scores happen to be
+        # real. Districts below this bar still appear in the full JSON with
+        # whatever sub-scores they have; they just don't get an overall
+        # opportunity_score or compete for a top-N rank.
+        latest_enrollment = enr.get('latest_enrollment') or 0
+        meets_size_floor = latest_enrollment >= 1000
+        opportunity_score = (
+            round(sum(available) / len(available))
+            if len(available) >= 3 and meets_size_floor
+            else None
+        )
 
         districts.append({
             'district_key':          key,
