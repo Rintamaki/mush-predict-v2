@@ -19,10 +19,15 @@ once a year, the workflow is:
   4. Run this script (manually or via the scheduled workflow) — it reads
      the local file and regenerates tx_district_finance.json
 
-FUNCTION CODES that matter for McKinstry work:
-  51 = Plant Maintenance & Operations (HVAC, custodial, utilities)
-  52 = Security & Monitoring Services
-  81 = Facilities Acquisition & Construction (capital projects, bonds)
+FUNCTION CODES / COLUMNS that matter for McKinstry work (matched directly
+by column name in TEA's summarized DATAMART file):
+  ALL FUNDS-PLANT MAINTENANCE/OPERA EXPEND, FCT51   = Plant M&O (HVAC, custodial, utilities)
+  ALL FUNDS-SECURITY/MONITORING SERVICE EXPEND, FCT52 = Security & Monitoring
+  ALL FUNDS-CAPITAL PROJECTS(OBJECT 6600) FOR TD    = Capital/bond-funded construction
+    (closest proxy available — TEA's summarized file doesn't break out
+    Function 81 "Facilities Acquisition & Construction" as its own column,
+    so we use Capital Projects fund spending instead, which captures the
+    same bond-funded construction activity)
 """
 
 import io
@@ -41,12 +46,6 @@ logging.basicConfig(
 log = logging.getLogger('tea')
 
 # ── Config ──────────────────────────────────────────────────────────────────
-FACILITY_FUNCTIONS = {
-    '51': 'plant_maintenance',
-    '52': 'security_monitoring',
-    '81': 'facilities_construction',
-}
-
 YEARS_TO_KEEP = 3
 
 SCRIPT_DIR   = Path(__file__).parent
@@ -103,26 +102,30 @@ def parse_tea_xlsx(data: bytes):
                     return i
         return None
 
-    col_dist_id   = find_col(['district id', 'district-id', 'district number', 'cdn', 'district'])
-    col_dist_name = find_col(['district name', 'district-name', 'name'])
-    col_year      = find_col(['school year', 'year', 'fiscal'])
+    col_dist_id   = find_col(['district number', 'district id'])
+    col_dist_name = find_col(['district name'])
+    col_year      = find_col(['year'])
+
+    # These are exact column matches based on the confirmed TEA DATAMART layout.
+    # Using "ALL FUNDS" versions (not "GEN FUNDS") since All Funds includes
+    # state/federal revenue sources in addition to local — a fuller picture
+    # of actual facility spending.
+    col_plant_maint = find_col(['all funds-plant maintenance'])
+    col_security    = find_col(['all funds-security/monitoring'])
+    col_capital     = find_col(['all funds-capital projects(object 6600)'])
 
     log.info(
-        f'Basic column mapping: '
-        f'dist_id={col_dist_id}({header[col_dist_id] if col_dist_id is not None else "?"}), '
-        f'dist_name={col_dist_name}({header[col_dist_name] if col_dist_name is not None else "?"}), '
-        f'year={col_year}({header[col_year] if col_year is not None else "?"})'
+        f'Column mapping: '
+        f'dist_id={col_dist_id}, dist_name={col_dist_name}, year={col_year}, '
+        f'plant_maint={col_plant_maint}({header[col_plant_maint] if col_plant_maint is not None else "?"}), '
+        f'security={col_security}({header[col_security] if col_security is not None else "?"}), '
+        f'capital={col_capital}({header[col_capital] if col_capital is not None else "?"})'
     )
 
-    log.info('DIAGNOSTIC MODE: searching for facility-related column names…')
-    facility_keywords = ['plant', 'maint', 'security', 'facilit', 'construct', 'function 51', 'function 52', 'function 81', 'func-51', 'func-52', 'func-81', '-51-', '-52-', '-81-']
-    for i, h in enumerate(header):
-        h_low = h.lower()
-        if any(kw in h_low for kw in facility_keywords):
-            log.info(f'  CANDIDATE [{i:3d}] {h}')
-
-    log.info('Stopping here so we can identify the correct columns from the log above.')
-    return None
+    if None in (col_dist_id, col_dist_name, col_year, col_plant_maint, col_security, col_capital):
+        log.error('Could not locate all required columns')
+        log.error(f'Available columns: {header}')
+        return None
 
     districts = defaultdict(lambda: {'name': '', 'years': defaultdict(lambda: defaultdict(float))})
     row_count = 0
@@ -130,27 +133,25 @@ def parse_tea_xlsx(data: bytes):
 
     for row in ws.iter_rows(min_row=2, values_only=True):
         row_count += 1
-        if row_count % 100000 == 0:
-            log.info(f'  Processed {row_count:,} rows ({matched_rows:,} facility-relevant)…')
 
         try:
             dist_id_raw = row[col_dist_id]
             dist_name   = str(row[col_dist_name]).strip() if row[col_dist_name] else ''
             year_raw    = row[col_year]
-            func_raw    = row[col_function]
-            amount_raw  = row[col_amount]
 
-            if dist_id_raw is None or year_raw is None or func_raw is None or amount_raw is None:
+            if dist_id_raw is None or year_raw is None:
                 continue
 
             dist_id  = str(dist_id_raw).strip()
             year     = str(year_raw).strip()
-            function = str(func_raw).strip().zfill(2)
-            amount   = float(amount_raw)
+
+            plant_amt    = float(row[col_plant_maint]) if row[col_plant_maint] else 0.0
+            security_amt = float(row[col_security]) if row[col_security] else 0.0
+            capital_amt  = float(row[col_capital]) if row[col_capital] else 0.0
         except (ValueError, TypeError, IndexError):
             continue
 
-        if not dist_id or not year or function not in FACILITY_FUNCTIONS:
+        if not dist_id or not year:
             continue
 
         matched_rows += 1
@@ -159,9 +160,11 @@ def parse_tea_xlsx(data: bytes):
         d = districts[dist_id]
         if not d['name'] and dist_name:
             d['name'] = dist_name
-        d['years'][year_clean][FACILITY_FUNCTIONS[function]] += amount
+        d['years'][year_clean]['plant_maintenance']       += plant_amt
+        d['years'][year_clean]['security_monitoring']      += security_amt
+        d['years'][year_clean]['facilities_construction']  += capital_amt
 
-    log.info(f'Parsed {row_count:,} rows, {matched_rows:,} were facility-relevant')
+    log.info(f'Parsed {row_count:,} rows, {matched_rows:,} had valid district/year data')
     log.info(f'Aggregated into {len(districts)} unique districts')
     return dict(districts)
 
@@ -224,9 +227,13 @@ def build_output(districts_data):
         'source_url':     'https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/peims-financial-data-downloads',
         'years_included': sorted_years,
         'notes': (
-            'Annual actual expenditures per Texas ISD. Data is 1-2 years behind current. '
-            'Function 51 = Plant M&O. Function 52 = Security. Function 81 = Facilities Construction. '
-            'Source file is manually downloaded and committed to the repo (TEA blocks automated fetches).'
+            'Annual actual expenditures per Texas ISD, from TEA\'s summarized PEIMS DATAMART. '
+            'Data is 1-2 years behind current. "Plant Maintenance" = Function 51 (HVAC, custodial, '
+            'utilities, ALL FUNDS). "Security" = Function 52 (ALL FUNDS). "Facilities Construction" = '
+            'Capital Projects fund spending (Object 6600, ALL FUNDS) — this is the closest available '
+            'proxy for bond-funded construction; TEA\'s summarized file does not break out Function 81 '
+            'as a discrete column. Source file is manually downloaded and committed to the repo '
+            '(TEA blocks automated fetches from cloud/datacenter IPs).'
         ),
         'district_count': len(records),
         'districts':      records,
