@@ -45,19 +45,19 @@ export default function App() {
   }, [])
 
   function handleScore(opportunity) {
-    const ranked = rankCompetitorsForOpportunity(competitors, opportunity)
-    setPredictions(ranked)
-    setScoredOpp(opportunity)
-    recordPredictionBatch(opportunity, ranked)
-  }
+  const ranked = rankCompetitorsForOpportunity(competitors, opportunity, signals)
+  setPredictions(ranked)
+  setScoredOpp(opportunity)
+  recordPredictionBatch(opportunity, ranked)
+}
 
   function handleTunerChange() {
-    if (scoredOpp) {
-      const ranked = rankCompetitorsForOpportunity(competitors, scoredOpp)
-      setPredictions(ranked)
-    }
-    setRecomputeKey(k => k + 1)
+  if (scoredOpp) {
+    const ranked = rankCompetitorsForOpportunity(competitors, scoredOpp, signals)
+    setPredictions(ranked)
   }
+  setRecomputeKey(k => k + 1)
+}
 
   return (
     <div className="dark min-h-screen bg-mk-blue text-white">
