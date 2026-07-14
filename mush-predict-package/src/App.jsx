@@ -9,9 +9,9 @@ import SignalStream         from './components/SignalStream'
 import RFPDatabase          from './components/RFPDatabase'
 import DistrictContextPanel from './components/DistrictContextPanel'
 import WeightTuner          from './components/WeightTuner'
-import DistrictSpending from './components/DistrictSpending'
+import DistrictSpending     from './components/DistrictSpending'
 import PreCallBrief         from './components/PreCallBrief'
-import AgendaCapture from './components/AgendaCapture'
+import AgendaCapture        from './components/AgendaCapture'
 import CalibrationDashboard from './components/CalibrationDashboard'
 import { useCompetitorData } from './hooks/useCompetitorData'
 import {
@@ -26,6 +26,7 @@ export default function App() {
   const [activeTab, setActiveTab]     = useState('predict')
   const [predictions, setPredictions] = useState(null)
   const [scoredOpp, setScoredOpp]     = useState(null)
+  const [rfpRecords, setRfpRecords]   = useState([])
   const [districtIntelligence, setDistrictIntelligence] = useState([])
   const [tunerOpen, setTunerOpen]     = useState(false)
   const [recomputeKey, setRecomputeKey] = useState(0)
@@ -43,26 +44,28 @@ export default function App() {
       })
       .catch(() => loadRFPStats([]))
   }, [])
-useEffect(() => {
+
+  useEffect(() => {
     fetch('./data/district_intelligence.json?t=' + Date.now())
       .then(r => r.ok ? r.json() : { districts: [] })
       .then(data => setDistrictIntelligence(data.districts || []))
       .catch(() => setDistrictIntelligence([]))
   }, [])
+
   function handleScore(opportunity) {
-  const ranked = rankCompetitorsForOpportunity(competitors, opportunity, signals)
-  setPredictions(ranked)
-  setScoredOpp(opportunity)
-  recordPredictionBatch(opportunity, ranked)
-}
+    const ranked = rankCompetitorsForOpportunity(competitors, opportunity, signals)
+    setPredictions(ranked)
+    setScoredOpp(opportunity)
+    recordPredictionBatch(opportunity, ranked)
+  }
 
   function handleTunerChange() {
-  if (scoredOpp) {
-    const ranked = rankCompetitorsForOpportunity(competitors, scoredOpp, signals)
-    setPredictions(ranked)
+    if (scoredOpp) {
+      const ranked = rankCompetitorsForOpportunity(competitors, scoredOpp, signals)
+      setPredictions(ranked)
+    }
+    setRecomputeKey(k => k + 1)
   }
-  setRecomputeKey(k => k + 1)
-}
 
   return (
     <div className="dark min-h-screen bg-mk-blue text-white">
@@ -161,20 +164,22 @@ useEffect(() => {
 
             {/* ── PRE-CALL BRIEF ── */}
             {activeTab === 'brief' && (
-  <PreCallBrief
-    competitors={competitors}
-    signals={signals}
-    rfpRecords={rfpRecords}
-    bondOpportunities={bondOpportunities}
-    districtIntelligence={districtIntelligence}
-  />
-)}
+              <PreCallBrief
+                competitors={competitors}
+                signals={signals}
+                rfpRecords={rfpRecords}
+                bondOpportunities={bondOpportunities}
+                districtIntelligence={districtIntelligence}
+              />
+            )}
+
+            {/* ── AGENDA CAPTURE ── */}
+            {activeTab === 'agenda' && <AgendaCapture />}
+
+            {/* ── TEXAS ISDs ── */}
+            {activeTab === 'districts' && <DistrictSpending />}
           </>
         )}
-        {/* ── AGENDA CAPTURE ── */}
-{activeTab === 'agenda' && <AgendaCapture />}
-        {/* ── TEXAS ISDs ── */}
-{activeTab === 'districts' && <DistrictSpending />}
       </main>
 
       <footer className="border-t border-white/5 mt-12 py-6 text-center">
