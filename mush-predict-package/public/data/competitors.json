@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,122 +95,164 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Fire Alarm Installer",
+          "title": "Construction Project Manager",
+          "state": "GA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Manufacturing Technician",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Controls Systems Associate Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "HVAC Data Center Journeymen Mechanic (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "HVAC System Engineering Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "HVAC Truck Based Sr. Controls Service Technician",
           "state": "NC",
           "segment": "Schools",
           "tags": [
@@ -218,49 +260,17 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Equipment Service Technical Tradesman (Union)",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Sales Operations Generalist",
-          "state": "",
+          "title": "Security Systems Technician",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Security Technician - Electronic Security Systems- Ft. Sam Houston, TX - (Job ID: 1638)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "HVAC Mechanical Service Technical Tradesman (Union)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Security Installer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "HVAC Controls Project Manager",
+          "title": "Fire Alarm Supervisor",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -268,35 +278,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Controls Systems Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "MGM Metro General Manager-D.C.",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Support Coordinator",
+          "title": "Security Sales Account Manager, Advanced Integration",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -304,10 +289,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Life Safety Service Sales Rep-Fire Sprinkler",
+          "title": "HVAC Truck Based Chiller Mechanic (union) LAREDO, TX",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -315,108 +300,68 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Journeyman Mechanic (Union) - Job Number:",
+          "title": "Construction Quality Control Manager",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Truck Based Senior Control Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Fire Alarm Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "HVAC Service Apprentice Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Machine Operator, 3rd shift",
-          "state": "PA",
+          "title": "Construction Project Manager",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Truck Based Senior Controls Technician",
-          "state": "FL",
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Class III FAB Set-Up - 1st Shift",
-          "state": "",
+          "title": "Security Systems Associate Technician",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Advanced Security Project Manager",
+          "state": "NJ",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Controls Service Technician",
+          "title": "HVAC Controls Service Technician Team Lead",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Truck Based Technician Team Lead Mechanic (union)",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Controls Systems Engineer III",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Controls Lead Systems Specialist",
-          "state": "",
+          "title": "Product Project Management",
+          "state": "AZ",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         }
       ],
       "patents": [],
@@ -528,159 +473,129 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Controls Technician - Summer Intern",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "HVAC Field Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Sr Construction Project Manager-Life Science Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Preconstruction Estimator (Construction/HVAC)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Is Trane Technologies plc (TT) among the Best Electrical Contracting Stocks to Buy for Data Hall Fit-outs? - Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDJJSU1tYXliTVZyOUhBZ05GNzd5Vkc1bXlUeHU1Q0dZQkFfQnRtQTdQc1lWcFBTSjhMbmtvZ3lYY1ZqMjh3MFZJNnE3NWQ0NFEyUThzTzJVTEtuV3UySHdFNXBHb2JKUTh4U2UzZ1RNN2p0UEk0WjdwdTk3ZG83VTdUaUtyMlU2WVFnREVXM05JdGlOZmhTd3d1R0E?oc=5\" target=\"_blank\">Is Trane Technol",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDJJSU1tYXliTVZyOUhBZ05GNzd5Vkc1bXlUeHU1Q0dZQkFfQnRtQTdQc1lWcFBTSjhMbmtvZ3lYY1ZqMjh3MFZJNnE3NWQ0NFEyUThzTzJVTEtuV3UySHdFNXBHb2JKUTh4U2UzZ1RNN2p0UEk0WjdwdTk3ZG83VTdUaUtyMlU2WVFnREVXM05JdGlOZmhTd3d1R0E?oc=5",
+          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
+        },
         {
           "source": "google_news",
           "title": "Is Tetra Tech's Latest Hydropower Win a Game-Changer for TTEK Stock - Kavout | AI",
@@ -739,120 +654,152 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Senior Proposal Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Electrician \u2013 Norfolk Naval Base",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
         {
           "title": "Solar Electrician",
           "state": "",
@@ -965,7 +912,7 @@
         },
         {
           "title": "Senior Construction Project Manager",
-          "state": "FL",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -1002,15 +949,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Operations Maintenance Technician",
-          "state": "IL",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-05"
         },
         {
           "title": "Plant Specialist",
@@ -1154,28 +1092,6 @@
             "University"
           ],
           "postedDate": "2026-06-22"
-        },
-        {
-          "title": "Senior Proposal Coordinator",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-20"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-20"
         }
       ],
       "patents": [],
@@ -1190,13 +1106,6 @@
         },
         {
           "source": "google_news",
-          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
-          "published": "Wed, 08 Jul 2026 12:05:00 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia - CleanTechnica",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5\" target=\"_blank\">A",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5",
@@ -1204,10 +1113,24 @@
         },
         {
           "source": "google_news",
+          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
+          "published": "Wed, 08 Jul 2026 12:05:00 GMT"
+        },
+        {
+          "source": "google_news",
           "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia\u2019s Campuses, Reducing Grid Dependency - energytech.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2h4bGlhZWJOQ0ZvczNyT0txR1Atd0JzNEFDS1RpeU1QeGFSR2trdUpoQ1AyWmNjZ3JZN1RhelFvb2c?oc=5",
           "published": "Tue, 14 Jul 2026 17:55:46 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Energy savings performance contracts offer a path to building upgrades when city budgets are tight - Smart Cities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5\" target=\"_blank\">Energy savi",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5",
+          "published": "Tue, 16 Jun 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1268,212 +1191,195 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior Director, Chief Architect Power & Grid",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Senior Director, Chief Architect Power & Grid",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Distribution Operations Control Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Senior Director, Chief Architect Power & Grid",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Senior Director, Chief Architect Power & Grid",
+          "title": "Software Solution Architect",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-14"
+          "postedDate": "2026-07-15"
         },
         {
-          "title": "Education Specialist",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-14"
+          "title": "Software Solution Architect",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
         },
         {
-          "title": "Systems Application Engineer I",
+          "title": "Industrial Territory Sales Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Software Solution Architect",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Supply Chain Manager",
           "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-14"
+          "postedDate": "2026-07-15"
         },
         {
-          "title": "Field Service Representative - Nashville",
+          "title": "Assembly Technician - 2nd Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-14"
+          "postedDate": "2026-07-15"
         },
         {
-          "title": "Expert, Functional Lead- SAP SD-ETO",
+          "title": "Category Buyer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "BMS Hardware Design Engineer II",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Plant Finance Controller",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Project Engineer I",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Senior Project Manager - Data Center",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Senior Director, Chief Architect Power & Grid",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Tech Partner",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Fabrication Manufacturing Supervisor",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Strategic Account Sales Executive - Digital Power",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-14"
+          "postedDate": "2026-07-15"
         }
       ],
       "patents": [],
@@ -1641,128 +1547,127 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Metrology Technician",
+          "title": "Biochemist 1",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         }
       ],
       "patents": [],
@@ -1770,24 +1675,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Vacancy Sensors Market Forecast Points Higher Toward 2035, Driven by Stringent Energy Codes and Smart Building Retrofits - IndexBox",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWk2LTFudWpWeWdiTlJQUWQyVVpqaW5saEFvMFZPYUFpTEhMSllSUTQyMFhWVk5nYVJCWFlZbWk4MEprNXhTNUJnUHU2UkFkR0l4QkpWOGw5ZXdhbVM3b1REWmRpZG04ME9xc2k0dnBjcTFBMTFsUmJlUmFFdXlWZ0dvRUo1b1NtODdvaTVvVHRIOUVvazREZnE3NFhfWEJKMWlCM0hmc05Wb2NaNkZoTUgxMjM2b2xhcm",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWk2LTFudWpWeWdiTlJQUWQyVVpqaW5saEFvMFZPYUFpTEhMSllSUTQyMFhWVk5nYVJCWFlZbWk4MEprNXhTNUJnUHU2UkFkR0l4QkpWOGw5ZXdhbVM3b1REWmRpZG04ME9xc2k0dnBjcTFBMTFsUmJlUmFFdXlWZ0dvRUo1b1NtODdvaTVvVHRIOUVvazREZnE3NFhfWEJKMWlCM0hmc05Wb2NaNkZoTUgxMjM2b2xhcmxsYmhUVGwwdUhnZG9sS2F6QXVmckY1QmQ2REhGeXhmRDBNUEtiNlFpSQ?oc=5",
-          "published": "Wed, 15 Jul 2026 06:06:13 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
           "published": "Tue, 09 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Tracer Ensemble from Trane Technologies - HVAC oversight moves to the browser - Ad-hoc-news.de",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MD",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnVoaGp1LVBhSjhkVC1GemxpaWtTRWdSRHkxNlhGalFQMDh6RWRVRk11d2RuQ1BkMV9NbU55QlV3Q1U0c1N4aE5JVnlZbm9zYUtlemp2cFlvZnlGSDRHM3g4Tl8xdjh0cUVtbmdLWXNZX2hrNUJhNElKWm5YNGlNQnVLc2pRVU1iS2NuVUJuWmExdGpyZEw4bXQ4UHhvSUJYUkx4a3hlQUR5QTdLeWYtYzJNdVo3aE12MDBRc1cyd2YxS1Js?oc=5",
-          "published": "Tue, 30 Jun 2026 17:00:34 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1812,117 +1703,116 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
@@ -2137,132 +2027,136 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Sales Manager",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-15"
+          "title": "Payroll Administrator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Permit Technician",
-          "state": "CA",
+          "title": "Energy Engineer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Sales Manager",
+          "state": "NY",
           "segment": "Municipal",
           "tags": [
             "Municipal"
@@ -2316,15 +2210,6 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Building Inspector",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-06"
-        },
-        {
           "title": "Project Coordinator",
           "state": "NY",
           "segment": "Healthcare",
@@ -2344,13 +2229,6 @@
             "Municipal"
           ],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Director of Client Relations",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-02"
         },
         {
           "title": "Project Development Engineer I",
@@ -2385,17 +2263,6 @@
           "postedDate": "2026-06-27"
         },
         {
-          "title": "Sr. Business Development Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-06-25"
-        },
-        {
           "title": "Residential Building Inspector",
           "state": "AZ",
           "segment": "Municipal",
@@ -2411,13 +2278,6 @@
           "tags": [
             "Municipal"
           ],
-          "postedDate": "2026-06-14"
-        },
-        {
-          "title": "Energy Efficiency Program Support",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
           "postedDate": "2026-06-14"
         },
         {
@@ -2503,6 +2363,31 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-05"
+        },
+        {
+          "title": "Senior Accountant",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-05"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-05"
         }
       ],
       "patents": [],
@@ -2543,117 +2428,116 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -2714,7 +2598,7 @@
         },
         {
           "date": "2013-12-20",
-          "value": 17249441.24,
+          "value": 17751822.99,
           "state": "MD",
           "segment": "Healthcare",
           "agency": "Department of Health and Human Services",
@@ -2731,117 +2615,116 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -2934,330 +2817,339 @@
       ],
       "activeBids": [
         {
-          "title": "Software Aqua Badge Engineering Resources (SABER II) Bridge",
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "software",
-            "badge",
-            "engineering",
-            "resources",
-            "(saber"
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-31T17:00:00-06:00"
         },
         {
-          "title": "Carpet Replacement and Painting at American Diplomacy House",
-          "state": "KR-11",
-          "segment": "Other",
-          "keywords": [
-            "carpet",
-            "replacement",
-            "painting",
-            "american",
-            "diplomacy"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "KIT,CCA,CONROLLER",
+          "title": "61--CHARGER,BATTERY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "kit,cca,conroller"
+            "61--charger,battery"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-07-26"
         },
         {
-          "title": "48--VALVE, HULL/BACKUP",
+          "title": "49--STAND,MAINTENANCE,A",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,",
-            "hull/backup"
+            "49--stand,maintenance,a"
           ],
           "agency": "",
-          "deadline": "2026-08-14T23:00:00-04:00"
+          "deadline": "2026-07-27"
         },
         {
-          "title": "PISTON,ACTUATOR,VAL",
+          "title": "EB WELDER MAINTENANCE AND REPAIRS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "piston,actuator,val"
+            "welder",
+            "maintenance",
+            "repairs"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-30T10:00:00-06:00"
         },
         {
-          "title": "Medical Vacuum Pump Replacement",
+          "title": "X1DB--Defiance New/Replacing",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "x1db--defiance",
+            "new/replacing"
+          ],
+          "agency": "",
+          "deadline": "2026-08-14T13:00:00-04:00"
+        },
+        {
+          "title": "PWA, VIPER A",
           "state": "TX",
           "segment": "Other",
           "keywords": [
-            "medical",
-            "vacuum",
-            "replacement"
+            "viper"
           ],
           "agency": "",
-          "deadline": "2026-07-17T13:00:00-05:00"
+          "deadline": "2026-08-15T00:00:00-04:00"
         },
         {
-          "title": "43--HYDROCARBON ABSORPTTION UNIT",
+          "title": "47--TUBE,METALLIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--hydrocarbon",
-            "absorpttion"
+            "47--tube,metallic"
           ],
           "agency": "",
-          "deadline": null
+          "deadline": "2026-07-27"
         },
         {
-          "title": "DRIER,AIR-GAS,DESIC",
+          "title": "Non-Tactical Vehicles Lease",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "drier,air-gas,desic"
+            "non-tactical",
+            "vehicles",
+            "lease"
+          ],
+          "agency": "",
+          "deadline": "2026-07-24T17:00:00+01:00"
+        },
+        {
+          "title": "48--PARTS KIT,BALL VALV, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--parts",
+            "kit,ball",
+            "valv,",
+            "repair/modification"
           ],
           "agency": "",
           "deadline": "2026-08-14T16:30:00-04:00"
         },
         {
-          "title": "TIMING RELAY",
+          "title": "VCSB-4 PCB",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "timing",
-            "relay"
+            "vcsb-4"
           ],
           "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
-        },
-        {
-          "title": "DRAWER,ELECTRONICS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "drawer,electronics"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T16:30:00-04:00"
+          "deadline": "2026-07-16T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Service Technician III-V",
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Northstar Fire Protection of Texas, Inc.",
+          "title": "Aircond Corporation",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
           "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-15"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "B&B Electric Inc.",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
         },
         {
           "title": "S. A. Comunale Co., Inc.",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Aircond Corporation",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "MOR PPM, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "The Porter Company",
+          "state": "TX",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-16"
         },
         {
           "title": "Aircond Corporation",
           "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
+          "title": "Havel",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "S. A. Comunale Co., Inc.",
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "John W. Danforth Company",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "CCI Mechanical, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "USM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Aircond Corporation",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Aircond Corporation",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
           "title": "DeBra-Kuempel Inc.",
-          "state": "",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Welsbach Electric Corp. of L.I.",
-          "state": "NY",
+          "title": "John W. Danforth Company",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Morley-Moss Inc.",
-          "state": "TX",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Mechanical Engineer",
+          "title": "Mesa Energy Systems, Inc.",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Journeyman Electrician (Dallas, TX)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Energy & Special Projects Consultant",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Senior Mechanical Estimator",
+          "title": "Mesa Energy Systems, Inc.",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "HVAC Controls Technician",
-          "state": "FL",
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-15"
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
         }
       ],
       "patents": [],
@@ -3311,15 +3203,7 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Project Management I (Renewables Construction)",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-15"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -3351,22 +3235,7 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Automotive Technicians - Entry Level to Experienced",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-05-21"
-        },
-        {
-          "title": "ASE Master Automotive Technician \u2013 4 Day Work Week",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-05-14"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -3439,38 +3308,11 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Electrical Engineer",
-          "state": "",
+          "title": "Technology Designer",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Senior Project Engineer - Electrical",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Senior Project Engineer - Electrical",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-13"
+          "postedDate": "2026-07-15"
         },
         {
           "title": "Senior Mechanical Engineer",
@@ -3480,8 +3322,8 @@
           "postedDate": "2026-07-13"
         },
         {
-          "title": "Senior Electrical Engineer",
-          "state": "NJ",
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-12"
@@ -3537,13 +3379,6 @@
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Solar Energy Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
           "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "NC",
           "segment": "Other",
@@ -3579,7 +3414,7 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Senior Mechanical Engineer - Energy Solutions - CMTA",
+          "title": "Construction Manager - Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -3600,11 +3435,35 @@
           "postedDate": "2026-07-09"
         },
         {
+          "title": "Senior Solar Energy Engineer - Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-09"
+        },
+        {
           "title": "Electrical Engineer",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Proposal Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-08"
         }
       ],
       "patents": [],
@@ -3635,6 +3494,20 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Fabrication Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Superintendent Mechanical Sheetmetal",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-14"
+        },
         {
           "title": "Business Development Lead",
           "state": "",
@@ -3829,22 +3702,6 @@
         },
         {
           "title": "Service Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Logistics Manager",
-          "state": "TX",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Project Engineer I",
           "state": "TX",
           "segment": "Other",
           "tags": [],
