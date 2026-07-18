@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,154 +95,144 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior Account Executive - Sustainable Infrastructure",
+          "title": "Retail Security Systems Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Fire Service Technician",
+          "title": "HVAC Controls Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Advanced Security Project Manager",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Pharmaceutical Project Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Turck Based Service Tradesman (un)",
+          "title": "Senior Instructor - Chillers",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -250,106 +240,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Quality Control Specialist",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Controls Systems Technician",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Mechanic Serviceman (Union)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Advanced Security Program Specialist",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Fire Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Controls Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Sr Controls Service Tech",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Controls Project Manager 3",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Class III FAB Set-Up",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Sales Intern",
+          "title": "Wrapper (2nd Shift)",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -357,50 +251,25 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Materials Manager",
-          "state": "TX",
+          "title": "HVAC Truck Based Mechanic Service Team Leader (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Experienced Fire Sprinkler Inspector (union)",
+          "state": "NJ",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Buyer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Automation & Controls Specialist",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "HVAC Systems Engineering Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Controls Systems Technician",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         }
       ],
       "patents": [],
@@ -412,6 +281,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDZiZ3Q0Vkk1UlcydmFNMzNycHcwVjE3SXdZcm1rMGVRUlF2SVJMWTVaVHBuenpoUWtyWnBUTVpDWDZUbElnekdELVJBczF2LVpzeFZkYVd1MkF3M1ZTc0NlTUo1V1NoclRhRk9hS3pjSTRVMEpaaUVEeUp5a2RlQm04LUdpQXRURnF4QnNwNjhaTGxHbHAxVmpyc25uQ0daQ3NoWXYySTV3Y0h6eFR6N0tiZnlHc0dybz",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDZiZ3Q0Vkk1UlcydmFNMzNycHcwVjE3SXdZcm1rMGVRUlF2SVJMWTVaVHBuenpoUWtyWnBUTVpDWDZUbElnekdELVJBczF2LVpzeFZkYVd1MkF3M1ZTc0NlTUo1V1NoclRhRk9hS3pjSTRVMEpaaUVEeUp5a2RlQm04LUdpQXRURnF4QnNwNjhaTGxHbHAxVmpyc25uQ0daQ3NoWXYySTV3Y0h6eFR6N0tiZnlHc0dybzI3YTZST053S3NNQ2M5bENIdWQ?oc=5",
           "published": "Wed, 20 May 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "How OpenBlue turns sustainability into business value - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOH",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOHRLZGxNMVNPVkJaYmc?oc=5",
+          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -512,238 +388,190 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior Manager, Career and Performance Development",
+          "title": "Category Manager- Steel",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "NPD Material Planner",
+          "title": "Senior Category Manager- Drives",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Senior Project Administrator",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Material Planner",
+          "title": "Senior Project Administrator",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Maintenance Supervisor-2nd shift",
+          "title": "Service Account Manager",
           "state": "WI",
           "segment": "Other",
           "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Maintenance Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Category Manager - Fabricated Tubing",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-17"
         },
         {
-          "title": "Engineering Intern",
+          "title": "Sr. Constrcution Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-16"
+          "postedDate": "2026-07-17"
         },
         {
-          "title": "Welder III (TIG) 3rd Shift",
-          "state": "",
+          "title": "Purchasing Agent",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "HVAC Field Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "System Account Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Material Handler - Driver II - VDC - 2nd shift",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Material Planner",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "2026 Accelerated Development Program - Accounting & Finance",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Senior Manager, Career and Performance Development",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Material Planner",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Production Supervisor",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Mission Critical Customer Engineer",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Material Planner",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Service Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
+          "postedDate": "2026-07-17"
         }
       ],
       "patents": [],
@@ -807,120 +635,150 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Integration Technician",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-18"
+        },
         {
           "title": "Operations and Maintenance Technical Intern",
           "state": "TX",
@@ -1153,15 +1011,6 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Operations Maintenance Technician",
-          "state": "IL",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
           "title": "Plant Specialist",
           "state": "",
           "segment": "Schools",
@@ -1229,17 +1078,6 @@
         },
         {
           "title": "Solar Electrician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-06-27"
-        },
-        {
-          "title": "Small Business Liaison Officer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -1347,179 +1185,128 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Foxboro DCS -Training Instructor- Industrial Automation",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Software GTM Deployment Manager",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Sr. Tender Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Production Associate III",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Power Electronic Engineer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Warehouse Transformation Engineer",
-          "state": "OH",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Sr. Tender Manager",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Sr. Tender Manager",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1685,134 +1472,138 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Medical Imaging Field Engineer - Orange County, CA",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-17"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Hydronic Balancing Valves Market Forecast Points Higher Toward 2035, Driven by Global Energy Efficiency Mandates - IndexBox",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcHUyUmVkWjltU0xiZmJlMzhHbWVJczEwX1IwZ04tX29ERS1pczZFSGw5ZkNrMTVxa3UwbDFJdHZUTy1kLTBsRktLYnhMVGhDaDdHZWJ4N3Biem1tYXlGVDRJYjdlclo1QUFoR2FSZ2w0Q2ZMVnc5NS16OWRBWHd6VHNOeS1va3ZNWU1DNW1zaThFbVpCOFB5d05YNnJBdU5uTG1lcF95bzNlTXVNM0RHSFQ2M1NDQWt1T3",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcHUyUmVkWjltU0xiZmJlMzhHbWVJczEwX1IwZ04tX29ERS1pczZFSGw5ZkNrMTVxa3UwbDFJdHZUTy1kLTBsRktLYnhMVGhDaDdHZWJ4N3Biem1tYXlGVDRJYjdlclo1QUFoR2FSZ2w0Q2ZMVnc5NS16OWRBWHd6VHNOeS1va3ZNWU1DNW1zaThFbVpCOFB5d05YNnJBdU5uTG1lcF95bzNlTXVNM0RHSFQ2M1NDQWt1T3FZRWhGNVJrajhoU21zYUZpd0FNNG55VVRvZXNTNjc?oc=5",
+          "published": "Sat, 18 Jul 2026 01:36:12 GMT"
+        },
         {
           "source": "google_news",
           "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
@@ -1843,117 +1634,125 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [
@@ -2168,120 +1967,146 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Building Inspector / Plans Examiner",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Rental Housing Inspector",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-17"
+        },
         {
           "title": "NYC Accelerator Market Development Manager",
           "state": "NY",
@@ -2290,13 +2115,6 @@
             "Municipal"
           ],
           "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Payroll Administrator",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
         },
         {
           "title": "Energy Engineer",
@@ -2507,22 +2325,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-06"
-        },
-        {
-          "title": "Building Inspector",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-06"
-        },
-        {
-          "title": "Plans Examiner",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-06"
         }
       ],
       "patents": [],
@@ -2563,117 +2365,125 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -2751,117 +2561,125 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -2954,302 +2772,233 @@
       ],
       "activeBids": [
         {
-          "title": "19NL80-26-Q-0007 Request for Quotations MSG Cook Services- The Hague",
-          "state": "NL-ZH",
+          "title": "2027 GSA Fleet Vehicle Solutions Program (GFVSP)",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "19nl80-26-q-0007",
-            "request",
-            "quotations",
-            "services-",
-            "hague"
+            "fleet",
+            "vehicle",
+            "solutions",
+            "program",
+            "(gfvsp)"
           ],
           "agency": "",
-          "deadline": "2026-08-17T05:00:00+02:00"
+          "deadline": "2026-08-17T15:00:00-04:00"
         },
         {
-          "title": "61--CABLE ASSEMBLY,SPEC",
+          "title": "59--ANTENNA CONTROL ELE - AND OTHER REPLACEMENT PARTS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "61--cable",
-            "assembly,spec"
+            "59--antenna",
+            "control",
+            "other",
+            "replacement",
+            "parts"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "59--CIRCUIT BREAKER AY",
+          "title": "56--CLOTH, SALMON",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "59--circuit",
-            "breaker"
+            "56--cloth,",
+            "salmon"
           ],
           "agency": "",
-          "deadline": "2026-07-30T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "UNION ASSEMBLY",
+          "title": "6515--PROS-20260625-E6091-783200-NORTHSHORE PROSTHETICS  (VA-26-00078587)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "union",
+            "6515--pros-20260625-e6091-783200-northshore",
+            "prosthetics",
+            "(va-26-00078587)"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "H--YELL FIRE EXTING INSPECT/TEST, RECHARG, & REPLC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "h--yell",
+            "exting",
+            "inspect/test,",
+            "recharg,",
+            "replc"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T17:00:00-06:00"
+        },
+        {
+          "title": "Gantry Crane Lifting Services",
+          "state": "JP-14",
+          "segment": "Other",
+          "keywords": [
+            "gantry",
+            "crane",
+            "lifting",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-07-28T11:00:00+09:00"
+        },
+        {
+          "title": "48--VALVE,GLOBE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,globe"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "BALL, SCREW ASSEMBLY",
+          "state": "ME",
+          "segment": "Other",
+          "keywords": [
+            "ball,",
+            "screw",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-07-28T12:00:00-04:00"
         },
         {
-          "title": "42--PARTS KIT,REGULATOR BR",
+          "title": "81--SHIPPING AND STORAG",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "42--parts",
-            "kit,regulator"
+            "81--shipping",
+            "storag"
           ],
           "agency": "",
-          "deadline": "2026-07-23"
+          "deadline": "2026-09-02T00:00:00-04:00"
         },
         {
-          "title": "SHAFT, SHOULDERED",
+          "title": "81--CONTAINER,SHIPPING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "shaft,",
-            "shouldered"
+            "81--container,shipping"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "SCREW CAP DR HD",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "screw"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
-        },
-        {
-          "title": "Aircraft Hangar Fall Arrest System Maintenance, Certification & Repair Services on Andersen AFB, Guam",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "aircraft",
-            "hangar",
-            "arrest",
-            "system",
-            "maintenance,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T12:00:00+10:00"
-        },
-        {
-          "title": "MONITOR,LCD AB DK,A",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "monitor,lcd"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "BALL,VALVE,PORTED",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "ball,valve,ported"
-          ],
-          "agency": "",
-          "deadline": "2026-08-06T16:30:00-04:00"
+          "deadline": "2026-09-02T00:00:00-04:00"
         }
       ],
       "jobPostings": [
-        {
-          "title": "Northstar Fire Protection of Texas, Inc.",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Havel",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Rabalais Constructors, LLC",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "New England Mechanical Services, Inc.",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-17"
-        },
         {
           "title": "Gowan/Garrett, Inc.",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "DeBra-Kuempel Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Havel",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
           "title": "S. A. Comunale Co., Inc.",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
+          "title": "EMCOR Services Team Mechanical, Inc.",
+          "state": "IL",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
           "title": "EMCOR Facilities Services, Inc.",
-          "state": "MA",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-17"
+          "postedDate": "2026-07-18"
         },
         {
-          "title": "EMCOR Group, Inc.",
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "DeBra-Kuempel Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Air Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "John W. Danforth Company",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "KDC Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Manager, Military Outreach",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-17"
         },
         {
-          "title": "Miller Electric Company",
+          "title": "Senior Mechanical Engineer",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "J. C. Higgins Corp.",
-          "state": "MA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
@@ -3257,39 +3006,109 @@
           "postedDate": "2026-07-17"
         },
         {
-          "title": "Southern Industrial Constructors, Inc.",
+          "title": "Suppression Shop Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "National Accounts Representative",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Extinguisher/Kitchen Suppression Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Extinguisher/Kitchen Suppression Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Service Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Electrician (WILM CORN EW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Iron Worker (GBORO NEST WB)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Manager, Military Outreach",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "HVAC/R Service Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-17"
         },
         {
-          "title": "Safety Manager",
+          "title": "Supermarket Refrigeration Journeyman Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-16"
+          "postedDate": "2026-07-17"
         },
         {
-          "title": "Regional Vice President",
-          "state": "OH",
+          "title": "Project Engineer",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-16"
+          "postedDate": "2026-07-17"
         },
         {
-          "title": "Equipment Administrative Assistant",
-          "state": "OH",
+          "title": "Controls Programmer",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-16"
+          "postedDate": "2026-07-17"
         },
         {
-          "title": "Contract Coordinator",
-          "state": "OH",
+          "title": "BMS / EMS Engineer",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-16"
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Workplace Solutions Coordinator",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
         }
       ],
       "patents": [],
@@ -3448,8 +3267,50 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Administrative Professional - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Administrative Professional - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
           "title": "Plumbing Engineer",
           "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-17"
@@ -3483,13 +3344,6 @@
           "postedDate": "2026-07-16"
         },
         {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
           "title": "Technology Designer",
           "state": "FL",
           "segment": "Other",
@@ -3504,6 +3358,13 @@
             "Schools",
             "Healthcare"
           ],
+          "postedDate": "2026-07-14"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-14"
         },
         {
@@ -3538,13 +3399,6 @@
           "postedDate": "2026-07-12"
         },
         {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-12"
-        },
-        {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
@@ -3571,63 +3425,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-12"
-        },
-        {
-          "title": "MEP Construction Superintendent",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "MEP Construction Superintendent",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "MEP Construction Superintendent",
-          "state": "NJ",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Solar Energy Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
         }
       ],
       "patents": [],
@@ -3859,13 +3656,6 @@
         },
         {
           "title": "Logistics Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Service Coordinator",
           "state": "TX",
           "segment": "Other",
           "tags": [],
