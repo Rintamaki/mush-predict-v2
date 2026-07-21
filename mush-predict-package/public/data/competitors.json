@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,129 +95,191 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Healthcare Construction Project Executive - OCONUS / International",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Site Safety Specialist / SSHO - Construction",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Healthcare Construction Project Executive - OCONUS / International",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Design Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Team Leader (Logistics & Distribution)",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Wastewater & Bioenergy Engineering Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Technician - HVAC",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Engineering Graduate - Entry Level",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "HVAC Journeyman Mechanic (Union) - Job Number: 1599",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
         {
           "title": "Sprinkler Inspector",
           "state": "",
@@ -226,110 +288,8 @@
           "postedDate": "2026-07-20"
         },
         {
-          "title": "Quality Inspector, 2nd Shift",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Sr Developer - Enterprise Integration",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Controls System Designer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Technical Trainer",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Controls Pre-Install Application Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
           "title": "Security Systems Install Technician",
           "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Sales Intern",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Controls Project Manager",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Controls Service Technician Team Lead",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Quality Technician",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Security Systems Installer Team Lead (Union)",
-          "state": "VA",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -368,127 +328,8 @@
           "postedDate": "2026-07-20"
         },
         {
-          "title": "HVAC Controls Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Test Stand Operator B - 2nd shift",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Data Center Chiller Equipment Journeyman (un)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC TB Appr (un)",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Controls System Engineer",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
           "title": "Controls Systems Technician",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Fire Suppression Service Technician",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Fire CAD Operator",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Retail Systems Security Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Controls Systems Engineering Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Control Systems Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Senior Instructor Chillers",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Data Center Mechanical Service Tradesman",
-          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -607,132 +448,186 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
         {
+          "title": "HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "HVAC Technician - Journeyman",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Senior Data Scientist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
           "title": "Chiller Technician",
           "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Service Controls Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Commercial HVAC Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Technician Apprentice",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
@@ -746,13 +641,20 @@
         },
         {
           "title": "Service Controls Technician",
-          "state": "GA",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
         },
         {
-          "title": "Service Controls Technician",
+          "title": "HVAC/Controls Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "HVAC Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -766,14 +668,7 @@
           "postedDate": "2026-07-20"
         },
         {
-          "title": "Commercial HVAC Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Technician",
+          "title": "HVAC Field Service Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -787,15 +682,15 @@
           "postedDate": "2026-07-20"
         },
         {
-          "title": "HVAC Field Service Technician",
-          "state": "",
+          "title": "HVAC Apprentice -King of Prussia, PA",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
         },
         {
-          "title": "HVAC Apprentice -King of Prussia, PA",
-          "state": "PA",
+          "title": "HVAC Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
@@ -852,76 +747,6 @@
         {
           "title": "Thermal Systems Lead Engineer - Performance Optimization (Modeling/Simulatation) (Remote)",
           "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Account Manager RHVAC",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Analyst-EHS",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Tax Analyst -U.S. Federal Compliance",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Thermal Systems Lead Engineer - Technical Loop",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Senior Finance Analyst, Marketing",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Account Manager RHVAC",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "IT Admin Specialist",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Sr Microsoft Platform Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Material Planner",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Service Project Manager",
-          "state": "MI",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-18"
@@ -988,126 +813,117 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
@@ -1117,20 +933,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Senior Controls System Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
         },
         {
           "title": "Integration Technician",
@@ -1386,6 +1188,15 @@
           "postedDate": "2026-07-09"
         },
         {
+          "title": "Operations Maintenance Technician",
+          "state": "IL",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-05"
+        },
+        {
           "title": "Plant Specialist",
           "state": "",
           "segment": "Schools",
@@ -1406,6 +1217,28 @@
             "University"
           ],
           "postedDate": "2026-07-03"
+        },
+        {
+          "title": "Senior Energy Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Generalist Support Intern",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
         }
       ],
       "patents": [],
@@ -1423,7 +1256,7 @@
           "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
-          "published": "Wed, 08 Jul 2026 12:05:00 GMT"
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -1491,268 +1324,249 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Field Service Representative I",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Head of Marketing, C-Suite & Strategic Customers",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Project Manager II",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Service Software Engineer",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Design Quality Engineer",
+          "title": "Electrical Engineer I - Regulatory Compliance",
           "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Legal Counsel",
+          "title": "HVAC BAS Tech II",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Systems Application Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Experiential Marketing Manager",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Content & Creative Strategist",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Field Service Representative",
+          "title": "Territory Manager - Service Operations",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Marketing Program Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Site Technical Manager",
+          "title": "BAS Pre-Construction Estimator",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Head of Marketing, C-Suite & Strategic Customers",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Legal Counsel",
+          "title": "Experiential Marketing Manager",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Strategic Account Executive-SLED",
-          "state": "CA",
+          "title": "Senior Construction Estimator, Cost Control, Procurement",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "BAS Pre-Construction Estimator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Key Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "BAS Pre-Construction Estimator",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Senior Principal, Supply Chain Performance",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
         },
         {
           "title": "Wiring Associate",
           "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Marketing Program Manager",
-          "state": "NC",
+          "title": "BAS Pre-Construction Estimator",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Project Manager II",
+          "title": "Wiring Associate",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Functional Lead - SAP CO",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Project Manager II",
+          "title": "Building Automation Project Management",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Territory Manager - Service Operations",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Marketing Program Manager",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         }
       ],
       "patents": [],
@@ -1920,129 +1734,128 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Field Service Technician Coaches",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -2083,126 +1896,117 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
@@ -2310,7 +2114,7 @@
           "postedDate": "2026-06-12"
         },
         {
-          "title": "Control Tech",
+          "title": "Control Tech - Temple, TX",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -2362,7 +2166,7 @@
           "postedDate": "2026-05-13"
         },
         {
-          "title": "Technical Consultant - HVAC Building Automation Specialist",
+          "title": "Technical Consultant - HVAC Building Automation Specialist- Dallas, TX",
           "state": "TX",
           "segment": "Municipal",
           "tags": [
@@ -2417,126 +2221,117 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
@@ -2774,10 +2569,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdU",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdUZ3NzNMVWc1elRCZEp6YmEwdW43VllDOFFSeFdITnlCUdIB3wFBVV95cUxNbEFoeW82RGViZWFFNjdBYS01TVpPemVRWks1V3VPYm1HdjVnVElqYk42RUxHdTJaSnlxNm44QlNQaF82bTBPYW1xaXZ5TFFmNjI0X18zZ3ZYdXNSYUdRUG8yREpjbHlyY1N0dzIwbjZrS0pTbi1iSU5aUkRBcWcxT0tJakh0c0MzbFRaeFdqVDZ2a2FteWJBRGRTVkZUQlFHeWR5QVZma3JjYmNmM2xVbWh3am9ic0J5SzVMeTJyQkpqXzVGbkpFd1o3MFFLbkM5bDZaci1kdUdnYWFzZFhJ?oc=5",
-          "published": "Sat, 18 Jul 2026 15:34:28 GMT"
+          "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - webull.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yLVJNTEx1TVVWWHpoQjl6ejVqNTBkN3pKTWk3TDhFdHhnMnh2RXpRbkpGMFhDUW9XTW41bVg1SlB0aC1IbTBJcWFLeWxJQTVnTTVjc1licFc?oc=5\" target=\"_blank\">Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path?</a>&n",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yLVJNTEx1TVVWWHpoQjl6ejVqNTBkN3pKTWk3TDhFdHhnMnh2RXpRbkpGMFhDUW9XTW41bVg1SlB0aC1IbTBJcWFLeWxJQTVnTTVjc1licFc?oc=5",
+          "published": "Mon, 20 Jul 2026 07:22:25 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -2815,126 +2610,117 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [],
@@ -3012,126 +2798,117 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [],
@@ -3143,7 +2920,7 @@
           "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
-          "published": "Mon, 06 Jul 2026 19:48:28 GMT"
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -3224,129 +3001,316 @@
       ],
       "activeBids": [
         {
-          "title": "84--INSIGNIA,RANK,OFFIC",
+          "title": "CABLE ASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "84--insignia,rank,offic"
-          ],
-          "agency": "",
-          "deadline": "2026-07-24"
-        },
-        {
-          "title": "DA01--Health Services Portfolio Application Development and  Operations (HSPADO), NEW CONTRACT (VA-26-00011357)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "da01--health",
-            "services",
-            "portfolio",
-            "application",
-            "development"
-          ],
-          "agency": "",
-          "deadline": "2026-07-20T10:00:00-04:00"
-        },
-        {
-          "title": "Z--MT - CF - RIVERSIDE CG CONCRETE REPAIRS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "z--mt",
-            "riverside",
-            "concrete",
-            "repairs"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "56--Rapid City Maintenance Security Fence Restoration",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "56--rapid",
-            "maintenance",
-            "security",
-            "fence",
-            "restoration"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T15:30:00-05:00"
-        },
-        {
-          "title": "99--DATA DISTRIBUTION S, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "99--data",
-            "distribution",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
-        },
-        {
-          "title": "ANTENNA ASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
+            "cable",
             "assembly"
           ],
           "agency": "",
-          "deadline": "2026-08-03T16:30:00-04:00"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "WASHER,SPHERICAL SE",
+          "title": "ELBOW,PIPE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "washer,spherical"
+            "elbow,pipe"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "5830--Request For Quote - Pro Audio Intercom System",
+          "title": "Robotic mowers",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "5830--request",
-            "quote",
-            "audio",
-            "intercom",
-            "system"
+            "robotic",
+            "mowers"
           ],
           "agency": "",
-          "deadline": "2026-07-29T07:00:00-04:00"
+          "deadline": "2026-07-23T06:00:00-06:00"
         },
         {
-          "title": "16--VALVE ASSEMBLY,ENVI, IN REPAIR/MODIFICATION OF",
+          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "16--valve",
-            "assembly,envi,",
+            "58--communications",
             "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-17T16:30:00-04:00"
+          "deadline": "2026-08-05T16:30:00-04:00"
         },
         {
-          "title": "HVAC Equipment Replacement, Millville, Utah",
-          "state": "UT",
+          "title": "16--PAD,CUSHIONING",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "equipment",
-            "replacement,",
-            "millville,"
+            "16--pad,cushioning"
           ],
           "agency": "",
-          "deadline": "2026-08-14T11:00:00-06:00"
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "31--cam",
+            "follower,needle"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "acquisition",
+            "hybrid",
+            "mission",
+            "paris,",
+            "france"
+          ],
+          "agency": "",
+          "deadline": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "title": "STEM,FLUID VALVE",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "stem,fluid",
+            "valve"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "53--SHI M",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "53--shi"
+          ],
+          "agency": "",
+          "deadline": "2026-07-29"
+        },
+        {
+          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "electrical",
+            "distribution",
+            "system",
+            "repairs,",
+            "zama,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T10:00:00+09:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Repcon, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Contra Costa Electric, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Newcomb and Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Newcomb and Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "University Mechanical & Engineering AZ",
+          "state": "AZ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Morley-Moss Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "EMCOR Services New York/New Jersey, Inc.",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Mechanical Drafter I",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Superintendent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Electrical Superintendent",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "HVAC Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Plumber / Pipefitter - Heavy Mechanical",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Field Superintendent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
         {
           "title": "MOR PPM, Inc.",
           "state": "",
@@ -3376,196 +3340,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Regional Health, Safety, and Environmental Professional",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Purchasing Coordinator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Contract AIA Billing Associate",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Electrical Helper (WILM THERM SW)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Millwright (WILM CORN EW)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Commercial Facilities Maintenance Technician",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Pipe Fitter",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Project Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Electrical Estimator",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Summer 2027 Project Management College Internship",
-          "state": "FL",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "EMCOR Services Team Mechanical, Inc. Construction Estimator",
-          "state": "IL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Gowan/Garrett, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "EMCOR Services Team Mechanical, Inc.",
-          "state": "IL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "DeBra-Kuempel Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Air Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "John W. Danforth Company",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "KDC Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Manager, Military Outreach",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
         }
       ],
       "patents": [],
@@ -3724,8 +3498,53 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Senior Project Engineer - Mechanical",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "VA",
           "segment": "University",
           "tags": [
             "University"
@@ -3740,13 +3559,6 @@
           "postedDate": "2026-07-19"
         },
         {
-          "title": "Project Development Engineer (Federal) - Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
           "state": "",
           "segment": "Other",
@@ -3754,25 +3566,8 @@
           "postedDate": "2026-07-19"
         },
         {
-          "title": "MEP Construction Project Manager",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-19"
-        },
-        {
           "title": "Electrical Engineer Intern/Co-op Fall 2026",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
-          "state": "OH",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-18"
@@ -3785,8 +3580,8 @@
           "postedDate": "2026-07-18"
         },
         {
-          "title": "Accounts Payable Director",
-          "state": "",
+          "title": "Construction Management Intern/Co-op Fall 2026 - Energy Solutions*",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-18"
@@ -3864,20 +3659,6 @@
         {
           "title": "Mechanical Engineer",
           "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
-          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-16"
