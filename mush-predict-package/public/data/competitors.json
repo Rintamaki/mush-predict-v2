@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,248 +95,304 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Healthcare Construction Project Executive - OCONUS / International",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-21"
+          "title": "HVAC Controls Systems Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Site Safety Specialist / SSHO - Construction",
+          "title": "Controls Service Technician (union)",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Security Systems Installer",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Process Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Healthcare Construction Project Executive - OCONUS / International",
-          "state": "FL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Design Engineer",
+          "title": "NPI Materials Intern",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Team Leader (Logistics & Distribution)",
-          "state": "TX",
+          "title": "Associate Director, Product Operations",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Fire Service Technician",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Wastewater & Bioenergy Engineering Manager",
+          "title": "Senior Mechanical Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Technician - HVAC",
-          "state": "WA",
+          "title": "Senior Construction Manager - Sustainable Infrastructure",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Engineering Graduate - Entry Level",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Journeyman Mechanic (Union) - Job Number: 1599",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Sprinkler Inspector",
+          "title": "Selling Sales Manager 3",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Security Systems Install Technician",
-          "state": "PA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Traveling Field Services Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Manufacturing Supervisor",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Arizona Work Career Fair July 2026",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Material Coordinator, 3rd shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Controls Systems Team Leader",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Controls Systems Technician Team Ldr 3",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-22"
         },
         {
           "title": "Controls Systems Technician",
-          "state": "MA",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Operation & Maintenance Control Technician",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-22"
         },
         {
           "title": "Security Service Technician",
-          "state": "FL",
+          "state": "IL",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Electrician,1st Shift",
+          "title": "HVAC TB Data Center Mechanic (un)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "HVAC Systems Engineering Leader",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Controls Systems Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-20"
+          "title": "Controls Electrician",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
         }
       ],
       "patents": [],
@@ -448,256 +504,280 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Technician",
-          "state": "FL",
+          "title": "HVAC Apprentice Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Lab Materials & Inventory Control Technician II",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Warehouse Technician",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-21"
         },
         {
-          "title": "HVAC Apprentice Technician",
-          "state": "CA",
+          "title": "Grinder (1st shift)",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-21"
         },
         {
-          "title": "HVAC Technician - Journeyman",
-          "state": "TX",
+          "title": "Machine Operator",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-21"
         },
         {
-          "title": "HVAC Technician",
-          "state": "FL",
+          "title": "HVAC Systems Account Manager",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Thermal Systems Lead Engineer - Mechanical Loop",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Thermal Systems Lead Engineer - Electrical Loop",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Data Scientist",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "Chiller Technician",
+          "title": "Partnership Leader (Data Centers)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Thermal Systems Lead Engineer - Sustainable Design",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Lighting and Specialty ECM Fulfillment Project Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Warehouse Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Energy Project Developer",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Energy Project Developer",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Team Leader I - 2nd Shift",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "1st Shift Inventory Analyst",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "3rd Shift Team Lead",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "HVAC Technician Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Account Manager - RHVAC",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "HVAC Service Project Administrator",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "Service Controls Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Apprentice Technician",
+          "title": "Area General Manager",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "Commercial HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Technician Apprentice",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Service Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC/Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Tech",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Field Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Field Service Service Technician",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Apprentice -King of Prussia, PA",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Apprentice Rental Services Technician",
-          "state": "CA",
+          "title": "Senior Data Scientist",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
@@ -715,41 +795,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Welder I MIG (1st Shift)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "ME Engineer II-Plant",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Manufacturing Engineer- 2nd shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Thermal Systems Lead Engineer - Performance Optimization (Modeling/Simulatation) (Remote)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
         }
       ],
       "patents": [],
@@ -813,125 +858,130 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
+          "title": "HVAC Controls Service Technician",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
           "postedDate": "2026-07-20"
         },
         {
@@ -955,17 +1005,6 @@
             "University"
           ],
           "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Operations and Maintenance Technical Intern",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-17"
         },
         {
           "title": "Facility Condition Assessor",
@@ -1054,17 +1093,6 @@
             "University"
           ],
           "postedDate": "2026-07-14"
-        },
-        {
-          "title": "Marketing Coordinator",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-13"
         },
         {
           "title": "Regional Construction Project Manager",
@@ -1219,6 +1247,16 @@
           "postedDate": "2026-07-03"
         },
         {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
           "title": "Senior Energy Engineer",
           "state": "",
           "segment": "Schools",
@@ -1231,6 +1269,17 @@
         },
         {
           "title": "Generalist Support Intern",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Proposal Coordinator",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -1257,6 +1306,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
           "published": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Ameresco begins rooftop solar construction at Community College of Philadelphia under Solar for Schools grant - Energies Media",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5\" target=\"_blank\">Ameresco begins rooftop solar construction at Communi",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
+          "published": "Tue, 21 Jul 2026 23:50:35 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia - CleanTechnica",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5\" target=\"_blank\">A",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5",
+          "published": "Thu, 09 Jul 2026 03:50:41 GMT"
         },
         {
           "source": "google_news",
@@ -1324,249 +1387,180 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Electrical Engineer I - Regulatory Compliance",
-          "state": "NY",
+          "title": "Field Service Representative - Power Distribution/Electrical",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "HVAC BAS Tech II",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Systems Application Engineer",
+          "title": "Sr Electrical Engineer - Central Engineering",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "Experiential Marketing Manager",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Territory Manager - Service Operations",
+          "title": "Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "BAS Pre-Construction Estimator",
+          "title": "Healthcare Acquisition Account Executive",
           "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Experiential Marketing Manager",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Senior Construction Estimator, Cost Control, Procurement",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Key Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Senior Principal, Supply Chain Performance",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Wiring Associate",
-          "state": "TX",
-          "segment": "Schools",
+          "segment": "Healthcare",
           "tags": [
-            "Schools"
+            "Healthcare"
           ],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "BAS Pre-Construction Estimator",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Wiring Associate",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Functional Lead - SAP CO",
+          "title": "Field Sales Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "Building Automation Project Management",
-          "state": "OH",
+          "title": "Senior Manager, Hardware Engineering",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
-          "title": "Territory Manager - Service Operations",
+          "title": "Automation Engineer II",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Automation Engineer II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
         }
       ],
       "patents": [],
@@ -1734,126 +1728,129 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Field Service Technician Coaches",
-          "state": "IL",
+          "title": "Training Project & Marketing Manager",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         }
       ],
       "patents": [],
@@ -1896,122 +1893,125 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Grand Rapids, MI",
           "state": "MI",
           "segment": "Healthcare",
           "tags": [
@@ -2020,7 +2020,7 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Mechanical Engineer_HVAC & Energy Performance.1",
+          "title": "Mechanical Engineer_HVAC & Energy Performance- OKC",
           "state": "",
           "segment": "Municipal",
           "tags": [
@@ -2029,7 +2029,7 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Syosset, NY",
           "state": "NY",
           "segment": "Healthcare",
           "tags": [
@@ -2047,7 +2047,7 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy SpecialistWaukee, IA",
           "state": "",
           "segment": "Healthcare",
           "tags": [
@@ -2056,7 +2056,7 @@
           "postedDate": "2026-07-08"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Greenville, NC",
           "state": "NC",
           "segment": "Healthcare",
           "tags": [
@@ -2065,7 +2065,7 @@
           "postedDate": "2026-07-07"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Sarasota, FL",
           "state": "FL",
           "segment": "Healthcare",
           "tags": [
@@ -2074,7 +2074,7 @@
           "postedDate": "2026-06-27"
         },
         {
-          "title": "Internship",
+          "title": "Internship - Lexington, KY",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -2085,7 +2085,7 @@
           "postedDate": "2026-06-24"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Temple, TX",
           "state": "TX",
           "segment": "Healthcare",
           "tags": [
@@ -2094,7 +2094,7 @@
           "postedDate": "2026-06-12"
         },
         {
-          "title": "Consultant Engineer",
+          "title": "Consultant Engineer - Dallas, TX",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -2104,7 +2104,7 @@
           "postedDate": "2026-06-12"
         },
         {
-          "title": "Control Tech",
+          "title": "Control Tech - Dallas, TX",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -2124,7 +2124,7 @@
           "postedDate": "2026-06-12"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Dallas, TX",
           "state": "TX",
           "segment": "Healthcare",
           "tags": [
@@ -2133,7 +2133,7 @@
           "postedDate": "2026-06-11"
         },
         {
-          "title": "Consultant Engineer",
+          "title": "Consultant Engineer - Temple, TX",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -2143,21 +2143,14 @@
           "postedDate": "2026-06-11"
         },
         {
-          "title": "Building Systems Engineer",
+          "title": "Building Systems Engineer - Tulsa, OK",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-05"
         },
         {
-          "title": "Implementation Consultant - Internal Candidates Only",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-05-31"
-        },
-        {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Lexington, TX",
           "state": "",
           "segment": "Healthcare",
           "tags": [
@@ -2175,7 +2168,7 @@
           "postedDate": "2026-05-13"
         },
         {
-          "title": "Energy Specialist",
+          "title": "Energy Specialist - Midland, TX",
           "state": "TX",
           "segment": "Healthcare",
           "tags": [
@@ -2184,7 +2177,7 @@
           "postedDate": "2026-05-13"
         },
         {
-          "title": "Building Automation Systems Tech",
+          "title": "Building Automation Systems Tech - Dallas, TX",
           "state": "TX",
           "segment": "Municipal",
           "tags": [
@@ -2221,120 +2214,137 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Scheduling Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Technical Aide",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
         {
           "title": "Building Inspector / Plans Examiner",
           "state": "",
@@ -2402,13 +2412,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-12"
-        },
-        {
-          "title": "Outreach Coordinator",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-11"
         },
         {
           "title": "Technical Sales Engineer",
@@ -2555,13 +2558,6 @@
             "Municipal"
           ],
           "postedDate": "2026-06-07"
-        },
-        {
-          "title": "Building Inspector",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-06"
         }
       ],
       "patents": [],
@@ -2610,120 +2606,145 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Sr. Construction Project Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Service Order Supervisor, Fort Bragg Dining Facilities",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "IT Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-17"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -2798,117 +2819,120 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -3001,345 +3025,340 @@
       ],
       "activeBids": [
         {
-          "title": "CABLE ASSEMBLY",
+          "title": "N6449826Q5244",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "cable",
-            "assembly"
+            "n6449826q5244"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-24T16:00:00-04:00"
         },
         {
-          "title": "ELBOW,PIPE",
-          "state": "",
+          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
+          "state": "MD",
           "segment": "Other",
           "keywords": [
-            "elbow,pipe"
+            "notification",
+            "intent",
+            "battlespace",
+            "modeling",
+            "simulation"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-05T23:59:00-04:00"
         },
         {
-          "title": "Robotic mowers",
+          "title": "AMPLIFIER RADIO FRE",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "robotic",
-            "mowers"
+            "amplifier",
+            "radio"
           ],
           "agency": "",
-          "deadline": "2026-07-23T06:00:00-06:00"
+          "deadline": "2026-08-21T16:30:00-04:00"
         },
         {
-          "title": "58--COMMUNICATIONS BAR, IN REPAIR/MODIFICATION OF",
+          "title": "CABLE,FIBER OPTIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "58--communications",
-            "repair/modification"
+            "cable,fiber",
+            "optic"
           ],
           "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "16--PAD,CUSHIONING",
-          "state": "",
+          "title": "Two (2) Sport Utility Vehicles",
+          "state": "TH-50",
           "segment": "Other",
           "keywords": [
-            "16--pad,cushioning"
+            "sport",
+            "utility",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T16:00:00+07:00"
         },
         {
-          "title": "31--CAM FOLLOWER,NEEDLE BE",
+          "title": "Independent Model Validation (IMV)",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "31--cam",
-            "follower,needle"
+            "independent",
+            "model",
+            "validation",
+            "(imv)"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-07-31T17:00:00-04:00"
         },
         {
-          "title": "Acquisition of Two (2) Hybrid SUVs for the U.S Mission in Paris, France",
+          "title": "Purchase of Vehicles",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "acquisition",
-            "hybrid",
-            "mission",
-            "paris,",
-            "france"
+            "purchase",
+            "vehicles"
           ],
           "agency": "",
-          "deadline": "2026-09-04T19:00:00-04:00"
+          "deadline": "2026-08-12T08:30:00-04:00"
         },
         {
-          "title": "STEM,FLUID VALVE",
-          "state": "",
+          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
+          "state": "AK",
           "segment": "Other",
           "keywords": [
-            "stem,fluid",
-            "valve"
+            "fiber",
+            "transmitter",
+            "modules",
+            "fairbanks",
+            "command"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": "2026-08-03T15:00:00-04:00"
         },
         {
-          "title": "53--SHI M",
+          "title": "93--GLASS,LAMINATED",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--shi"
+            "93--glass,laminated"
           ],
           "agency": "",
-          "deadline": "2026-07-29"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "FY27 Electrical Distribution System Repairs, Camp Zama, Japan",
+          "title": "PURIFIER,CENTRIFUGA",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "electrical",
-            "distribution",
-            "system",
-            "repairs,",
-            "zama,"
+            "purifier,centrifuga"
           ],
           "agency": "",
-          "deadline": "2026-08-20T10:00:00+09:00"
+          "deadline": "2026-07-29T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Repcon, Inc.",
-          "state": "",
+          "title": "Rabalais Constructors, LLC",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Contra Costa Electric, Inc.",
-          "state": "CA",
+          "title": "USM, Inc.",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
           "title": "Mesa Energy Systems, Inc.",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Repcon, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
         },
         {
           "title": "Cherokee Millwright, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "VA",
+          "title": "Aircond Corporation",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Gaston Electrical Co., LLC",
+          "state": "MA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Cherokee Millwright, Inc.",
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Cherokee Millwright, Inc.",
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Newcomb and Company",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Newcomb and Company",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "University Mechanical & Engineering AZ",
-          "state": "AZ",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Cherokee Millwright, Inc.",
+          "title": "EMCOR Facilities Services, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Cherokee Millwright, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "VA",
+          "title": "Gaston Electrical Co., LLC",
+          "state": "MA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "VA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Morley-Moss Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "EMCOR Services New York/New Jersey, Inc.",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "New England Mechanical Services, Inc.",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Mechanical Drafter I",
+          "title": "Mesa Energy Systems, Inc.",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Superintendent",
+          "title": "EMCOR Facilities Services, Inc.",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Electrical Superintendent",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "HVAC Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Plumber / Pipefitter - Heavy Mechanical",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Field Superintendent",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "BAS Controls Design Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Floor Specialist -Part Time (NARA I) Schedule: Weekends and Holidays - 5:30pm - 10:30pm",
-          "state": "",
+          "title": "Shambaugh & Son, L.P.",
+          "state": "MI",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-07-18"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Mechanical Project Manager",
-          "state": "NY",
+          "title": "Dynalectric Company",
+          "state": "OR",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-18"
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Aircond Corporation",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "IL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Bahnson Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Rabalais Constructors, LLC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Rabalais Constructors, LLC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Rabalais Constructors, LLC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Repcon, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
         }
       ],
       "patents": [],
@@ -3498,18 +3517,49 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Senior Project Engineer - Mechanical",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Electrical Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Project Engineer - Mechanical",
@@ -3536,27 +3586,13 @@
           "postedDate": "2026-07-20"
         },
         {
-          "title": "Project Development Engineer (Federal) - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
-          "state": "VA",
+          "state": "OH",
           "segment": "University",
           "tags": [
             "University"
           ],
           "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
         },
         {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
@@ -3587,6 +3623,13 @@
           "postedDate": "2026-07-18"
         },
         {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-18"
+        },
+        {
           "title": "Lighting Designer - Energy Solutions (MD)",
           "state": "",
           "segment": "Other",
@@ -3601,67 +3644,11 @@
           "postedDate": "2026-07-18"
         },
         {
-          "title": "Lighting Designer - Energy Solutions (MD)",
+          "title": "Lighting Designer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Administrative Professional - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Administrative Professional - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Plumbing Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-17"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-16"
         }
       ],
       "patents": [],
@@ -3692,6 +3679,20 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "VDC Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Senior Plumbing Designer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-21"
+        },
         {
           "title": "VDC Specialist",
           "state": "PA",
@@ -3873,27 +3874,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Senior Safety Coordinator",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-12"
-        },
-        {
-          "title": "Associate Project Accountant - Temp to Perm",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-12"
-        },
-        {
-          "title": "Service Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-12"
         }
       ],
       "patents": [],
