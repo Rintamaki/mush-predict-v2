@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,164 +95,220 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Controls Systems Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
+          "title": "Class V Maintenance Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Controls Service Technician (union)",
-          "state": "IL",
+          "title": "Brake Press Machine Operator",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Security Systems Installer",
-          "state": "VA",
+          "title": "Plumber",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Process Manager",
+          "title": "HVAC Sales Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Centralized Care Agent",
+          "state": "CO",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Senior Production Supervisor",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Fire Alarm Installer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "HVAC PRJ Mech Appr",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "T\u00e9cnico Especialista Refrigeraci\u00f3n Industrial",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "NPI Materials Intern",
+          "title": "HVAC Controls Pre-Install Application Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Electronic Fire Systems Sales Representative",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Associate Director, Product Operations",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
           "title": "Fire Service Technician",
@@ -263,136 +319,84 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Senior Mechanical Engineer",
+          "title": "Focus Factory Manager",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Fire Project Coordinator",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "HVAC Controls Systems Technician",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Senior Construction Manager - Sustainable Infrastructure",
+          "title": "Life Safety Systems Sales Rep, Electronic",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Selling Sales Manager 3",
+          "title": "HVAC Install Manager",
           "state": "",
-          "segment": "Schools",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Project Manager",
+          "state": "WA",
+          "segment": "University",
           "tags": [
-            "Schools",
-            "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Traveling Field Services Technician",
-          "state": "",
+          "title": "Quality Manager, Suppliers",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Manufacturing Supervisor",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Arizona Work Career Fair July 2026",
-          "state": "",
+          "title": "Traveling Security Field Engineer - Electronic / Integrated Security - (Job ID: 1591)",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Material Coordinator, 3rd shift",
-          "state": "",
+          "title": "HVAC Mechanical Engineer",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Controls Systems Team Leader",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Controls Systems Technician Team Ldr 3",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Controls Systems Technician",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Operation & Maintenance Control Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Security Service Technician",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "HVAC TB Data Center Mechanic (un)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "HVAC Systems Engineering Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Controls Electrician",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         }
       ],
       "patents": [],
@@ -504,297 +508,252 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Apprentice Service Technician",
+          "title": "Design Support Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Lead Technical Support Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Electrical Engineer I",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Engineering Project Leader - Compressors",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Sr Microsoft Platform Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "IT Admin Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Customer Success Leader - Remote",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Lab Materials & Inventory Control Technician II",
-          "state": "WI",
+          "title": "Trainer - Braze",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Warehouse Technician",
-          "state": "NJ",
+          "title": "Team Leader I - 2nd shift",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Grinder (1st shift)",
-          "state": "",
+          "title": "Maintenance",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Machine Operator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "HVAC Systems Account Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Thermal Systems Lead Engineer - Mechanical Loop",
+          "title": "Customer Success Leader - Remote",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Thermal Systems Lead Engineer - Electrical Loop",
+          "title": "Maintenance Technician II",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Senior Data Scientist",
-          "state": "NC",
+          "title": "Controls Technician",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Partnership Leader (Data Centers)",
-          "state": "NC",
+          "title": "Material Handler Yard Spotter",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Thermal Systems Lead Engineer - Sustainable Design",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Lighting and Specialty ECM Fulfillment Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Warehouse Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Energy Project Developer",
+          "title": "Apprentice Technician",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Energy Project Developer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Team Leader I - 2nd Shift",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "1st Shift Inventory Analyst",
+          "title": "Customer Success Leader - Remote",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "3rd Shift Team Lead",
+          "title": "Customer Success Leader - Remote",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "HVAC Technician Intern",
+          "title": "Service Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
         },
         {
-          "title": "Account Manager - RHVAC",
-          "state": "VA",
+          "title": "Material Planner",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "HVAC Service Project Administrator",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Area General Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Senior Data Scientist",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Estimator II",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Senior Application Developer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-22"
         }
       ],
       "patents": [],
@@ -858,131 +817,137 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Controls Service Technician",
-          "state": "FL",
-          "segment": "Healthcare",
+          "title": "Construction Project Coordinator",
+          "state": "",
+          "segment": "Schools",
           "tags": [
-            "Healthcare"
+            "Schools",
+            "Healthcare",
+            "University"
           ],
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-19"
         },
         {
           "title": "Integration Technician",
@@ -1216,15 +1181,6 @@
           "postedDate": "2026-07-09"
         },
         {
-          "title": "Operations Maintenance Technician",
-          "state": "IL",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-05"
-        },
-        {
           "title": "Plant Specialist",
           "state": "",
           "segment": "Schools",
@@ -1245,16 +1201,6 @@
             "University"
           ],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-01"
         },
         {
           "title": "Senior Energy Engineer",
@@ -1288,18 +1234,22 @@
             "University"
           ],
           "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Journeyman Electrician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-28"
         }
       ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
-          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
-        },
         {
           "source": "google_news",
           "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
@@ -1309,17 +1259,17 @@
         },
         {
           "source": "google_news",
-          "title": "Ameresco begins rooftop solar construction at Community College of Philadelphia under Solar for Schools grant - Energies Media",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5\" target=\"_blank\">Ameresco begins rooftop solar construction at Communi",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
-          "published": "Tue, 21 Jul 2026 23:50:35 GMT"
+          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - K-12 Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5\" targe",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5",
+          "published": "Thu, 25 Jun 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
-          "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia - CleanTechnica",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5\" target=\"_blank\">A",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 03:50:41 GMT"
+          "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia\u2019s Campuses, Reducing Grid Dependency - energytech.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2h4bGlhZWJOQ0ZvczNyT0txR1Atd0JzNEFDS1RpeU1QeGFSR2trdUpoQ1AyWmNjZ3JZN1RhelFvb2c?oc=5",
+          "published": "Tue, 14 Jul 2026 17:55:46 GMT"
         },
         {
           "source": "google_news",
@@ -1387,182 +1337,120 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
-        }
-      ],
-      "jobPostings": [
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
+          "deadline": "2026-08-03"
         },
         {
-          "title": "Sr Electrical Engineer - Central Engineering",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Project Manager",
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
           "state": "",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Healthcare Acquisition Account Executive",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
           ],
-          "postedDate": "2026-07-21"
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
         },
         {
-          "title": "Field Sales Engineer",
+          "title": "CONTROLLER,TEMPERAT",
           "state": "",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
         },
         {
-          "title": "Senior Manager, Hardware Engineering",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Automation Engineer II",
+          "title": "48--VALVE,SAFETY RELIEF",
           "state": "",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         },
         {
-          "title": "Automation Engineer II",
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1728,129 +1616,137 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
         {
-          "title": "Training Project & Marketing Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
+          "title": "Digital Hardware Engineer",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Staff Systems Engineer",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-23"
         }
       ],
       "patents": [],
@@ -1869,6 +1765,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcHUyUmVkWjltU0xiZmJlMzhHbWVJczEwX1IwZ04tX29ERS1pczZFSGw5ZkNrMTVxa3UwbDFJdHZUTy1kLTBsRktLYnhMVGhDaDdHZWJ4N3Biem1tYXlGVDRJYjdlclo1QUFoR2FSZ2w0Q2ZMVnc5NS16OWRBWHd6VHNOeS1va3ZNWU1DNW1zaThFbVpCOFB5d05YNnJBdU5uTG1lcF95bzNlTXVNM0RHSFQ2M1NDQWt1T3",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcHUyUmVkWjltU0xiZmJlMzhHbWVJczEwX1IwZ04tX29ERS1pczZFSGw5ZkNrMTVxa3UwbDFJdHZUTy1kLTBsRktLYnhMVGhDaDdHZWJ4N3Biem1tYXlGVDRJYjdlclo1QUFoR2FSZ2w0Q2ZMVnc5NS16OWRBWHd6VHNOeS1va3ZNWU1DNW1zaThFbVpCOFB5d05YNnJBdU5uTG1lcF95bzNlTXVNM0RHSFQ2M1NDQWt1T3FZRWhGNVJrajhoU21zYUZpd0FNNG55VVRvZXNTNjc?oc=5",
           "published": "Sat, 18 Jul 2026 01:36:12 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Vacancy Sensors Market Forecast Points Higher Toward 2035, Driven by Stringent Energy Codes and Smart Building Retrofits - IndexBox",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWk2LTFudWpWeWdiTlJQUWQyVVpqaW5saEFvMFZPYUFpTEhMSllSUTQyMFhWVk5nYVJCWFlZbWk4MEprNXhTNUJnUHU2UkFkR0l4QkpWOGw5ZXdhbVM3b1REWmRpZG04ME9xc2k0dnBjcTFBMTFsUmJlUmFFdXlWZ0dvRUo1b1NtODdvaTVvVHRIOUVvazREZnE3NFhfWEJKMWlCM0hmc05Wb2NaNkZoTUgxMjM2b2xhcm",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWk2LTFudWpWeWdiTlJQUWQyVVpqaW5saEFvMFZPYUFpTEhMSllSUTQyMFhWVk5nYVJCWFlZbWk4MEprNXhTNUJnUHU2UkFkR0l4QkpWOGw5ZXdhbVM3b1REWmRpZG04ME9xc2k0dnBjcTFBMTFsUmJlUmFFdXlWZ0dvRUo1b1NtODdvaTVvVHRIOUVvazREZnE3NFhfWEJKMWlCM0hmc05Wb2NaNkZoTUgxMjM2b2xhcmxsYmhUVGwwdUhnZG9sS2F6QXVmckY1QmQ2REhGeXhmRDBNUEtiNlFpSQ?oc=5",
+          "published": "Wed, 15 Jul 2026 06:06:13 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1893,120 +1796,117 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
@@ -2214,123 +2114,131 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Building Inspector",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-23"
+        },
         {
           "title": "Scheduling Coordinator",
           "state": "",
@@ -2398,15 +2306,6 @@
           "postedDate": "2026-07-15"
         },
         {
-          "title": "Technical Aide",
-          "state": "",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-07-15"
-        },
-        {
           "title": "Business Development Manager",
           "state": "GA",
           "segment": "Other",
@@ -2419,13 +2318,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Construction Accounting Manager",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-10"
         },
         {
           "title": "Associate Traffic Engineer",
@@ -2474,13 +2366,6 @@
           "postedDate": "2026-06-28"
         },
         {
-          "title": "Project Development Engineer II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-28"
-        },
-        {
           "title": "Permit Technician",
           "state": "CA",
           "segment": "Municipal",
@@ -2497,15 +2382,6 @@
             "Municipal"
           ],
           "postedDate": "2026-06-24"
-        },
-        {
-          "title": "Code Enforcement Manager",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-14"
         },
         {
           "title": "Administrative Assistant - Code Enforcement",
@@ -2558,6 +2434,31 @@
             "Municipal"
           ],
           "postedDate": "2026-06-07"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-06"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-05"
         }
       ],
       "patents": [],
@@ -2565,10 +2466,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - webull.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yLVJNTEx1TVVWWHpoQjl6ejVqNTBkN3pKTWk3TDhFdHhnMnh2RXpRbkpGMFhDUW9XTW41bVg1SlB0aC1IbTBJcWFLeWxJQTVnTTVjc1licFc?oc=5\" target=\"_blank\">Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path?</a>&n",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yLVJNTEx1TVVWWHpoQjl6ejVqNTBkN3pKTWk3TDhFdHhnMnh2RXpRbkpGMFhDUW9XTW41bVg1SlB0aC1IbTBJcWFLeWxJQTVnTTVjc1licFc?oc=5",
-          "published": "Mon, 20 Jul 2026 07:22:25 GMT"
+          "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdU",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdUZ3NzNMVWc1elRCZEp6YmEwdW43VllDOFFSeFdITnlCUdIB3wFBVV95cUxNbEFoeW82RGViZWFFNjdBYS01TVpPemVRWks1V3VPYm1HdjVnVElqYk42RUxHdTJaSnlxNm44QlNQaF82bTBPYW1xaXZ5TFFmNjI0X18zZ3ZYdXNSYUdRUG8yREpjbHlyY1N0dzIwbjZrS0pTbi1iSU5aUkRBcWcxT0tJakh0c0MzbFRaeFdqVDZ2a2FteWJBRGRTVkZUQlFHeWR5QVZma3JjYmNmM2xVbWh3am9ic0J5SzVMeTJyQkpqXzVGbkpFd1o3MFFLbkM5bDZaci1kdUdnYWFzZFhJ?oc=5",
+          "published": "Sat, 18 Jul 2026 15:34:28 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -2606,123 +2507,127 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Facilities Manager",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
         {
           "title": "Sr. Construction Project Manager",
           "state": "CA",
@@ -2743,6 +2648,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-17"
+        },
+        {
+          "title": "Senior Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-04"
         }
       ],
       "patents": [],
@@ -2819,120 +2731,117 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [],
@@ -3025,220 +2934,241 @@
       ],
       "activeBids": [
         {
-          "title": "N6449826Q5244",
+          "title": "CIRCUIT BREAKER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "n6449826q5244"
-          ],
-          "agency": "",
-          "deadline": "2026-08-24T16:00:00-04:00"
-        },
-        {
-          "title": "Notification of Intent for Battlespace Modeling and Simulation (BMS) Engineering Services",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "notification",
-            "intent",
-            "battlespace",
-            "modeling",
-            "simulation"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T23:59:00-04:00"
-        },
-        {
-          "title": "AMPLIFIER RADIO FRE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "amplifier",
-            "radio"
-          ],
-          "agency": "",
-          "deadline": "2026-08-21T16:30:00-04:00"
-        },
-        {
-          "title": "CABLE,FIBER OPTIC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "cable,fiber",
-            "optic"
+            "circuit",
+            "breaker"
           ],
           "agency": "",
           "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "Two (2) Sport Utility Vehicles",
-          "state": "TH-50",
+          "title": "Office Furniture Purchase for Operations Division",
+          "state": "LA",
           "segment": "Other",
           "keywords": [
-            "sport",
-            "utility",
-            "vehicles"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T16:00:00+07:00"
-        },
-        {
-          "title": "Independent Model Validation (IMV)",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "independent",
-            "model",
-            "validation",
-            "(imv)"
-          ],
-          "agency": "",
-          "deadline": "2026-07-31T17:00:00-04:00"
-        },
-        {
-          "title": "Purchase of Vehicles",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
+            "office",
+            "furniture",
             "purchase",
-            "vehicles"
+            "operations",
+            "division"
           ],
           "agency": "",
-          "deadline": "2026-08-12T08:30:00-04:00"
+          "deadline": null
         },
         {
-          "title": "13M Fiber Transmitter Modules for the Fairbanks Command and Data Acquisition Station (FCDAS)",
-          "state": "AK",
+          "title": "Lielvarde Shuttle Bus",
+          "state": "LV-067",
           "segment": "Other",
           "keywords": [
-            "fiber",
-            "transmitter",
-            "modules",
-            "fairbanks",
-            "command"
+            "lielvarde",
+            "shuttle"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00-04:00"
+          "deadline": "2026-07-31T12:00:00+02:00"
         },
         {
-          "title": "93--GLASS,LAMINATED",
+          "title": "20--DOOR,METAL,MARINE S",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "93--glass,laminated"
+            "20--door,metal,marine"
           ],
           "agency": "",
           "deadline": "2026-08-03"
         },
         {
-          "title": "PURIFIER,CENTRIFUGA",
+          "title": "48--ACTUATOR,ELECTR",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "purifier,centrifuga"
+            "48--actuator,electr"
           ],
           "agency": "",
-          "deadline": "2026-07-29T16:30:00-04:00"
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "REPAIR OF FUEL TANKS FOR USE ON THE MH-65E AIRCRAFT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "repair",
+            "tanks",
+            "mh-65e",
+            "aircraft"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T15:00:00-04:00"
+        },
+        {
+          "title": "CONTROLLER,TEMPERAT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "controller,temperat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T16:30:00-04:00"
+        },
+        {
+          "title": "48--VALVE,SAFETY RELIEF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "48--valve,safety",
+            "relief"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
+        },
+        {
+          "title": "70--DISPLAY CONSOLE, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "70--display",
+            "console,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-07-27T16:30:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMBLY",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assembly"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03"
         }
       ],
       "jobPostings": [
         {
-          "title": "Rabalais Constructors, LLC",
-          "state": "TX",
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "USM, Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Repcon, Inc.",
+          "title": "EMCOR Government Services, Inc.",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-23"
         },
         {
           "title": "Cherokee Millwright, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
-          "title": "Aircond Corporation",
-          "state": "GA",
+          "title": "Forest Electric Corp.",
+          "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Gaston Electrical Co., LLC",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Gaston Electrical Co., LLC",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
         },
         {
           "title": "Mesa Energy Systems, Inc.",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-22"
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Trautman & Shreve, Inc.",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Mechanical Services of Central Florida, Inc.",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
         },
         {
           "title": "EMCOR Facilities Services, Inc.",
-          "state": "TX",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Shambaugh & Son, L.P.",
+          "title": "Plant Operator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Automation - Operations Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Safety Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Helper Multi-craft, Cleveland, TN",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Fire Protection Designer",
           "state": "MI",
           "segment": "Healthcare",
           "tags": [
@@ -3247,22 +3177,8 @@
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Dynalectric Company",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Aircond Corporation",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "IL",
+          "title": "BIM Coordinator",
+          "state": "MA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
@@ -3270,92 +3186,82 @@
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Bahnson Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
+          "title": "Electrical Designer",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Rabalais Constructors, LLC",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Cherokee Millwright, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Rabalais Constructors, LLC",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
+          "title": "General Service Technician",
           "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Rabalais Constructors, LLC",
-          "state": "TX",
+          "title": "Virtual Construction Lead",
+          "state": "OR",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Repcon, Inc.",
+          "title": "Repcon, Inc. COMBO WELDER",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
+          "title": "Repcon, Inc. PIPEFITTER",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
+          "title": "Electrician Apprentice",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Dynalectric Company",
+          "title": "Fire Protection Designer",
           "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Combo Welder (RAL MIL ZE)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Finance Manager",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-22"
@@ -3517,6 +3423,79 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Electrical Design Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Commissioning Specialist",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Senior Commissioning Specialist",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Revenue Accounting Analyst",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "MEP Construction Project Manager",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
@@ -3524,21 +3503,18 @@
           "postedDate": "2026-07-22"
         },
         {
-          "title": "Senior Project Engineer - Mechanical",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
-          "state": "CO",
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-21"
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
         },
         {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
@@ -3560,6 +3536,20 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
         },
         {
           "title": "Senior Project Engineer - Mechanical",
@@ -3586,6 +3576,13 @@
           "postedDate": "2026-07-20"
         },
         {
+          "title": "Project Development Engineer (Federal) - Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-20"
+        },
+        {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
           "state": "OH",
           "segment": "University",
@@ -3595,60 +3592,18 @@
           "postedDate": "2026-07-20"
         },
         {
-          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
-          "state": "",
+          "title": "Electrical Engineer",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-19"
         },
         {
-          "title": "Electrical Engineer Intern/Co-op Fall 2026",
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026 - Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Construction Management Intern/Co-op Fall 2026 - Energy Solutions*",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Lighting Designer - Energy Solutions (MD)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
-        },
-        {
-          "title": "Lighting Designer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-18"
+          "postedDate": "2026-07-19"
         }
       ],
       "patents": [],
@@ -3679,6 +3634,20 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Principal Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Sr. Safety Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
         {
           "title": "VDC Manager",
           "state": "OH",
@@ -3864,13 +3833,6 @@
         {
           "title": "Mechanical Superintendent- Plumbing/Piping",
           "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Design Engineer, Senior",
-          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-13"
