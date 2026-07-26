@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25",
+  "last_updated": "2026-07-26",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,6 +95,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -103,6 +144,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -116,113 +221,33 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Fire Installation Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
+          "title": "HVAC Controls Lead Systems Specialist",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "HVAC TB Helper (un)",
+          "title": "Experienced Fire Suppression Technician",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Equipment Complex Project Engineer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -230,90 +255,151 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Fire Service Sales Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
+          "title": "Market General Manager (MGM) FIRE",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Inventory Control Specialist",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
+          "title": "Commercial HVAC Estimator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "HVAC Controls Account Executive",
+          "title": "Storeroom/Receiver, 2nd Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "HVAC Mechanical Service Technician Journeyman (Union)",
+          "title": "Data Center Mech Svc Tech Appr (un)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Controls Service Technician (union)",
+          "title": "Commercial Sales Executive - Security",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "title": "Controls Systems Technician (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "HVAC Controls Systems Engineer",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Mechanical Engineer (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Staff Application Engineer (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Manufacturing Engineering Manager",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Field Quality Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Metro General Manager MGM-Fire",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Trade Compliance Specialist",
           "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Fitter Welder Apprentice (2nd Shift)",
-          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Construction Project Manager, BAS Controls",
-          "state": "WA",
+          "title": "HVAC Truck Based Controls Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Healthcare Construction Project Manager - Yokota AFB",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "HVAC Truck Based Mechanic Apprentice (Amarillo, TX)",
-          "state": "TX",
+          "title": "HVAC Controls Systems Area Leader-Upper Midwest",
+          "state": "AZ",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Design Drafter",
+          "title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -321,99 +407,52 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Fire Construction Sales Manager",
+          "title": "Security Sales Manager",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "HVAC Controls Service Technician Team Lead",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Branch Installation Manager",
           "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Facilities Maintenance Technician- Painter",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Security Installer",
-          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Mechanical Engineer",
-          "state": "",
+          "title": "Security Systems Operations Manager",
+          "state": "NY",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Assembler, 1st Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Fire Detection Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Engineering Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "HVAC Truck Based Service Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Marketing Specialist",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "How OpenBlue turns sustainability into business value - Johnson Controls",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOH",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOHRLZGxNMVNPVkJaYmc?oc=5",
-          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
@@ -512,6 +551,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -520,6 +600,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -533,166 +677,127 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Engineering Project Leader - Compressors",
+          "title": "Service Project Administrator",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Western US",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Unit Controls Technical Lead",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Category Manager -Capital Equipment",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Americas Advanced Manufacturing Strategy (AMS) Program Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Associate Engineer",
+          "title": "Senior IT Implementation Manager - Sales Tools & Order/Project Mgt",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Technical Sales Enablement Engineer",
+          "title": "Production Supervisor",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Analyst-Collections",
+          "title": "Senior Product Manager- Smart Services (Remote)",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Supplier Qual/APQP Engineer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "2nd Shift Warehouse Team Leader",
+          "title": "Energy Services Strategic Sales - Western US",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Supplier Qual/APQP Engineer",
+          "title": "Energy Services Strategic Sales - Central US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Central US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Central US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Western US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "HVAC Chiller Technician - Journeyman",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Eastern US",
           "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Product Manager- Smart Services",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Product Manager- Smart Services (Remote)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Advanced Quality Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Unit Controls Technical Lead",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
         }
       ],
       "patents": [],
@@ -756,6 +861,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -764,6 +910,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -777,104 +987,27 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Plant Operator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-25"
+        },
         {
           "title": "Operations Manager",
           "state": "FL",
@@ -887,7 +1020,14 @@
           "postedDate": "2026-07-25"
         },
         {
-          "title": "Safety Operations Program Specialist - West",
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Corporate Safety Operations Lead - West",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -920,7 +1060,7 @@
           "postedDate": "2026-07-24"
         },
         {
-          "title": "Safety Operations Program Specialist - East",
+          "title": "Corporate Safety Operations Lead - East",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -942,6 +1082,15 @@
           "postedDate": "2026-07-23"
         },
         {
+          "title": "HVAC Controls Service Technician",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-20"
+        },
+        {
           "title": "Construction Project Manager",
           "state": "",
           "segment": "Other",
@@ -954,13 +1103,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
         },
         {
           "title": "Integration Technician",
@@ -1137,50 +1279,6 @@
             "University"
           ],
           "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Site Safety Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Construction Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Construction Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Boiler Operator \u2013 Weekend Day Shift",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-09"
         }
       ],
       "patents": [],
@@ -1206,13 +1304,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5\" target=\"_blank\">Energy savi",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5",
           "published": "Tue, 16 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia\u2019s Campuses, Reducing Grid Dependency - energytech.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2h4bGlhZWJOQ0ZvczNyT0txR1Atd0JzNEFDS1RpeU1QeGFSR2trdUpoQ1AyWmNjZ3JZN1RhelFvb2c?oc=5",
-          "published": "Tue, 14 Jul 2026 17:55:46 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1273,6 +1364,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -1281,6 +1413,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -1294,145 +1490,108 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Commercialization Manager, Sustainability Software",
-          "state": "MA",
+          "title": "System Application Engineer I",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-25"
         },
         {
-          "title": "Territory Account Executive",
-          "state": "CA",
+          "title": "Sales Manager",
+          "state": "IL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-25"
         },
         {
-          "title": "System Specialist I",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Quality Associate I - Inspector",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Foxboro DCS & Triconex Resident Service Engineer",
+          "title": "Project Engineer I",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-25"
         },
         {
-          "title": "Quality Management Systems Engineer",
-          "state": "AZ",
+          "title": "Key Account Manager",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Lead Field Service Representative - Power Distribution/Electrical",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Materials Associate II",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Building Automation Service Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Geographic Sales Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Downstream Flow Controller",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Strategic Marketing Leader - Power & Grid",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Systems Field Service Representative - Power Distribution/Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Building Automation Technician II",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Business Development and Innovation Co-Op",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Lead Field Service Representative - Power Distribution/Electrical",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
         }
       ],
       "patents": [],
@@ -1600,6 +1759,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -1608,6 +1808,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -1621,114 +1885,9 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Field Service Technician - HW - Denver, CO",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-25"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1769,6 +1928,47 @@
       "contractAwards": [],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -1777,6 +1977,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -1790,101 +2054,6 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
@@ -2092,6 +2261,47 @@
       "contractAwards": [],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -2100,6 +2310,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -2113,101 +2387,6 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
@@ -2383,15 +2562,6 @@
           "postedDate": "2026-06-24"
         },
         {
-          "title": "Administrative Assistant - Code Enforcement",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-13"
-        },
-        {
           "title": "Help Desk Technician I",
           "state": "CA",
           "segment": "Other",
@@ -2433,6 +2603,13 @@
             "Municipal"
           ],
           "postedDate": "2026-06-07"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-06"
         }
       ],
       "patents": [],
@@ -2481,6 +2658,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -2489,6 +2707,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -2502,101 +2784,6 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
@@ -2703,6 +2890,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -2711,6 +2939,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -2724,101 +3016,6 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [],
@@ -2862,7 +3059,7 @@
       "contractAwards": [
         {
           "date": "2021-10-01",
-          "value": 69594323.83,
+          "value": 70289326.17,
           "state": "VA",
           "segment": "University",
           "agency": "National Archives and Records Administration",
@@ -2911,6 +3108,47 @@
       ],
       "activeBids": [
         {
+          "title": "Amendment 0001 - RFQ 19KU2026Q0009 - USAGM-Fence Cleaning Services",
+          "state": "KW-HA",
+          "segment": "Other",
+          "keywords": [
+            "amendment",
+            "19ku2026q0009",
+            "usagm-fence",
+            "cleaning",
+            "services"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T10:00:00+03:00"
+        },
+        {
+          "title": "RFQ 19KU2026Q0013 - AEWA Door & Tile Installation Upgrade project",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "19ku2026q0013",
+            "installation",
+            "upgrade",
+            "project"
+          ],
+          "agency": "",
+          "deadline": "2026-08-16T10:00:00+03:00"
+        },
+        {
+          "title": "Mercer Hall, Naval Base San Diego - Galley Grab-N-Go",
+          "state": "CA",
+          "segment": "Other",
+          "keywords": [
+            "mercer",
+            "hall,",
+            "naval",
+            "diego",
+            "galley"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-07:00"
+        },
+        {
           "title": "48--VALVE,BALL",
           "state": "",
           "segment": "Other",
@@ -2919,6 +3157,70 @@
           ],
           "agency": "",
           "deadline": ""
+        },
+        {
+          "title": "Z2DA--FY27 NRM | 557-23-104 | Replace Boiler Plant Steam Boilers |  Construction (VA-27-00003633)",
+          "state": "GA",
+          "segment": "Other",
+          "keywords": [
+            "z2da--fy27",
+            "557-23-104",
+            "replace",
+            "boiler",
+            "plant"
+          ],
+          "agency": "",
+          "deadline": ""
+        },
+        {
+          "title": "B--S. UDDIN - NEW SC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "b--s.",
+            "uddin"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "J--SAMA/SAIR SECURITY ALARM SERVICE",
+          "state": "MA",
+          "segment": "Other",
+          "keywords": [
+            "j--sama/sair",
+            "security",
+            "alarm",
+            "service"
+          ],
+          "agency": "",
+          "deadline": "2026-08-07T10:00:00-04:00"
+        },
+        {
+          "title": "Snow and Ice Removal Services in - Staten Island, NY (NY024)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "removal",
+            "services",
+            "staten",
+            "island,",
+            "(ny024)"
+          ],
+          "agency": "",
+          "deadline": "2026-07-31T12:00:00-04:00"
+        },
+        {
+          "title": "Procurement of a Humanoid Robot",
+          "state": "MD",
+          "segment": "Other",
+          "keywords": [
+            "procurement",
+            "humanoid",
+            "robot"
+          ],
+          "agency": "",
+          "deadline": "2026-08-24T12:00:00-04:00"
         },
         {
           "title": "59--RMC POWER & CONTROL, IN REPAIR/MODIFICATION OF",
@@ -2932,104 +3234,69 @@
           ],
           "agency": "",
           "deadline": ""
-        },
-        {
-          "title": "61--POWER SUPPLY HV, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "61--power",
-            "supply",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": ""
-        },
-        {
-          "title": "66--CAISSON GAGE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "66--caisson"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T00:00:00-04:00"
-        },
-        {
-          "title": "28--LEVER PLATE SPECIAL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "28--lever",
-            "plate",
-            "special"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "Legal Access Services for Reunified Families Program",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "legal",
-            "access",
-            "services",
-            "reunified",
-            "families"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T10:00:00-04:00"
-        },
-        {
-          "title": "58--PROJECTOR,SONAR, IN REPAIR/MODIFICATION OF",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "58--projector,sonar,",
-            "repair/modification"
-          ],
-          "agency": "",
-          "deadline": "2026-09-08T00:00:00-04:00"
-        },
-        {
-          "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6505--lab",
-            "supplies",
-            "radiopharm",
-            "5-year",
-            "indefinite"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "6515--PROS-07152026-1560099-LV-MOBILITY WORKS  593-",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "6515--pros-07152026-1560099-lv-mobility",
-            "works"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "358 TRS Tables and Chairs",
-          "state": "TX",
-          "segment": "Other",
-          "keywords": [
-            "tables",
-            "chairs"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T10:00:00-05:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Welsbach Electric Corp.",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Welsbach Electric Corp.",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Ohmstede Ltd.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Field Superintendent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Tech III, Facilities",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
         {
           "title": "EMCOR Mechanical Services, Inc.",
           "state": "GA",
@@ -3194,84 +3461,6 @@
             "Healthcare"
           ],
           "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Foreman",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Low Voltage Integration and Security Technician",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Low Voltage Integration Technician / Apprentice",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Estimator",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Project Manager",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "HVAC/R Service Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Lead A/V Technician",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Financial Analyst",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
         }
       ],
       "patents": [],
@@ -3325,15 +3514,7 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Capital Markets Director (Chicago)",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -3438,11 +3619,88 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Construction Manager - CMTA Energy Solutions",
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-24"
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Commissioning Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
         },
         {
           "title": "Senior Solar Energy Engineer - Energy Solutions",
@@ -3480,8 +3738,8 @@
           "postedDate": "2026-07-24"
         },
         {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "MA",
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-23"
@@ -3508,7 +3766,7 @@
           "postedDate": "2026-07-23"
         },
         {
-          "title": "Senior Commissioning Specialist",
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
           "tags": [],
@@ -3517,13 +3775,6 @@
         {
           "title": "Senior Commissioning Specialist",
           "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-23"
-        },
-        {
-          "title": "Senior Commissioning Specialist",
-          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-23"
@@ -3551,90 +3802,10 @@
         },
         {
           "title": "Commissioning Specialist",
-          "state": "VA",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-23"
-        },
-        {
-          "title": "Senior Commissioning Specialist",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-23"
-        },
-        {
-          "title": "Senior Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Revenue Accounting Analyst",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "MEP Construction Project Manager",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-22"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-21"
         }
       ],
       "patents": [],
@@ -3665,6 +3836,92 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Service Account Manager - Controls",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Fire Sprinkler Service Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Scheduler",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Engineer II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Electrical Service Supervisor",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Manager - Mechanical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Mission Critical Project Executive",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Accountant",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Modeling Coordinator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
         {
           "title": "Manager, Logistics",
           "state": "",
@@ -3729,15 +3986,6 @@
           "postedDate": "2026-07-24"
         },
         {
-          "title": "Senior Associate Principal Engineer (Union City)",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-07-24"
-        },
-        {
           "title": "Service Account Manager",
           "state": "AZ",
           "segment": "Other",
@@ -3789,90 +4037,6 @@
         {
           "title": "VDC Specialist",
           "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Preconstruction Executive",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Structural Design Engineer II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Project Constructability Lead",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Sales Support Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Sales Support Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Design Project Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Senior Safety Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Structural Design Engineer III",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Detailer II- Plumbing or Piping",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "VDC Field Technician I",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Service Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-19"
-        },
-        {
-          "title": "Senior Project Manager - Mechanical",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-19"
