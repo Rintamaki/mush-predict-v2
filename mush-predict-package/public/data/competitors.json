@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-30",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,122 +95,128 @@
       ],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Machine Operator IV (2nd Shift)",
+          "title": "HVAC Controls Systems Engineer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -218,78 +224,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Channel Account Manager- HVAC",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Journeyman Mechanic - Service (Job number: 1641)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Construction Sales Manager (Controls)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "CAD Operator - Fire Alarm Systems",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Security Systems Operations Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Fire Sprinkler Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Fire Alarm Installer",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Service Project Manager (BAS/Controls) - Washington Navy Yard (Job number: 1642)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Controls Systems Technician",
+          "title": "Project Manager II",
           "state": "AZ",
           "segment": "Schools",
           "tags": [
@@ -297,28 +235,39 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "HVAC Controls Project Manager",
-          "state": "",
+          "title": "HVAC Equipment Account Executive",
+          "state": "MA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Tig Welder (2nd Shift)",
+          "title": "Fire Alarm Installation Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Human Resources Manager",
+          "title": "Buyer II",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Security Sales Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -326,28 +275,21 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "FD North America Demand & Supply Planning Manager",
+          "title": "Ai Engineer",
           "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Supply Planner",
+          "title": "Field IT Support Specialist",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -355,45 +297,61 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Security Alarm Installer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Ai Engineer",
+          "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Fire Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
         },
         {
           "title": "Field Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "HVAC Truck Based Mechanic (union)",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Mechanical Equipment Serviceman (Job Number: 1640)",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Mechanical Service Tech Jrny (un)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Master Scheduler II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Construction Technician, 2nd Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "System Administrator, National Accounts",
+          "title": "Project Manager II",
           "state": "CA",
           "segment": "Schools",
           "tags": [
@@ -401,29 +359,94 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Financial Analysis Manager",
-          "state": "AZ",
+          "title": "Fire Alarm Apprentice",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Controls System Design",
-          "state": "IL",
+          "title": "Production Scheduler",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Ai Engineer",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "HVAC Scheduler/Dispatcher",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Fire Sales Manager",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Journeyman HVAC Chiller Mechanic, Navy Systems (Job Number: 1647)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Fire Install Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "HVAC Scheduler/Dispatcher",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "HVAC TB Data Center Mechanic (un)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
         }
       ],
       "patents": [],
@@ -542,329 +565,188 @@
       ],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Controls Technician Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Crane Operator",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Chiller Technician",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Yard Dog Operator Truck Driver",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Shipping Team Lead",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Construction Project Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Account Manager RHVAC",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Warehouse Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Commercial HVAC Service Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Depot Service Technician II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Commercial HVAC Service Technician - Ft. Madison/Burlington, IA",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Head, Executive Talent Acquisition",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Electronics Technician I",
+          "title": "Senior IT Implementation Manager \u2013 Sales Tools & Order/Project Mgt",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Controls Technician -Towson, MD",
+          "title": "Bid Coordinator",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Senior Refrigeration Systems Engineer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Apprentice Technician",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Technician- Newport News, VA",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Warehouse Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Sr. Service Technician in CO/ WY",
+          "title": "Quality Technician I - 1st Shift",
           "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Yard Auditor",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Focus Factory Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Design Co-op",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Master Scheduler",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Project Manager - Rental Services",
+          "title": "Workday Configurator",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "ISC Finance Leader - Supply & Distribution",
+          "title": "Energy Services Strategic Sales - Eastern US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "2nd Shift Quality Inspector",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "2nd Shift Warehouse Team Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Technical Sales Enablement Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Project Manager Equipment",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Application Engineer",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-30"
         }
       ],
       "patents": [],
@@ -920,117 +802,123 @@
       ],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
@@ -1119,11 +1007,20 @@
           "postedDate": "2026-07-23"
         },
         {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
+          "title": "HVAC Controls Service Technician",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Senior Controls System Specialist",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-19"
+          "postedDate": "2026-07-20"
         },
         {
           "title": "Integration Technician",
@@ -1280,17 +1177,6 @@
           "postedDate": "2026-07-11"
         },
         {
-          "title": "Account Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
           "title": "Solar Electrician",
           "state": "TX",
           "segment": "Schools",
@@ -1347,24 +1233,17 @@
         },
         {
           "source": "google_news",
-          "title": "Evansville to power municipal facilities with solar energy - AOL.com",
+          "title": "Evansville to power municipal facilities with solar energy - aol.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5\" target=\"_blank\">Evansville to power municipal fa",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5",
           "published": "Thu, 09 Jul 2026 20:19:20 GMT"
         },
         {
           "source": "google_news",
-          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
-          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
+          "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5\" ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5",
+          "published": "Mon, 27 Jul 2026 12:05:00 GMT"
         },
         {
           "source": "google_news",
@@ -1432,217 +1311,211 @@
       ],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Business Intelligence Architect",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Technical Leader, Power Systems",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Foxboro DCS Technical Sales Consultant",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "End User Automation Sales Executive",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Senior Technical Trainer I",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Foxboro DCS Technical Sales Consultant",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Order Processing Specialist",
+          "title": "Security Technician",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Senior Technical Trainer I",
-          "state": "MA",
+          "title": "Security Project Engineer",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Mech Line Associate",
+          "title": "Triconex Process Safety and Integrity Business Development Leader",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Senior Technical Trainer I",
+          "title": "Triconex Process Safety and Integrity Business Development Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Specialized Digital Architect",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Operator I, Warehouse Operations",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Principal Design Strategist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Field Service Representative - Power Distribution/Electrical",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Warehouse Associate",
+          "title": "Field Service Representative - Power Distribution/Electrical",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Solution Architect - Digital Power",
-          "state": "",
+          "title": "Principal Design Strategist",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Site Superintendent I",
+          "title": "Associate, Project Execution",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Senior Engineer I, Cybersecurity Advanced Consulting and Engineering Solutions",
-          "state": "",
+          "title": "Field Service Representative - Power Distribution/Electrical",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         }
       ],
       "patents": [],
@@ -1810,139 +1683,126 @@
       ],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Sales Training Manager",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Head of Sales Compensation Varian",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-29"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1976,117 +1836,123 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
@@ -2294,120 +2160,133 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Designer II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
         {
           "title": "Site Superintendent",
           "state": "CA",
@@ -2560,15 +2439,6 @@
             "Municipal"
           ],
           "postedDate": "2026-06-28"
-        },
-        {
-          "title": "Permit Technician",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-06-27"
         }
       ],
       "patents": [],
@@ -2617,126 +2487,132 @@
       ],
       "activeBids": [
         {
-          "title": "17--TWIST-LOCK ASSEMBLY",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "17--twist-lock",
-            "assembly"
+            "computer",
+            "subassembl"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-20T16:30:00-04:00"
         },
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "gloves",
-            "substitutes*"
+            "voyage",
+            "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
+          "deadline": "2026-08-03T15:00:00+02:00"
         },
         {
-          "title": "Shade Structure Canopy",
-          "state": "TN",
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
           "segment": "Other",
           "keywords": [
-            "shade",
-            "structure",
-            "canopy"
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "62--FLOODLIGHT,ELECTRIC",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Construction Superintendent",
-          "state": "CA",
+          "title": "Maintenance Supervisor, Ft. Bragg",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-27"
+          "postedDate": "2026-07-30"
         },
         {
           "title": "Facilities Manager",
@@ -2841,116 +2717,123 @@
       ],
       "activeBids": [
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "gloves",
-            "substitutes*"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
-        },
-        {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "computer",
+            "subassembl"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "voyage",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T15:00:00+02:00"
+        },
+        {
+          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
+          "state": "ID",
+          "segment": "Other",
+          "keywords": [
+            "nezpr117",
+            "100(1),",
+            "kamiah",
+            "pierce",
+            "repairs"
+          ],
+          "agency": "",
+          "deadline": "2026-08-28T14:00:00-07:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
+          "state": "HI",
+          "segment": "Other",
+          "keywords": [
+            "avaya",
+            "hardware",
+            "software",
+            "maintenance",
+            "support"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "62--FLOODLIGHT,ELECTRIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
+          "title": "59--SWITCH,ROTARY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
+            "59--switch,rotary"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
+          "deadline": "2026-08-10"
         },
         {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "BioOne Complete",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "bioone",
-            "complete"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T17:00:00-05:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
+          "title": "Porta John and Handwashing Station Rental",
           "state": "VA",
           "segment": "Other",
           "keywords": [
-            "nnsy-airgas",
-            "cylinders"
+            "porta",
+            "handwashing",
+            "station",
+            "rental"
           ],
           "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "SEAT, VALVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "seat,",
-            "valve"
-          ],
-          "agency": "",
-          "deadline": null
+          "deadline": "2026-08-03T09:00:00-04:00"
         }
       ],
       "jobPostings": [],
@@ -2994,7 +2877,7 @@
       "contractAwards": [
         {
           "date": "2021-10-01",
-          "value": 70289326.17,
+          "value": 70213326.17,
           "state": "VA",
           "segment": "University",
           "agency": "National Archives and Records Administration",
@@ -3051,355 +2934,341 @@
       ],
       "activeBids": [
         {
-          "title": "Wuji Gloves *No Substitutes*",
-          "state": "NY",
-          "segment": "Other",
-          "keywords": [
-            "gloves",
-            "substitutes*"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T17:00:00-04:00"
-        },
-        {
-          "title": "STANDARDIZED ELECTRONIC MODULE",
+          "title": "COMPUTER SUBASSEMBL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "standardized",
-            "electronic",
-            "module"
+            "computer",
+            "subassembl"
+          ],
+          "agency": "",
+          "deadline": "2026-08-20T16:30:00-04:00"
+        },
+        {
+          "title": "VOYAGE REPAIR (VR)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "voyage",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-03T15:00:00+02:00"
+        },
+        {
+          "title": "Family Retreat BPA",
+          "state": "DE-RP",
+          "segment": "Other",
+          "keywords": [
+            "family",
+            "retreat"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T16:00:00+02:00"
+        },
+        {
+          "title": "48 LRS - Modular Approach Shoring Kit",
+          "state": "GB-SFK",
+          "segment": "Other",
+          "keywords": [
+            "modular",
+            "approach",
+            "shoring"
+          ],
+          "agency": "",
+          "deadline": "2026-08-04T15:00:00+01:00"
+        },
+        {
+          "title": "62--FLOODLIGHT,ELECTRIC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "62--floodlight,electric"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10"
+        },
+        {
+          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
+          "state": "MO",
+          "segment": "Other",
+          "keywords": [
+            "replacement",
+            "needed",
+            "twain",
+            "trade-ins"
           ],
           "agency": "",
           "deadline": "2026-08-03T10:00:00-04:00"
         },
         {
-          "title": "48--VALVE,BALL",
-          "state": "",
+          "title": "JB, MDL Furniture Moving Service",
+          "state": "NJ",
           "segment": "Other",
           "keywords": [
-            "48--valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:00:00-04:00"
-        },
-        {
-          "title": "15--PARTS KIT,FASTENER",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "15--parts",
-            "kit,fastener"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11"
-        },
-        {
-          "title": "Pressure Vessel Tank",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "pressure",
-            "vessel"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T11:00:00-04:00"
-        },
-        {
-          "title": "Kitchen Equipment (Blast Chiller, Tilt Skillet and Conveyor Dishwasher)",
-          "state": "GU",
-          "segment": "Other",
-          "keywords": [
-            "kitchen",
-            "equipment",
-            "(blast",
-            "chiller,",
-            "skillet"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T10:00:00+10:00"
-        },
-        {
-          "title": "BioOne Complete",
-          "state": "MD",
-          "segment": "Other",
-          "keywords": [
-            "bioone",
-            "complete"
-          ],
-          "agency": "",
-          "deadline": "2026-08-14T17:00:00-05:00"
-        },
-        {
-          "title": "STATOR RAIL ASSY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "stator"
-          ],
-          "agency": "",
-          "deadline": "2026-08-28T16:30:00-04:00"
-        },
-        {
-          "title": "NNSY-Airgas Cylinders",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "nnsy-airgas",
-            "cylinders"
-          ],
-          "agency": "",
-          "deadline": "2026-07-29T15:00:00-04:00"
-        },
-        {
-          "title": "SEAT, VALVE",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "seat,",
-            "valve"
+            "furniture",
+            "moving",
+            "service"
           ],
           "agency": "",
           "deadline": null
+        },
+        {
+          "title": "Sole Source - Power Amplifiers",
+          "state": "RI",
+          "segment": "Other",
+          "keywords": [
+            "source",
+            "power",
+            "amplifiers"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "FILTER ELEMENT, FLUID / QPL NSN 1650-01-114-1899 / FA-18 AIRCRAFT",
+          "state": "OH",
+          "segment": "Other",
+          "keywords": [
+            "filter",
+            "element,",
+            "fluid",
+            "1650-01-114-1899",
+            "fa-18"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "NIIN: 016826213/ NOMEN: WHEEL ASSEMBLY, AIRC",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "niin:",
+            "016826213/",
+            "nomen:",
+            "wheel",
+            "assembly,"
+          ],
+          "agency": "",
+          "deadline": "2026-08-05T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Dispatcher",
+          "title": "Senior Facility Manager, Special Assignments",
           "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-28"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Service Contracts Coordinator",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Payroll Manager",
+          "title": "Controller",
           "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "BAS Engineer Fall Co-op",
+          "title": "MEP Construction Project Manager",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Dock Technician",
+          "title": "Service Coordinator",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Fire Alarm Technician Trainee",
+          "title": "Senior Facility Manager, Special Assignments",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Low Voltage Integration Technician / Apprentice",
-          "state": "OH",
+          "title": "Electrical Helper (WILM VERN EW)",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Project Manager in Training",
-          "state": "OH",
-          "segment": "Municipal",
+          "title": "Senior Facility Manager, Special Assignments",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Civil Foreman (RAL FUJI RM)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Onsite HVAC Technician IV - V (Critical Infrastructure)",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "IT Supervisor",
+          "state": "MA",
+          "segment": "Healthcare",
           "tags": [
-            "Municipal"
+            "Healthcare"
           ],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "HVAC Tech I",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
+          "title": "J. C. Higgins Corp. - Financial Analyst / ERP Specialist",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Field Welder (TIG, Orbital) / Pipefitter",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Rigger Helper (WILM SHOP BM)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Assistant Project Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "PPM Warehouse Operations- (JEFF); 6.10",
+          "title": "HVAC Service Technician II - V",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "PPM Electrician - (NI CAT OG) 6.3",
+          "title": "Senior Facility Manager, Special Assignments",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Ohmstede Ltd. Material Estimator",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Facilities Assistant",
+          "title": "Electrical Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Electrical Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Electrical Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "NCCER Industrial Electrician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Industrial Electrician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Lead Facility Coordinator, Interior Services",
           "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Payroll Specialist, Construction",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Pipefitter",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Heritage Mechanical Services, Inc.",
-          "state": "NY",
+          "title": "Project Manager",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "OH",
+          "title": "Building Engineer - Union",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Eagle Electrical Services",
-          "state": "OH",
+          "title": "Inspector Trainee",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Manager",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Manager",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "HVAC Technician IV - Critical Infrastructure Floater (Munters Specialist)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Onsite Service HVAC Technician IV - V (Critical Infrastructure)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Instrument Apprentice - Texas City",
+          "state": "TX",
           "segment": "Municipal",
           "tags": [
             "Municipal"
           ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "EMCOR Services Automated Controls",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "CA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Contra Costa Electric, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "The Fagan Company",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "The Fagan Company",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
+          "postedDate": "2026-07-29"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
+          "published": "Thu, 30 Jul 2026 11:35:08 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
@@ -3451,6 +3320,13 @@
       "jobPostings": [
         {
           "title": "Capital Markets Director",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Capital Markets Director",
           "state": "TX",
           "segment": "Other",
           "tags": [],
@@ -3488,7 +3364,15 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "ASE Master Automotive Technician - 4 Day Work Week",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -3561,8 +3445,106 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Construction Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
           "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Senior Solar Energy Engineer - Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-29"
@@ -3576,7 +3558,7 @@
         },
         {
           "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "VA",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-29"
@@ -3596,14 +3578,7 @@
           "postedDate": "2026-07-28"
         },
         {
-          "title": "Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Electrical Engineer Intern/Co-op Fall 2026",
+          "title": "Construction Manager - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
           "tags": [],
@@ -3631,8 +3606,8 @@
           "postedDate": "2026-07-26"
         },
         {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "",
+          "title": "Electrical Engineer",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-25"
@@ -3645,20 +3620,6 @@
           "postedDate": "2026-07-25"
         },
         {
-          "title": "Electrical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "PA",
           "segment": "Other",
@@ -3678,76 +3639,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Electrical Design Engineer",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-23"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-23"
         },
         {
           "title": "Senior Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-23"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-23"
-        },
-        {
-          "title": "Senior Commissioning Specialist",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-23"
+          "postedDate": "2026-07-25"
         }
       ],
       "patents": [],
@@ -3779,6 +3677,13 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Superintendent Mechanical Sheetmetal",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        },
+        {
           "title": "Senior Project Developer",
           "state": "CA",
           "segment": "Other",
@@ -3807,14 +3712,14 @@
           "postedDate": "2026-07-26"
         },
         {
-          "title": "Mission Critical Superintendent",
+          "title": "Safety Coordinator",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-26"
         },
         {
-          "title": "Safety Coordinator",
+          "title": "Mission Critical Superintendent",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
@@ -3972,13 +3877,6 @@
         {
           "title": "Purchasing Agent, Associate",
           "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Boiler Service Technician",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-24"
