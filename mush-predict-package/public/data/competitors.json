@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30",
+  "last_updated": "2026-07-31",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,128 +95,139 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [
         {
-          "title": "HVAC Controls Systems Engineer",
+          "title": "Air Cooled Product Technician (onsite)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -224,123 +235,31 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Project Manager II",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "HVAC Equipment Account Executive",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Fire Alarm Installation Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Buyer II",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Security Sales Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Ai Engineer",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Field IT Support Specialist",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Security Alarm Installer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Ai Engineer",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Fire Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Field Engineer",
+          "title": "CNC Brake Press Operator 2nd Shift",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "HVAC Truck Based Mechanic (union)",
+          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Lead HVAC Controls Technician - Part-time (Job number: 1651)",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Fire Inspector (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -348,21 +267,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Project Manager II",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Fire Alarm Apprentice",
+          "title": "Fire Detection Inspector",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -370,68 +278,89 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Production Scheduler",
+          "title": "Security & Fire Lead Systems Specialist PM",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Mechanical Service Apprentice (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Fire Alarm Inspector",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Fire Project Manager 1",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Field Project Manager - Fire",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
           "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Ai Engineer",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
+          "title": "Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "HVAC Scheduler/Dispatcher",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Fire Sales Manager",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Journeyman HVAC Chiller Mechanic, Navy Systems (Job Number: 1647)",
+          "title": "Security Systems Account Executive",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Fire Install Manager",
+          "title": "Suppression Sales Representative 4",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "HVAC Scheduler/Dispatcher",
+          "title": "Fire Sales Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -439,14 +368,54 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "HVAC TB Data Center Mechanic (un)",
-          "state": "TX",
+          "title": "Fire Service Sales Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Sprinkler Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Control Systems Application Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Equipment Systems Application Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Fire Detection Business Development Manager, West",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-31"
         }
       ],
       "patents": [],
@@ -565,185 +534,294 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior IT Implementation Manager \u2013 Sales Tools & Order/Project Mgt",
+          "title": "HVAC Apprentice Technician",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Bid Coordinator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Quality Technician I - 1st Shift",
+          "title": "Accountant II",
           "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Workday Configurator",
+          "title": "Apprentice-Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Central US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Energy Services Strategic Sales - Western US",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Controls Estimator- Orlando/Tampa",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Commercialization Leader - Smart Services (Remote)",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Energy Services Strategic Sales - Eastern US",
+          "title": "Energy Engineering Co-op",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "2nd Shift Quality Inspector",
+          "title": "Rental Fulfillment Specialist- Tampa, FL",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Senior Product Manager - Smart Services (Remote)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "2nd Shift Warehouse Team Leader",
+          "title": "Sales Leader",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Technical Sales Enablement Engineer",
+          "title": "Warehouse Associate",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Senior Product Manager- Smart Services (Remote)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Senior Business Insights Analyst",
           "state": "WI",
           "segment": "Other",
           "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Construction Project Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "HVAC Chiller Technician - Journeyman",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Product Manager- Smart Services",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Customer Specialist",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Team Lead 1st Shift - P5",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-07-30"
         },
         {
-          "title": "Project Manager Equipment",
-          "state": "NC",
+          "title": "Area General Manager - Supply",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-30"
@@ -751,7 +829,15 @@
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Is Thermal Energy International (TSXV:TMG) a buy? - Cantech Letter",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRU5FRFgweUhVSHpCaEJxRFMzV19ydFZ0Z01pampYRVptZE5qNFJORHhfRkFjWlJUQnBHdnBqdEc5dE9TSERWT3F2b3diZ3plV3FRUXdGWmtXNmE0WE55dkZqTXFIakswdkRDR0xYUzJ2eWI2cV9xd19ESWE3TWlxNXZNMWt0MkUzY2RJdNIBkgFBVV95cUxQSFg0bDNrdWQ2NVRsdEQwQzZ1ZXlzZnJQNjR6NFRfZWprNT",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRU5FRFgweUhVSHpCaEJxRFMzV19ydFZ0Z01pampYRVptZE5qNFJORHhfRkFjWlJUQnBHdnBqdEc5dE9TSERWT3F2b3diZ3plV3FRUXdGWmtXNmE0WE55dkZqTXFIakswdkRDR0xYUzJ2eWI2cV9xd19ESWE3TWlxNXZNMWt0MkUzY2RJdNIBkgFBVV95cUxQSFg0bDNrdWQ2NVRsdEQwQzZ1ZXlzZnJQNjR6NFRfZWprNTF3RWJIOHhlZmlfeDM3WWNFRGlYaUVpUFZOaktIMWJwZjhMUFJOSlV3dmpPQkRIMnRSNWctTExSUjVmNmsyQ1RlMnNPSHUxWWlheHBCUEpqUWJuTmpMTWNBcVNsalhJeHRxT0g2SWdiZw?oc=5",
+          "published": "Thu, 30 Jul 2026 16:08:00 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
@@ -802,126 +888,169 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Quality Control Inspector",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Mechanical Superintendent",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
         {
           "title": "Site Safety Manager",
           "state": "",
@@ -943,13 +1072,6 @@
             "University"
           ],
           "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Senior Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
         },
         {
           "title": "Corporate Safety Operations Lead - West",
@@ -1005,22 +1127,6 @@
             "University"
           ],
           "postedDate": "2026-07-23"
-        },
-        {
-          "title": "HVAC Controls Service Technician",
-          "state": "FL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Senior Controls System Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
         },
         {
           "title": "Integration Technician",
@@ -1079,17 +1185,6 @@
         },
         {
           "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Senior Proposal Coordinator",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -1219,6 +1314,17 @@
             "University"
           ],
           "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Senior Construction Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-10"
         }
       ],
       "patents": [],
@@ -1237,6 +1343,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5\" target=\"_blank\">Evansville to power municipal fa",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5",
           "published": "Thu, 09 Jul 2026 20:19:20 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
+          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -1311,213 +1424,137 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
-      "jobPostings": [
-        {
-          "title": "Security Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Security Project Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Triconex Process Safety and Integrity Business Development Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Triconex Process Safety and Integrity Business Development Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Specialized Digital Architect",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Operator I, Warehouse Operations",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Principal Design Strategist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Principal Design Strategist",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Associate, Project Execution",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1683,126 +1720,168 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Social Media Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Travel MRI Technologist - $2,850 per week",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Manufacturing Training Supervisor",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Social Media Manager",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1836,123 +1915,134 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [
@@ -2160,123 +2250,134 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [
@@ -2449,7 +2550,7 @@
           "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdU",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdUZ3NzNMVWc1elRCZEp6YmEwdW43VllDOFFSeFdITnlCUdIB3wFBVV95cUxNbEFoeW82RGViZWFFNjdBYS01TVpPemVRWks1V3VPYm1HdjVnVElqYk42RUxHdTJaSnlxNm44QlNQaF82bTBPYW1xaXZ5TFFmNjI0X18zZ3ZYdXNSYUdRUG8yREpjbHlyY1N0dzIwbjZrS0pTbi1iSU5aUkRBcWcxT0tJakh0c0MzbFRaeFdqVDZ2a2FteWJBRGRTVkZUQlFHeWR5QVZma3JjYmNmM2xVbWh3am9ic0J5SzVMeTJyQkpqXzVGbkpFd1o3MFFLbkM5bDZaci1kdUdnYWFzZFhJ?oc=5",
-          "published": "Sat, 18 Jul 2026 15:34:28 GMT"
+          "published": "Sat, 18 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -2487,123 +2588,134 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [
@@ -2634,13 +2746,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-06-19"
-        },
-        {
-          "title": "IT Intern",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-06-17"
         }
       ],
       "patents": [],
@@ -2717,129 +2822,147 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
-            "repair"
+            "program",
+            "design",
+            "american",
+            "spaces"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-31T16:45:00-04:00"
         },
         {
-          "title": "ID FS NEZPR117 100(1), Kamiah Pierce Road Repairs",
-          "state": "ID",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "nezpr117",
-            "100(1),",
-            "kamiah",
-            "pierce",
-            "repairs"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-28T14:00:00-07:00"
+          "deadline": "2026-08-17T16:30:00-04:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
           "segment": "Other",
           "keywords": [
-            "family",
-            "retreat"
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
           ],
           "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
+          "deadline": "2026-08-10T23:59:00-04:00"
         },
         {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
           "segment": "Other",
           "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "Avaya PBX Hardware & Software Maintenance Support Services Naval Facilities Engineering Systems Command (NAVFAC) Pacific (PAC)",
-          "state": "HI",
-          "segment": "Other",
-          "keywords": [
-            "avaya",
-            "hardware",
-            "software",
-            "maintenance",
-            "support"
+            "construction",
+            "security",
+            "services",
+            "niwdc"
           ],
           "agency": "",
           "deadline": null
         },
         {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-31T00:00:00-04:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
+            "repair"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T13:00:00+09:00"
+        },
+        {
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
+          ],
+          "agency": "",
+          "deadline": "2026-09-05T10:00:00+01:00"
+        },
+        {
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "59--SWITCH,ROTARY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "59--switch,rotary"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10"
-        },
-        {
-          "title": "Porta John and Handwashing Station Rental",
-          "state": "VA",
-          "segment": "Other",
-          "keywords": [
-            "porta",
-            "handwashing",
-            "station",
-            "rental"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T09:00:00-04:00"
+          "deadline": null
         }
       ],
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "NORESCO sold; Ipswich official says it will have 'no impact' on local energy-efficiency project - thelocalnews.news",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbD",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbDBZRkJzQWJIaEVTSDhKb3F3?oc=5",
+          "published": "Thu, 30 Jul 2026 20:28:20 GMT"
+        },
         {
           "source": "google_news",
           "title": "Carrier Announces Agreement to Sell NORESCO to OPTERRA Energy Services - PR Newswire",
@@ -2934,328 +3057,334 @@
       ],
       "activeBids": [
         {
-          "title": "COMPUTER SUBASSEMBL",
+          "title": "16--HEAT,EXCHANGER",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "computer",
-            "subassembl"
+            "16--heat,exchanger"
           ],
           "agency": "",
-          "deadline": "2026-08-20T16:30:00-04:00"
+          "deadline": ""
         },
         {
-          "title": "VOYAGE REPAIR (VR)",
+          "title": "RFQ - PAS Program Design for American Spaces",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "voyage",
+            "program",
+            "design",
+            "american",
+            "spaces"
+          ],
+          "agency": "",
+          "deadline": "2026-08-31T16:45:00-04:00"
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-08-17T16:30:00-04:00"
+        },
+        {
+          "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "sources",
+            "sought:",
+            "technology",
+            "independent",
+            "verification"
+          ],
+          "agency": "",
+          "deadline": "2026-08-10T23:59:00-04:00"
+        },
+        {
+          "title": "Construction Security Services NIWDC",
+          "state": "VA",
+          "segment": "Other",
+          "keywords": [
+            "construction",
+            "security",
+            "services",
+            "niwdc"
+          ],
+          "agency": "",
+          "deadline": null
+        },
+        {
+          "title": "59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "59--circuit",
+            "assemb,",
+            "repair/modification"
+          ],
+          "agency": "",
+          "deadline": "2026-08-31T00:00:00-04:00"
+        },
+        {
+          "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
+          "state": "",
+          "segment": "Other",
+          "keywords": [
+            "install,",
+            "configure,",
+            "provide",
+            "maintenance,",
             "repair"
           ],
           "agency": "",
-          "deadline": "2026-08-03T15:00:00+02:00"
+          "deadline": "2026-08-10T13:00:00+09:00"
         },
         {
-          "title": "Family Retreat BPA",
-          "state": "DE-RP",
-          "segment": "Other",
-          "keywords": [
-            "family",
-            "retreat"
-          ],
-          "agency": "",
-          "deadline": "2026-08-10T16:00:00+02:00"
-        },
-        {
-          "title": "48 LRS - Modular Approach Shoring Kit",
-          "state": "GB-SFK",
-          "segment": "Other",
-          "keywords": [
-            "modular",
-            "approach",
-            "shoring"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T15:00:00+01:00"
-        },
-        {
-          "title": "62--FLOODLIGHT,ELECTRIC",
+          "title": "WATER SYSTEM FAULTY PROGRAMMABLE LOGIC CONTROLER  REPLACEMENT",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "62--floodlight,electric"
+            "water",
+            "system",
+            "faulty",
+            "programmable",
+            "logic"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-09-05T10:00:00+01:00"
         },
         {
-          "title": "Replacement UTVs Needed for the Mark Twain N.F. With Trade-Ins",
-          "state": "MO",
+          "title": "RFQ CONS JNB SUPPLY AND DELIVERY OF 15000LT 50PPM DIESEL WITH TEST KITS",
+          "state": "ZA-GT",
+          "segment": "Other",
+          "keywords": [
+            "supply",
+            "delivery",
+            "15000lt",
+            "50ppm",
+            "diesel"
+          ],
+          "agency": "",
+          "deadline": "2026-08-12T17:00:00-04:00"
+        },
+        {
+          "title": "REPLACEMENT OF WOOD PLASTIC COMPOSITE DECK FOR ALL FAMILY HOUSING UNITS, CFAC",
+          "state": "KR-48",
           "segment": "Other",
           "keywords": [
             "replacement",
-            "needed",
-            "twain",
-            "trade-ins"
-          ],
-          "agency": "",
-          "deadline": "2026-08-03T10:00:00-04:00"
-        },
-        {
-          "title": "JB, MDL Furniture Moving Service",
-          "state": "NJ",
-          "segment": "Other",
-          "keywords": [
-            "furniture",
-            "moving",
-            "service"
+            "plastic",
+            "composite",
+            "family",
+            "housing"
           ],
           "agency": "",
           "deadline": null
-        },
-        {
-          "title": "Sole Source - Power Amplifiers",
-          "state": "RI",
-          "segment": "Other",
-          "keywords": [
-            "source",
-            "power",
-            "amplifiers"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "FILTER ELEMENT, FLUID / QPL NSN 1650-01-114-1899 / FA-18 AIRCRAFT",
-          "state": "OH",
-          "segment": "Other",
-          "keywords": [
-            "filter",
-            "element,",
-            "fluid",
-            "1650-01-114-1899",
-            "fa-18"
-          ],
-          "agency": "",
-          "deadline": null
-        },
-        {
-          "title": "NIIN: 016826213/ NOMEN: WHEEL ASSEMBLY, AIRC",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "niin:",
-            "016826213/",
-            "nomen:",
-            "wheel",
-            "assembly,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-05T16:30:00-04:00"
         }
       ],
       "jobPostings": [
         {
-          "title": "Senior Facility Manager, Special Assignments",
+          "title": "Welder II",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Controller",
+          "title": "Regional Safety Professional",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Engineer (DOT)",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Stationary Engineer- Shift Lead (DOE - F) Schedule: Sunday - Thursday 3pm - 11pm",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Regional Safety Professional",
           "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "MEP Construction Project Manager",
+          "title": "Regional Safety Professional",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Regional Safety Professional",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Service Coordinator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Senior Facility Manager, Special Assignments",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Electrical Helper (WILM VERN EW)",
+          "title": "Mechanical Specialties Contractors, Inc. Job Template - Field Orbital Welder / Pipefitter",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Senior Facility Manager, Special Assignments",
+          "title": "Contract Sales Representative",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Civil Foreman (RAL FUJI RM)",
+          "title": "Service Sales Representative",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Onsite HVAC Technician IV - V (Critical Infrastructure)",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "IT Supervisor",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "J. C. Higgins Corp. - Financial Analyst / ERP Specialist",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Service Technician II - V",
+          "title": "Business Development Associate",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Senior Facility Manager, Special Assignments",
+          "title": "QA/QC Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Fire Alarm Estimator",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Superintendent",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "AP Specialist",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Front Desk Administrator",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Field Superintendent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "QC Inspector",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "HVAC Service Technician",
           "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Ohmstede Ltd. Material Estimator",
-          "state": "",
+          "title": "Project Assistant",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
         },
         {
-          "title": "Electrical Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Electrical Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Electrical Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "NCCER Industrial Electrician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Industrial Electrician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Lead Facility Coordinator, Interior Services",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Project Manager",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Building Engineer - Union",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Inspector Trainee",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Project Manager",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Project Manager",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "HVAC Technician IV - Critical Infrastructure Floater (Munters Specialist)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Onsite Service HVAC Technician IV - V (Critical Infrastructure)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Instrument Apprentice - Texas City",
-          "state": "TX",
-          "segment": "Municipal",
+          "title": "Mechanical Construction Project Manager",
+          "state": "CA",
+          "segment": "University",
           "tags": [
-            "Municipal"
+            "University"
           ],
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Mechanical Project Engineer",
+          "state": "CA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Warehouse Lead / Driver",
+          "state": "CA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Mechanical Project Engineer",
+          "state": "CA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "GMW I - General Maintenance Worker I (Stanford Healthcare Center)",
+          "state": "CA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Onsite IT Support Representative II - Temp-To-Hire",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
         }
       ],
       "patents": [],
@@ -3364,15 +3493,7 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "ASE Master Automotive Technician - 4 Day Work Week",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -3445,6 +3566,100 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Engineer - CMTA",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "BIM Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Construction Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
           "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "CA",
           "segment": "Other",
@@ -3461,27 +3676,6 @@
         {
           "title": "Electrical Engineer",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-29"
@@ -3529,13 +3723,6 @@
           "postedDate": "2026-07-29"
         },
         {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
           "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
@@ -3562,13 +3749,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
         },
         {
           "title": "Mechanical Engineer",
@@ -3578,74 +3758,18 @@
           "postedDate": "2026-07-28"
         },
         {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "VA",
+          "title": "Mechanical Engineer",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-28"
         },
         {
-          "title": "Senior Electrical Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Senior Electrical Engineer",
+          "title": "Electrical Engineer Intern/Co-op Fall 2026",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-25"
+          "postedDate": "2026-07-28"
         }
       ],
       "patents": [],
@@ -3677,13 +3801,6 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Superintendent Mechanical Sheetmetal",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
           "title": "Senior Project Developer",
           "state": "CA",
           "segment": "Other",
@@ -3698,14 +3815,14 @@
           "postedDate": "2026-07-27"
         },
         {
-          "title": "Commissioning Lead",
-          "state": "",
+          "title": "Senior Safety Coordinator",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-27"
+          "postedDate": "2026-07-26"
         },
         {
-          "title": "Senior Safety Coordinator",
+          "title": "Mission Critical Superintendent",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
@@ -3720,20 +3837,13 @@
         },
         {
           "title": "Mission Critical Superintendent",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Mission Critical Superintendent",
           "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-26"
         },
         {
-          "title": "Proposal Data Specialist (Construction/Engineering)",
+          "title": "Marketing Proposal Data Specialist (Construction/Engineering)",
           "state": "VA",
           "segment": "Other",
           "tags": [],
@@ -3877,6 +3987,20 @@
         {
           "title": "Purchasing Agent, Associate",
           "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Boiler Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Logistics Supervisor",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-24"
