@@ -109,10 +109,10 @@ export default function StrategicForecast({ competitors, signals }) {
 
               {/* Expanded drill-down panel */}
               {isOpen && (
-                <div className="px-5 pb-5 pt-1 border-t border-white/5">
-                  <CompetitorDrilldown competitor={f.raw} />
-                </div>
-              )}
+      <div className="px-5 pb-5 pt-1 border-t border-white/5">
+        <CompetitorDrilldown competitor={f.raw} signals={signals} />
+      </div>
+    )}
             </div>
           )
         })}
