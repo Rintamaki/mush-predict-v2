@@ -1,0 +1,50 @@
+name: Recategorize Signals (one-time)
+
+# Manual trigger only — this is a one-time cleanup, not a scheduled job.
+on:
+  workflow_dispatch:
+
+jobs:
+  recategorize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run re-categorization
+        run: python scrapers/recategorize_signals.py
+
+      - name: Upload updated signals
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import base64, json, os, urllib.request
+          token = os.environ["GITHUB_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          path = "mush-predict-package/public/data/signals.json"
+          if not os.path.exists(path):
+              print("No signals.json to upload")
+              exit(0)
+          with open(path, "rb") as f:
+              content = base64.b64encode(f.read()).decode()
+          url = f"https://api.github.com/repos/{repo}/contents/{path}"
+          req = urllib.request.Request(url, headers={"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"})
+          try:
+              with urllib.request.urlopen(req) as r:
+                  sha = json.loads(r.read())["sha"]
+          except:
+              sha = ""
+          data = json.dumps({"message": "One-time signal re-categorization", "content": content, "sha": sha}).encode()
+          req2 = urllib.request.Request(url, data=data, method="PUT", headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
+          urllib.request.urlopen(req2)
+          print(f"Uploaded {path}")
+          PYEOF
