@@ -285,7 +285,8 @@
     "timestamp": "2018-07-09",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "c70651f621356fe6ee6677e5992230c9"
+    "id": "c70651f621356fe6ee6677e5992230c9",
+    "segment": "University"
   },
   {
     "company": "Johnson Controls",
@@ -294,7 +295,8 @@
     "timestamp": "2021-10-18",
     "source": "General Services Administration",
     "url": "",
-    "id": "40fb680500de3149f79543b0a92f5323"
+    "id": "40fb680500de3149f79543b0a92f5323",
+    "segment": "Municipal"
   },
   {
     "company": "Johnson Controls",
@@ -330,7 +332,8 @@
     "timestamp": "2023-05-25",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "1617c3f56062f506a816d176c8860db7"
+    "id": "1617c3f56062f506a816d176c8860db7",
+    "segment": "Healthcare"
   },
   {
     "company": "Trane Technologies",
@@ -438,7 +441,8 @@
     "timestamp": "2023-05-26",
     "source": "General Services Administration",
     "url": "",
-    "id": "951c0ba1937a7203ecec09707ae6f9ce"
+    "id": "951c0ba1937a7203ecec09707ae6f9ce",
+    "segment": "Municipal"
   },
   {
     "company": "Trane Technologies",
@@ -447,7 +451,8 @@
     "timestamp": "2023-05-25",
     "source": "General Services Administration",
     "url": "",
-    "id": "bd1766d1d16752f92a1daf84e35da6d7"
+    "id": "bd1766d1d16752f92a1daf84e35da6d7",
+    "segment": "Municipal"
   },
   {
     "company": "Trane Technologies",
@@ -456,7 +461,8 @@
     "timestamp": "2019-01-08",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "1302e85629317326254510c1d179e64f"
+    "id": "1302e85629317326254510c1d179e64f",
+    "segment": "Healthcare"
   },
   {
     "company": "Trane Technologies",
@@ -474,7 +480,8 @@
     "timestamp": "2021-02-03",
     "source": "General Services Administration",
     "url": "",
-    "id": "39fb9e91a418ff30f52b5d482967bc6e"
+    "id": "39fb9e91a418ff30f52b5d482967bc6e",
+    "segment": "Municipal"
   },
   {
     "company": "Trane Technologies",
@@ -483,7 +490,8 @@
     "timestamp": "2022-06-03",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "51d849195365653f07c57d9d64096c4a"
+    "id": "51d849195365653f07c57d9d64096c4a",
+    "segment": "Healthcare"
   },
   {
     "company": "Trane Technologies",
@@ -492,7 +500,8 @@
     "timestamp": "2019-08-06",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "cfa43faac16ad43f828b9aa37397901b"
+    "id": "cfa43faac16ad43f828b9aa37397901b",
+    "segment": "Healthcare"
   },
   {
     "company": "Ameresco",
@@ -771,7 +780,8 @@
     "timestamp": "Tue, 23 Jun 2026 07:00:00 GMT",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
-    "id": "a8708b371583901d6bf11a596a12fbcd"
+    "id": "a8708b371583901d6bf11a596a12fbcd",
+    "segment": "Schools"
   },
   {
     "company": "Ameresco",
@@ -951,7 +961,8 @@
     "timestamp": "2015-09-30",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "e40a4df8bb31023cec852131f6a0b6d6"
+    "id": "e40a4df8bb31023cec852131f6a0b6d6",
+    "segment": "Healthcare"
   },
   {
     "company": "Schneider Electric",
@@ -969,7 +980,8 @@
     "timestamp": "2025-08-04",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "a7fa16fbb0c6900e3c6fc46299281161"
+    "id": "a7fa16fbb0c6900e3c6fc46299281161",
+    "segment": "University"
   },
   {
     "company": "Schneider Electric",
@@ -987,7 +999,8 @@
     "timestamp": "Tue, 09 Jun 2026 07:00:00 GMT",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
-    "id": "6565f7dd10f975a9fd3a50641be30fed"
+    "id": "6565f7dd10f975a9fd3a50641be30fed",
+    "segment": "University"
   },
   {
     "company": "Siemens Smart Infrastructure",
@@ -1122,7 +1135,8 @@
     "timestamp": "2023-07-01",
     "source": "Department of Veterans Affairs",
     "url": "",
-    "id": "612940b654d2a241446244092ab38142"
+    "id": "612940b654d2a241446244092ab38142",
+    "segment": "Healthcare"
   },
   {
     "company": "Siemens Smart Infrastructure",
@@ -1131,7 +1145,8 @@
     "timestamp": "2024-04-05",
     "source": "General Services Administration",
     "url": "",
-    "id": "100660a7df232e0fadc8436cad70c383"
+    "id": "100660a7df232e0fadc8436cad70c383",
+    "segment": "Municipal"
   },
   {
     "company": "Siemens Smart Infrastructure",
@@ -1149,7 +1164,8 @@
     "timestamp": "2019-10-01",
     "source": "Department of Health and Human Services",
     "url": "",
-    "id": "9a23b89a391748aa39f5f682030c2d7e"
+    "id": "9a23b89a391748aa39f5f682030c2d7e",
+    "segment": "University"
   },
   {
     "company": "Johnson Controls",
@@ -2235,7 +2251,7 @@
     "title": "Decatur School Board approves series of policy updates, handbook modification - Westside Eagle Observer",
     "timestamp": "Tue, 23 Jun 2026 12:00:00 GMT",
     "state": "",
-    "segment": "",
+    "segment": "Schools",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEN6VTlNb05XVXJ6em50OXJRSHRPVXl4emNjYkVyaXQ5bnBXRGdLN2hrZ2FKQXpnNWNTMnY4MWdNb3BERVVWRHV2MkxDY3ZlMFk4T2RnZ1ctQ295U292cVZydjVUTHNOVTByeTFaOURCM2VXMmpjVlo1MWdzd1BybkNZMlRXenBoWlY1NmRMVjR5THB1UlpKd0F3?oc=5",
     "id": "ab95a0e693962ff09f5cdea3f4dbdb9d"
@@ -2254,7 +2270,7 @@
   {
     "company": "Bernhard",
     "type": "job",
-    "title": "ASE Master Automotive Technician – 4 Day Work Week",
+    "title": "ASE Master Automotive Technician \u2013 4 Day Work Week",
     "timestamp": "2026-05-14",
     "state": "IL",
     "segment": "Other",
@@ -2925,7 +2941,7 @@
   {
     "company": "Southland Industries",
     "type": "news",
-    "title": "Crusoe Energy’s West Texas Data Center Projects Showcase Speed, Scale, and Collaboration - Associated Construction Publications",
+    "title": "Crusoe Energy\u2019s West Texas Data Center Projects Showcase Speed, Scale, and Collaboration - Associated Construction Publications",
     "timestamp": "Tue, 02 Jun 2026 15:53:00 GMT",
     "state": "",
     "segment": "",
@@ -5147,7 +5163,7 @@
   {
     "company": "Johnson Controls",
     "type": "job",
-    "title": "High‑Pressure Hydrotest Technician",
+    "title": "High\u2011Pressure Hydrotest Technician",
     "timestamp": "2026-07-08",
     "state": "CO",
     "segment": "Other",
@@ -5656,7 +5672,7 @@
     "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
     "timestamp": "Wed, 08 Jul 2026 12:08:52 GMT",
     "state": "",
-    "segment": "",
+    "segment": "University",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
     "id": "e561378f51a21e4f37cfc22731225e05"
@@ -7567,7 +7583,7 @@
   {
     "company": "Ameresco",
     "type": "job",
-    "title": "Boiler Operator – Weekend Day Shift",
+    "title": "Boiler Operator \u2013 Weekend Day Shift",
     "timestamp": "2026-07-09",
     "state": "WA",
     "segment": "Schools",
@@ -7592,7 +7608,7 @@
     "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia - CleanTechnica",
     "timestamp": "Thu, 09 Jul 2026 03:50:41 GMT",
     "state": "",
-    "segment": "",
+    "segment": "University",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2NqMVVqb21KemFVdmdHQThxWEQ2Y25xTjFxQm5CQzVydjl6Yndia1hpRlJHTmhHU2ZYSThpVFhmZkVwRW9PcW12UHRJU3dzOVdBMWt4Rk1iQUxWSThhMWdoODdfeEZmZmF5R0Vua3RkZnBSUnZGQzFvS09uT0dvNEdjRTRjd2tQYXZmSG1IdFdPZVREanh2TVYxcWxPajkxeHlralNZQQ?oc=5",
     "id": "02322a7925b4ef333684818d9c61dacc"
@@ -7996,7 +8012,7 @@
   {
     "company": "Cenergistic",
     "type": "job",
-    "title": "Mechanical Engineer – HVAC & Building Systems.2",
+    "title": "Mechanical Engineer \u2013 HVAC & Building Systems.2",
     "timestamp": "2026-07-09",
     "state": "",
     "segment": "Municipal",
@@ -9583,7 +9599,7 @@
     "title": "Evansville to power municipal facilities with solar energy - AOL.com",
     "timestamp": "Thu, 09 Jul 2026 20:19:20 GMT",
     "state": "",
-    "segment": "",
+    "segment": "Municipal",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5",
     "id": "b54070812372e031d1be7325ea140012"
@@ -10364,7 +10380,7 @@
     "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
     "timestamp": "Mon, 06 Jul 2026 19:48:28 GMT",
     "state": "",
-    "segment": "",
+    "segment": "Municipal",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
     "id": "c9be77f0a12e14b5e65fcd8b5fae11f6"
@@ -11640,7 +11656,7 @@
     "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
     "timestamp": "Wed, 08 Jul 2026 12:05:00 GMT",
     "state": "",
-    "segment": "",
+    "segment": "University",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
     "id": "19b2a730b7e4ecdf6750811050286b2b"
@@ -19810,10 +19826,10 @@
   {
     "company": "Ameresco",
     "type": "news",
-    "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia’s Campuses, Reducing Grid Dependency - energytech.com",
+    "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia\u2019s Campuses, Reducing Grid Dependency - energytech.com",
     "timestamp": "Tue, 14 Jul 2026 17:55:46 GMT",
     "state": "",
-    "segment": "",
+    "segment": "University",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2h4bGlhZWJOQ0ZvczNyT0txR1Atd0JzNEFDS1RpeU1QeGFSR2trdUpoQ1AyWmNjZ3JZN1RhelFvb2c?oc=5",
     "id": "90235130c30ab8b47deaf439437453f9"
@@ -21680,7 +21696,7 @@
   {
     "company": "Ameresco",
     "type": "job",
-    "title": "Electrician – Norfolk Naval Base",
+    "title": "Electrician \u2013 Norfolk Naval Base",
     "timestamp": "2026-07-16",
     "state": "",
     "segment": "Schools",
@@ -30370,7 +30386,7 @@
   {
     "company": "Willdan Group",
     "type": "news",
-    "title": "Should Willdan’s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
+    "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
     "timestamp": "Sat, 18 Jul 2026 15:34:28 GMT",
     "state": "",
     "segment": "",
@@ -31473,7 +31489,7 @@
     "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
     "timestamp": "Wed, 08 Jul 2026 07:00:00 GMT",
     "state": "",
-    "segment": "",
+    "segment": "University",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
     "id": "fe1c2db135fe7b618d440f6e1cc386d9"
@@ -32152,7 +32168,7 @@
   {
     "company": "Willdan Group",
     "type": "news",
-    "title": "Should Willdan’s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - webull.com",
+    "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - webull.com",
     "timestamp": "Mon, 20 Jul 2026 07:22:25 GMT",
     "state": "",
     "segment": "",
@@ -32386,7 +32402,7 @@
     "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
     "timestamp": "Mon, 06 Jul 2026 07:00:00 GMT",
     "state": "",
-    "segment": "",
+    "segment": "Municipal",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
     "id": "203f0edaba6020e586303fac732ede4b"
@@ -33662,7 +33678,7 @@
     "title": "Ameresco begins rooftop solar construction at Community College of Philadelphia under Solar for Schools grant - Energies Media",
     "timestamp": "Tue, 21 Jul 2026 23:50:35 GMT",
     "state": "",
-    "segment": "",
+    "segment": "University",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
     "id": "75f0b87e7ce487c3561a3640b62f4c42"
@@ -35408,7 +35424,7 @@
   {
     "company": "Johnson Controls",
     "type": "job",
-    "title": "Técnico Especialista Refrigeración Industrial",
+    "title": "T\u00e9cnico Especialista Refrigeraci\u00f3n Industrial",
     "timestamp": "2026-07-23",
     "state": "",
     "segment": "Other",
@@ -35994,7 +36010,7 @@
     "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - K-12 Dive",
     "timestamp": "Thu, 25 Jun 2026 07:00:00 GMT",
     "state": "",
-    "segment": "",
+    "segment": "Schools",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5",
     "id": "d69e9fbb7ea100867f89d4878f7167d8"
@@ -37784,7 +37800,7 @@
   {
     "company": "Trane Technologies",
     "type": "job",
-    "title": "Tax Analyst –U.S. Federal Compliance",
+    "title": "Tax Analyst \u2013U.S. Federal Compliance",
     "timestamp": "2026-07-24",
     "state": "NC",
     "segment": "Other",
@@ -39800,7 +39816,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "25a63a5f2315e26e2a70ad626e1d8065"
@@ -40009,7 +40025,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "d3c916d5366d2437cc10f84ad5120086"
@@ -40152,7 +40168,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "3607e1e276ecb6b98f49267429be977d"
@@ -40328,7 +40344,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "390d831ce18fdf04ffadeeddd23466b3"
@@ -40449,7 +40465,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "1aa1884301959e34b2251d1fe4be6a98"
@@ -40559,7 +40575,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "32a54fe550b35dd22785454f9202e3d0"
@@ -40680,7 +40696,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "2d41faaa92e915da8affc9c7b0cdf832"
@@ -40790,7 +40806,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "dbd01d1a9448fb32d7c5d7332f2b9eda"
@@ -40900,7 +40916,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "b64f514ab581b6a02a61bfd4301684d9"
@@ -41340,7 +41356,7 @@
     "title": "6505--Lab Supplies | Radiopharm | 5-Year Indefinite  Delivery/Indefinite Quantity (IDIQ) |  VA Pittsburgh Healthcare System",
     "timestamp": null,
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "4bd7113094c9970b654600cc3dfa0cd1"
@@ -48718,7 +48734,7 @@
   {
     "company": "Cenergistic",
     "type": "job",
-    "title": "Mechanical Engineer – HVAC & Building Systems Tulsa, OK",
+    "title": "Mechanical Engineer \u2013 HVAC & Building Systems Tulsa, OK",
     "timestamp": "2026-07-09",
     "state": "",
     "segment": "Municipal",
@@ -49972,7 +49988,7 @@
   {
     "company": "Trane Technologies",
     "type": "job",
-    "title": "Senior IT Implementation Manager – Sales Tools & Order/Project Mgt",
+    "title": "Senior IT Implementation Manager \u2013 Sales Tools & Order/Project Mgt",
     "timestamp": "2026-07-30",
     "state": "WI",
     "segment": "Other",
@@ -50184,7 +50200,7 @@
     "title": "Evansville to power municipal facilities with solar energy - aol.com",
     "timestamp": "Thu, 09 Jul 2026 20:19:20 GMT",
     "state": "",
-    "segment": "",
+    "segment": "Municipal",
     "source": "google_news",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5",
     "id": "a3873b5a4786971054bf87729fff5485"
@@ -50192,7 +50208,7 @@
   {
     "company": "Ameresco",
     "type": "news",
-    "title": "Romania solar project expected to offset ~53,920 metric tons of CO₂ yearly - Stock Titan",
+    "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - Stock Titan",
     "timestamp": "Mon, 27 Jul 2026 12:05:00 GMT",
     "state": "",
     "segment": "",
@@ -51944,7 +51960,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "08537e43a8c502a4d6929e37bd48e080"
@@ -52318,7 +52334,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "878181d4663e0988315fad1beec33913"
@@ -52461,7 +52477,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "8674ea4fde115dbc6d11c2445f77d781"
@@ -52571,7 +52587,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "ce71bafa39efbface4b3cc3279dd4902"
@@ -52725,7 +52741,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "c9eca28e5b65e1619613ba1f09810dab"
@@ -52835,7 +52851,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "a9707a5fb7c327572c3493697fd7fb81"
@@ -52876,7 +52892,7 @@
   {
     "company": "Willdan Group",
     "type": "news",
-    "title": "Should Willdan’s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
+    "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
     "timestamp": "Sat, 18 Jul 2026 07:00:00 GMT",
     "state": "",
     "segment": "",
@@ -52956,7 +52972,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "65edb06810b232c0d9734e8818009542"
@@ -53066,7 +53082,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "48cc7e973cdf627dd77cc2895f4b1b1f"
@@ -53187,7 +53203,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "3b2a7f5247f8e60ccb8b5e65c100f65e"
@@ -53583,7 +53599,7 @@
     "title": "Install, Configure, Provide Maintenance, Repair and Training Services for an Electronic Security System (ESS) to Include Access Control System (ACS) and Closed Circuit Television System (CCTV) for Outlying Hospital Clinics (OHCs), Behavior Health (BH)",
     "timestamp": "2026-08-10T13:00:00+09:00",
     "state": "",
-    "segment": "Other",
+    "segment": "Healthcare",
     "source": "SAM.gov",
     "url": "",
     "id": "ac7bd9a925bcf83c1c44c7b710884583"
@@ -57749,7 +57765,7 @@
   {
     "company": "Ameresco",
     "type": "news",
-    "title": "Romania solar project expected to offset ~53,920 metric tons of CO₂ yearly - stocktitan.net",
+    "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - stocktitan.net",
     "timestamp": "Mon, 27 Jul 2026 12:05:00 GMT",
     "state": "",
     "segment": "",
@@ -57881,7 +57897,7 @@
   {
     "company": "Schneider Electric",
     "type": "job",
-    "title": "Expert, Functional Lead – SAP SD/LE",
+    "title": "Expert, Functional Lead \u2013 SAP SD/LE",
     "timestamp": "2026-08-02",
     "state": "",
     "segment": "Other",
