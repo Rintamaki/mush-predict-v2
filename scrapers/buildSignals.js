@@ -7,6 +7,19 @@ const fs = require("fs")
 const path = require("path")
 const crypto = require("crypto")
 
+const INTENT_KEYWORDS = [
+  ['Leadership', ['vice president','vp ','vp,','senior director','sr director','sr. director','director of','director,','director -','director ',' director','regional director','general manager','managing director','head of','chief','president','regional vice','area manager','market leader']],
+  ['Pursuit', ['sales','business development','bus dev','bd ','account executive','account manager','capture','proposal','estimator','estimating','pre-construction','preconstruction','client executive','market development','sales engineer','solutions engineer','account director','client development','growth']],
+  ['Delivery', ['project manager','project engineer','field engineer','technician','superintendent','installer','service tech','commissioning','controls engineer','mechanical engineer','electrical engineer','construction manager','operations','foreman','site manager','project coordinator','field service','maintenance','startup','design engineer','cad','drafter','estimating coordinator']],
+]
+function classifyIntent(title) {
+  if (!title) return ''
+  const low = title.toLowerCase()
+  for (const [intent, kws] of INTENT_KEYWORDS) {
+    if (kws.some(kw => low.includes(kw))) return intent
+  }
+  return ''
+}
 // === CONFIG ===
 const INPUT_FILE = path.join(
   __dirname,
