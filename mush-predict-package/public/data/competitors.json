@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -95,129 +95,300 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "HVAC Sales Manager",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Project Manager / Project Engineer",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Fire Sales Manager, Western New England",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Fire Project Manager",
+          "state": "NJ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Fire Project Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Life Safety Systems Sales Representative",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manager, Business Development",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Project Manager (onsite)",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Field Project Manager",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Life Safety Systems Sales Rep, Electronic",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Commercial Security Account Executive",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Fire Sprinkler Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Truck Based Mechanic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Chiller Mechanic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Systems Operations Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Administrative Assistant - GDCS Staff",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Fire Alarm Inspector",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Sprinkler Inspector",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "How OpenBlue turns sustainability into business value - johnsoncontrols.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOH",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjlCRExZWUxrQXZtcjFxUjc4cWZhbFp0R2JFT2cwMkhkUE53U0NtZmVVQVpWYXYydlVQdmM4UDVpWDBrZUM3bnhyVWdzVkpraDhGSWo5TE95bm1rM1VxREpncC1YYkdadW9ndWNXZlR4UjQyekk1c1VrTXZvSHY3YWZPUnVPQVE3NW8tNG9QcnJNTGUxNkZVaDlEQndLTW9jeEMweDA0MGRMNl82a2ZJVlVOYWNYUzlaOHRLZGxNMVNPVkJaYmc?oc=5",
-          "published": "Thu, 04 Jun 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -325,112 +496,301 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Engineering Technician - Maintenance P4 - 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Account Manager- HVAC Services",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "1st Shift TCDC Team Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Data Center Technician Team Lead",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P4 - 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Higher Education Vertical Market Leader",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "University"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Area Service Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Client Service Representative I- Charlotte, NC",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Account Manager- HVAC Services",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Manufacturing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Data Center Technician Team Lead",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Production Application Engineer - Building Automation",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Manager, Project Management Office (PMO)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Warranty Analytics & Performance Leader",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Order Management Representative",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Equipment Application Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Sr Controls Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Administrative Assistant II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Maintenance Technician (2nd Shift)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "2027 Technical Sales Intern - Services",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Area Service Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Controls Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Client Service Representative I - Augusta/Atlanta",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Claims Specialist",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -439,7 +799,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -499,112 +859,140 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Senior Project Manager",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
         {
           "title": "Site Safety Manager",
           "state": "",
@@ -626,13 +1014,6 @@
             "University"
           ],
           "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Senior Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
         },
         {
           "title": "Project Coordinator",
@@ -725,17 +1106,6 @@
         {
           "title": "Senior Project Manager",
           "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Electrician \u2013 Norfolk Naval Base",
-          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -908,6 +1278,17 @@
             "University"
           ],
           "postedDate": "2026-07-01"
+        },
+        {
+          "title": "Proposal Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-01"
         }
       ],
       "patents": [],
@@ -943,7 +1324,7 @@
         },
         {
           "source": "google_news",
-          "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - Stock Titan",
+          "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - stocktitan.net",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5\" ",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5",
           "published": "Mon, 27 Jul 2026 12:05:00 GMT"
@@ -961,7 +1342,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1029,262 +1410,282 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [
         {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Regional Sales Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
+          "title": "Senior Energy Management Software Sales Executive",
           "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "EMS Validation Engineering Lead",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "BAS Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Regional Sales Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Regional Sales Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Sales Account Manager - Liquid Cooling LOB",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Associate Client Development Manager II",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Data and Market Intelligence Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Material Associate - Forklift",
-          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools"
           ],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
         },
         {
-          "title": "Field Device - West District Channel Manager",
-          "state": "CA",
+          "title": "Expert, Functional Lead \u2013 SAP SD/LE",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
         },
         {
-          "title": "Associate Client Development Manager II",
-          "state": "IL",
+          "title": "Senior Application Engineer I - Protection Relays",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
         },
         {
-          "title": "Program Manager",
-          "state": "TX",
+          "title": "Data Center Software Sales Systems Engineer",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
         },
         {
-          "title": "Associate Client Development Manager II",
-          "state": "TX",
+          "title": "Systems Field Service Representative - Power Distribution/Electrical",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
         },
         {
-          "title": "Solution Architect",
+          "title": "Senior Energy Management Software Sales Executive",
           "state": "",
           "segment": "Schools",
           "tags": [
             "Schools"
           ],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
         },
         {
-          "title": "Data and Market Intelligence Manager",
-          "state": "IL",
+          "title": "Electromechanical Design Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-01"
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Building Automation Application Engineer I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Energy Management Software Sales Executive",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Energy Management Software Sales Executive",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Energy Management Software Sales Executive",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Systems Service Representative",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Field Service Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Application Engineer I - Protection Relays",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Energy Management Software Sales Executive",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Design Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Environmental Health & Safety (EHS) Specialist",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Energy Management Software Sales Executive",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Field Service Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Specialist, Customer Success",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
         }
       ],
       "patents": [],
@@ -1295,7 +1696,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1467,109 +1868,126 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [],
@@ -1589,7 +2007,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1621,109 +2039,126 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [
@@ -1911,7 +2346,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1946,112 +2381,136 @@
       "contractAwards": [],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Business Development Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
         {
           "title": "Code Enforcement Officer",
           "state": "AZ",
@@ -2166,13 +2625,6 @@
           "postedDate": "2026-07-15"
         },
         {
-          "title": "Business Development Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-12"
-        },
-        {
           "title": "Technical Sales Engineer",
           "state": "NY",
           "segment": "Other",
@@ -2215,6 +2667,15 @@
             "Municipal"
           ],
           "postedDate": "2026-07-03"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-28"
         }
       ],
       "patents": [],
@@ -2233,7 +2694,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2278,109 +2739,126 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [
@@ -2435,7 +2913,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2516,109 +2994,126 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [],
@@ -2631,6 +3126,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbD",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbDBZRkJzQWJIaEVTSDhKb3F3?oc=5",
           "published": "Thu, 30 Jul 2026 20:28:20 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -2652,7 +3154,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2691,7 +3193,7 @@
       "contractAwards": [
         {
           "date": "2021-10-01",
-          "value": 70213326.17,
+          "value": 73144974.8,
           "state": "VA",
           "segment": "University",
           "agency": "National Archives and Records Administration",
@@ -2748,112 +3250,150 @@
       ],
       "activeBids": [
         {
-          "title": "53--BOLT,MACHINE",
+          "title": "ANTENNA SUBASSEMBLY",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--bolt,machine"
+            "antenna",
+            "subassembly"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-13T16:30:00-04:00"
         },
         {
-          "title": "25--GUARD SPLASH",
+          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "25--guard",
-            "splash"
+            "project",
+            "gm-08685-3j,",
+            "replace",
+            "existing",
+            "gate,"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-26T10:00:00+02:00"
         },
         {
-          "title": "43--FILTER ELEMENT,FLUID",
+          "title": "Forestry Track Loader",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--filter",
-            "element,fluid"
+            "forestry",
+            "track",
+            "loader"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-04T11:30:00-05:00"
         },
         {
-          "title": "53--SCREW,CLOSE TOLERAN",
+          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--screw,close",
-            "toleran"
+            "y--nv-edenton",
+            "nfh-replace",
+            "admin",
+            "building"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-08-17T08:30:00-04:00"
         },
         {
-          "title": "59--RELAY,ELECTROMAGNET",
-          "state": "",
+          "title": "Axiell Collections Renewal - USMB",
+          "state": "DC",
           "segment": "Other",
           "keywords": [
-            "59--relay,electromagnet"
+            "axiell",
+            "collections",
+            "renewal"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-11T08:00:00-04:00"
         },
         {
-          "title": "53--CLIP,RETAINING",
+          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "53--clip,retaining"
+            "valve,",
+            "linear,",
+            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
           ],
           "agency": "",
-          "deadline": "2026-08-17"
+          "deadline": "2026-09-02T23:59:00-05:00"
         },
         {
-          "title": "42--RAKE,FOREST FIRE",
-          "state": "",
+          "title": "Asphalt Milling and Paving Training Program",
+          "state": "MS",
           "segment": "Other",
           "keywords": [
-            "42--rake,forest"
+            "asphalt",
+            "milling",
+            "paving",
+            "training",
+            "program"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-13T14:00:00-04:00"
         },
         {
-          "title": "43--IMPELLER,PUMP,CENTRIFU",
+          "title": "VALVE,BALL",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "43--impeller,pump,centrifu"
+            "valve,ball"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-07T16:30:00-04:00"
         },
         {
-          "title": "48--VALVE,CHECK",
-          "state": "",
+          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
+          "state": "ND",
           "segment": "Other",
           "keywords": [
-            "48--valve,check"
+            "forest",
+            "service",
+            "sheyenne",
+            "ranger",
+            "district"
           ],
           "agency": "",
-          "deadline": "2026-08-13"
+          "deadline": "2026-08-17T05:00:00-06:00"
         },
         {
-          "title": "20--OIL TRANSFER ASSEMB",
+          "title": "53--CLAMP,LOOP",
           "state": "",
           "segment": "Other",
           "keywords": [
-            "20--oil",
-            "transfer",
-            "assemb"
+            "53--clamp,loop"
           ],
           "agency": "",
-          "deadline": "2026-08-10"
+          "deadline": "2026-08-18"
         }
       ],
       "jobPostings": [
+        {
+          "title": "Chiller Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "The Betlem Service Corporation",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Commercial Facilities Maintenance Technician",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
         {
           "title": "F & G Mechanical Corporation - Truck Driver",
           "state": "NJ",
@@ -3049,36 +3589,6 @@
             "Healthcare"
           ],
           "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Operations Supervisor / Contact Center",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Intern",
-          "state": "AZ",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Commercial Facilities Maintenance Technician",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Maintenance Electrician (multiple shifts)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
         }
       ],
       "patents": [],
@@ -3086,7 +3596,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
+          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - stocktitan.net",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
           "published": "Thu, 30 Jul 2026 11:35:08 GMT"
@@ -3097,7 +3607,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3135,7 +3645,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3172,6 +3682,13 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Data Analyst Senior",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
           "title": "Head of Engineering, Trading & Energy Tech (Houston)",
           "state": "TX",
           "segment": "Other",
@@ -3193,13 +3710,6 @@
           "postedDate": "2026-07-29"
         },
         {
-          "title": "Capital Markets Director",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-28"
-        },
-        {
           "title": "Renewable Energy Project Finance Director (Chicago)",
           "state": "IL",
           "segment": "Other",
@@ -3209,20 +3719,6 @@
         {
           "title": "Capital Markets Director (Chicago)",
           "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Director, Renewable Energy Capital Markets & Project Finance (Houston)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Capital Markets Director (Houston)",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-24"
@@ -3236,7 +3732,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3283,7 +3779,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3337,6 +3833,62 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
           "title": "Plumbing Engineer",
           "state": "OH",
           "segment": "Other",
@@ -3344,28 +3896,14 @@
           "postedDate": "2026-08-01"
         },
         {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Construction Site Superintendent",
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
           "state": "PA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-01"
         },
         {
-          "title": "Construction Site Superintendent",
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
           "tags": [],
@@ -3395,6 +3933,20 @@
         {
           "title": "Electrical Engineer Intern/Co-op Fall 2026",
           "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-31"
@@ -3435,23 +3987,6 @@
           "postedDate": "2026-07-30"
         },
         {
-          "title": "BIM Coordinator",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
           "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
@@ -3485,62 +4020,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Senior Construction Administrator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Senior Construction Administrator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-29"
         }
       ],
       "patents": [],
@@ -3551,7 +4030,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3587,6 +4066,62 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Senior Proposal Specialist",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "VDC Field Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Designer II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Fleet Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Driver II (Flatbed)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Driver I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "HVAC Service Journeyman",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
           "title": "Safety Manager",
           "state": "VA",
           "segment": "Other",
@@ -3613,20 +4148,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-27"
-        },
-        {
-          "title": "Senior Safety Coordinator",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Safety Coordinator",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
         },
         {
           "title": "Mission Critical Superintendent",
@@ -3755,41 +4276,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Administrative Assistant",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Modeling Coordinator",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Manager, Logistics",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Sr. Design Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Purchasing Agent, Associate",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
         }
       ],
       "patents": [],
@@ -3800,7 +4286,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-72584",
+          "id": "construction-71112",
           "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
           "agency": "Construction Dive",
           "type": "Construction Project",
