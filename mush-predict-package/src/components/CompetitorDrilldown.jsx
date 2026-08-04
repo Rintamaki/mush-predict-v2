@@ -1,20 +1,19 @@
 import IncumbencyPanel from './IncumbencyPanel'
 import UsHeatMap from './UsHeatMap'
 import { SignalMixDonut, SegmentFocus, TimelineStrip } from './CompetitorCharts'
+import HiringIntent from './HiringIntent'
 
 /**
  * Inline drill-down panel that appears below a Strategic Forecast row
  * when an AE clicks to expand a competitor.
  *
- * Now receives `signals` (the accumulated signals.json array) and passes
- * both the competitor's accumulated signals AND the snapshot object down to
- * each widget, so the heat map, signal mix, segment focus, timeline, and
- * incumbency panel all reflect the full accumulated history rather than
- * just today's pipeline snapshot.
+ * Receives `signals` (the full accumulated signals.json array), filters it
+ * down to just this competitor once, and passes that pre-filtered set to
+ * every child widget — so the heat map, charts, incumbency panel, and the
+ * hiring-intent view all reflect accumulated history, not just today's
+ * snapshot.
  */
 export default function CompetitorDrilldown({ competitor, signals = [] }) {
-  // Filter the full signals array down to just this competitor's signals once,
-  // here, so every child widget gets the same pre-filtered set.
   const competitorSignals = (signals || []).filter(s => s.company === competitor.name)
 
   return (
@@ -22,7 +21,10 @@ export default function CompetitorDrilldown({ competitor, signals = [] }) {
       {/* Heat map gets full width */}
       <UsHeatMap competitor={competitor} signals={competitorSignals} />
 
-      {/* Three smaller widgets in a grid */}
+      {/* Hiring intent — where/what they're hiring, and the strategic read */}
+      <HiringIntent signals={competitorSignals} />
+
+      {/* Four smaller widgets in a grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
         <SignalMixDonut  competitor={competitor} signals={competitorSignals} />
         <SegmentFocus    competitor={competitor} signals={competitorSignals} />
