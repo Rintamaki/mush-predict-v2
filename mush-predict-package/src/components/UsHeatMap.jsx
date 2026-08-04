@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { STATE_CENTROIDS, KEY_STATES, aggregateSignalsByState } from './usStates'
+import { STATE_CENTROIDS, STATE_PATHS, KEY_STATES, aggregateSignalsByState } from './usStates'
 
 const VIEWBOX_W = 960
 const VIEWBOX_H = 600
@@ -45,36 +45,42 @@ export default function UsHeatMap({ competitor, signals = [] }) {
           className="w-full h-auto"
           style={{ maxHeight: '380px' }}
         >
-          {/* Background US silhouette — soft fill so the map reads even with no signals */}
-          <rect x="0" y="0" width={VIEWBOX_W} height={VIEWBOX_H} fill="transparent" />
+          {/* Real US state outlines. Key markets tinted brighter. */}
+          {Object.entries(STATE_PATHS).map(([code, d]) => {
+            const isKey   = KEY_STATES.includes(code)
+            const hasData = !!byState[code]
+            return (
+              <path
+                key={'outline-' + code}
+                d={d}
+                fill={isKey ? '#0E4A63' : '#12395050'}
+                fillOpacity={isKey ? 0.55 : 0.32}
+                stroke={isKey ? '#7FB3CC' : '#5E7A8A'}
+                strokeWidth={isKey ? 1 : 0.6}
+                strokeOpacity={isKey ? 0.9 : 0.5}
+              />
+            )
+          })}
 
-          {/* All state centroids as faint dots for orientation */}
+          {/* State code labels for orientation — nudged below centroid so
+              signal bubbles (drawn next) don't sit on top of them */}
           {Object.entries(STATE_CENTROIDS).map(([code, c]) => {
             const isKey   = KEY_STATES.includes(code)
             const hasData = !!byState[code]
             return (
-              <g key={'bg-' + code}>
-                {/* Background dot for every state */}
-                <circle
-                  cx={c.x} cy={c.y} r={4}
-                  fill={isKey ? '#005776' : '#ffffff'}
-                  fillOpacity={isKey ? 0.35 : 0.06}
-                  stroke={isKey ? '#569BB4' : 'none'}
-                  strokeWidth={isKey ? 1 : 0}
-                  strokeOpacity={0.6}
-                />
-                {/* State code label (small, faded — gives users a reference) */}
-                <text
-                  x={c.x} y={c.y + 14}
-                  textAnchor="middle"
-                  fontSize="9"
-                  fontFamily="JetBrains Mono, monospace"
-                  fill={isKey ? '#569BB4' : '#ffffff'}
-                  fillOpacity={isKey ? 0.6 : (hasData ? 0.4 : 0.12)}
-                >
-                  {code}
-                </text>
-              </g>
+              <text
+                key={'lbl-' + code}
+                x={c.x} y={c.y - 13}
+                textAnchor="middle"
+                dominantBaseline="middle"
+                fontSize="8.5"
+                fontFamily="JetBrains Mono, monospace"
+                fill={isKey ? '#BFE0F0' : '#C4D2DC'}
+                fillOpacity={isKey ? 0.85 : (hasData ? 0.6 : 0.32)}
+                style={{ pointerEvents: 'none' }}
+              >
+                {code}
+              </text>
             )
           })}
 
