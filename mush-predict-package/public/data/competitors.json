@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -93,313 +93,36 @@
           "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
-      "jobPostings": [
-        {
-          "title": "HVAC Sales Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "HVAC Project Manager / Project Engineer",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Fire Sales Manager, Western New England",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Fire Project Manager",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Fire Project Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Life Safety Systems Sales Representative",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Manager, Business Development",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Project Manager (onsite)",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Field Project Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Life Safety Systems Sales Rep, Electronic",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Commercial Security Account Executive",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Fire Sprinkler Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "HVAC Truck Based Mechanic",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "HVAC Chiller Mechanic",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "HVAC Systems Operations Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Administrative Assistant - GDCS Staff",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Fire Alarm Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Sprinkler Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-03"
-        }
-      ],
+      "activeBids": [],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Johnson Controls Helps Resorts World Las Vegas Save $110K Annually With OpenBlue AI - Construction Owners",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOH",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOHQtRUdBRHRqUFRheE1FSTZQbG5PeUhTVl9Oak1B?oc=5",
+          "published": "Mon, 03 Aug 2026 13:08:28 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -494,131 +217,99 @@
           "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
+        {
+          "title": "HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Data Center/Chiller Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manufacturing Engineering Run Test Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P3 - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Service Estimator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P4 - 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "EHS Technician - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Field Service Technician Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Controls Technician Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
         {
           "title": "Engineering Technician - Maintenance P4 - 1st Shift",
           "state": "MI",
@@ -698,97 +389,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Production Application Engineer - Building Automation",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Senior Manager, Project Management Office (PMO)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Warranty Analytics & Performance Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Order Management Representative",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Equipment Application Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Sr Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Administrative Assistant II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Maintenance Technician (2nd Shift)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Area Service Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Controls Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Client Service Representative I - Augusta/Atlanta",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Claims Specialist",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
         }
       ],
       "patents": [],
@@ -799,18 +399,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -857,131 +457,15 @@
           "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT. INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION ME"
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
         {
           "title": "Senior Project Manager",
           "state": "TX",
@@ -992,6 +476,13 @@
             "University"
           ],
           "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Senior Controls System Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
         },
         {
           "title": "Site Safety Manager",
@@ -1267,28 +758,6 @@
             "University"
           ],
           "postedDate": "2026-07-03"
-        },
-        {
-          "title": "Senior Energy Engineer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-01"
-        },
-        {
-          "title": "Proposal Coordinator",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-01"
         }
       ],
       "patents": [],
@@ -1310,24 +779,17 @@
         },
         {
           "source": "google_news",
-          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
-          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
+          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
-          "title": "Ameresco begins rooftop solar construction at Community College of Philadelphia under Solar for Schools grant - Energies Media",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5\" target=\"_blank\">Ameresco begins rooftop solar construction at Communi",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
-          "published": "Tue, 21 Jul 2026 23:50:35 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - stocktitan.net",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5\" ",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5",
-          "published": "Mon, 27 Jul 2026 12:05:00 GMT"
+          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - K-12 Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5\" targe",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5",
+          "published": "Thu, 25 Jun 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -1342,18 +804,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -1408,284 +870,133 @@
           "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Energy Management Software Sales Executive",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Expert, Functional Lead \u2013 SAP SD/LE",
-          "state": "",
+          "title": "Supply Chain Intern",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-04"
         },
         {
-          "title": "Senior Application Engineer I - Protection Relays",
+          "title": "eCommerce & Digital Sales Intern",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-04"
         },
         {
-          "title": "Data Center Software Sales Systems Engineer",
+          "title": "HVAC Building Automation/Service Specialist II",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Systems Field Service Representative - Power Distribution/Electrical",
+          "title": "Energy Performance Specialist II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manufacturing Supervisor - 2nd shift",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Consulting Application Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Energy Performance Specialist II",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Senior Energy Management Software Sales Executive",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Electromechanical Design Manager",
-          "state": "",
+          "title": "Field Service Representative - Power/Electrical",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Building Automation Application Engineer I",
+          "title": "Field Service Representative - Power Distribution/Electrical",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Senior Energy Management Software Sales Executive",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
+          "title": "Building Automation Service Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Senior Energy Management Software Sales Executive",
+          "title": "Power Distribution Sales - Sales Development Program, January 2027",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Senior Energy Management Software Sales Executive",
+          "title": "ERP Scrum Master/Project Manager",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Systems Service Representative",
+          "title": "League Marketing Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Motor Control Center SME",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Design Engineering Lead",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manufacturing Engineering & Maintenance Manager",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Field Service Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Senior Application Engineer I - Protection Relays",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Senior Energy Management Software Sales Executive",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Senior Design Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Environmental Health & Safety (EHS) Specialist",
+          "title": "Consulting Application Engineer",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         },
         {
-          "title": "Senior Energy Management Software Sales Executive",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "",
+          "title": "League Marketing Leader",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Specialist, Customer Success",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
+          "postedDate": "2026-08-03"
         }
       ],
       "patents": [],
@@ -1696,18 +1007,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -1866,130 +1177,7 @@
           "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
@@ -2007,18 +1195,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -2037,130 +1225,7 @@
         }
       ],
       "contractAwards": [],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
           "title": "Energy Specialist - Grand Rapids, MI",
@@ -2346,18 +1411,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -2379,130 +1444,7 @@
         }
       ],
       "contractAwards": [],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
           "title": "Business Development Manager",
@@ -2676,6 +1618,15 @@
             "Municipal"
           ],
           "postedDate": "2026-06-28"
+        },
+        {
+          "title": "Residential Building Inspector",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-24"
         }
       ],
       "patents": [],
@@ -2694,18 +1645,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -2737,130 +1688,7 @@
           "description": "ENERGY SAVINGS PERFORMANCE CONTRACT TASK ORDER FOR RESEARCH TRIANGLE PARK CAMPUS, RTP, NORTH CAROLINA"
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
         {
           "title": "Senior Construction Project Manager",
@@ -2913,18 +1741,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -2992,130 +1820,7 @@
           "description": "ENERGY SAVINGS PERFORMANCE CONTRACT  DIRKSEN FEDERAL COURTHOUSE AND 5 OTHER LOCATIONS, CHICAGO, IL  FOR ADMINISTRATIVE PURPOSES TO CHANGE TH"
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
@@ -3143,6 +1848,13 @@
         },
         {
           "source": "google_news",
+          "title": "Carrier sells energy service business to Opterra - Facilities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5\" target=\"_blank\">Carrier sells energy se",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5",
+          "published": "Mon, 03 Aug 2026 16:19:16 GMT"
+        },
+        {
+          "source": "google_news",
           "title": "Carrier To Sell NORESCO To OPTERRA Energy Services - Pulse 2.0",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Y2U0Nmhfd3RhaXAyeXNrQm5uSnV2YWVVNEJRa2ViaE1JSkxiSU5CY2lBVWlQQmxiLWk4bWhZQkU5RmVWV0RkU2s3dkFmT0lycmRwUk1WdW9wMU1sazl3WE5TTldzUnZIektoVnlQWEhrczBpMHViYjkySWTSAYIBQVVfeXFMUEF0Mk53eUhrSlBraUZVWlJ1TE5yTkd1c05McWZKSzd5aENBTEF6YXZsMXdhcTNlZ3RaRU",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Y2U0Nmhfd3RhaXAyeXNrQm5uSnV2YWVVNEJRa2ViaE1JSkxiSU5CY2lBVWlQQmxiLWk4bWhZQkU5RmVWV0RkU2s3dkFmT0lycmRwUk1WdW9wMU1sazl3WE5TTldzUnZIektoVnlQWEhrczBpMHViYjkySWTSAYIBQVVfeXFMUEF0Mk53eUhrSlBraUZVWlJ1TE5yTkd1c05McWZKSzd5aENBTEF6YXZsMXdhcTNlZ3RaRUxWTlM3R2xvQ1pNVXBod3U4aktwMmdWdThKbXZ2N3pVT2ExaGlfcXhkalRqTlRPVTFOeEptbjNuVHZjMmJFVHZEbElHOGJ2Zw?oc=5",
@@ -3154,18 +1866,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -3248,131 +1960,22 @@
           "description": "BPA CALL TO REPLACE PLATES AND GASKETS ON TWO (2) EXISTING HEAT EXCHANGERS LOCATED IN THE WEST ADDITION AT ST. ELIZABETHS CAMPUS."
         }
       ],
-      "activeBids": [
-        {
-          "title": "ANTENNA SUBASSEMBLY",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "antenna",
-            "subassembly"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T16:30:00-04:00"
-        },
-        {
-          "title": "PROJECT # GM-08685-3J, REPLACE EXISTING GATE, BLDG # 122, USAG BAVARIA,  GRAFENWOEHR MILITARY COMMUNITY, ROSE BARRACKS",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "project",
-            "gm-08685-3j,",
-            "replace",
-            "existing",
-            "gate,"
-          ],
-          "agency": "",
-          "deadline": "2026-08-26T10:00:00+02:00"
-        },
-        {
-          "title": "Forestry Track Loader",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "forestry",
-            "track",
-            "loader"
-          ],
-          "agency": "",
-          "deadline": "2026-08-04T11:30:00-05:00"
-        },
-        {
-          "title": "Y--NV-EDENTON NFH-REPLACE ADMIN BUILDING",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "y--nv-edenton",
-            "nfh-replace",
-            "admin",
-            "building"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T08:30:00-04:00"
-        },
-        {
-          "title": "Axiell Collections Renewal - USMB",
-          "state": "DC",
-          "segment": "Other",
-          "keywords": [
-            "axiell",
-            "collections",
-            "renewal"
-          ],
-          "agency": "",
-          "deadline": "2026-08-11T08:00:00-04:00"
-        },
-        {
-          "title": "VALVE, LINEAR, DIRECT_End_Item_F110_NSN_4810013260862PR_PN_1886-280",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,",
-            "linear,",
-            "direct_end_item_f110_nsn_4810013260862pr_pn_1886-280"
-          ],
-          "agency": "",
-          "deadline": "2026-09-02T23:59:00-05:00"
-        },
-        {
-          "title": "Asphalt Milling and Paving Training Program",
-          "state": "MS",
-          "segment": "Other",
-          "keywords": [
-            "asphalt",
-            "milling",
-            "paving",
-            "training",
-            "program"
-          ],
-          "agency": "",
-          "deadline": "2026-08-13T14:00:00-04:00"
-        },
-        {
-          "title": "VALVE,BALL",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "valve,ball"
-          ],
-          "agency": "",
-          "deadline": "2026-08-07T16:30:00-04:00"
-        },
-        {
-          "title": "USDA Forest Service Sheyenne Ranger District Plant Surveys",
-          "state": "ND",
-          "segment": "Other",
-          "keywords": [
-            "forest",
-            "service",
-            "sheyenne",
-            "ranger",
-            "district"
-          ],
-          "agency": "",
-          "deadline": "2026-08-17T05:00:00-06:00"
-        },
-        {
-          "title": "53--CLAMP,LOOP",
-          "state": "",
-          "segment": "Other",
-          "keywords": [
-            "53--clamp,loop"
-          ],
-          "agency": "",
-          "deadline": "2026-08-18"
-        }
-      ],
+      "activeBids": [],
       "jobPostings": [
+        {
+          "title": "HVAC Technician",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
         {
           "title": "Chiller Technician",
           "state": "GA",
@@ -3452,7 +2055,21 @@
           "postedDate": "2026-08-01"
         },
         {
-          "title": "SIC Rigger Helper (RAL AMGEN PD)",
+          "title": "PPM Electrical Project Manager 1.2",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "PPM Regional Manager- Virginia",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Environmental Specialties, LLC Job Template - Electrical Engineer (Jr or recent graduate opportunity)",
           "state": "NC",
           "segment": "Other",
           "tags": [],
@@ -3473,27 +2090,6 @@
           "postedDate": "2026-08-01"
         },
         {
-          "title": "PPM Electrical Project Manager 1.2",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Environmental Specialties, LLC Job Template - Electrical Engineer (Jr or recent graduate opportunity)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "PPM Regional Manager- Virginia",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
           "title": "Business Development Manager - Service Contracts",
           "state": "NC",
           "segment": "Other",
@@ -3501,42 +2097,14 @@
           "postedDate": "2026-08-01"
         },
         {
-          "title": "Safety Coordinator - Miller Electric Company",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "General Building Maintenance Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Millwright (ATL EQX EF)",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Plan and Spec Sales Professional",
-          "state": "GA",
+          "title": "SIC Rigger Helper (RAL AMGEN PD)",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-01"
         },
         {
           "title": "General Maintenance Tech I",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "HVAC Service Technician II",
           "state": "GA",
           "segment": "Other",
           "tags": [],
@@ -3550,6 +2118,41 @@
           "postedDate": "2026-08-01"
         },
         {
+          "title": "Safety Coordinator - Miller Electric Company",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "HVAC Service Technician II",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Plan and Spec Sales Professional",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Millwright (ATL EQX EF)",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "General Building Maintenance Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
           "title": "Intern",
           "state": "MI",
           "segment": "Healthcare",
@@ -3561,29 +2164,6 @@
         {
           "title": "Intern",
           "state": "MI",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Per Diem Fireman",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Senior Buyer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Intern",
-          "state": "AZ",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
@@ -3596,7 +2176,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - stocktitan.net",
+          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
           "published": "Thu, 30 Jul 2026 11:35:08 GMT"
@@ -3607,18 +2187,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -3645,18 +2225,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -3682,18 +2262,25 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Data Analyst Senior",
+          "title": "Head of Software Engineering (Houston)",
           "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-03"
         },
         {
-          "title": "Head of Engineering, Trading & Energy Tech (Houston)",
+          "title": "Head of Engineering \u2014 Trading Tech & Platforms (Houston)",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-07-31"
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Data Analyst Senior",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
         },
         {
           "title": "Head of Software Engineering (Houston)",
@@ -3708,20 +2295,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Renewable Energy Project Finance Director (Chicago)",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
-        },
-        {
-          "title": "Capital Markets Director (Chicago)",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
         }
       ],
       "patents": [],
@@ -3732,18 +2305,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -3774,23 +2347,48 @@
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
-      "lobbyingActivity": [],
+      "lobbyingActivity": [
+        {
+          "date": "2025",
+          "topics": [
+            "Energy/Nuclear"
+          ],
+          "bills": [],
+          "amount": 0.0
+        },
+        {
+          "date": "2025",
+          "topics": [
+            "Natural Resources"
+          ],
+          "bills": [],
+          "amount": 0.0
+        },
+        {
+          "date": "2025",
+          "topics": [
+            "Natural Resources"
+          ],
+          "bills": [],
+          "amount": 0.0
+        }
+      ],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -3837,25 +2435,25 @@
           "state": "",
           "segment": "Other",
           "tags": [],
+          "postedDate": "2026-08-04"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-08-03"
         },
         {
           "title": "Construction Site Superintendent - CMTA Energy Solutions",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-02"
@@ -3877,13 +2475,6 @@
         {
           "title": "Senior Electrical Engineer",
           "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "PA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-02"
@@ -3938,20 +2529,6 @@
           "postedDate": "2026-07-31"
         },
         {
-          "title": "Mechanical Engineer - CMTA",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-31"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-31"
-        },
-        {
           "title": "Senior Solar Engineer - CMTA Energy Solutions",
           "state": "TX",
           "segment": "Other",
@@ -3987,6 +2564,16 @@
           "postedDate": "2026-07-30"
         },
         {
+          "title": "BIM Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
           "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
@@ -4010,6 +2597,27 @@
         {
           "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Construction Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-30"
@@ -4030,18 +2638,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     },
@@ -4286,18 +2894,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-71112",
-          "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Fri, 31 Jul 2026 08:48:36 -0400",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp\" /></div></figure><p>Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey ",
-          "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "Municipal"
+          "segment": "University"
         }
       ]
     }
