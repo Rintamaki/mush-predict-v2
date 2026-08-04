@@ -8,16 +8,15 @@
  *   2. Agencies with a long-running incumbent are harder to displace
  *   3. Detecting incumbency tells AEs where to invest defense vs. offense
  *
- * Definitions:
- *   - "Repeat client" = same agency, 2+ contract awards
- *   - "Strong incumbent" = same agency, 3+ awards OR 2+ awards within last 36 months
- *   - "Likely renewal coming" = incumbent with award 18-36 months old (typical
- *      energy/HVAC contract cycle is 3-5 years, so we flag the window before
- *      renewal where positioning matters most)
+ * SIGNALS-AWARE: computeIncumbencies now accepts an optional accumulated
+ * `signals` array. When present, contract-type signals (which carry agency,
+ * state, segment, and date) are folded in alongside the snapshot's
+ * contractAwards/texasContracts — giving a fuller repeat-client picture than
+ * today's snapshot alone. Falls back to snapshot-only when no signals given.
  */
 
-const RENEWAL_WINDOW_MIN_MONTHS = 18   // ignore very recent wins
-const RENEWAL_WINDOW_MAX_MONTHS = 60   // and very old ones
+const RENEWAL_WINDOW_MIN_MONTHS = 18
+const RENEWAL_WINDOW_MAX_MONTHS = 60
 
 function monthsAgo(dateStr) {
   if (!dateStr) return 999
@@ -26,11 +25,6 @@ function monthsAgo(dateStr) {
   return (now.getFullYear() - then.getFullYear()) * 12 + (now.getMonth() - then.getMonth())
 }
 
-/**
- * Normalize agency names so "Plano ISD" and "Plano Independent School District"
- * count as the same agency. This is fuzzy — agency naming in federal data is
- * inconsistent, so we strip common suffixes and lowercase for matching.
- */
 function normalizeAgency(name) {
   if (!name) return ''
   return name
@@ -47,15 +41,32 @@ function normalizeAgency(name) {
 }
 
 /**
- * Returns the incumbency profile for a competitor — which agencies they're
- * incumbent at, when their last win was, and where renewal opportunities
- * are likely brewing.
+ * @param {Object} competitor  snapshot object (fallback + always folded in)
+ * @param {Array}  signals     accumulated signals for this competitor (optional)
  */
-export function computeIncumbencies(competitor) {
+export function computeIncumbencies(competitor, signals = []) {
+  // Start from snapshot awards (always included)
   const awards = [
     ...(competitor.contractAwards ?? []),
     ...(competitor.texasContracts ?? []),
   ]
+
+  // Fold in contract-type signals from accumulated history. Signals use
+  // `timestamp` for date and may carry `agency`; only include ones that
+  // actually name an agency (otherwise they can't indicate incumbency).
+  if (signals && signals.length > 0) {
+    signals
+      .filter(s => s.type === 'contract' && s.agency)
+      .forEach(s => {
+        awards.push({
+          agency:  s.agency,
+          state:   s.state,
+          segment: s.segment,
+          date:    s.timestamp || s.date,
+          value:   s.value ?? 0,
+        })
+      })
+  }
 
   if (awards.length < 2) {
     return {
@@ -63,6 +74,7 @@ export function computeIncumbencies(competitor) {
       strongIncumbencies:   [],
       renewalsLikelyComing: [],
       byAgency:             {},
+      allRepeats:           [],
     }
   }
 
@@ -82,7 +94,19 @@ export function computeIncumbencies(competitor) {
     byAgency[key].awards.push(a)
   })
 
-  // Find agencies with 2+ awards = incumbent
+  // Dedupe awards within each agency by (date + value) so the same contract
+  // appearing in both the snapshot and the accumulated signals isn't
+  // double-counted as two separate wins.
+  Object.values(byAgency).forEach(info => {
+    const seen = new Set()
+    info.awards = info.awards.filter(a => {
+      const sig = `${a.date}|${a.value}`
+      if (seen.has(sig)) return false
+      seen.add(sig)
+      return true
+    })
+  })
+
   const repeats = Object.entries(byAgency)
     .filter(([, info]) => info.awards.length >= 2)
     .map(([key, info]) => {
@@ -108,12 +132,10 @@ export function computeIncumbencies(competitor) {
     })
     .sort((a, b) => b.totalValue - a.totalValue)
 
-  // Strong incumbents — likely hardest to displace
   const strongIncumbencies = repeats.filter(r =>
     r.awardCount >= 3 || (r.awardCount >= 2 && r.monthsSinceLast < 36)
   )
 
-  // Renewal-likely accounts — incumbents in the 18-60 month renewal window
   const renewalsLikelyComing = repeats.filter(r =>
     r.monthsSinceLast >= RENEWAL_WINDOW_MIN_MONTHS &&
     r.monthsSinceLast <= RENEWAL_WINDOW_MAX_MONTHS
@@ -129,18 +151,16 @@ export function computeIncumbencies(competitor) {
 }
 
 /**
- * Used by the scoring engine: returns an incumbency boost (0 to 0.3)
- * for a competitor against a given opportunity. If they're incumbent at
- * the same agency, they get a significant boost. If they're incumbent
- * at a similar agency (same state + segment), a smaller boost.
+ * Used by the scoring engine: returns an incumbency boost (0 to 0.3) for a
+ * competitor against a given opportunity. Accepts optional signals so the
+ * scoring engine can pass the same accumulated history through.
  */
-export function getIncumbencyBoost(competitor, opportunity) {
-  const incumbencies = computeIncumbencies(competitor)
+export function getIncumbencyBoost(competitor, opportunity, signals = []) {
+  const incumbencies = computeIncumbencies(competitor, signals)
   if (incumbencies.total === 0) return { boost: 0, reason: null }
 
   const oppAgencyKey = normalizeAgency(opportunity.agency)
 
-  // Direct match — competitor is incumbent at this exact agency
   const directMatch = incumbencies.allRepeats?.find(r => r.key === oppAgencyKey)
   if (directMatch) {
     return {
@@ -149,7 +169,6 @@ export function getIncumbencyBoost(competitor, opportunity) {
     }
   }
 
-  // Same-state same-segment incumbencies — proxy signal
   const proximityMatches = incumbencies.allRepeats?.filter(r =>
     r.state === opportunity.state && r.segment === opportunity.segment
   ) ?? []
