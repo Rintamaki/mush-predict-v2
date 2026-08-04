@@ -1,0 +1,2913 @@
+{
+  "last_updated": "2026-08-04",
+  "competitors": [
+    {
+      "name": "Johnson Controls",
+      "segments": [
+        "Schools",
+        "Healthcare",
+        "Municipal",
+        "University"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2018-05-31",
+          "value": 20406875.71,
+          "state": "WI",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF - C106210 - PREVENTATIVE MAINTENANCE SERVICES FOR THE JOHNSON CONTROLS BAS SYSTEMS TO INCLUDE 24/7/365 MONITORING FOR THE BETHE"
+        },
+        {
+          "date": "2018-09-17",
+          "value": 1630725.0,
+          "state": "GA",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "NON-HCL ADX/NAE UPGRADES GARO0018"
+        },
+        {
+          "date": "2018-07-09",
+          "value": 649768.43,
+          "state": "CO",
+          "segment": "University",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE FOR THE CAMPUS WIDE METASYS SYSTEM"
+        },
+        {
+          "date": "2021-10-18",
+          "value": 421524.0,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES FOR BUILDING AUTOMATION SYSTEM UPGRADE AT NATHANIEL JONES FEDERAL BUILDING AND COURTHOUSE 10 EAST COMMERCE STREET YOUN"
+        },
+        {
+          "date": "2016-08-30",
+          "value": 399888.0,
+          "state": "GA",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF ANTI-TAILGAITING SYSTEM"
+        },
+        {
+          "date": "2020-09-28",
+          "value": 288684.14,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Defense",
+          "description": "CALIBRATION AND MAINTENANCE OF REFRIGERATION SYSTEMS IN SUPPORT OF ARMY PUBLIC HEALTH COMMAND."
+        },
+        {
+          "date": "2023-09-15",
+          "value": 241422.0,
+          "state": "SD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "TEMPORARY CHILLER UNIT, FACILITIES, CRHC"
+        },
+        {
+          "date": "2023-05-25",
+          "value": 188170.28,
+          "state": "SD",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "BUILDING CONTROLS MAINTENANCE AND REPAIR SIOUX FALLS VA HEALTH CARE SYSTEM OPTION YEAR 3"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Johnson Controls Helps Resorts World Las Vegas Save $110K Annually With OpenBlue AI - Construction Owners",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOH",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOHQtRUdBRHRqUFRheE1FSTZQbG5PeUhTVl9Oak1B?oc=5",
+          "published": "Mon, 03 Aug 2026 13:08:28 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Trane Technologies",
+      "segments": [
+        "Schools",
+        "University",
+        "Healthcare"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Davidson",
+          "state": "NC"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2016-04-20",
+          "value": 88909710.09,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF FOR OTHER FUNCTIONS  GSA R2 2016 NYC ESPC PROJECT FOR 10 FEDERAL BUILDINGS. THE PROJECT CONSISTS OF THE INSTALLATION OF 98 ENER"
+        },
+        {
+          "date": "2024-06-14",
+          "value": 1482340.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "DESIGN - BUILD CONSTRUCTION CONTRACT FOR REMOVAL AND REPLACEMENT OF TWO PUMPS AND TWO CHILLERS AT THE PROVIDENCE RHODE ISLAND FEDERAL COURTH"
+        },
+        {
+          "date": "2023-05-26",
+          "value": 736509.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF COOLING TOWERS REPLACEMENT AT THE PROVIDENCE FEDERAL COURTHOUSE IN PROVIDENCE, RI."
+        },
+        {
+          "date": "2023-05-25",
+          "value": 734356.44,
+          "state": "MA",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF THE DONOHUE COOLING TOWERS 2 & 3 REPLACEMENT AT THE DONOHUE FEDERAL BUILDING AND COURTHOUSE IN WORCESTER, MA."
+        },
+        {
+          "date": "2019-01-08",
+          "value": 511547.24,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE TO PERFORM TRANE CHILLER PM SELECT SERVICE AGREEMENT, VA GREATER LOS ANGELES HEALTHCARE SYSTEM."
+        },
+        {
+          "date": "2019-12-20",
+          "value": 459526.67,
+          "state": "LA",
+          "segment": "Schools",
+          "agency": "Department of Defense",
+          "description": "BASE YEAR SERVICES FOR ANNUAL CHILLER MAINTENANCE FOR U.S. ARMY CORPS OF ENGINEERS (USACE), NEW ORLEANS DISTRICT (NOD), NEW ORLEANS, LA"
+        },
+        {
+          "date": "2021-02-03",
+          "value": 445811.54,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES REBUILD CHILLERS, KINNEARY COURTHOUSE, 85 MARCONI BLVD, COLUMBUS, OHIO"
+        },
+        {
+          "date": "2022-06-03",
+          "value": 313000.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "DELIVERY AND INSTALLATION OF A TRANE 200 TON AIR-COOLED WATER CHILLER FOR BUILDING 58, VA ILLIANA HEALTH CARE SYSTEM, DANVILLE, ILLINOIS."
+        },
+        {
+          "date": "2019-08-06",
+          "value": 304262.09,
+          "state": "NE",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Data Center/Chiller Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manufacturing Engineering Run Test Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P3 - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Service Estimator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P4 - 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "EHS Technician - 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Field Service Technician Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Controls Technician Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P4 - 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Account Manager- HVAC Services",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "1st Shift TCDC Team Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Data Center Technician Team Lead",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Engineering Technician - Maintenance P4 - 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Higher Education Vertical Market Leader",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "University"
+          ],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Area Service Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Client Service Representative I- Charlotte, NC",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Account Manager- HVAC Services",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Manufacturing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Data Center Technician Team Lead",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Ameresco",
+      "segments": [
+        "Municipal",
+        "University",
+        "Schools"
+      ],
+      "offices": [
+        {
+          "city": "Framingham",
+          "state": "MA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2024-12-31",
+          "value": 111902165.0,
+          "state": "CO",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "ENERGY SAVINGS PERFORMANCE CONTRACT, NATIONAL DEEP ENERGY RETROFIT PROGRAM ROUND 6, REGION 8 FOR IMPLEMENTATION OF ENERGY CONSERVATION MEASU"
+        },
+        {
+          "date": "2016-06-01",
+          "value": 72969175.0,
+          "state": "DC",
+          "segment": "Schools",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT.  INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION M"
+        },
+        {
+          "date": "2016-04-07",
+          "value": 18610554.24,
+          "state": "CA",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT. INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENT&VERIFICATION OF ENERGY CONSERVATION ME"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Senior Controls System Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Operations Manager",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Construction Superintendent",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Corporate Safety Operations Lead - East",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Construction Project Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Facility Condition Assessor",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Project Controls Scheduler",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Senior Construction Project Manager",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Construction Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-14"
+        },
+        {
+          "title": "Regional Construction Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Senior Business Developer Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Construction Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Senior Construction Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Boiler Operator \u2013 Weekend Day Shift",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Plant Specialist",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-04"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-03"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Roseburg Urban Sanitary Authority Receives Two Best of the Best Awards from the Oregon Association of Clean Water Agencies - Business Wire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQVpwV2pNNUtiZm5Cbk40MGF3OWY2YWZ4QjBYd0owNWktVEkzbm5TV3ZZUlB3VjJtUmdVSmlQb3dkM01GbHJIZWFVZ1ZEVlRfYXNPTDljOVlxVE8zM0NJRXppWVJuYzIxeV82OTlUTERJNG43QnNNRGtjNVNIOEdPTGpyWGlBTC1LZi0xQ19BYXBsanVDWkg3WklEYXA0UjJUNDZVTzNPZ0RsckQxVURWc2VjbFROSE4wdk",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQVpwV2pNNUtiZm5Cbk40MGF3OWY2YWZ4QjBYd0owNWktVEkzbm5TV3ZZUlB3VjJtUmdVSmlQb3dkM01GbHJIZWFVZ1ZEVlRfYXNPTDljOVlxVE8zM0NJRXppWVJuYzIxeV82OTlUTERJNG43QnNNRGtjNVNIOEdPTGpyWGlBTC1LZi0xQ19BYXBsanVDWkg3WklEYXA0UjJUNDZVTzNPZ0RsckQxVURWc2VjbFROSE4wdkpPdUlRU21lcUJvc0IzajI5TWd1QUJGdG1OZ3hxYnA3VnVQanlLaE5DSmZQNVVGNnEyMTl2Ukg4OERUTmxSenlNQWhlRzdMUTNLTUNGLU5XeE0?oc=5",
+          "published": "Mon, 27 Jul 2026 20:05:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Evansville to power municipal facilities with solar energy - AOL.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5\" target=\"_blank\">Evansville to power municipal fa",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczdORWFUWkR3TE8wVjZUX3c5MGtQcTFyUjRXYjJIVUhUNEdIYmRJclBSUE13SEJvMlJKb2xCM0ZKLUYzUFdpOGFram9sQ0VCRGZnS1NocGFieE9ZTzA2UDhmYW1NUW5jODlLeWZaQ0tlQms5Vk9zWkktNkU0ZG5ZaVJHa0EyaVlYVGZqbldXcHQ?oc=5",
+          "published": "Thu, 09 Jul 2026 20:19:20 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - K-12 Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5\" targe",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVBPeTVZaDU5OTFiNVdldGFyd0tQSTFyLXVIQU1pNDRfODdRMVdsSXYwTE5obU1yd0tVMHRMX3I2TkR6TGo1aTJEeTZETVd5SlB5VWw0VTlqNEJUVGdVTGhRdjBCZmQyLW11QVNFMW94UE8tOEI4UDk2WWpMTGNFTnI4cFpsbjRvOHJiOGtSSXVjTDZ2RzNxc2ZCM0gwaXhFbVVOVDNOeFJVSEZ1d0lTbQ?oc=5",
+          "published": "Thu, 25 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Energy savings performance contracts offer a path to building upgrades when city budgets are tight - Smart Cities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5\" target=\"_blank\">Energy savi",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmJybC03d0xvTjU4MU5MVVpVWEs3c3FMTm13S3luNVVLb3RlME9YaVEyLWFGcFNNanh6UDRUOGdoMk9QVmFXZ3pDeVZqZko5bWFKbUxLcElpbDBoUS1OUGpZcDlNTUJiY1Q4Vk5NNlNzV2g2eWxLc1gyTHEzZnZCWmJvdXFLa1N5dlg3SEx4S2JmQ1dJZFVQZjhXQTFsaWJO?oc=5",
+          "published": "Tue, 16 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Schneider Electric",
+      "segments": [
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Boston",
+          "state": "MA"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2015-09-30",
+          "value": 11233143.18,
+          "state": "MA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "IGF::CL::IGF VETERANS INTEGRATED SERVICE NETWORK 1, ENERGY SAVINGS PERFORMANCE CONTRACT FOR VA BOSTON HEALTHCARE SYSTEM LOCATIONS (JAMAICA P"
+        },
+        {
+          "date": "2016-09-23",
+          "value": 4893821.0,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT.  INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENTS AND VERIFICATION OF ENERGY CONSERVAT"
+        },
+        {
+          "date": "2025-08-04",
+          "value": 312272.0,
+          "state": "TX",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PUGET SOUND VA MEDICAL CENTER - AMERICAN LAKE CAMPUS, TACOMA, WASHINGTON - BUILDING MANAGEMENT SYSTEM (BMS) SOTWARE CONVERSION AND UPGRADE."
+        },
+        {
+          "date": "2023-10-01",
+          "value": 165432.88,
+          "state": "NC",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Supply Chain Intern",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-04"
+        },
+        {
+          "title": "eCommerce & Digital Sales Intern",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-04"
+        },
+        {
+          "title": "HVAC Building Automation/Service Specialist II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Energy Performance Specialist II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manufacturing Supervisor - 2nd shift",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Consulting Application Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Energy Performance Specialist II",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Field Service Representative - Power/Electrical",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Field Service Representative - Power Distribution/Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Building Automation Service Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Power Distribution Sales - Sales Development Program, January 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "ERP Scrum Master/Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "League Marketing Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Motor Control Center SME",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Design Engineering Lead",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Manufacturing Engineering & Maintenance Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Consulting Application Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "League Marketing Leader",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Siemens Smart Infrastructure",
+      "segments": [
+        "Municipal",
+        "University",
+        "Healthcare"
+      ],
+      "offices": [
+        {
+          "city": "Houston",
+          "state": "TX"
+        },
+        {
+          "city": "Princeton",
+          "state": "NJ"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2026-04-01",
+          "value": 11788536.16,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS APF/CGMP FUNDING FOR OPTION YEAR 3 THROUGH APRIL 1, 2026 TO MAY 31, 2026."
+        },
+        {
+          "date": "2023-08-01",
+          "value": 10857274.8,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS OPTION YEAR 2 FUNDING CALL (1 MONTH'S WORTH OF INITIAL FUNDING)"
+        },
+        {
+          "date": "2023-08-01",
+          "value": 10619215.08,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "FUNDING APPROVAL FOR SIEMENS CONTRACT 75N99023AF00001 1ST-YEAR OPTION FUNDING 1-MONTH DURATION [24-002769]"
+        },
+        {
+          "date": "2022-08-01",
+          "value": 7089525.84,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT. DETRICK,"
+        },
+        {
+          "date": "2021-08-01",
+          "value": 6922992.69,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C108591- NIH BPA EXERCISE OPTION YEAR 1 FOR BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT."
+        },
+        {
+          "date": "2023-08-01",
+          "value": 6759034.47,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BASE YEAR - BUILDING AUTOMATION SERVICES (BAS) OF SIEMENS INVENTORY DEVICES, NIH"
+        },
+        {
+          "date": "2020-08-01",
+          "value": 6753776.99,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C108591 - THE CONTRACTOR SHALL PROVIDE ALL MAINTENANCE, REPAIRS, EMERGENCY SERVICES, PREVENTIVE MAINTENANCE INSPECTIONS, CALIBRATION, HARDWA"
+        },
+        {
+          "date": "2018-07-31",
+          "value": 6266316.73,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C104939 - RENEWAL OPTION YEAR 1 - MAINTENANCE, REPAIRS, CALIBRATION - BETHESDA - CAN 8016640 - STEPHANIE GALLOWAY - POP 8/1/18 - 9/30/18"
+        },
+        {
+          "date": "2022-09-19",
+          "value": 5280004.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BAS MAINTENANCE REPAIRS, PM''S, CALIBRATION AND UPGRADE SERVICE CONTRACT, BETHESDA, RML, AND FT. DETRICK,"
+        },
+        {
+          "date": "2019-08-23",
+          "value": 3942670.35,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C107824 - LABOR AND MATERIAL TO UPGRADE SIEMENS BAS FIELD PANELS WITH THE LATEST HARDWARE - STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2021-09-20",
+          "value": 3881952.51,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C111119 SIEMENS BUILDING AUTOMATION SYSTEM (BAS) HARDWARE AND FIRMWARE UPGRADES STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2020-01-24",
+          "value": 3670503.93,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "SIEMENS SERVICES FOR NIH"
+        },
+        {
+          "date": "2023-02-10",
+          "value": 1595500.06,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "BLDG 33 REVALIDATION 24/7 BAS SUPPORT"
+        },
+        {
+          "date": "2023-07-01",
+          "value": 1429753.91,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SIEMENS APOGEE BUILDING AUTOMATION SYSTEM SERVICES - 5 MONTH CONTRACT FOR GREATER LOS ANGELES HEALTHCARE SYSTEM, WEST LOS ANGELES VA MEDICAL"
+        },
+        {
+          "date": "2024-04-05",
+          "value": 1105302.0,
+          "state": "MN",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "FIRE ALARM DEVICE REPLACEMENT, PHASE 2 REPLACE ALL THE FIRE ALARM DEVICES AND RELAYS AT THE DIANA MURPHY COURTHOUSE, MINNEAPOLIS, MN."
+        },
+        {
+          "date": "2019-08-01",
+          "value": 1077734.62,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "C104939 - RENEWAL OPT. YR. 1 SIEMENS CONTRACT, EFFECTIVE POP: 8/1/19 TO 7/31/20; (2) MONTH TASK: 8/1/19 TO 9/30/19, STEPHANIE GALLOWAY"
+        },
+        {
+          "date": "2019-10-01",
+          "value": 1045891.68,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "FUND THE SIEMENS FFP REQUIREMENT FOR OCT. AND NOV. AT NIH BETHESDA CAMPUS AND ROCKY MOUNTAIN LABS, MONTANA."
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
+          "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Cenergistic",
+      "segments": [
+        "Schools",
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Dallas",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Energy Specialist - Grand Rapids, MI",
+          "state": "MI",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Mechanical Engineer_HVAC & Energy Performance- OKC",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Energy Specialist - Syosset, NY",
+          "state": "NY",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Mechanical Engineer \u2013 HVAC & Building Systems Tulsa, OK",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Energy SpecialistWaukee, IA",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-08"
+        },
+        {
+          "title": "Energy Specialist - Greenville, NC",
+          "state": "NC",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Energy Specialist - Sarasota, FL",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-27"
+        },
+        {
+          "title": "Internship - Lexington, KY",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-06-24"
+        },
+        {
+          "title": "Energy Specialist - Temple, TX",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Consultant Engineer - Dallas, TX",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Control Tech - Dallas, TX",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Control Tech - Temple, TX",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-12"
+        },
+        {
+          "title": "Energy Specialist - Dallas, TX",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Consultant Engineer - Temple, TX",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-06-11"
+        },
+        {
+          "title": "Building Systems Engineer - Tulsa, OK",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-05"
+        },
+        {
+          "title": "Energy Specialist - Lexington, TX",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-05-13"
+        },
+        {
+          "title": "Technical Consultant - HVAC Building Automation Specialist- Dallas, TX",
+          "state": "TX",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-05-13"
+        },
+        {
+          "title": "Energy Specialist - Midland, TX",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-05-13"
+        },
+        {
+          "title": "Building Automation Systems Tech - Dallas, TX",
+          "state": "TX",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-05-13"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Willdan Group",
+      "segments": [
+        "Municipal",
+        "Schools",
+        "University"
+      ],
+      "offices": [
+        {
+          "city": "Anaheim",
+          "state": "CA"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Business Development Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Code Enforcement Officer",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Project Controls Manager",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Designer II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Site Superintendent",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Combination Building Inspector",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-24"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Scheduling Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Technical Aide",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
+        },
+        {
+          "title": "Building Inspector / Plans Examiner",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-18"
+        },
+        {
+          "title": "Rental Housing Inspector",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "NYC Accelerator Market Development Manager",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-17"
+        },
+        {
+          "title": "Energy Engineer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Sales Manager",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Technical Sales Engineer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
+        },
+        {
+          "title": "Project Accounting Manager",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-10"
+        },
+        {
+          "title": "Associate Traffic Engineer",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-09"
+        },
+        {
+          "title": "Project Coordinator",
+          "state": "NY",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-03"
+        },
+        {
+          "title": "Commissioning Engineer I",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-07-03"
+        },
+        {
+          "title": "Building Inspector",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-28"
+        },
+        {
+          "title": "Residential Building Inspector",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-06-24"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Should Willdan\u2019s US$31 Million Wastewater Biogas Deal Reshape How WLDN Investors View Its Growth Path? - simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdU",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZoSzhrbXA4QUtxTFBnTVZIdFd0Tm51cTgzdXVHLXhuWDd5N3pFX0pqUUVNTTJrOVk1X09LbXNqSHJCWFN3MWNwVVRNdV9MMGk2eVNmOWFoQkNKa0d2djlOZzliRnk0cldfNTRreTRiMnAzWTNzQUd3TU9OWWtIWUFSdl9jVDZmOEhGbWhmN3Zoclg1YWt1WWxvU1J4UEswYlpYV0g1S3BWVHJEV0VPcV9sT3dzWkZvdUZ3NzNMVWc1elRCZEp6YmEwdW43VllDOFFSeFdITnlCUdIB3wFBVV95cUxNbEFoeW82RGViZWFFNjdBYS01TVpPemVRWks1V3VPYm1HdjVnVElqYk42RUxHdTJaSnlxNm44QlNQaF82bTBPYW1xaXZ5TFFmNjI0X18zZ3ZYdXNSYUdRUG8yREpjbHlyY1N0dzIwbjZrS0pTbi1iSU5aUkRBcWcxT0tJakh0c0MzbFRaeFdqVDZ2a2FteWJBRGRTVkZUQlFHeWR5QVZma3JjYmNmM2xVbWh3am9ic0J5SzVMeTJyQkpqXzVGbkpFd1o3MFFLbkM5bDZaci1kdUdnYWFzZFhJ?oc=5",
+          "published": "Sat, 18 Jul 2026 07:00:00 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Energy Systems Group",
+      "segments": [
+        "Schools",
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Newburgh",
+          "state": "IN"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2018-09-27",
+          "value": 18994374.86,
+          "state": "NC",
+          "segment": "University",
+          "agency": "Environmental Protection Agency",
+          "description": "ENERGY SAVINGS PERFORMANCE CONTRACT TASK ORDER FOR RESEARCH TRIANGLE PARK CAMPUS, RTP, NORTH CAROLINA"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Senior Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Maintenance Supervisor, Ft. Bragg",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Sr. Construction Project Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-20"
+        },
+        {
+          "title": "Service Order Supervisor, Fort Bragg Dining Facilities",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-19"
+        },
+        {
+          "title": "IT Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-06-17"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "NORESCO",
+      "segments": [
+        "Schools",
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Westborough",
+          "state": "MA"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2014-01-01",
+          "value": 53732102.82,
+          "state": "IL",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF DE-AM36-09G0229039/GS-P-05-14-GA-0004,GSA NATIONAL DEEP ENERGY RETROFIT (NDER), ENERGY SAVINGS PERFORMANCE CONTRACT (ESPC) TASK"
+        },
+        {
+          "date": "2008-02-28",
+          "value": 29525089.26,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "ENGINEERING (ENGINEERING)"
+        },
+        {
+          "date": "2012-04-09",
+          "value": 25320208.22,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "IGF::OT::IGF OTHER FUNCTIONS - ENERGY SAVINGS PERFORMANCE CONTRACT FOR VISN 22 FACILITIES: WEST LOS ANGELES MEDICAL CENTER, SEPULVEDA AMBULA"
+        },
+        {
+          "date": "2015-09-24",
+          "value": 19859267.72,
+          "state": "TX",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "IGF::CL::IGF VETERANS INTEGRATED SERVICE NETWORK 18, ENERGY SAVINGS PERFORMANCE CONTRACT FOR EL PASO, TEXAS VETERANS AFFAIRS MEDICAL CENTER "
+        },
+        {
+          "date": "2013-12-20",
+          "value": 17751822.99,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::OT::IGF INFRASTRUCTURE UPGRADES AT THE NIH BETHESDA CAMPUS, POOLESVILLE CAMPUS, RESEARCH TRIANGLE PARK, AND ROCKY MOUNTAIN LABORATORIES"
+        },
+        {
+          "date": "2023-07-01",
+          "value": 12326965.0,
+          "state": "IL",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "ENERGY SAVINGS PERFORMANCE CONTRACT  DIRKSEN FEDERAL COURTHOUSE AND 5 OTHER LOCATIONS, CHICAGO, IL  FOR ADMINISTRATIVE PURPOSES TO CHANGE TH"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "NORESCO sold; Ipswich official says it will have 'no impact' on local energy-efficiency project - thelocalnews.news",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbD",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbDBZRkJzQWJIaEVTSDhKb3F3?oc=5",
+          "published": "Thu, 30 Jul 2026 20:28:20 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Carrier Announces Agreement to Sell NORESCO to OPTERRA Energy Services - PR Newswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0U2VjZPb2cwdWE4b1ZOQmc0NUEwQnEteWZLanNrdW5INjdOMmhPeV9OaVBJd05RUF9Fbk1RekU1dHFtRk9qejJGbG5jOGRnR2NZd3ZKcC10MVJiVkxQTlIzOFFmSUVmbFNKT3h3a21SUjdiQXgtZzBuT014bGVvcnByQ0V2LUZ4Z2Y5ZWo5c1BWbWFOTUc5eTUyWE5rdWJuSnB1QVdZWW43YTdZb3hzVkx4STdpNHBjbX",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0U2VjZPb2cwdWE4b1ZOQmc0NUEwQnEteWZLanNrdW5INjdOMmhPeV9OaVBJd05RUF9Fbk1RekU1dHFtRk9qejJGbG5jOGRnR2NZd3ZKcC10MVJiVkxQTlIzOFFmSUVmbFNKT3h3a21SUjdiQXgtZzBuT014bGVvcnByQ0V2LUZ4Z2Y5ZWo5c1BWbWFOTUc5eTUyWE5rdWJuSnB1QVdZWW43YTdZb3hzVkx4STdpNHBjbXI5cW9wdGJTOTlj?oc=5",
+          "published": "Mon, 27 Jul 2026 12:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Carrier sells energy service business to Opterra - Facilities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5\" target=\"_blank\">Carrier sells energy se",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5",
+          "published": "Mon, 03 Aug 2026 16:19:16 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Carrier To Sell NORESCO To OPTERRA Energy Services - Pulse 2.0",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Y2U0Nmhfd3RhaXAyeXNrQm5uSnV2YWVVNEJRa2ViaE1JSkxiSU5CY2lBVWlQQmxiLWk4bWhZQkU5RmVWV0RkU2s3dkFmT0lycmRwUk1WdW9wMU1sazl3WE5TTldzUnZIektoVnlQWEhrczBpMHViYjkySWTSAYIBQVVfeXFMUEF0Mk53eUhrSlBraUZVWlJ1TE5yTkd1c05McWZKSzd5aENBTEF6YXZsMXdhcTNlZ3RaRU",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Y2U0Nmhfd3RhaXAyeXNrQm5uSnV2YWVVNEJRa2ViaE1JSkxiSU5CY2lBVWlQQmxiLWk4bWhZQkU5RmVWV0RkU2s3dkFmT0lycmRwUk1WdW9wMU1sazl3WE5TTldzUnZIektoVnlQWEhrczBpMHViYjkySWTSAYIBQVVfeXFMUEF0Mk53eUhrSlBraUZVWlJ1TE5yTkd1c05McWZKSzd5aENBTEF6YXZsMXdhcTNlZ3RaRUxWTlM3R2xvQ1pNVXBod3U4aktwMmdWdThKbXZ2N3pVT2ExaGlfcXhkalRqTlRPVTFOeEptbjNuVHZjMmJFVHZEbElHOGJ2Zw?oc=5",
+          "published": "Fri, 31 Jul 2026 19:53:35 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "EMCOR Group",
+      "segments": [
+        "Healthcare",
+        "University",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Norwalk",
+          "state": "CT"
+        },
+        {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2021-10-01",
+          "value": 73144974.8,
+          "state": "VA",
+          "segment": "University",
+          "agency": "National Archives and Records Administration",
+          "description": "THIS TASK ORDER IS FOR COMPLETE FACILITIES MAINTENANCE (CFM) AT NATIONAL ARCHIVES I, WASHINGTON, DC AND ARCHIVES II, COLLEGE PARK, MD FACILI"
+        },
+        {
+          "date": "2020-11-01",
+          "value": 7657656.51,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "ST. ELIZABETHS WEST CAMPUS, WASHINGTON, DC. BLANKET PURCHASE AGREEMENT (BPA), FACILITIES ENGINEERING, OPERATIONS AND MAINTENANCE SERVICE SIT"
+        },
+        {
+          "date": "2025-03-14",
+          "value": 244853.2,
+          "state": "VA",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BARRIER BOLLARD REPAIR AT ST ELIZABETHS WEST CAMPUS"
+        },
+        {
+          "date": "2026-06-02",
+          "value": 143924.0,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "PREPARE ARC FLASH & COORDINATION STUDY AT ST E CAMPUS."
+        },
+        {
+          "date": "2026-07-27",
+          "value": 125000.0,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BPA CALL FOR EMERGENCY BOILER REPAIRS AT THE CENTRAL UTILITY PLANT (DC0240SE), ST. ELIZABETHS WEST CAMPUS."
+        },
+        {
+          "date": "2026-06-01",
+          "value": 83726.04,
+          "state": "DC",
+          "segment": "Schools",
+          "agency": "General Services Administration",
+          "description": "BPA CALL TO EXERCISE OPTION FOR AFTER HOURS ENGINEER SUPPORT AT LBJ DEPT OF EDUCATION BUILDING IN WASHINGTON, DC"
+        },
+        {
+          "date": "2026-06-30",
+          "value": 68442.79,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BPA CALL TO REPLACE PLATES AND GASKETS ON TWO (2) EXISTING HEAT EXCHANGERS LOCATED IN THE WEST ADDITION AT ST. ELIZABETHS CAMPUS."
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "HVAC Technician",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Chiller Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "The Betlem Service Corporation",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Commercial Facilities Maintenance Technician",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "F & G Mechanical Corporation - Truck Driver",
+          "state": "NJ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Carpenter (GAO) - Temporary Assignment",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Sr. Payroll Specialist",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Intern",
+          "state": "OH",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Intern",
+          "state": "OH",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Purchasing Team Lead",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "PPM Electrical Project Manager 1.2",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "PPM Regional Manager- Virginia",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Environmental Specialties, LLC Job Template - Electrical Engineer (Jr or recent graduate opportunity)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Business Development Manager - Service Contracts",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Laborer (WIL CORN EW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Business Development Manager - Service Contracts",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "SIC Rigger Helper (RAL AMGEN PD)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "General Maintenance Tech I",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Service Coordinator (Dispatcher)",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Safety Coordinator - Miller Electric Company",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "HVAC Service Technician II",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Plan and Spec Sales Professional",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Millwright (ATL EQX EF)",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "General Building Maintenance Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Intern",
+          "state": "MI",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Intern",
+          "state": "MI",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-01"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
+          "published": "Thu, 30 Jul 2026 11:35:08 GMT"
+        }
+      ],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Ideal Impact",
+      "segments": [
+        "Schools",
+        "University"
+      ],
+      "offices": [
+        {
+          "city": "Fort Worth",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [],
+      "activeBids": [],
+      "jobPostings": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "ENGIE Services US",
+      "segments": [
+        "University",
+        "Healthcare",
+        "Municipal",
+        "Schools"
+      ],
+      "offices": [
+        {
+          "city": "Oakland",
+          "state": "CA"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Head of Software Engineering (Houston)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Head of Engineering \u2014 Trading Tech & Platforms (Houston)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Data Analyst Senior",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Head of Software Engineering (Houston)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Capital Markets Director",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-29"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Bernhard",
+      "segments": [
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Baton Rouge",
+          "state": "LA"
+        },
+        {
+          "city": "Houston",
+          "state": "TX"
+        },
+        {
+          "city": "Dallas",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [],
+      "activeBids": [],
+      "jobPostings": [],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [
+        {
+          "date": "2025",
+          "topics": [
+            "Energy/Nuclear"
+          ],
+          "bills": [],
+          "amount": 0.0
+        },
+        {
+          "date": "2025",
+          "topics": [
+            "Natural Resources"
+          ],
+          "bills": [],
+          "amount": 0.0
+        },
+        {
+          "date": "2025",
+          "topics": [
+            "Natural Resources"
+          ],
+          "bills": [],
+          "amount": 0.0
+        }
+      ],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "CMTA",
+      "segments": [
+        "Schools",
+        "University",
+        "Healthcare",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Louisville",
+          "state": "KY"
+        },
+        {
+          "city": "Austin",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [
+        {
+          "date": "2019-12-12",
+          "value": 113132.3,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "550-20-126, \"REPLACE GENERATOR B58\", AT THE VA ILLIANA HEALTH CARE SYSTEMS, DANVILLE, IL."
+        },
+        {
+          "date": "2019-12-12",
+          "value": 106832.44,
+          "state": "IL",
+          "segment": "University",
+          "agency": "Department of Veterans Affairs",
+          "description": "550-20-103 (AE) CONSTRUCT CAMPUS WATER SOFTENING PLANT"
+        }
+      ],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-04"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Fall 2026",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Plumbing Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Plumbing Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Fall 2026",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Senior Solar Engineer - CMTA Energy Solutions",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Solar Engineer - CMTA Energy Solutions",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "BIM Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Construction Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-30"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    },
+    {
+      "name": "Southland Industries",
+      "segments": [
+        "Healthcare",
+        "University",
+        "Municipal"
+      ],
+      "offices": [
+        {
+          "city": "Garden Grove",
+          "state": "CA"
+        },
+        {
+          "city": "Dallas",
+          "state": "TX"
+        }
+      ],
+      "contractAwards": [],
+      "activeBids": [],
+      "jobPostings": [
+        {
+          "title": "Senior Proposal Specialist",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "VDC Field Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Designer II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Fleet Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Driver II (Flatbed)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Driver I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "HVAC Service Journeyman",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-02"
+        },
+        {
+          "title": "Safety Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Senior Safety Coordinator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-01"
+        },
+        {
+          "title": "Senior Project Developer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-28"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-27"
+        },
+        {
+          "title": "Mission Critical Superintendent",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Mission Critical Superintendent",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Marketing Proposal Data Specialist (Construction/Engineering)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Operations Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Industrial Refrigeration Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Project Engineer I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Project Accountant",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Finance Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-26"
+        },
+        {
+          "title": "Fire Sprinkler Service Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Service Account Manager - Controls",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Scheduler",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Engineer II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Electrical Service Supervisor",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Manager - Mechanical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Mission Critical Project Executive",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        },
+        {
+          "title": "Project Accountant",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
+        }
+      ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
+      "lobbyingActivity": [],
+      "texasContracts": [],
+      "entityRegistrations": [],
+      "constructionProjects": [
+        {
+          "id": "construction-52276",
+          "title": "Turner tops out $64M New York trades education facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Mon, 03 Aug 2026 12:48:07 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gQQUtS5YA2OsLnYKF8nCOHPrKSKPzLlCMMELZ1FdvDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNzMwMjYtSFZDQy1wci5qcGc=.webp\" /></div></figure><p>The Applied Technology Education Center at Hudson Valley Community College in Troy wi",
+          "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
+    }
+  ]
+}
