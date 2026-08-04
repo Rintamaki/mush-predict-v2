@@ -1,0 +1,70 @@
+name: Smart Dedup Bids v2
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: true
+        default: 'dry-run'
+        type: choice
+        options:
+          - dry-run
+          - apply
+
+jobs:
+  dedup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run dedup (dry-run)
+        if: ${{ github.event.inputs.mode == 'dry-run' }}
+        run: python scrapers/dedup_bids_v2.py
+
+      - name: Run dedup (apply)
+        if: ${{ github.event.inputs.mode == 'apply' }}
+        run: python scrapers/dedup_bids_v2.py --apply
+
+      - name: Upload cleaned files + backups
+        if: ${{ github.event.inputs.mode == 'apply' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import base64, glob, json, os, urllib.request
+          token = os.environ["GITHUB_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          data_dir = "mush-predict-package/public/data"
+          paths = [
+              f"{data_dir}/competitors.json",
+              f"{data_dir}/signals.json",
+          ] + glob.glob(f"{data_dir}/*.backup-dedup2-*.json")
+          for path in paths:
+              if not os.path.exists(path):
+                  print(f"Skip missing {path}"); continue
+              with open(path, "rb") as f:
+                  content = base64.b64encode(f.read()).decode()
+              url = f"https://api.github.com/repos/{repo}/contents/{path}"
+              req = urllib.request.Request(url, headers={"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"})
+              try:
+                  with urllib.request.urlopen(req) as r:
+                      sha = json.loads(r.read())["sha"]
+              except:
+                  sha = ""
+              body = {"message": f"Smart dedup v2: {os.path.basename(path)}", "content": content}
+              if sha: body["sha"] = sha
+              req2 = urllib.request.Request(url, data=json.dumps(body).encode(), method="PUT",
+                  headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
+              urllib.request.urlopen(req2)
+              print(f"Uploaded {path}")
+          PYEOF
