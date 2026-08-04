@@ -1,8 +1,8 @@
 import { Shield, AlertTriangle, RefreshCcw } from 'lucide-react'
 import { computeIncumbencies } from '../engine/incumbency'
 
-export default function IncumbencyPanel({ competitor }) {
-  const { strongIncumbencies, renewalsLikelyComing, allRepeats } = computeIncumbencies(competitor)
+export default function IncumbencyPanel({ competitor, signals = [] }) {
+  const { strongIncumbencies, renewalsLikelyComing, allRepeats } = computeIncumbencies(competitor, signals)
 
   if (!allRepeats?.length) {
     return (
@@ -30,7 +30,6 @@ export default function IncumbencyPanel({ competitor }) {
         </span>
       </div>
 
-      {/* Strong incumbents — entrenched accounts */}
       {strongIncumbencies.length > 0 && (
         <div className="mb-3">
           <div className="text-[10px] font-mono uppercase tracking-wider text-mk-orange mb-1.5 flex items-center gap-1">
@@ -45,7 +44,6 @@ export default function IncumbencyPanel({ competitor }) {
         </div>
       )}
 
-      {/* Renewals likely coming — opportunity windows */}
       {renewalsLikelyComing.length > 0 && (
         <div>
           <div className="text-[10px] font-mono uppercase tracking-wider text-mk-lgreen mb-1.5 flex items-center gap-1">

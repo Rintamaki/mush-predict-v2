@@ -4,9 +4,9 @@ import { STATE_CENTROIDS, KEY_STATES, aggregateSignalsByState } from './usStates
 const VIEWBOX_W = 960
 const VIEWBOX_H = 600
 
-export default function UsHeatMap({ competitor }) {
+export default function UsHeatMap({ competitor, signals = [] }) {
   const [hovered, setHovered] = useState(null)
-  const byState = aggregateSignalsByState(competitor)
+  const byState = aggregateSignalsByState(competitor, signals)
 
   const stateEntries = Object.entries(byState)
   const maxTotal = Math.max(1, ...stateEntries.map(([, d]) => d.total))

@@ -10,8 +10,6 @@
 export const KEY_STATES = ['TX', 'WA', 'OR', 'CA', 'CO']
 
 // State centroids (x, y) in a 960×600 coordinate space — Albers USA projection.
-// We use these to position colored circles per state, which keeps the file
-// lightweight (no need to embed thousands of path coordinates).
 export const STATE_CENTROIDS = {
   AL: { x: 658, y: 466, name: 'Alabama' },
   AK: { x: 138, y: 537, name: 'Alaska' },
@@ -66,30 +64,65 @@ export const STATE_CENTROIDS = {
 }
 
 /**
- * Return all signals for a competitor with extracted state info,
- * categorized by source type.
+ * Aggregate a competitor's activity by state.
+ *
+ * SIGNALS-FIRST: if an accumulated `signals` array is provided (already
+ * filtered to this competitor), aggregate from that — it's the fuller
+ * picture across all history. Falls back to the competitor snapshot object
+ * only when signals are absent or empty, so nothing breaks for competitors
+ * with no accumulated history yet.
+ *
+ * @param {Object} competitor  snapshot object (fallback source)
+ * @param {Array}  signals     this competitor's accumulated signals (primary source)
  */
-export function aggregateSignalsByState(competitor) {
-  const byState = {}  // { TX: { total, jobs, contracts, patents, permits, segments: {...} } }
+export function aggregateSignalsByState(competitor, signals = []) {
+  const byState = {}  // { TX: { total, jobs, contracts, patents, permits, news, segments } }
+
+  function ensure(code) {
+    if (!byState[code]) {
+      byState[code] = {
+        total: 0,
+        jobs: 0, contracts: 0, patents: 0, permits: 0, news: 0, bids: 0,
+        segments: {},
+      }
+    }
+    return byState[code]
+  }
 
   function add(state, type, weight = 1, segment = null) {
     if (!state) return
     const code = state.toUpperCase()
     if (!STATE_CENTROIDS[code]) return
-    if (!byState[code]) {
-      byState[code] = {
-        total: 0,
-        jobs: 0, contracts: 0, patents: 0, permits: 0, news: 0,
-        segments: {},
-      }
-    }
-    byState[code][type] += weight
-    byState[code].total += weight
-    if (segment) {
-      byState[code].segments[segment] = (byState[code].segments[segment] || 0) + weight
+    const bucket = ensure(code)
+    // Map various signal types onto the display categories
+    const cat = type === 'contract' ? 'contracts'
+              : type === 'bid'      ? 'bids'
+              : type === 'job'      ? 'jobs'
+              : type === 'patent'   ? 'patents'
+              : type === 'news'     ? 'news'
+              : type === 'permit'   ? 'permits'
+              : type  // already a display category (from snapshot fallback)
+    if (bucket[cat] === undefined) bucket[cat] = 0
+    bucket[cat] += weight
+    bucket.total += weight
+    if (segment && segment !== 'Other') {
+      bucket.segments[segment] = (bucket.segments[segment] || 0) + weight
     }
   }
 
+  // ── SIGNALS-FIRST ──
+  if (signals && signals.length > 0) {
+    const TYPE_WEIGHT = { contract: 3, bid: 2, permit: 2, job: 1, patent: 1, news: 1, earnings: 1 }
+    signals.forEach(s => {
+      const w = TYPE_WEIGHT[s.type] ?? 1
+      add(s.state, s.type, w, s.segment)
+    })
+    // texasContracts live only on the snapshot; fold them in so TX isn't undercounted
+    ;(competitor.texasContracts ?? []).forEach(c => add('TX', 'contract', 3, c.segment))
+    return byState
+  }
+
+  // ── SNAPSHOT FALLBACK (original behavior) ──
   ;(competitor.jobPostings ?? []).forEach(j => add(j.state, 'jobs', 1, j.segment))
   ;(competitor.contractAwards ?? []).forEach(c => add(c.state, 'contracts', 3, c.segment))
   ;(competitor.permitMentions ?? []).forEach(p => add(p.state, 'permits', 2))

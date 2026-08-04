@@ -1,9 +1,26 @@
 /**
- * SignalMixDonut.jsx
- * Donut chart showing breakdown of signal types for a competitor.
+ * CompetitorCharts.jsx
+ * SignalMixDonut, SegmentFocus, TimelineStrip.
+ *
+ * All three now accept an optional `signals` prop (this competitor's
+ * accumulated signals). When present and non-empty, they aggregate from
+ * signals — the fuller history. When absent, they fall back to the
+ * competitor snapshot object, preserving original behavior.
  */
 
-const SIGNAL_TYPES = [
+// Map accumulated signal `type` values to the donut's display categories
+const SIGNAL_TYPE_LABELS = {
+  job:      { label: 'Hiring',        color: '#569BB4' },
+  contract: { label: 'Contracts won', color: '#C15A2D' },
+  bid:      { label: 'Active bids',   color: '#D7944B' },
+  patent:   { label: 'Patents',       color: '#447D29' },
+  earnings: { label: 'Earnings calls',color: '#9ECF7C' },
+  news:     { label: 'News',          color: '#005776' },
+  permit:   { label: 'Permits',       color: '#B6B9BF' },
+}
+
+// Snapshot-object keys (fallback) mapped to the same labels/colors
+const SNAPSHOT_TYPES = [
   { key: 'jobPostings',          label: 'Hiring',          color: '#569BB4' },
   { key: 'contractAwards',       label: 'Contracts won',   color: '#C15A2D' },
   { key: 'activeBids',           label: 'Active bids',     color: '#D7944B' },
@@ -14,11 +31,30 @@ const SIGNAL_TYPES = [
   { key: 'permitMentions',       label: 'Permits',         color: '#B6B9BF' },
 ]
 
-export function SignalMixDonut({ competitor }) {
-  const counts = SIGNAL_TYPES.map(t => ({
-    ...t,
-    count: (competitor[t.key] ?? []).length,
-  })).filter(t => t.count > 0)
+export function SignalMixDonut({ competitor, signals = [] }) {
+  let counts
+
+  if (signals && signals.length > 0) {
+    // SIGNALS-FIRST: tally by signal type
+    const tally = {}
+    signals.forEach(s => {
+      const meta = SIGNAL_TYPE_LABELS[s.type]
+      if (!meta) return
+      tally[s.type] = (tally[s.type] || 0) + 1
+    })
+    counts = Object.entries(tally).map(([type, count]) => ({
+      key: type,
+      label: SIGNAL_TYPE_LABELS[type].label,
+      color: SIGNAL_TYPE_LABELS[type].color,
+      count,
+    })).filter(t => t.count > 0)
+  } else {
+    // SNAPSHOT FALLBACK
+    counts = SNAPSHOT_TYPES.map(t => ({
+      ...t,
+      count: (competitor[t.key] ?? []).length,
+    })).filter(t => t.count > 0)
+  }
 
   const total = counts.reduce((s, t) => s + t.count, 0)
 
@@ -31,7 +67,6 @@ export function SignalMixDonut({ competitor }) {
     )
   }
 
-  // Build SVG donut arcs
   const size   = 120
   const radius = 50
   const stroke = 18
@@ -57,7 +92,7 @@ export function SignalMixDonut({ competitor }) {
       <h4 className="font-barlow font-semibold text-white text-sm mb-3">Signal mix</h4>
       <div className="flex items-center gap-4">
         <svg width={size} height={size} className="-rotate-90 flex-shrink-0">
-          {arcs.map((a, i) => (
+          {arcs.map((a) => (
             <circle
               key={a.key}
               cx={cx} cy={cy} r={radius}
@@ -115,7 +150,7 @@ export function SignalMixDonut({ competitor }) {
  * SegmentFocus.jsx
  * Horizontal bars showing % of competitor's activity in each MUSH segment.
  */
-export function SegmentFocus({ competitor }) {
+export function SegmentFocus({ competitor, signals = [] }) {
   const SEGMENTS = [
     { name: 'Schools',    color: '#D7944B' },
     { name: 'Healthcare', color: '#C15A2D' },
@@ -123,8 +158,15 @@ export function SegmentFocus({ competitor }) {
     { name: 'Municipal',  color: '#569BB4' },
   ]
 
-  // Count signals tagged with each segment across sources
   function countForSegment(seg) {
+    if (signals && signals.length > 0) {
+      // SIGNALS-FIRST: weight by type, count signals tagged with this segment
+      const TYPE_WEIGHT = { contract: 3, bid: 2, job: 1, news: 1, patent: 1, earnings: 2, permit: 1 }
+      return signals
+        .filter(s => s.segment === seg)
+        .reduce((sum, s) => sum + (TYPE_WEIGHT[s.type] ?? 1), 0)
+    }
+    // SNAPSHOT FALLBACK
     let count = 0
     count += (competitor.contractAwards ?? []).filter(c => c.segment === seg).length * 3
     count += (competitor.activeBids ?? []).filter(b => b.segment === seg).length * 2
@@ -177,8 +219,7 @@ export function SegmentFocus({ competitor }) {
  * TimelineStrip.jsx
  * Sparkline showing signal volume over the last 12 months.
  */
-export function TimelineStrip({ competitor }) {
-  // Bucket every signal by month
+export function TimelineStrip({ competitor, signals = [] }) {
   const buckets = {}
   const now = new Date()
   for (let i = 11; i >= 0; i--) {
@@ -195,17 +236,22 @@ export function TimelineStrip({ competitor }) {
     if (key in buckets) buckets[key]++
   }
 
-  ;(competitor.contractAwards ?? []).forEach(c => bucket(c.date))
-  ;(competitor.jobPostings ?? []).forEach(j => bucket(j.postedDate))
-  ;(competitor.patents ?? []).forEach(p => bucket(p.date))
-  ;(competitor.permitMentions ?? []).forEach(p => bucket(p.date))
-  ;(competitor.newsArticles ?? []).forEach(n => bucket(n.published))
+  if (signals && signals.length > 0) {
+    // SIGNALS-FIRST: bucket every accumulated signal by its timestamp
+    signals.forEach(s => bucket(s.timestamp || s.date))
+  } else {
+    // SNAPSHOT FALLBACK
+    ;(competitor.contractAwards ?? []).forEach(c => bucket(c.date))
+    ;(competitor.jobPostings ?? []).forEach(j => bucket(j.postedDate))
+    ;(competitor.patents ?? []).forEach(p => bucket(p.date))
+    ;(competitor.permitMentions ?? []).forEach(p => bucket(p.date))
+    ;(competitor.newsArticles ?? []).forEach(n => bucket(n.published))
+  }
 
   const entries = Object.entries(buckets)
   const max     = Math.max(1, ...entries.map(([, v]) => v))
   const total   = entries.reduce((s, [, v]) => s + v, 0)
 
-  // Detect trend by comparing first 6 vs last 6 months
   const firstHalf = entries.slice(0, 6).reduce((s, [, v]) => s + v, 0)
   const lastHalf  = entries.slice(6).reduce((s, [, v]) => s + v, 0)
   const trend     = lastHalf > firstHalf * 1.3 ? 'accelerating'
