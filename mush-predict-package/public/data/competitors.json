@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,14 +96,21 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Fire Sprinkler Service Technician",
-          "state": "CA",
+          "title": "Fire Sales Manager",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Security Account Executive",
+          "title": "Controls Systems Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Commercial HVAC Estimator",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -111,35 +118,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "HVAC Service Sales Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Security Sales Manager",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "HVAC Truck Based Service Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Experienced Fire Service Technician",
+          "title": "Senior Controls Engineer, Machines",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -147,17 +129,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Fire Service Sales Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Principal Application Engineer (hybrid)",
+          "title": "HVAC Truck Based Controls Service Engineer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -165,10 +140,39 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "HVAC Truck Based Service Manager",
+          "title": "Quality Inspector II BTS LOC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "HVAC Operations & Maintenance Mechanic Apprentice (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Controls Systems Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Warehouse Person",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -176,38 +180,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Operations & Maintenance Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Associate Project Manager, Fire Sprinkler Protection",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Commercial Security Systems Sales Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Principal Power Electronics Engineer (onsite)",
+          "title": "Sprinkler Project Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -215,10 +191,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Security Service Technician",
+          "title": "Commercial HVAC Estimator",
           "state": "NC",
           "segment": "Schools",
           "tags": [
@@ -226,87 +202,112 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Experienced Fire Alarm Installer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "HVAC Truck Based Chiller Mechanic Apprentice (union)",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Senior HVAC Control Systems Engineer",
+          "title": "HVAC Control Systems Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Sr Director Business System, Global",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "HVAC Service Manager - FT. Worth Texas",
+          "title": "Fire Sprinkler Systems Technician",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Staff Power Electronics Engineer (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "PCB Design Engineer (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Traveling Security Field Engineer - Electronic / Integrated Security (Job number: 1608)",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Principal Systems Controls Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Project Manager \u2013 Mission Critical (Data Centers)",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Class III FAB Set-Up - 1st Shift",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Instrumentation Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Fire Detection Service Technician",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "HVAC TB Cust Resource Coord",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Senior Mechanical Product Engineer - Data Center Chillers (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "HVAC Sales Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Fire Field Project Manager",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
         }
       ],
       "patents": [],
@@ -314,7 +315,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Johnson Controls Helps Resorts World Las Vegas Save $110K Annually With OpenBlue AI - constructionowners.com",
+          "title": "Johnson Controls Helps Resorts World Las Vegas Save $110K Annually With OpenBlue AI - Construction Owners",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOH",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOHQtRUdBRHRqUFRheE1FSTZQbG5PeUhTVl9Oak1B?oc=5",
           "published": "Mon, 03 Aug 2026 13:08:28 GMT"
@@ -330,7 +331,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Trane Technologies",
@@ -426,214 +442,214 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Warehouse Technician",
-          "state": "VA",
+          "title": "Team Leader I - Materials - 1st Shift",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Service Coordinator II - Knoxville",
+          "title": "Area Service Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Global Strategic Account Executive-Life Science Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Service Coordinator I",
+          "title": "Services Sales Leader - Mechanicsburg or Wilkes Barre",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "HVAC Field Technician",
+          "title": "Service Project Administrator - Atlanta / Macon / Augusta GA",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Data Center NPD/Margin Expansion Designer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Customer Sales Associate",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Sales Administrator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "HVAC Technician - Mechanicsburg, PA",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Controls Project Manager - West Palm Beach, FL",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "HVAC Technician Support, Warehouse and Driver",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Turnkey Installation Lead Technician",
+          "title": "Warehouse Technician",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "AI & Data Delivery Specialist",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Service Controls Field Technician",
+          "title": "Data Center NPD/Margin Expansion Electrical Project Manager TCDC",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Journeyman Technician",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Application Engineer I",
+          "title": "Services Account Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "OPEX Lean Technician 1st Shift",
-          "state": "MI",
+          "title": "Senior Material Planner",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "OPEX Tooler Team Lead 1st Shift",
-          "state": "MI",
+          "title": "Contracting Project Administrator",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Controls Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
         },
         {
           "title": "Warehouse Technician",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "HVAC Field Technician",
-          "state": "AZ",
+          "title": "Construction Project Manager",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Senior Manufacturing Engineer-Welding",
+          "title": "BAS Service Technician",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Senior Manufacturing Engineer",
+          "title": "Service Estimator",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Client Service Representative",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Sr. Construction Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Senior Order Management Representative",
+          "title": "Data Center NPD/Margin Expansion Designer V",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-07"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Material Handler - Driver",
+          "title": "Controls Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Brake Press Operator",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Account Executive - Gulf Shores (AL, GA. LA, MS)",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Product Support Engineer- Building Services",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Senior Order Management Representative",
+          "title": "Account Manager - Service",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-08"
         },
         {
-          "title": "Service Coordinator I",
+          "title": "Maintenance Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Manufacturing Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Account Executive - Gulf Shores (AL, GA. LA, MS)",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Service Coordinator II - Knoxville",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Senior Manufacturing Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "HVAC Field Technician",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Project Administrator",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Account Executive - Gulf Shores (AL, GA. LA, MS)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Account Executive - Gulf Shores (AL, GA. LA, MS)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Account Executive - Gulf Shores (AL, GA. LA, MS)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Application Engineer I",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Material Handler - Driver",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-08"
         }
       ],
       "patents": [],
@@ -642,7 +658,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Ameresco",
@@ -690,6 +721,116 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Director of Project Controls & Preconstruction Development",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Controls Technician",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Service Sales Executive",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Integration Technician",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "O&M HVAC Technician",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Controls Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Assistant Controls Project Manager",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Mechanical Superintendent",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Controls Technician II",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Customer Onboarding Specialist",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-08"
+        },
+        {
           "title": "Construction Project Manager",
           "state": "IL",
           "segment": "Schools",
@@ -701,10 +842,12 @@
           "postedDate": "2026-08-07"
         },
         {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
+          "title": "Operations Maintenance Technician",
+          "state": "IL",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
           "postedDate": "2026-08-05"
         },
         {
@@ -717,6 +860,13 @@
             "University"
           ],
           "postedDate": "2026-08-03"
+        },
+        {
+          "title": "Plant Operator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-25"
         },
         {
           "title": "Site Safety Manager",
@@ -739,17 +889,6 @@
             "University"
           ],
           "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-24"
         },
         {
           "title": "Construction Superintendent",
@@ -785,13 +924,6 @@
           "postedDate": "2026-07-23"
         },
         {
-          "title": "Senior Controls System Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-20"
-        },
-        {
           "title": "Facility Condition Assessor",
           "state": "",
           "segment": "Schools",
@@ -816,17 +948,6 @@
         {
           "title": "Senior Construction Project Manager",
           "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Construction Project Manager",
-          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -889,94 +1010,6 @@
             "University"
           ],
           "postedDate": "2026-07-12"
-        },
-        {
-          "title": "Senior Business Development Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Solar Electrician",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-11"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Site Safety Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Construction Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Senior Construction Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-10"
-        },
-        {
-          "title": "Boiler Operator \u2013 Weekend Day Shift",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-09"
-        },
-        {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-07-09"
         }
       ],
       "patents": [],
@@ -991,17 +1024,10 @@
         },
         {
           "source": "google_news",
-          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
+          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - facilitiesdive.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
           "published": "Tue, 23 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - stocktitan.net",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -1009,12 +1035,34 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5\" target=\"_blank\">Ameresco begins rooftop solar construction at Communi",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
           "published": "Tue, 21 Jul 2026 23:50:35 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Romania solar project expected to offset ~53,920 metric tons of CO\u2082 yearly - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5\" ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEh3WS1XWXhTeE5YV2hvUVAxS0t3T1k2UTQ1eUw3aGk2aEhsLVJWellCdk1mUXM1dllLZjB2cmFKV3J0QkIyNDB1NFJwVGd3Nkg3a0tCV1BuYmIxSUhWRTkwX3dob254aFBSWmZtZHNCZktuUnpMLTRaVGZ4WlEzaF93TXkwdUhNNVhuV2VaSnpTY1d5R3U2NElJMmRnejdNMUtrdnNnbEhqZ1ZIWDlnMEhHenM?oc=5",
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Schneider Electric",
@@ -1068,121 +1116,29 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Senior Principal, Platform Security Architect (Andover)",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Senior Platform Security Architect, Cloud & IoT (Andover)",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Material Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Business Development Manager, Energy Parks",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Site Technical Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Senior Leader Accelerator Program",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Field Service Technician - Cooling/HVAC",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Demand Planner - Final Distribution",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Business Development Manager, Energy Parks",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Business Development Manager, Energy Parks",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "BAS Technician II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Client Development Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Business Development Manager, Energy Parks",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Solution Architect - Digital Power",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "City of Cadillac Selects Schneider Electric and Budderfly to Advance Resilient Energy Infrastructure with No Upfront Cost - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOamZjazZ6TG51WU9zcnlCbUJXUy1fZ2FtNjdNOW5IVGx3SnZ5RkJORTFHcUVsdzkzSFdkSEF2SDlheUFTdnNvR0hEbzR6aXZHb01YbXFoaThrdFNfR3ZqeEtzZzJuakZkUi1FTE82dzk1amNzSG1ja2Z0SmtJVEVrTl8zay1mT3FyWXRLcmh5a2xfVFF5STV1S1JOQjZSQQ?oc=5\" target=\"_blank\">City of Cadil",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamZjazZ6TG51WU9zcnlCbUJXUy1fZ2FtNjdNOW5IVGx3SnZ5RkJORTFHcUVsdzkzSFdkSEF2SDlheUFTdnNvR0hEbzR6aXZHb01YbXFoaThrdFNfR3ZqeEtzZzJuakZkUi1FTE82dzk1amNzSG1ja2Z0SmtJVEVrTl8zay1mT3FyWXRLcmh5a2xfVFF5STV1S1JOQjZSQQ?oc=5",
-          "published": "Wed, 05 Aug 2026 12:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Siemens Smart Infrastructure",
@@ -1340,50 +1296,29 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Manufacturing Technician",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Director of Project Delivery and IT Professional Services",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "P58 NAM Project Management Office \u2013 Project Manager",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-07"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "UCF Alum Helps Siemens Energy Power What Comes Next - University of Central Florida",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5\" target=\"_blank\">UCF Alum Helps Siemens Energy Power What Comes Ne",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pRUWMwQ2Y1cGctSFp2RkhwX25KSDd6WEs0SWpyWklzWDVaMlBIN2dYRWtjZWNqRWtPZ0VoQkR0WU5QS3FEWjRkZlZhbzZJNE41TVpUOVFhTzZRZmFQZTUzMS0yXzFRSFoxdjV1ZTB6U0RnbXJodTREcENjQ1p6aXdDbw?oc=5",
-          "published": "Tue, 09 Jun 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Cenergistic",
@@ -1566,7 +1501,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Willdan Group",
@@ -1783,7 +1733,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Energy Systems Group",
@@ -1857,7 +1822,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "NORESCO",
@@ -1937,7 +1917,7 @@
         },
         {
           "source": "google_news",
-          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
+          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - honolulu.gov",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
           "published": "Mon, 06 Jul 2026 07:00:00 GMT"
@@ -1946,7 +1926,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "EMCOR Group",
@@ -2038,228 +2033,204 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Driver",
+          "title": "Facilities Manager",
           "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "Electrical Apprentice- Texas City",
-          "state": "TX",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-08-07"
-        },
-        {
-          "title": "PPM Millwright- (MARU KS) - FT Temp 6.4",
-          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Payroll Administrator",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Project Development Engineer II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Electrical Engineer - Industrial Design-Build",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Project Development Engineer II",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "HVAC Service Coordinator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Regional Coordinator Supervisor",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Project Development Engineer II",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Proposal Coordinator",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Combo Welder (WIL BM)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Maintenance Technician",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Telecomm/VoIP Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Marketing Administrator",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Logistics Coordinator",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "VDC Project Executive",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Project Development Engineer II",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Driver/Warehouse Associate",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-08"
         },
         {
           "title": "Lead Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
         },
         {
-          "title": "Telecomm/VoIP Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Lead Technician - HVAC",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Repcon, Inc. PIPEFITTER",
+          "title": "Lead Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
         },
         {
-          "title": "Senior Manager, Business Development",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Telecomm/VoIP Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Purchasing Invoice Clerk",
+          "title": "Building Engineer (USHMM) Schedule: Wednesday - Saturday 12am-10am",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
         },
         {
-          "title": "Part-Time Designer",
+          "title": "Lead Technician",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "CI&R Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Fire Protection Inspector",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Supplier Quality Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Continuous Improvement Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "HR Coordinator",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Pipefitter Helper (RAL ED)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Facility Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Receptionist",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "General Maintenance Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Structured Cabling & ICT (Voice & Data) Assistant Project Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Project Coordinator",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Facilities Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Reconciliation Specialist",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
         },
         {
-          "title": "HVAC Technician / Maintenance Technician",
+          "title": "Facilities Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
         },
         {
-          "title": "Project Development Engineer II",
+          "title": "Facilities Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Electrical Project Manager - Data Center Construction",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Building Engineer - Union",
           "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
         },
         {
-          "title": "Data Center, Electrical Senior Project Manager - Miller Electric Company",
-          "state": "FL",
+          "title": "Facility Manager",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "General Maintenance Technician",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Maintenance Mechanic",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
         }
       ],
       "patents": [],
@@ -2268,7 +2239,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Ideal Impact",
@@ -2291,7 +2277,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "ENGIE Services US",
@@ -2334,13 +2335,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-31"
-        },
-        {
-          "title": "Head of Software Engineering (Houston)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-31"
         }
       ],
       "patents": [],
@@ -2349,7 +2343,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Bernhard",
@@ -2406,7 +2415,22 @@
       ],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "CMTA",
@@ -2447,14 +2471,63 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Mechanical Engineer",
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Administrative Assistant - Part Time",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-06"
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
         },
         {
           "title": "Director of Commissioning",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Commissioning Specialist",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2468,27 +2541,6 @@
             "Schools",
             "Healthcare"
           ],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
           "postedDate": "2026-08-06"
         },
         {
@@ -2555,25 +2607,11 @@
           "postedDate": "2026-08-04"
         },
         {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-04"
-        },
-        {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
           "state": "OH",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
         },
         {
           "title": "Construction Site Superintendent - CMTA Energy Solutions",
@@ -2616,13 +2654,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-01"
         }
       ],
       "patents": [],
@@ -2631,7 +2662,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Southland Industries",
@@ -2653,6 +2699,55 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Service Coordinator - Temp to Hire",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Senior Design Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Senior Design Project Manager",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Lead Detailer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "Detailer III- Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
+          "title": "General Foreman-Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
         {
           "title": "Project Accountant - Temp to Hire",
           "state": "WA",
@@ -2682,6 +2777,13 @@
           "postedDate": "2026-08-06"
         },
         {
+          "title": "General Superintendent (Plumbing/Piping)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-06"
+        },
+        {
           "title": "Detailer II",
           "state": "TX",
           "segment": "Other",
@@ -2704,13 +2806,6 @@
         },
         {
           "title": "Applications Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-06"
-        },
-        {
-          "title": "General Superintendent",
           "state": "TX",
           "segment": "Other",
           "tags": [],
@@ -2746,13 +2841,6 @@
         },
         {
           "title": "Project Administrator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-02"
-        },
-        {
-          "title": "Designer II",
           "state": "TX",
           "segment": "Other",
           "tags": [],
@@ -2806,55 +2894,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Safety Coordinator",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-27"
-        },
-        {
-          "title": "Mission Critical Superintendent",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Mission Critical Superintendent",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Marketing Proposal Data Specialist (Construction/Engineering)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Operations Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Industrial Refrigeration Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
-        },
-        {
-          "title": "Project Engineer I",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-26"
         }
       ],
       "patents": [],
@@ -2863,7 +2902,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-68056",
+          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
+          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     }
   ]
 }
