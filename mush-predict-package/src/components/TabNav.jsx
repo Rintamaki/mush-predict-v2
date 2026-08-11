@@ -1,4 +1,4 @@
-import { Target as TargetIcon, TrendingUp, Activity, Database, Crosshair, Briefcase, ClipboardList, School } from 'lucide-react'
+import { Target as TargetIcon, TrendingUp, Activity, Database, Crosshair, Briefcase, ClipboardList, School, Building2 } from 'lucide-react'
 
 const TABS = [
   { key: 'predict',    label: 'RFP Scorer',          icon: TargetIcon },
@@ -9,6 +9,7 @@ const TABS = [
   { key: 'brief',      label: 'Pre-Call Brief',      icon: Briefcase },
   { key: 'agenda',     label: 'Agenda Capture',      icon: ClipboardList },
   { key: 'districts',  label: 'Texas ISDs',          icon: School },
+  { key: 'municipalities', label: 'Cities & Counties', icon: Building2 },
 ]
 
 export default function TabNav({ active, setActive }) {
