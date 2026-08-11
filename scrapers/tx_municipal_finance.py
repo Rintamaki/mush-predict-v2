@@ -72,20 +72,26 @@ OUTPUT     = ROOT / "mush-predict-package" / "public" / "data" / "municipal_fina
 # Fill in the map below with the ACTUAL column names from the spreadsheet.
 # Use None for any field the file doesn't have — the code handles missing
 # fields gracefully.
-SHEET_NAME = None    # TODO — e.g. "Bond Data" or 0 for first sheet
+SHEET_NAME = "Sheet1"
 
 EXPECTED_COLUMNS = {
-    "entity_name":     None,   # TODO — column name for the city/county/district
-    "entity_type":     None,   # TODO — "City", "County", "MUD", etc. (or None)
-    "county":          None,   # TODO — county the entity is in (or None)
-    "election_date":   None,   # TODO — date of the bond/TRE election
-    "election_type":   None,   # TODO — "Bond", "TRE", etc.
-    "purpose":         None,   # TODO — bond purpose / ballot language column
-    "amount":          None,   # TODO — dollar amount requested
-    "votes_for":       None,   # TODO — column with "for" votes (or None)
-    "votes_against":   None,   # TODO — column with "against" votes (or None)
-    "passed":          None,   # TODO — pass/fail column (e.g. "Result" with values Passed/Failed)
-    "tax_rate":        None,   # TODO — projected debt-service tax rate (or None)
+    "entity_name":     "EntityName",
+    "entity_type":     "EntityType",
+    "county":          "County",
+    "election_date":   "ElectionDate",
+    "election_type":   "ElectionType",
+    "purpose":         "BondPurpose",
+    "amount":          "AuthorizedAmount",
+
+    # These don't exist in the file
+    "votes_for":       None,
+    "votes_against":   None,
+
+    # Closest equivalent available
+    "passed":          "ElectionResult",
+
+    # Doesn't exist in the file
+    "tax_rate":        None,
 }
 # ─────────────────────────────────────────────────────────────────────────────
 
