@@ -14,23 +14,27 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install openpyxl
-
       - name: Run TEA scraper
         env:
           TEA_XLSX_URL: https://tea.texas.gov/reports-and-data/financial-reports/school-finance-reports-and-data/2009-2025-summarized-financial-data-04-08-2026.xlsx
         run: python scrapers/tx_district_finance.py
-
       - name: Run district intelligence aggregator
         run: python scrapers/district_intelligence.py
-
+      # ── Municipal (HB103) — manual xlsx upload to scrapers/tea_data/ ──
+      # These scripts fail gracefully if the file or column mapping isn't set
+      # yet, so they're safe to include even before someone finishes the setup.
+      - name: Run Municipal Finance scraper (HB103)
+        run: python scrapers/tx_municipal_finance.py
+        continue-on-error: true
+      - name: Run Municipal Intelligence aggregator
+        run: python scrapers/municipal_intelligence.py
+        continue-on-error: true
       - name: Upload data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -42,6 +46,8 @@ jobs:
           for path in [
               "mush-predict-package/public/data/tx_district_finance.json",
               "mush-predict-package/public/data/district_intelligence.json",
+              "mush-predict-package/public/data/municipal_finance.json",
+              "mush-predict-package/public/data/municipal_intelligence.json",
           ]:
               if not os.path.exists(path):
                   print(f"Skipping missing file: {path}")
@@ -55,7 +61,7 @@ jobs:
                       sha = json.loads(r.read())["sha"]
               except:
                   sha = ""
-              data = json.dumps({"message": f"District data refresh: {path}", "content": content, "sha": sha}).encode()
+              data = json.dumps({"message": f"Data refresh: {path}", "content": content, "sha": sha}).encode()
               req2 = urllib.request.Request(url, data=data, method="PUT", headers={"Authorization": f"token {token}", "Content-Type": "application/json"})
               urllib.request.urlopen(req2)
               print(f"Uploaded {path}")
