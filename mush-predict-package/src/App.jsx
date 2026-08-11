@@ -179,6 +179,7 @@ export default function App() {
 
             {/* ── TEXAS ISDs ── */}
             {activeTab === 'districts' && <DistrictSpending />}
+            {activeTab === 'municipalities' && <MunicipalOpportunity />}
           </>
         )}
       </main>
