@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,7 +96,14 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "title": "Controls Electrical Installer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "HVAC Truck Base Mechanic (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -104,44 +111,24 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-11"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "New PSA Service Sales Rep Fire",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "New PSA Service Sales Representative-Fire",
-          "state": "TX",
+          "title": "Kitter",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-11"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "HVAC Controls Technician",
-          "state": "WA",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Production Supervisor",
-          "state": "AZ",
+          "title": "Manufacturing Technician - Silent-Aire",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-11"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "Security Installer",
+          "title": "HVAC Truck Based Sr Controls Technician",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -149,17 +136,40 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-11"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "HVAC Service Manager - FT. Worth Texas",
-          "state": "TX",
+          "title": "Balancer, 2nd shift",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-11"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
+          "title": "Class II AHU Fabricator",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Wirier, 2nd Shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Plumber",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "CRAH Data Center tester, 2nd shift",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -167,72 +177,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "New PSA Service Sales Representative-Fire",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "EHS Specialist III - Environmental Focus",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Asset & Procurement Administrator",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Procurement Data Coordinator",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Plant Buyer",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "HVAC Smart Building Sales Rep",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Welder, 2nd Shift",
+          "title": "Class II AHU Fabricator (1st Shift)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -240,64 +188,141 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Security Installer",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-12"
         },
         {
           "title": "HVAC Truck Based Journeyman Mechanic (union)",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "MEP Superintendent / Foreman",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Traveling Field Services Technician Level 3",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Tube Fitter Apprentice",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Class II FAB Fabricator - 2nd shift",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Controls Systems Engineer",
+          "title": "Assembler/Painter\u2013 3rd Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Fire Sprinkler Service Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Controls Systems Technician",
+          "title": "Manufacturing Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Controls Systems Technician",
+          "title": "HVAC Branch Service Manager",
+          "state": "VA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "HVAC Truck Based Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "HVAC Equipment Service Tech Jrny (un)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "HVAC Mechanical Service Tech Jrny",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "HVAC Mechanical Service Tech Trdsmn (un)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Controls Systems Engineer",
+          "title": "Fire Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "HVAC Truck Based Mechanic (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "HVAC Mechanical Service Tech Trdsmn (un)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         }
       ],
       "patents": [],
@@ -309,6 +334,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOH",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0JkTkVsOXpXcmFGd3ducWdoMHctUHVXSmpHaVMwV0JIYzJIaFhCSTVENWM2dkcwUWpqdUdHdU90VlpMLUw5c0hKaTd4WGF5RkdZUEotZ0tQM1hKRElqdlJpbmFfUUoxNVJIVWR2bm5XaURoaUdtUDNBX19abWptSS0yd3ltbjE3TmZRMXhMZ1NWcmNaQm5FNXkzWDdVRjdkd3NUSWdieTgzNng4S0Y3UE5yY3dvZjZhOHQtRUdBRHRqUFRheE1FSTZQbG5PeUhTVl9Oak1B?oc=5",
           "published": "Mon, 03 Aug 2026 13:08:28 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Johnson Controls unveils AI-powered OpenBlue platform expansions for increased efficiency and rapid implementation - AiThority",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTF4M2lhdmhoUGFaVlZZVDc2TlRyLTAxVGhiemo3S1B0bUZ6Vi14NDRkdWo5dENkNHhCSVF2Nk5tVG5LUVlVZDNLNFcxU0Rad3dDempxZWJVZFZHZmF2ejNzMXNWQ1BkYzQ3VXlNUjRxN1l2TGdicTFZQnRiVWR4cU5lV0RhLU9OLWRDVndXa01DRDlDVjBqZjhRYjlpNzBob212RC1QVFJ1NllUMThhQ2x5Mm5aemVkZU",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTF4M2lhdmhoUGFaVlZZVDc2TlRyLTAxVGhiemo3S1B0bUZ6Vi14NDRkdWo5dENkNHhCSVF2Nk5tVG5LUVlVZDNLNFcxU0Rad3dDempxZWJVZFZHZmF2ejNzMXNWQ1BkYzQ3VXlNUjRxN1l2TGdicTFZQnRiVWR4cU5lV0RhLU9OLWRDVndXa01DRDlDVjBqZjhRYjlpNzBob212RC1QVFJ1NllUMThhQ2x5Mm5aemVkZUtMb1dKZEtoWHFScmpjYlZnaUc2Xy11U05WVUdaa2xvWGJJeUZmRnpSWjVGOUgyaV84?oc=5",
+          "published": "Wed, 05 Aug 2026 06:28:45 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -316,32 +348,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -439,214 +457,214 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "2nd Class IMP Fitter",
-          "state": "FL",
+          "title": "HVAC Field Technician",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "Electrical Foreman",
-          "state": "FL",
+          "title": "Quality Technician",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "2nd Class Structural Fitter",
-          "state": "FL",
+          "title": "Product Development Systems Engineer II",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "Manufacturing Engineer",
-          "state": "FL",
+          "title": "Technical Support Engineer (Commercial Chiller Equipment)- Remote",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-12"
         },
         {
-          "title": "Project Manager",
-          "state": "FL",
+          "title": "HR Business Partner",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Metal Paneling Fabricator 2nd Shift",
-          "state": "FL",
+          "title": "Maintenance Electronics Technician - 3rd Shift",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "1st Class Structural Fitter - 2nd Shift",
-          "state": "FL",
+          "title": "Manager-Manufacturing Fabrication",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Lean Technician (Moonshine)",
-          "state": "FL",
+          "title": "Maintenance Mechanic - 3rd Shift",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Brand Compliance Painter",
-          "state": "FL",
+          "title": "Maintenance Electrician - 2nd Shift",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "2nd Class Painter- 2nd shift",
-          "state": "FL",
+          "title": "Service Sales Leader",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "IMP Foreman",
-          "state": "FL",
+          "title": "Apprentice",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Subject Matter Expert - IMP",
-          "state": "FL",
+          "title": "Product Development Systems Engineer II",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Electrical Helper",
-          "state": "FL",
+          "title": "Workday Configurator- Payroll",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Mechanical Foreman - 2nd Shift",
-          "state": "FL",
+          "title": "Senior Embedded Software Engineer",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Paint Foreman- 2nd Shift",
-          "state": "FL",
+          "title": "Sr Controls Technician",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Mechanical Manufacturing Associate",
-          "state": "FL",
+          "title": "Senior Account Manager",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Metal Paneling Fabricator Associate 2nd Shift",
-          "state": "FL",
+          "title": "Senior Account Manager",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Structural Welder - 2nd Shift",
-          "state": "FL",
+          "title": "Sr Controls Technician",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Electrical Foreman- 2nd shift",
-          "state": "FL",
+          "title": "Maintenance Facilities Manager",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Assistant Design Project Manager",
-          "state": "FL",
+          "title": "Product Development Systems Engineer II",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "1st Class Structural Fitter",
-          "state": "FL",
+          "title": "Technical Sales Associate Development Program - Services",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Quality Inspector Level I",
-          "state": "FL",
+          "title": "HVAC Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "1st Class Pipe Fitter",
-          "state": "FL",
+          "title": "Quality Auditor",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Quality Data Analyst",
-          "state": "FL",
+          "title": "Sr. HVAC Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Pipe Welder 2nd Shift",
-          "state": "FL",
+          "title": "Specialist-Sales",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Application Engineer",
-          "state": "FL",
+          "title": "Senior Logistics Coordinator",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Welding Foreman",
-          "state": "FL",
+          "title": "HVAC Controls Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Structural Detailer",
-          "state": "FL",
+          "title": "Account Development Associate",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "2nd Class Pipe Fitter",
-          "state": "FL",
+          "title": "Apprentice Controls Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Assistant Project Manager",
-          "state": "FL",
+          "title": "Brazer",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         }
       ],
       "patents": [],
@@ -657,32 +675,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -731,39 +735,6 @@
       ],
       "activeBids": [],
       "jobPostings": [
-        {
-          "title": "Construction Project Manager",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Construction Manager",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Construction Manager New Home",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-10"
-        },
         {
           "title": "Director of Project Controls & Preconstruction Development",
           "state": "",
@@ -1011,6 +982,50 @@
             "University"
           ],
           "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-14"
+        },
+        {
+          "title": "Regional Construction Project Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-07-12"
         }
       ],
       "patents": [],
@@ -1050,32 +1065,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -1131,148 +1132,7 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Material Handler",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Senior Engineer I - Application",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "EPC Business Development Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Field Service Technician I",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Plant Procurement Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Safety Engineering Internship - Fall 2026",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Continuous Improvement Leader",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Manufacturing Project Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Quality Testing Supervisor",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Expert, Data Platform Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Territory Sales Engineer",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Expert, Data Platform Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Engineer I, Mechanical",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Geographic Sales Engineer",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Manufacturing Supervisor",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Quality Engineer Internship - Fall 2026",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Pre-Construction Tender I",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Engineering Liasion",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Expert, Data Platform Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1289,32 +1149,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -1474,7 +1320,35 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Pharmacist",
+          "state": "CO",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Account Executive, Angiography - Northeast",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-12"
+        },
+        {
+          "title": "Regional Sales Director - PA, DE, Upstate New York",
+          "state": "PA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-12"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1483,32 +1357,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -1695,32 +1555,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -1941,32 +1787,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2044,32 +1876,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2144,7 +1962,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - honolulu.gov",
+          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
           "published": "Mon, 06 Jul 2026 07:00:00 GMT"
@@ -2155,6 +1973,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0U2VjZPb2cwdWE4b1ZOQmc0NUEwQnEteWZLanNrdW5INjdOMmhPeV9OaVBJd05RUF9Fbk1RekU1dHFtRk9qejJGbG5jOGRnR2NZd3ZKcC10MVJiVkxQTlIzOFFmSUVmbFNKT3h3a21SUjdiQXgtZzBuT014bGVvcnByQ0V2LUZ4Z2Y5ZWo5c1BWbWFOTUc5eTUyWE5rdWJuSnB1QVdZWW43YTdZb3hzVkx4STdpNHBjbX",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0U2VjZPb2cwdWE4b1ZOQmc0NUEwQnEteWZLanNrdW5INjdOMmhPeV9OaVBJd05RUF9Fbk1RekU1dHFtRk9qejJGbG5jOGRnR2NZd3ZKcC10MVJiVkxQTlIzOFFmSUVmbFNKT3h3a21SUjdiQXgtZzBuT014bGVvcnByQ0V2LUZ4Z2Y5ZWo5c1BWbWFOTUc5eTUyWE5rdWJuSnB1QVdZWW43YTdZb3hzVkx4STdpNHBjbXI5cW9wdGJTOTlj?oc=5",
           "published": "Mon, 27 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Carrier sells energy service business to Opterra - Facilities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5\" target=\"_blank\">Carrier sells energy se",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5",
+          "published": "Mon, 03 Aug 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -2162,32 +1987,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2281,235 +2092,244 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Safety Coordinator - Texas City, Texas",
-          "state": "TX",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
+          "title": "Fire Alarm Service Sales Representative",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-08-11"
         },
         {
-          "title": "Design Project Manager",
-          "state": "CA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Regional Business Development Specialties",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Field Service Technician Southeast (HVAC/R - Commercial Refrigeration)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Regional Business Development Specialties",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Facilities Manager",
+          "title": "Fire Sprinkler Layout Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Structural Welder (RAL FUJI JR)",
+          "title": "Contracts Administrator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "VP of Fire Sprinkler Design",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Fire Alarm Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Service Coordinator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Fire Alarm Service Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Fire Sprinkler Layout Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Fire Protection - Service Layout Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Fire Sprinkler Layout Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Project Manager - Fire Protection",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Service Layout Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Maintenance Technician",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Environmental Specialties, LLC",
+          "title": "HVAC Technician",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-10"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Environmental Specialties, LLC",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-09"
-        },
-        {
-          "title": "Accounts Payable Specialist",
+          "title": "PPM Janitor/Utility Cleaner (AOR) 9.2",
           "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-09"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Miller Electric Company",
-          "state": "NC",
+          "title": "PPM Forklift Operator (AOR) 7.3",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-09"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Warehouse Shop Assistant",
-          "state": "NJ",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Warehouse Associate",
+          "title": "Fire Watch (AUS ROH CC)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Utility - Fabrication Shop",
+          "title": "IT Manager",
+          "state": "OR",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Construction Manager",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
+          "title": "Ohmstede Ltd. Estimator",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Hanger - Fabrication Shop",
+          "title": "Project Manager (Major Projects)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Administrative Assistant- Inspections & A&D",
-          "state": "OH",
+          "title": "Warehouse Associate / Driver",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "National Accounts Representative",
-          "state": "OH",
+          "title": "PPM Forklift Operator (AOR) 7.3",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Burner - Mechanical Fabrication Shop",
-          "state": "OH",
+          "title": "PPM Janitor/Utility Cleaner (AOR) 9.2",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Delivery Driver - Class A CDL",
-          "state": "OH",
+          "title": "PPM Janitor/Utility Cleaner (AOR) 9.2",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Electrical Estimator",
-          "state": "OH",
+          "title": "PPM Forklift Operator (AOR) 7.3",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Bundler - 2nd Shift",
-          "state": "OH",
+          "title": "HVAC Service Technician III-V",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Licensed Crane Truck Operator / Class A CDL Delivery Driver",
-          "state": "OH",
+          "title": "Fire Alarm Service Sales Representative",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Machine Operator / Welder - Fabrication Shop - 2nd Shift",
-          "state": "OH",
+          "title": "Senior Buyer",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         },
         {
-          "title": "Burner - 2nd Shift",
-          "state": "OH",
+          "title": "Fire Sprinkler Design Manager",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Extinguisher/Kitchen Suppression Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Mechanic",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-08"
+          "postedDate": "2026-08-11"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
+          "published": "Thu, 30 Jul 2026 07:00:00 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2536,32 +2356,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2587,13 +2393,6 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Accounting Leadership (Manager, Sr. Advisor, Director) - EVERGREEN",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-11"
-        },
-        {
           "title": "Administrative Assistant II_ASAA1B",
           "state": "TX",
           "segment": "Other",
@@ -2616,32 +2415,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2702,32 +2487,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -2770,6 +2541,13 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-11"
+        },
+        {
           "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
@@ -2779,13 +2557,6 @@
         {
           "title": "Solar Energy Engineer - Energy Solutions",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-10"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "FL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-10"
@@ -2882,6 +2653,13 @@
           "postedDate": "2026-08-07"
         },
         {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-07"
+        },
+        {
           "title": "Senior Mechanical Engineer",
           "state": "",
           "segment": "Other",
@@ -2896,6 +2674,13 @@
             "Schools",
             "Healthcare"
           ],
+          "postedDate": "2026-08-06"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-08-06"
         },
         {
@@ -2927,8 +2712,22 @@
           "postedDate": "2026-08-05"
         },
         {
-          "title": "Solar Energy Engineer - Energy Solutions",
-          "state": "VA",
+          "title": "Mechanical Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-05"
+        },
+        {
+          "title": "Senior Construction Administrator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-05"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-05"
@@ -2942,32 +2741,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     },
@@ -3196,32 +2981,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-49103",
+          "id": "construction-15080",
           "title": "Fluor targets energy over data centers",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Mon, 10 Aug 2026 13:59:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Demand for electricity projects better fits Fluor&rsquo;s project profile",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/uNJKoJSroMjiZ0-UmFIx88Zt5GImX9ZwSiP4OBCEE9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE3NTAxNDA2LmpwZw==.webp\" /></div></figure><p>Electricity projects better fit Fluor&rsquo;s project profile than the da",
           "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Municipal"
-        },
-        {
-          "id": "construction-86347",
-          "title": "Punch List: Gilbane starts $322M hospital expansion, McCarthy promotes new COO",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 07 Aug 2026 10:25:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/gRbznQLDo9IEy69IjksZnA0sePjl3aTUI5cAA33fB5o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc2NjU4LmpwZw==.webp\" /></div></figure><p>Plus, Tutor Perini wins a Death Valley job and ASHRAE awards scholarships",
-          "url": "https://www.constructiondive.com/news/punch-list-gilbane-starts-hospital-mccarthy-new-coo/827271/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
         }
       ]
     }
