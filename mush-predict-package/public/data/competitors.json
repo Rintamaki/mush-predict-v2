@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,40 +96,28 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Supplier Quality Engineer",
+          "title": "Construction Manager (Fire)",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Continuous Improvement Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Project Engineering Manager",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Controls Service Technician",
-          "state": "MI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Chiller Engineering Manager (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Electrician Apprentice",
+          "title": "On-Site Fire Project Manager",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -137,35 +125,31 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Controls Systems Technician (Erie PA area)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
+          "title": "Associate Project Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Pre-Construction Estimator (Major Projects)",
+          "title": "Service Sales Agreement Representative",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Senior Buyer",
+          "title": "Commercial Account Executive",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Senior Electrical Applications Engineer (hybrid)",
+          "title": "Fire Sprinkler Inspector",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -173,17 +157,46 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Brazer I (2nd shift)",
+          "title": "Experienced Fire Sprinkler Inspector",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "HVAC Install Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "HVAC Lab Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Controls Systems Designer",
+          "title": "Experienced Fire Alarm Installer/Programmer",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Fire Systems Operations Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -191,21 +204,21 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "GA",
+          "title": "Fire Alarm Installer Helper",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "PSA Service Sales Representative 2",
+          "title": "HVAC Truck Based Tradesmen (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -213,112 +226,14 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Commercial Sales Executive - Security",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Security Systems Technician 3",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "HVAC Mechanical Systems Apprentice Technician (Union)",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Fire Alarm Installer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Fire Project Manager",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Controls Systems Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Controls Systems Technician",
+          "title": "Inside Sales Specialist",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Security Alarm Service Technician (Mass D Electrical License)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Controls Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Brazer \u2013 1st Shift M -F 6AM \u2013 2:30 PM",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Fire Detection Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         }
       ],
       "patents": [],
@@ -337,14 +252,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -446,154 +361,182 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Rental Shop Helper - Shorewoord, IL",
+          "title": "Project Administrator",
           "state": "IL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Application Engineer",
+          "title": "Quality Test Technician - 2nd Shift",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Project Administrator- Core",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Energy Services Operations Leader - Mid Atlantic Region",
-          "state": "VA",
+          "title": "Material Handler 1st Shift",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "HVAC Service Technician Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Designer III",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Controls Account Manager - Nashville",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Reliability Engineering Leader",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Warehouse 2nd Shift-1",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Energy Engineering Co-op",
+          "title": "Manager-Services",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Area Service Manager",
+          "title": "Controls Account Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Equipment Project Administrator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "EHS Specialist",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Quality Technician I - 2nd Shift",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Project Manager Equipment",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Thermal Systems Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Strategic Account Executive",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Customer Sales Associate",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Warehouse Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Customer Sales Associate",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Senior Mgr - Vertical Markets - Industrial",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Designer 1",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Senior Services Account Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Senior HVAC Services Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Application Engineer",
           "state": "NJ",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
         },
         {
-          "title": "Account Manager Supply",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Procurement Program Manager",
+          "title": "Designer 1",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
         },
         {
-          "title": "Senior Analyst, FP&A (Residential)",
-          "state": "NC",
+          "title": "Equipment Project Administrator",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
         },
         {
-          "title": "HVAC Rental Service Technician",
-          "state": "IL",
+          "title": "Customer Sales Associate",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Equipment Project Administrator",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
         },
         {
           "title": "HVAC Technician",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Sr. Control Service/HVAC Technician -Mechanicsburg, PA",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Electrical Design Manager",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Manufacturing Engineer Tech",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Service Technician Apprentice",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Apprentice Rental Services Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Service Account Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Systems Account Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -607,50 +550,15 @@
           "postedDate": "2026-08-21"
         },
         {
-          "title": "Welder-1st Shift P4",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "HVAC/Chiller Technician",
+          "title": "Senior HVAC Services Account Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
         },
         {
-          "title": "Designer III",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Product Owner - Equipment",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Application Engineer II",
+          "title": "Service Technician Apprentice",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Supply Chain Strategic Programs Lead",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
@@ -672,14 +580,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -732,6 +640,50 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Site Safety Manager",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Journeyman Electrician - PV & BESS",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Assistant General Counsel",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
         {
           "title": "Site Safety Manager",
           "state": "NC",
@@ -898,13 +850,6 @@
           "postedDate": "2026-08-17"
         },
         {
-          "title": "Senior Controls System Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-16"
-        },
-        {
           "title": "Director of Project Controls & Preconstruction Development",
           "state": "",
           "segment": "Schools",
@@ -1024,39 +969,6 @@
             "University"
           ],
           "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Mechanical Superintendent",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Controls Technician II",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Customer Onboarding Specialist",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-08"
         }
       ],
       "patents": [],
@@ -1071,24 +983,17 @@
         },
         {
           "source": "google_news",
-          "title": "Ameresco (AMRC) Edges Higher to $27.79 as Renewable Energy Momentum Builds - Iceberg Order - Vinanet",
+          "title": "Ameresco (AMRC) Edges Higher to $27.79 as Renewable Energy Momentum Builds - Iceberg Order - vinanet.vn",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkd6THNHZ2lBTE5mWW5RR0hFNnctMmVCSGE4Z29nTTlnU3dFbXlzb19JanA4NlNKNEtBTW4tSzJKbi1CQkgtMUEzSWFrOTU4cURxeXVoN1JTdU1nZHU2elVwZFRIZVlad0g1TTRhSTNfbm9GZDlrclFBaEx1akxNNWphSTBvOVhUQzNTc1BhclR1bU5CNEJFeGthY1c3WkRFZF8wMUpmeUdtUWhQLThNZGJR?oc=5\" tar",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkd6THNHZ2lBTE5mWW5RR0hFNnctMmVCSGE4Z29nTTlnU3dFbXlzb19JanA4NlNKNEtBTW4tSzJKbi1CQkgtMUEzSWFrOTU4cURxeXVoN1JTdU1nZHU2elVwZFRIZVlad0g1TTRhSTNfbm9GZDlrclFBaEx1akxNNWphSTBvOVhUQzNTc1BhclR1bU5CNEJFeGthY1c3WkRFZF8wMUpmeUdtUWhQLThNZGJR?oc=5",
           "published": "Fri, 14 Aug 2026 10:35:21 GMT"
         },
         {
           "source": "google_news",
-          "title": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3QybWZrM2cwLVg2MzVSeDdYTWJCYm0tTnZPQ0gxVl9LRk8tcGwzeGNvSTg4WmdZMm1wTzVRYjZaU08ydXQ1M0JVeDdaeklTRlcybVQ4bmtCcDRuNk5fV0RzcGJQUVJoMDVYcWJSZi1yLVdTbTR4N3NXUDh3UmFjNVV6MjAxS3VXTHZnNFo2QnBHbU9WODVWbkp5VGd4R3lzWTJnVW5yQ29QdWoyRHliS0laOXRxUVhDUlE?oc=5",
-          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
+          "title": "Ameresco begins rooftop solar construction at Community College of Philadelphia under Solar for Schools grant - Energies Media",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5\" target=\"_blank\">Ameresco begins rooftop solar construction at Communi",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1096,14 +1001,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -1165,41 +1070,46 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "HR Intern",
+          "title": "Field Sales Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
         },
         {
-          "title": "Supply Chain Industrial Performance Leader",
+          "title": "Sr Business Analyst - Order Engineering",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Continuous Improvement Leader",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Territory Account Executive",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-20"
+          "title": "Production Electrical Tester Technician (2nd shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Key Account Manager",
+          "title": "IT/OT Convergence Expert",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Sr Business Analyst - Order Engineering",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Key Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         }
       ],
       "patents": [],
@@ -1210,14 +1120,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -1381,7 +1291,35 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Director, Systems Installation & Project Management Support XP - REMOTE",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Global Theranostics Clinical Marketing Specialist",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-22"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1398,14 +1336,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -1505,15 +1443,6 @@
           "postedDate": "2026-06-24"
         },
         {
-          "title": "Energy Specialist - Temple, TX",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
           "title": "Consultant Engineer - Dallas, TX",
           "state": "TX",
           "segment": "Schools",
@@ -1532,35 +1461,6 @@
             "Healthcare"
           ],
           "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Control Tech - Temple, TX",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "Energy Specialist - Dallas, TX",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-06-11"
-        },
-        {
-          "title": "Consultant Engineer - Temple, TX",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-06-11"
         },
         {
           "title": "Building Systems Engineer - Tulsa, OK",
@@ -1605,14 +1505,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -1640,6 +1540,20 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Commercial HVAC Sales Specialist",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Construction Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
         {
           "title": "Code Enforcement Officer",
           "state": "",
@@ -1696,15 +1610,6 @@
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
           "postedDate": "2026-08-18"
         },
         {
@@ -1765,17 +1670,6 @@
             "Municipal"
           ],
           "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Project Controls Manager",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-31"
         },
         {
           "title": "Site Superintendent",
@@ -1872,14 +1766,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -1916,7 +1810,15 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Building Automation Controls Technician - Temporary Assignment",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1925,14 +1827,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2029,14 +1931,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2134,204 +2036,225 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Maintenance Sales Associate",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
+          "title": "Driver",
+          "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Commercial Journeyman Plumber - HVAC",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Boiler Combustion & Controls Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Application Engineer II",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Dispatcher I",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Application Engineer III",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Commercial Steam Boiler Technician- HVAC",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Commercial Chiller Service Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Commercial Solar Journeyman Electrician Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Plumbing Foreman",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Plumbing Service Technician - Journeyman",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Chiller Service Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Application Engineer II",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Boiler Combustion & Controls Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Commercial HVAC Journeyman",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "BAS Account Executive (Sacramento Branch)",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Commercial HVAC Service Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Commercial HVAC Foreman",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Senior Plumbing Designer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
+          "title": "Fire Sprinkler Layout Technician Trainee",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "The Poole and Kent Corporation",
+          "title": "Construction Sales Professional",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Automation Technician I",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Senior Electrical Engineer - Industrial Projects",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
+          "title": "Project Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Shambaugh & Son, L.P.",
+          "title": "National Accounts Representative",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Talent Coordinator (TEMPORARY- 6 Months)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Graphic Design Co-op - Spring 2027",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "HVAC Chiller Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "HVAC/R Service Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "HVAC/Low Temp Refrigeration Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Rigger (RAL ADAMS NW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Civil Journeyman (RAL GTECH BB)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Civil Foreman (RAL GTECH BB)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Rigger Helper (RAL ADAMS NW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Assistant Project Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Sales Talent Acquisition Partner",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Director of Operations - Mission Critical",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Project Assistant",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Boilermaker",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Project Manager",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Iron Worker (AUS BKI MM)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Senior Electrical Engineer - Industrial Projects",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
+          "title": "Fire Alarm Estimator",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Fire Alarm Service Technician",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "PPM- Industrial Maintenance Trainer (DOM SC); 3.1",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "S. A. Comunale Co., Inc.",
+          "title": "Electrician (COLA QTS BN)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Ohmstede Ltd.",
-          "state": "TX",
+          "title": "Sales Representative- HVAC",
+          "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Harry Pepper & Associates, Inc.",
-          "state": "FL",
+          "title": "Commercial Facilities Maintenance Technician",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         }
       ],
       "patents": [],
@@ -2350,14 +2273,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2388,14 +2311,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2437,13 +2360,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-07-31"
-        },
-        {
-          "title": "Head of Software Engineering (Houston)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-31"
         }
       ],
       "patents": [],
@@ -2454,14 +2370,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2526,14 +2442,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2580,8 +2496,15 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Mechanical Engineer",
-          "state": "",
+          "title": "Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-21"
@@ -2591,10 +2514,10 @@
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-20"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Electrical Engineer",
+          "title": "Senior Mechanical Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2618,7 +2541,7 @@
         },
         {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "CA",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-18"
@@ -2634,7 +2557,7 @@
         },
         {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "PA",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-18"
@@ -2656,13 +2579,6 @@
             "University"
           ],
           "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-17"
         },
         {
           "title": "Mechanical Engineer Intern/Co-op Fall 2026",
@@ -2707,21 +2623,14 @@
           "postedDate": "2026-08-16"
         },
         {
-          "title": "HVAC Controls Service Professional - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-16"
-        },
-        {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-16"
+          "postedDate": "2026-08-15"
         },
         {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "title": "HVAC Controls Service Professional - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2747,6 +2656,27 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-15"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Spring 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-14"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Spring 2027 (multiple locations)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-14"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Summer 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-14"
         }
       ],
       "patents": [],
@@ -2772,14 +2702,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
@@ -2808,217 +2738,255 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Design Project Manager",
+          "title": "Recent Grad/Alumni - Project Engineer I",
           "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Project Coordinator",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Design Engineer III",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Senior Proposal Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Detailer I",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Detailer III",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Lead Detailer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Detailer II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Accountant",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Senior Corporate Counsel - Labor & Employment",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Senior Safety Case Coordinator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-16"
-        },
-        {
-          "title": "Senior Design Engineer",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-15"
-        },
-        {
-          "title": "Project Accountant, Associate",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-15"
-        },
-        {
-          "title": "Senior Purchasing Agent",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-15"
-        },
-        {
-          "title": "Project Accountant",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-15"
-        },
-        {
-          "title": "Project Accountant, Senior",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-15"
-        },
-        {
-          "title": "Project Manager - Special Projects",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-14"
-        },
-        {
-          "title": "Project Manager",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-14"
-        },
-        {
-          "title": "Purchasing Agent",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-14"
-        },
-        {
-          "title": "Project Engineer I",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-14"
-        },
-        {
-          "title": "Project Manager, Service",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-14"
-        },
-        {
-          "title": "Safety Manager (Lead)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-14"
-        },
-        {
-          "title": "Service Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-13"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-13"
-        },
-        {
-          "title": "Administrative Assistant",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-13"
-        },
-        {
-          "title": "Project Accountant",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-13"
-        },
-        {
-          "title": "HR Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-13"
-        },
-        {
-          "title": "Shop Foreman",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-13"
-        },
-        {
-          "title": "Intern - Design Engineer",
+          "title": "Intern - Safety",
           "state": "AZ",
           "segment": "University",
           "tags": [
             "University",
             "Municipal"
           ],
-          "postedDate": "2026-08-12"
+          "postedDate": "2026-08-21"
         },
         {
-          "title": "Fleet Manager",
+          "title": "Intern - Project Engineer",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Safety Coordinator, Associate",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-12"
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Design Engineer I",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Co-Op (Fall Semester 2026 - Spring Semester 2027) - Project Engineer",
+          "state": "PA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Project Engineer",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Co-Op (Fall Semester 2026 - Spring Semester 2027) - Mechanical Design Engineer",
+          "state": "PA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Safety Coordinator, Associate",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Safety",
+          "state": "PA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Design Engineer",
+          "state": "PA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Design Engineer I",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Corporate Safety Manager - Manufacturing Operations",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Safety",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Safety Coordinator I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Project Engineer I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Safety",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Safety",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Design Engineer I",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Design Engineer",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Design Engineer I",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Safety Coordinator, Associate",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Project Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Design Engineer I",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Project Engineer I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Project Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Recent Grad/Alumni - Safety Coordinator, Associate",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Intern - Safety",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-21"
+        },
+        {
+          "title": "Corporate Safety Manager, Fleet",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
         }
       ],
       "patents": [],
@@ -3029,14 +2997,14 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48429",
+          "id": "construction-92299",
           "title": "McCarthy expands training initiatives with Arizona campus",
           "agency": "Construction Dive",
           "type": "Construction Project",
           "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The St. Louis-based contractor bought the former hotel and convention site in January",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
           "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
