@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,77 +96,36 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Fire Sprinkler Systems Technician",
-          "state": "",
+          "title": "Sprinkler Service Technician",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "HVAC Truck Based Service Controls Engineer",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Class II AHU Fabricator (2nd Shift)",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "HVAC Sales Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Product Marketing Manager - Access Control",
+          "title": "Operation & Maintenance Control Technician",
           "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Production Technician (all shifts)",
-          "state": "MA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Senior Thermal Design Engineer",
-          "state": "MA",
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Security Service Technician",
+          "title": "HVAC Controls Project Manager",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -174,28 +133,17 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Commercial Security Systems Account Executive",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Suppression Technician",
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
           "state": "GA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Controls Systems Technician II",
+          "title": "HVAC TB Chiller Mechanic (un)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -203,109 +151,29 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "PCB Design Engineer (onsite)",
-          "state": "PA",
+          "title": "Ctrls Systems Tech II",
+          "state": "VA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "HVAC Service Sales Rep",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "ASM III Sentry Manual Line",
-          "state": "WI",
+          "title": "HVAC Controls Systems Engineer",
+          "state": "IL",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "HVAC Equipment Systems Application Engineer",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Commercial HVAC Estimator",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Principal Application Engineer (hybrid)",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Brazer I (2nd shift)",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Senior Electrical Applications Engineer (hybrid)",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Lean Manufacturing Engineer",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
-        },
-        {
-          "title": "Security Service Technician IV",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
           "title": "Quality Engineer III",
@@ -316,10 +184,60 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Machine Operator II B114/B18 Filler",
+          "title": "Fire Install Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Security Systems Account Executive",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Systems Team Lead",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Experienced Security Service Technician (union)",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Security Systems Operations Manager 2",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Retail Security Systems Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Controls Service Technician",
           "state": "WI",
           "segment": "Schools",
           "tags": [
@@ -327,61 +245,133 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Engineering Technician (onsite)",
-          "state": "VA",
+          "title": "HVAC Technician Team Leader",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "HVAC Truck Based Service Controls Technician",
-          "state": "NC",
+          "title": "Fire Sprinkler Service Technician",
+          "state": "MI",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Controls Systems Technician",
-          "state": "",
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "HVAC Building Controls Engineering Leader",
-          "state": "GA",
+          "title": "Pharmaceutical Project Manager",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Suppression Technician II",
-          "state": "",
+          "title": "Data Center Mechanical Service Journeyman",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "HVAC Smart Building Account Rep",
+          "title": "HVAC Truck Based Sr Controls Technician",
           "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Fire Field Project Manager",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Fire Alarm Installer/Programmer",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Manufacturing Engineering Manager",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "HVAC Controls Systems Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "HVAC Control Systems Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Construction Project Executive - BAS Controls",
+          "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-25"
         }
       ],
       "patents": [],
@@ -400,18 +390,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -509,6 +499,174 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Warehouse Technician",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Construction Project Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Warehouse Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Service Estimator",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "HVAC Field Technician",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Shop Helper - Rentals",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Project Administrator- Core",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Senior Manufacturing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Data Center Area Service Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Maintenance Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-25"
+        },
+        {
+          "title": "Sr. Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "HVAC Controls Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Contracting HVAC Controls Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Area General Manager, HVAC Sales Leader (Rocklin)",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Associate General Counsel, Labor & Employment (Davidson)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Senior Labor & Employment Counsel \u2013 Americas (Davidson)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Area General Manager (Rocklin)",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Sr. HVAC Service Technician",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Sr. HVAC Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Service Technician Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Remote Controls Support Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
           "title": "Sr. Plant Quality Engineer",
           "state": "",
           "segment": "Other",
@@ -531,174 +689,6 @@
         },
         {
           "title": "Director of Strategy",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Assembler I",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Service Technician Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Service Operations Manager - Key Accounts",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "HR Generalist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Material Planning Manager",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Key Accounts Service Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "HVAC Equipment Application Specialist II",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Controls Mechanical Designer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Head of Customer Success (Remote)",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Ductless Technical Specialist",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Painter I",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Sr. HVAC Service Technician",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Plant Production Supervisor-2nd shift",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Unitary Systems Engineer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Director of Strategy",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Ductless Technical Specialist",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Controls Mechanical Designer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Plant Production Supervisor-2nd shift",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Senior Mgr - Vertical Markets - Industrial",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Unitary Systems Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Material Planner",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Sr. Applications Developer (Full Stack)",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -728,18 +718,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -789,11 +779,37 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-22"
+          "title": "Senior Project Manager",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-24"
         },
         {
           "title": "Measurement & Verification Engineer",
@@ -1034,13 +1050,6 @@
           "postedDate": "2026-08-17"
         },
         {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-17"
-        },
-        {
           "title": "Director of Project Controls & Preconstruction Development",
           "state": "",
           "segment": "Schools",
@@ -1094,17 +1103,6 @@
             "University"
           ],
           "postedDate": "2026-08-08"
-        },
-        {
-          "title": "Integration Technician",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-08"
         }
       ],
       "patents": [],
@@ -1112,17 +1110,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Roseburg sanitary authority wins two awards for solar-battery plan - Stock Titan",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjc1RzZHNWQ0OWhXYTdwMnBLLUJ1REI3WGRweWlzaEoxaG1XUjJpeWZNRWNGY3hJXzFGRmVhU3UzelZDeEJYXzhWOGFlZUVwUVlkcENoWlJPcFdlR2NLMGJpYmpZaFg1WW1UaGloZWRhWGt3ZlpFNXRSSWVZbFh2UDdOMkxXUEhGVE4zbi1uWWJVZ29BNlhMaEhrMVhsS1lzWnpvY3E4WkxqTUhWNjV3U2dyWEhBRk9XbW",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjc1RzZHNWQ0OWhXYTdwMnBLLUJ1REI3WGRweWlzaEoxaG1XUjJpeWZNRWNGY3hJXzFGRmVhU3UzelZDeEJYXzhWOGFlZUVwUVlkcENoWlJPcFdlR2NLMGJpYmpZaFg1WW1UaGloZWRhWGt3ZlpFNXRSSWVZbFh2UDdOMkxXUEhGVE4zbi1uWWJVZ29BNlhMaEhrMVhsS1lzWnpvY3E4WkxqTUhWNjV3U2dyWEhBRk9XbWc?oc=5",
+          "title": "Roseburg Urban Sanitary Authority Receives Two Best of the Best Awards from the Oregon Association of Clean Water Agencies - Business Wire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQVpwV2pNNUtiZm5Cbk40MGF3OWY2YWZ4QjBYd0owNWktVEkzbm5TV3ZZUlB3VjJtUmdVSmlQb3dkM01GbHJIZWFVZ1ZEVlRfYXNPTDljOVlxVE8zM0NJRXppWVJuYzIxeV82OTlUTERJNG43QnNNRGtjNVNIOEdPTGpyWGlBTC1LZi0xQ19BYXBsanVDWkg3WklEYXA0UjJUNDZVTzNPZ0RsckQxVURWc2VjbFROSE4wdk",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQVpwV2pNNUtiZm5Cbk40MGF3OWY2YWZ4QjBYd0owNWktVEkzbm5TV3ZZUlB3VjJtUmdVSmlQb3dkM01GbHJIZWFVZ1ZEVlRfYXNPTDljOVlxVE8zM0NJRXppWVJuYzIxeV82OTlUTERJNG43QnNNRGtjNVNIOEdPTGpyWGlBTC1LZi0xQ19BYXBsanVDWkg3WklEYXA0UjJUNDZVTzNPZ0RsckQxVURWc2VjbFROSE4wdkpPdUlRU21lcUJvc0IzajI5TWd1QUJGdG1OZ3hxYnA3VnVQanlLaE5DSmZQNVVGNnEyMTl2Ukg4OERUTmxSenlNQWhlRzdMUTNLTUNGLU5XeE0?oc=5",
           "published": "Mon, 27 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Ameresco (AMRC) Edges Higher to $27.79 as Renewable Energy Momentum Builds - Iceberg Order - vinanet.vn",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkd6THNHZ2lBTE5mWW5RR0hFNnctMmVCSGE4Z29nTTlnU3dFbXlzb19JanA4NlNKNEtBTW4tSzJKbi1CQkgtMUEzSWFrOTU4cURxeXVoN1JTdU1nZHU2elVwZFRIZVlad0g1TTRhSTNfbm9GZDlrclFBaEx1akxNNWphSTBvOVhUQzNTc1BhclR1bU5CNEJFeGthY1c3WkRFZF8wMUpmeUdtUWhQLThNZGJR?oc=5\" tar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkd6THNHZ2lBTE5mWW5RR0hFNnctMmVCSGE4Z29nTTlnU3dFbXlzb19JanA4NlNKNEtBTW4tSzJKbi1CQkgtMUEzSWFrOTU4cURxeXVoN1JTdU1nZHU2elVwZFRIZVlad0g1TTRhSTNfbm9GZDlrclFBaEx1akxNNWphSTBvOVhUQzNTc1BhclR1bU5CNEJFeGthY1c3WkRFZF8wMUpmeUdtUWhQLThNZGJR?oc=5",
-          "published": "Fri, 14 Aug 2026 10:35:21 GMT"
         },
         {
           "source": "google_news",
@@ -1130,6 +1121,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5\" target=\"_blank\">Ameresco begins rooftop solar construction at Communi",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWURSX3ppTG9LdG1kaDNOOVVubllSWjE2N0hpU1QxWlJUQXpNT2NCakx4d1kxZGxFQVNjbktKV1JWUmxkYU12VWJ3OGxQYlE0UldFOFp0bnM4alp5VkhYZ2JSQ3pMdUVEUXR2c005NHQzdXlJX0VWZW9UdEZBNmdrZg?oc=5",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Two Philadelphia campuses get rooftop solar in Pennsylvania school program - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM19wSHZpT1Vteks1cVhpZnp2QXR2TG1DUG5KbHJjaWNlOHctc05UTzk2d3ppWE5ITXI3M1VDajVjYXBleTI5UlJEb0FYUm9LcGJzTEFiSDJTblFkU1c3RXl2NkVOV2I1blhsTGNBdTRNaVJrS1BpVUdaZUlFd19YMVppSlBpenJJUmJSWXBZNW1HNnVPT1VBSDVxNkZ0Ukt3RUQ1NVFnc3VDSGha?oc=5",
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1137,18 +1135,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -1206,204 +1204,111 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Site Manager",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Training Specialist",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "BMS Systems Support Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Commercialization Manager, Sustainability Software",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Production Associate - Coordinator",
+          "title": "Plant GM - Engineered-to-Order Ops & Safety Leader (Mount Juliet)",
           "state": "",
           "segment": "Municipal",
           "tags": [
             "Municipal"
           ],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Foxboro DCS & Triconex Resident Service Engineer",
+          "title": "Mount Juliet II Plant General Manager (Mount Juliet)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-25"
         },
         {
-          "title": "Tender Bid Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Senior Account Executive",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Warehouse Associate/Material Handler",
+          "title": "Field Service Representative - Drives/Industry",
           "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Commercialization Manager, Sustainability Software",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Quality Technician - 3rd Shift",
+          "title": "Field Service Representative - Secure Power",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Foxboro DCS & Triconex Resident Service Engineer",
+          "title": "Senior Systems Service Engineer 2",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "US Customs & Trade Compliance Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Commercialization Manager, Sustainability Software",
+          "title": "Technical Team Leader, Power Systems",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Senior Site Manager",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "2027 Solution Sales Development Program",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Senior Account Executive",
+          "title": "Production Associate II - Tie In",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Wiring Associate",
+          "title": "Technical Team Leader, Power Systems",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "2027 Solution Sales Development Program",
-          "state": "CA",
+          "title": "Senior Engineer I, Multi-technology Product Test",
+          "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Materials Associate II",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Commercialization Manager, Sustainability Software",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "2027 Solution Sales Development Program- Midwest",
+          "title": "Manufacturing Production Worker",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Senior Plant Finance Analyst",
-          "state": "",
+          "title": "Expert, Cloud Infrastructure Engineer",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Tender Bid Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Field Service Technician - Cooling/HVAC",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
-          "title": "Senior Account Executive",
+          "title": "Senior Legal Counsel",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Client Partner",
-          "state": "AZ",
+          "title": "Senior Legal Counsel",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         },
         {
-          "title": "Field Service Manager, National",
+          "title": "Technical Team Leader, Power Systems",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Technical Team Leader, Power Systems",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
         }
       ],
       "patents": [],
@@ -1414,18 +1319,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -1587,41 +1492,33 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior CNC Horizontal Milling Machinist \u2013 3rd Shift (Horizontal Boring Mill)",
-          "state": "NC",
+          "title": "Material Handler- Rail Traction Components",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-24"
+          "postedDate": "2026-08-25"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Partnerships: the cornerstone of future-ready buildings - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzBQZHFNY2Vhbm9uNWlKbWlQVjRsR1V3MmJBcGgyRmpCN3NWdktmM0JidnZKbVZSTXVSQzJMeVV0WmM3dzNoV012cmtGS1h2U0RkY1B2ZTZIc3NTNFJnS05OLTFHUW95WWROTWNiS1pvdkFVXzN5YmxaUTlCRm94aTZTT0hHa2xRejlxWUVQRE54UVBVLTlGekdxdjg5R2c?oc=5\" target=\"_blank\">Partnerships",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzBQZHFNY2Vhbm9uNWlKbWlQVjRsR1V3MmJBcGgyRmpCN3NWdktmM0JidnZKbVZSTXVSQzJMeVV0WmM3dzNoV012cmtGS1h2U0RkY1B2ZTZIc3NTNFJnS05OLTFHUW95WWROTWNiS1pvdkFVXzN5YmxaUTlCRm94aTZTT0hHa2xRejlxWUVQRE54UVBVLTlGekdxdjg5R2c?oc=5",
-          "published": "Thu, 20 Aug 2026 15:38:22 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -1770,18 +1667,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -1903,15 +1800,6 @@
           "postedDate": "2026-08-09"
         },
         {
-          "title": "Building Official",
-          "state": "AZ",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-08-06"
-        },
-        {
           "title": "Office Coordinator",
           "state": "NY",
           "segment": "Other",
@@ -2021,6 +1909,13 @@
             "Municipal"
           ],
           "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Technical Sales Engineer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-11"
         }
       ],
       "patents": [],
@@ -2039,18 +1934,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2100,18 +1995,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2204,18 +2099,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2309,13 +2204,11 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Project Manager (RTP)",
+          "title": "Environmental Specialties, LLC",
           "state": "NC",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-23"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
         },
         {
           "title": "Architectural Designer I",
@@ -2362,7 +2255,7 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Automation Service Technician",
+          "title": "Rigger Helper (RAL MIL ZE)",
           "state": "NC",
           "segment": "Other",
           "tags": [],
@@ -2376,14 +2269,7 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Electricians for DDC HVAC Controls Installation",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-22"
-        },
-        {
-          "title": "Rigger (RAL AISIN NW)",
+          "title": "Rigger Helper (RAL AISIN NW)",
           "state": "NC",
           "segment": "Other",
           "tags": [],
@@ -2397,14 +2283,21 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Rigger Helper (RAL MIL ZE)",
+          "title": "Automation Service Technician",
           "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Rigger Helper (RAL AISIN NW)",
+          "title": "Rigger (RAL AISIN NW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Electricians for DDC HVAC Controls Installation",
           "state": "NC",
           "segment": "Other",
           "tags": [],
@@ -2448,14 +2341,14 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Walker-J-Walker, Inc. Job Template - Delivery Driver/ Warehouse Support",
+          "title": "General Superintendent",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-22"
         },
         {
-          "title": "General Superintendent",
+          "title": "Walker-J-Walker, Inc. Job Template - Delivery Driver/ Warehouse Support",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2483,15 +2376,6 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Power Tool Repair Technician",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-22"
-        },
-        {
           "title": "Administrative Assistant",
           "state": "",
           "segment": "Healthcare",
@@ -2510,8 +2394,24 @@
           "postedDate": "2026-08-22"
         },
         {
+          "title": "Power Tool Repair Technician",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-08-22"
+        },
+        {
           "title": "Commercial Facilities Maintenance Technician",
           "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
+          "title": "Building Engineer",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-22"
@@ -2524,8 +2424,8 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Building Engineer",
-          "state": "FL",
+          "title": "Welder",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-22"
@@ -2547,18 +2447,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2585,18 +2485,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2622,11 +2522,18 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Data Analyst Senior",
+          "title": "Head of Engineering, Trading & Energy Tech (Houston)",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-03"
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Head of Software Engineering (Houston)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-31"
         }
       ],
       "patents": [],
@@ -2637,18 +2544,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2678,15 +2585,7 @@
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Optimum Energy Co. Announces Acquisition of Hussung Mechanical Contractors and HMC Service Company - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXdSTVFMTnFHWUh0RWxia0tRNmY3amdaV1JvTUl2a25XV3N2T3phREVoM2FhTU1SSHAxSFVNSHhJZmFpa0l1V2VGTDJFNDBMaUdzdk0zNFBCWmc2cTMwX0dRMC00UmFMRUdKQURseUZfTThtVWd5a05rME5GUUlqVWRUcC1Eazd5cEZ0eVlfZWZGMG45cjlBc3Z6ZUZBNXJ4al81Ql83TVVraUJBVzhJSXBiQnFYT09hY1",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXdSTVFMTnFHWUh0RWxia0tRNmY3amdaV1JvTUl2a25XV3N2T3phREVoM2FhTU1SSHAxSFVNSHhJZmFpa0l1V2VGTDJFNDBMaUdzdk0zNFBCWmc2cTMwX0dRMC00UmFMRUdKQURseUZfTThtVWd5a05rME5GUUlqVWRUcC1Eazd5cEZ0eVlfZWZGMG45cjlBc3Z6ZUZBNXJ4al81Ql83TVVraUJBVzhJSXBiQnFYT09hY1phVzdsaUVKTDdKSGZuV3V6X0dHVmF0ZHhkQU5EZE43M1E1NEtkc3d1WEc4RTRNLXlV?oc=5",
-          "published": "Wed, 12 Aug 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [
         {
           "date": "2025",
@@ -2717,18 +2616,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -2771,18 +2670,18 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Electrical Engineer",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
-        },
-        {
           "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-08-23"
+          "postedDate": "2026-08-24"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Fall 2026",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-24"
         },
         {
           "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
@@ -2902,13 +2801,6 @@
           "postedDate": "2026-08-22"
         },
         {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-22"
-        },
-        {
           "title": "Electrical Engineer",
           "state": "OH",
           "segment": "Other",
@@ -2937,15 +2829,8 @@
           "postedDate": "2026-08-20"
         },
         {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-19"
-        },
-        {
           "title": "Electrical Engineer Intern/Co-op Summer 2027",
-          "state": "MA",
+          "state": "",
           "segment": "University",
           "tags": [
             "University"
@@ -2955,6 +2840,22 @@
         {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-18"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Summer 2027",
+          "state": "OH",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-18"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-18"
@@ -2976,18 +2877,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     },
@@ -3248,18 +3149,18 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-19945",
-          "title": "McCarthy expands training initiatives with Arizona campus",
+          "id": "construction-31153",
+          "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
           "agency": "Construction Dive",
           "type": "Construction Project",
-          "posted": "Wed, 19 Aug 2026 15:55:23 -0400",
+          "posted": "Mon, 24 Aug 2026 09:21:00 -0400",
           "deadline": "",
           "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/vFuIYlYaNyhX6d4PTMBmqnQ-TLQANbPEsM9Cwuj1W14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQUNfUmVuZGVyaW5nXzEuanBn.webp\" /></div></figure><p>The contractor bought the former hotel and convention site in January. Once complete,",
-          "url": "https://www.constructiondive.com/news/mccarthy-training-tempe-arizona-campus/828315/",
+          "description": "<p>The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.</p>",
+          "url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
-          "segment": "University"
+          "segment": "Municipal"
         }
       ]
     }
