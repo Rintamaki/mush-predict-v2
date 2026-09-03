@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,139 +96,14 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Controls Systems Technician",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Industrial Insulation & Fabrication Technician (Job Number: 1685)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Journeyman HVAC Chiller Mechanic, Navy Systems (Job Number: 1665)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Environmental Health & Safety Specialist - Bilingual Spanish",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Fire Install Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Quality Technician, 2nd shift",
+          "title": "Senior Controls Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "Retail Secutiy Systems Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Quality Inspector",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "HVAC Journeyman Mechanic (union)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Experienced Fire Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Sr. Plant Production Supervisor, 1st Shift - (Job ID: 1663)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Field Project Manager, Fire Systems",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "QA Technician, 2nd Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Journeymen Mechanic (union)",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Fire Detection Systems Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Fire Alarm Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Sprinkler Service Technician",
+          "title": "Accounting & Finance Rotational I",
           "state": "AZ",
           "segment": "Schools",
           "tags": [
@@ -236,17 +111,126 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "HVAC Truck Based Serviceman (union)",
+          "title": "Fire Installer",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "New PSA Service Sales Representative",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Certified Welder (un)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Fire Sprinkler Inspector",
+          "state": "PA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Quality Engineer I",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Territory/Domain Field Sales Rep",
+          "state": "CO",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Senior Human Resources Specialist (REMOTE)",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Security Account Executive",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Demand Planning Analyst - Aftermarket Parts",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Test Lab Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Sprinkler Service Technician",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "HVAC Project General Foreman (UN) Mechanical",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "Construction Project Executive - BAS Controls",
+          "title": "Demand Planning Analyst - Aftermarket Parts",
           "state": "WI",
           "segment": "Schools",
           "tags": [
@@ -254,123 +238,43 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "Sprinkler Inspector",
-          "state": "",
+          "title": "Quality Engineering S",
+          "state": "FL",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "HVAC Truck Based Journeyman Mechanic (union)",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Fire Service Renewals Sales Representative",
+          "title": "HVAC Controls Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "HVAC Truck Based Technician Team Lead Mechanic (union)",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "HVAC Technician Team Leader",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Sprinkler Service Sales Representative",
+          "title": "HVAC Controls Systems Team Lead",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "HVAC Service Sales Account Executive",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Fire Install Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Sprinkler Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Johnson Controls Debuts OpenBlue AI Ecosystem - Security Informed",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGVDWktJVmxSZS01SXRoSU9BVDdLZ1I1WlBPXzdEWU1Ba29Jc0s2TVllckNlZmJ3R190ZF9qNEV2ZGN3blpfLTh4T2NpNlM2R2VyOVNIVUpzOTM5VmNPOUtRazEtakZiTzlXYVo2bDVtUVZVa2djV2FjR3JmUk5TMjBWejN3R013MWZacnk3R1hBTmJzTkNPMXVZMUVaVkFlREtEQ2MweW1SdDBTOWlMZg?oc=5\" targe",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGVDWktJVmxSZS01SXRoSU9BVDdLZ1I1WlBPXzdEWU1Ba29Jc0s2TVllckNlZmJ3R190ZF9qNEV2ZGN3blpfLTh4T2NpNlM2R2VyOVNIVUpzOTM5VmNPOUtRazEtakZiTzlXYVo2bDVtUVZVa2djV2FjR3JmUk5TMjBWejN3R013MWZacnk3R1hBTmJzTkNPMXVZMUVaVkFlREtEQ2MweW1SdDBTOWlMZg?oc=5",
-          "published": "Thu, 06 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Johnson Controls unveils AI-powered OpenBlue platform expansions for increased efficiency and rapid implementation - Johnson Controls",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEbl",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEblM4NEE0NXZiQ09hekt6Mk1xUjN6S0duZVRabkZaVQ?oc=5",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Johnson Controls helps Resorts World Las Vegas unlock $110,000 in annual energy cost savings - Johnson Controls",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX01Bdkc1aWNXamJsQ2dHTUZzcEE0QS1fM2J5RDRFS2ZwaXVCVlZpNEowams4RjlOTGtURnJYVmNPeDBob3BMckx4Vnp6aXFxYWE1LUktMjA1YVphOWwtNWNCUl9ERG5PNngtbXBXb1RPbm16SEdnVEU3dWg1TmZRelA5WXRxaDloNXQzdDhjREIwZzVsTmtNN1JqbUtvN1NWTkk4R0RrZ0hTeThkRlZnbkZ1ZmNRLU1MbF",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX01Bdkc1aWNXamJsQ2dHTUZzcEE0QS1fM2J5RDRFS2ZwaXVCVlZpNEowams4RjlOTGtURnJYVmNPeDBob3BMckx4Vnp6aXFxYWE1LUktMjA1YVphOWwtNWNCUl9ERG5PNngtbXBXb1RPbm16SEdnVEU3dWg1TmZRelA5WXRxaDloNXQzdDhjREIwZzVsTmtNN1JqbUtvN1NWTkk4R0RrZ0hTeThkRlZnbkZ1ZmNRLU1MbFVhSGl1eFZPQ0VuRXJrZmJERmhsVkk3N1VhZVZ5M1BZbm9pdkl0YTJwbFc0Q0JDSUhmWEgwNEREV1BDb1FTU3VqNA?oc=5",
-          "published": "Fri, 24 Jul 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -479,226 +383,163 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "2027 Technical Sales Intern - Controls",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Construction Project Management Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Account Manager Senior",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Equipment Estimator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Technician Helper",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Construction Project Management Intern",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
           "title": "2027 Technical Sales Intern - Equipment",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Construction Project Management Intern",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Equipment",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Energy Engineering Intern",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Store Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Equipment",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Controls",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Controls",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Energy Engineering Intern",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
           "title": "2027 Technical Sales Intern - Equipment",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Journeyman Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "2027 Energy Engineering Intern",
+          "title": "2027 Technical Sales Intern - Services",
           "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "Technical Sales Associate Development Program - Controls",
-          "state": "",
+          "title": "2027 Technical Sales Intern - Services",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "Senior Manager, Sales",
+          "title": "Contracting Project Mgr",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Warehouse Technician",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
         },
         {
-          "title": "Automation Engineering Co-op",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Controls",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Construction Project Management Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Equipment Project Administrator",
+          "title": "HVAC Technician - Rental Services",
           "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-02"
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Systems Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Service Project Admin",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Area General Manager",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Area General Manager",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Electronics Technician II",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "HVAC Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Apprentice Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Area General Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Service Technician Apprentice",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Air Cooled Chiller Sr Product Manager",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "2027 Technical Sales Intern - Services",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Journeyman Technician",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
         }
       ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "California skilled nursing facilities must keep 96 hours of onsite power; Eaton is helping 35 comply - Stock Titan",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFRWV1BGcTRmdDRYNHhJdDNTbUs0VTNCXzdtNUxXZlVPeHozS3F3cllNaHhaaUNOaFFwellzTDR2Y3dUQmNLel9ydWJzbjlheWVMdG1OUzdMSFlNYk9zd3NyRGRvWEFsSlp5VXhacUlBMzNRZXJrLUZhYkRzVmc4cTR5anl2ei11TXFTaUZXZXR2ZkFaVVhsNEVlQ1piR01kXzVtamV3NUlRUFZhUGFQSlY3N181TUpR?o",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFRWV1BGcTRmdDRYNHhJdDNTbUs0VTNCXzdtNUxXZlVPeHozS3F3cllNaHhaaUNOaFFwellzTDR2Y3dUQmNLel9ydWJzbjlheWVMdG1OUzdMSFlNYk9zd3NyRGRvWEFsSlp5VXhacUlBMzNRZXJrLUZhYkRzVmc4cTR5anl2ei11TXFTaUZXZXR2ZkFaVVhsNEVlQ1piR01kXzVtamV3NUlRUFZhUGFQSlY3N181TUpR?oc=5",
-          "published": "Thu, 20 Aug 2026 12:33:00 GMT"
-        },
         {
           "source": "google_news",
           "title": "Waaree Renewable wins two major solar EPC contracts - Manufacturing Today India",
@@ -712,7 +553,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -773,6 +614,112 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Associate Project Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Senior Proposal Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Human Resources Co-op",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Occupational Hygienist",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Site Safety & Health Officer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Safety Officers",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Construction Manager (Utility Plant Renovation)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-02"
+        },
+        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Schools",
@@ -793,6 +740,16 @@
             "University"
           ],
           "postedDate": "2026-09-02"
+        },
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-09-01"
         },
         {
           "title": "Senior Energy Engineer",
@@ -916,6 +873,13 @@
           "postedDate": "2026-08-26"
         },
         {
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-22"
+        },
+        {
           "title": "Measurement & Verification Engineer",
           "state": "",
           "segment": "Schools",
@@ -969,138 +933,6 @@
             "University"
           ],
           "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Site Safety Manager",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Director of Construction - Water Infrastructure",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-21"
-        },
-        {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Site Safety Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-19"
-        },
-        {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Electrician - Operations and Maintenance",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Solar Electrician",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Traveling Construction Project Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Senior Controls Service Specialist",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Project Cost Accountant",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
-        },
-        {
-          "title": "Senior HVAC Chiller Mechanic - Day Shift",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-08-18"
         }
       ],
       "patents": [],
@@ -1108,10 +940,17 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Roseburg Urban Sanitary Authority Receives Two Best of the Best Awards from the Oregon Association of Clean Water Agencies - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQVpwV2pNNUtiZm5Cbk40MGF3OWY2YWZ4QjBYd0owNWktVEkzbm5TV3ZZUlB3VjJtUmdVSmlQb3dkM01GbHJIZWFVZ1ZEVlRfYXNPTDljOVlxVE8zM0NJRXppWVJuYzIxeV82OTlUTERJNG43QnNNRGtjNVNIOEdPTGpyWGlBTC1LZi0xQ19BYXBsanVDWkg3WklEYXA0UjJUNDZVTzNPZ0RsckQxVURWc2VjbFROSE4wdk",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQVpwV2pNNUtiZm5Cbk40MGF3OWY2YWZ4QjBYd0owNWktVEkzbm5TV3ZZUlB3VjJtUmdVSmlQb3dkM01GbHJIZWFVZ1ZEVlRfYXNPTDljOVlxVE8zM0NJRXppWVJuYzIxeV82OTlUTERJNG43QnNNRGtjNVNIOEdPTGpyWGlBTC1LZi0xQ19BYXBsanVDWkg3WklEYXA0UjJUNDZVTzNPZ0RsckQxVURWc2VjbFROSE4wdkpPdUlRU21lcUJvc0IzajI5TWd1QUJGdG1OZ3hxYnA3VnVQanlLaE5DSmZQNVVGNnEyMTl2Ukg4OERUTmxSenlNQWhlRzdMUTNLTUNGLU5XeE0?oc=5",
+          "title": "Roseburg sanitary authority wins two awards for solar-battery plan - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjc1RzZHNWQ0OWhXYTdwMnBLLUJ1REI3WGRweWlzaEoxaG1XUjJpeWZNRWNGY3hJXzFGRmVhU3UzelZDeEJYXzhWOGFlZUVwUVlkcENoWlJPcFdlR2NLMGJpYmpZaFg1WW1UaGloZWRhWGt3ZlpFNXRSSWVZbFh2UDdOMkxXUEhGVE4zbi1uWWJVZ29BNlhMaEhrMVhsS1lzWnpvY3E4WkxqTUhWNjV3U2dyWEhBRk9XbW",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjc1RzZHNWQ0OWhXYTdwMnBLLUJ1REI3WGRweWlzaEoxaG1XUjJpeWZNRWNGY3hJXzFGRmVhU3UzelZDeEJYXzhWOGFlZUVwUVlkcENoWlJPcFdlR2NLMGJpYmpZaFg1WW1UaGloZWRhWGt3ZlpFNXRSSWVZbFh2UDdOMkxXUEhGVE4zbi1uWWJVZ29BNlhMaEhrMVhsS1lzWnpvY3E4WkxqTUhWNjV3U2dyWEhBRk9XbWc?oc=5",
           "published": "Mon, 27 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Ameresco Brings Rooftop Solar to Community College of Philadelphia\u2019s Campuses, Reducing Grid Dependency - energytech.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVEtamhKM3hYUlVUV0NDYkJQYnFRbWlNSEJKNGg4MzhmZzYwamFIOFhFSGpJbnRTWW5ibFR4UlpVdmgxU3Q2R1RTaWxoVk9yRTVKa3JIYXp2VUgxS29iRVBPMnN2R1N6NGN5MFUwWW1SLU1OZjVpdDZoZVZfS1JPTWdHWVFYQk81WkZEckZSWDA1dXhvaWotQ2swU2VxcVh0N2lFbE5DY0REUWJzVGNTYWtlbTk4V2lON2h4bGlhZWJOQ0ZvczNyT0txR1Atd0JzNEFDS1RpeU1QeGFSR2trdUpoQ1AyWmNjZ3JZN1RhelFvb2c?oc=5",
+          "published": "Tue, 14 Jul 2026 17:55:46 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1119,7 +958,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1195,7 +1034,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1366,7 +1205,17 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Team Assistant \u2013 Corporate Strategy and M&A North America (Part-Time)",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-03"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1375,7 +1224,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1535,7 +1384,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1571,6 +1420,17 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Assistant Estimator",
+          "state": "CO",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
           "title": "Business Development Manager",
           "state": "GA",
           "segment": "Other",
@@ -1587,7 +1447,7 @@
           "postedDate": "2026-09-01"
         },
         {
-          "title": "Project Accountant II",
+          "title": "Senior Project Accountant",
           "state": "GA",
           "segment": "Other",
           "tags": [],
@@ -1613,7 +1473,7 @@
         },
         {
           "title": "Outreach Specialist",
-          "state": "CA",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-28"
@@ -1684,6 +1544,13 @@
           "postedDate": "2026-08-18"
         },
         {
+          "title": "HVAC Project Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-18"
+        },
+        {
           "title": "Senior Combination Building Inspector",
           "state": "CA",
           "segment": "Other",
@@ -1733,17 +1600,6 @@
             "Healthcare",
             "Municipal"
           ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Site Superintendent",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "Municipal"
-          ],
           "postedDate": "2026-07-25"
         },
         {
@@ -1763,6 +1619,13 @@
             "Municipal"
           ],
           "postedDate": "2026-07-23"
+        },
+        {
+          "title": "Technical Aide",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-07-22"
         },
         {
           "title": "Building Inspector / Plans Examiner",
@@ -1790,7 +1653,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1851,7 +1714,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1934,21 +1797,13 @@
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "City park energy efficiency projects honored with 2026 Environment + Energy Leader Award - City and County of Honolulu (.gov)",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzFKY0tMbzY1UExNWkRtOVp6N0RmX2RzZTdyUGNEUHFCM1VXNUxuSkdFSWg1dk9wNUMzNGZkalRuWlFoSTdoc2hacDJwOC0za2Z6Q3dCS1VBTWxNbVZDdUFtclhxRjh2VWZTaVRVLTZoR21BeTNfVUwxXzdXeWF5TXBlVmV1OHpZaHd4M3U1RHprT0w4N3VZdXhDZFRkclUtaU9tc3VrOGVISHBjNG1lZjM1NVNBVlRnR0ZQXzZXSGotdjA?oc=5",
-          "published": "Mon, 06 Jul 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2059,24 +1914,228 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
-      "patents": [],
-      "permitMentions": [],
-      "newsArticles": [
+      "jobPostings": [
         {
-          "source": "google_news",
-          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
-          "published": "Thu, 30 Jul 2026 07:00:00 GMT"
+          "title": "Human Resources Coordinator",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Pipefitter Foreman",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Pipefitter Foreman",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Pipefitter Superintendent",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Safety Technician",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Safety Manager/Director",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Manager, Transition",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Talent Acquisition Business Partner",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Fire Protection Designer",
+          "state": "MI",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Electrical Project Manager - (Electrical Engineer)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Administrative Assistant Lead",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Engineer",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Warehouse Associate",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Manager, Transition",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Pipefitter Superintendent",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Pipefitter",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Manager, Transition",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "New Customer Focus Representative",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Chief of Operations (DOE-G)",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Lead Plumber (St. Elizabeths)",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "AI Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Customer Service Representative",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Commercial Journeyman Plumber - HVAC",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Electro-Mechanical Assembler I",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Electro-Mechanical Assembler II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Commercial Plumbing Service Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-02"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-02"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-02"
         }
       ],
+      "patents": [],
+      "permitMentions": [],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2108,21 +2167,13 @@
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Waldron School Board Approves ESS Rate Increase, Superintendent Vehicle Purchase - Resident News Network",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVBHdGpXVjRYTTV4UkJHUjh3anVDNUd3Y2h2cmdvZEVQNk5HdzhJcVhhQW9lcUI4VW9BSkZ1OEstNTNqUjNNUEl3UUE3c3lvMUo3Q3FLTTM0RTJzMUdCSkdzSnZzM3diMzkyTEpGelI3Z3M5dnNqLWMxLXFodWN2VFlDOFJzX0VOTmNFR05rSlJHWkwzVFJYWVJvSjJrWkY4aXY1ZE9lNUpSZWFHNUs5aUhR?oc=5\" tar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVBHdGpXVjRYTTV4UkJHUjh3anVDNUd3Y2h2cmdvZEVQNk5HdzhJcVhhQW9lcUI4VW9BSkZ1OEstNTNqUjNNUEl3UUE3c3lvMUo3Q3FLTTM0RTJzMUdCSkdzSnZzM3diMzkyTEpGelI3Z3M5dnNqLWMxLXFodWN2VFlDOFJzX0VOTmNFR05rSlJHWkwzVFJYWVJvSjJrWkY4aXY1ZE9lNUpSZWFHNUs5aUhR?oc=5",
-          "published": "Wed, 12 Aug 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2166,7 +2217,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2207,15 +2258,7 @@
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Optimum Energy Co. Announces Acquisition of Hussung Mechanical Contractors and HMC Service Company - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXdSTVFMTnFHWUh0RWxia0tRNmY3amdaV1JvTUl2a25XV3N2T3phREVoM2FhTU1SSHAxSFVNSHhJZmFpa0l1V2VGTDJFNDBMaUdzdk0zNFBCWmc2cTMwX0dRMC00UmFMRUdKQURseUZfTThtVWd5a05rME5GUUlqVWRUcC1Eazd5cEZ0eVlfZWZGMG45cjlBc3Z6ZUZBNXJ4al81Ql83TVVraUJBVzhJSXBiQnFYT09hY1",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXdSTVFMTnFHWUh0RWxia0tRNmY3amdaV1JvTUl2a25XV3N2T3phREVoM2FhTU1SSHAxSFVNSHhJZmFpa0l1V2VGTDJFNDBMaUdzdk0zNFBCWmc2cTMwX0dRMC00UmFMRUdKQURseUZfTThtVWd5a05rME5GUUlqVWRUcC1Eazd5cEZ0eVlfZWZGMG45cjlBc3Z6ZUZBNXJ4al81Ql83TVVraUJBVzhJSXBiQnFYT09hY1phVzdsaUVKTDdKSGZuV3V6X0dHVmF0ZHhkQU5EZE43M1E1NEtkc3d1WEc4RTRNLXlV?oc=5",
-          "published": "Wed, 12 Aug 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [
         {
           "date": "2025",
@@ -2246,7 +2289,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2300,25 +2343,53 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Spring 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-03"
+        },
+        {
           "title": "HVAC Controls Service Professional - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-01"
         },
         {
           "title": "Commissioning Specialist",
@@ -2333,16 +2404,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-01"
-        },
-        {
-          "title": "Senior Project Engineer - Electrical",
-          "state": "NJ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-08-30"
         },
         {
           "title": "Staff Accountant",
@@ -2385,6 +2446,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-30"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Spring 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-29"
         },
         {
           "title": "Electrical Designer/Project Manager",
@@ -2472,27 +2540,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-28"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-28"
-        },
-        {
-          "title": "Construction Management Intern/Co-op Summer 2027 - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-28"
-        },
-        {
-          "title": "Lighting Designer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-28"
         }
       ],
       "patents": [],
@@ -2503,7 +2550,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2539,25 +2586,11 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Director of Safety & EH&S Leadership",
+          "title": "Electrical Superintendent- Assembly Shop",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-01"
-        },
-        {
-          "title": "Senior Plumbing Designer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-01"
-        },
-        {
-          "title": "Safety Director",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-01"
+          "postedDate": "2026-09-02"
         },
         {
           "title": "Senior Business Analyst",
@@ -2567,7 +2600,7 @@
           "postedDate": "2026-09-01"
         },
         {
-          "title": "Data Proposal Specialist",
+          "title": "Proposal Data Specialist",
           "state": "WA",
           "segment": "Other",
           "tags": [],
@@ -2752,6 +2785,20 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-08-28"
+        },
+        {
+          "title": "Estimator II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-27"
+        },
+        {
+          "title": "Estimator II",
+          "state": "OR",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-27"
         }
       ],
       "patents": [],
@@ -2762,7 +2809,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-9099",
+          "id": "construction-8759",
           "title": "Suffolk wins $278M California university dental school project",
           "agency": "Construction Dive",
           "type": "Construction Project",
