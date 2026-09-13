@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,28 +96,21 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Test Evergreen",
-          "state": "AZ",
+          "title": "Field Services Technician Level 2",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Manufacturing Engineer, Compressor Assembly (Job Number: 1699)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Production Supervisor",
+          "title": "Commercial Account Executive, Security",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Controls Service Technician",
+          "title": "Senior Electrical Designer (onsite)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -125,39 +118,42 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "QA Lead",
+          "title": "Commercial Security Sales Executive",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Security Service Technician",
-          "state": "CO",
+          "title": "Fire Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Sprinkler Install Helper",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Security Service Technician",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
+          "title": "HVAC Controls Systems Team Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Controls Systems Technician (Buffalo NY)",
+          "title": "Fire Service Technician",
           "state": "NY",
           "segment": "Schools",
           "tags": [
@@ -165,39 +161,31 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Security Service Technician",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
+          "title": "HVAC Mechanical Service Apprentice Tech (union)",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "HVAC Service Operations Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Fire Project Specialist",
+          "title": "HVAC Controls Systems Designer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Controls Systems Technician Team Leader",
+          "title": "HVAC Truck Based Chiller Mechanic (union)",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Deficiencies Inside Sales Representative",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -205,21 +193,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Security Systems Technician",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Fire Alarm Service Supervisor",
+          "title": "Fire Sprinkler Service Supervisor",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -227,32 +204,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Security Service Technician",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Controls Business Development Manager",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Controls Service Technician",
+          "title": "Mechanical Engineer (onsite)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -260,32 +215,97 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Security Service Technician (union)",
+          "title": "Commercial Security Systems Account Executive",
           "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Experienced Fire Alarm Installer",
+          "state": "PA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-12"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "CMM Inspection (Precision Gauging / Manufacturing) - 2nd Shift (Job ID: 1677)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "HVAC Data Center Travel Team Journeyman Mechanic (Union)",
+          "title": "HVAC S&F Lead Systems Specialist",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Energy Solutions Development Engineer & Inflation Reduction Act Program Manager",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Senior Mechanical Product Engineer (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "HVAC Equipment Service Tech Journeyman (union)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Installation Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "R&D Mechanical Engineer (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "HVAC Truck Base Customer Resource Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "New PSA Service Sales Representative 3",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-13"
         }
       ],
       "patents": [],
@@ -321,10 +341,10 @@
         },
         {
           "source": "google_news",
-          "title": "Building energy management systems: a practical guide for commercial facilities - Johnson Controls",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTRFN1hhOXpiZnBhbjd3M1hzS2RTTkRJUEtBTVJVWEV5YTl3dmQxeUhBRFFxYjJxSm5WWlJRalVha25JSmxadHVYNXZycnNiVHY2ZlBBOFUxOWstdlE3NXNkSFp1Z2hoR01LcDhDOVRVVEZjYmwzQmdoZnFxT3U1S01wZ2VFRV9veTE4RGt5dE9VVlJhXzgwUi05Zm5aTnRBS2tLTjR4Z3NmaUk?oc=5\" target=\"_bla",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTRFN1hhOXpiZnBhbjd3M1hzS2RTTkRJUEtBTVJVWEV5YTl3dmQxeUhBRFFxYjJxSm5WWlJRalVha25JSmxadHVYNXZycnNiVHY2ZlBBOFUxOWstdlE3NXNkSFp1Z2hoR01LcDhDOVRVVEZjYmwzQmdoZnFxT3U1S01wZ2VFRV9veTE4RGt5dE9VVlJhXzgwUi05Zm5aTnRBS2tLTjR4Z3NmaUk?oc=5",
-          "published": "Fri, 07 Aug 2026 07:00:00 GMT"
+          "title": "Johnson Controls helps Resorts World Las Vegas unlock $110,000 in annual energy cost savings - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX01Bdkc1aWNXamJsQ2dHTUZzcEE0QS1fM2J5RDRFS2ZwaXVCVlZpNEowams4RjlOTGtURnJYVmNPeDBob3BMckx4Vnp6aXFxYWE1LUktMjA1YVphOWwtNWNCUl9ERG5PNngtbXBXb1RPbm16SEdnVEU3dWg1TmZRelA5WXRxaDloNXQzdDhjREIwZzVsTmtNN1JqbUtvN1NWTkk4R0RrZ0hTeThkRlZnbkZ1ZmNRLU1MbF",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX01Bdkc1aWNXamJsQ2dHTUZzcEE0QS1fM2J5RDRFS2ZwaXVCVlZpNEowams4RjlOTGtURnJYVmNPeDBob3BMckx4Vnp6aXFxYWE1LUktMjA1YVphOWwtNWNCUl9ERG5PNngtbXBXb1RPbm16SEdnVEU3dWg1TmZRelA5WXRxaDloNXQzdDhjREIwZzVsTmtNN1JqbUtvN1NWTkk4R0RrZ0hTeThkRlZnbkZ1ZmNRLU1MbFVhSGl1eFZPQ0VuRXJrZmJERmhsVkk3N1VhZVZ5M1BZbm9pdkl0YTJwbFc0Q0JDSUhmWEgwNEREV1BDb1FTU3VqNA?oc=5",
+          "published": "Fri, 24 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -426,6 +446,41 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "HVAC Service Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Assembler I (Large Truck)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Service Controls Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Material Handler 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Team Leader I",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
           "title": "Controls Installation Technician",
           "state": "",
           "segment": "Other",
@@ -510,7 +565,21 @@
           "postedDate": "2026-09-12"
         },
         {
+          "title": "Project Developer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
           "title": "2027 Accelerated Development Program - Accounting & Finance",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Project Developer",
           "state": "MI",
           "segment": "Other",
           "tags": [],
@@ -571,62 +640,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-12"
-        },
-        {
-          "title": "2027 Accelerated Development Program - Accounting & Finance",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "2027 Accelerated Development Program - Accounting & Finance",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Project Developer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Collections Analyst",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Commercialization Leader- Smart Services Products",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Service Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Service Resource Coordinator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "2027 Accelerated Development Program - Accounting & Finance",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
         }
       ],
       "patents": [],
@@ -634,14 +647,14 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "California skilled nursing facilities must keep 96 hours of onsite power; Eaton is helping 35 comply - stocktitan.net",
+          "title": "California skilled nursing facilities must keep 96 hours of onsite power; Eaton is helping 35 comply - Stock Titan",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFRWV1BGcTRmdDRYNHhJdDNTbUs0VTNCXzdtNUxXZlVPeHozS3F3cllNaHhaaUNOaFFwellzTDR2Y3dUQmNLel9ydWJzbjlheWVMdG1OUzdMSFlNYk9zd3NyRGRvWEFsSlp5VXhacUlBMzNRZXJrLUZhYkRzVmc4cTR5anl2ei11TXFTaUZXZXR2ZkFaVVhsNEVlQ1piR01kXzVtamV3NUlRUFZhUGFQSlY3N181TUpR?o",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFRWV1BGcTRmdDRYNHhJdDNTbUs0VTNCXzdtNUxXZlVPeHozS3F3cllNaHhaaUNOaFFwellzTDR2Y3dUQmNLel9ydWJzbjlheWVMdG1OUzdMSFlNYk9zd3NyRGRvWEFsSlp5VXhacUlBMzNRZXJrLUZhYkRzVmc4cTR5anl2ei11TXFTaUZXZXR2ZkFaVVhsNEVlQ1piR01kXzVtamV3NUlRUFZhUGFQSlY3N181TUpR?oc=5",
           "published": "Thu, 20 Aug 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
-          "title": "Waaree Renewable wins two major solar EPC contracts - manufacturingtodayindia.com",
+          "title": "Waaree Renewable wins two major solar EPC contracts - Manufacturing Today India",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm9mU01MeDdMam1xTEpteUhuM0FEejllclBKYUxHWnVQMko1cjc5ZGtPQ1RLTklJOVFqTloyYWtZakNuNTBnNUs5MDV0N2FIOEZBT2t2OWRyMGZ3OS1yTzZTZGhLU3czcnNqV0Q2aGw2NGVETVNWbThmMWtPOUs5WjRzcTFWRGwwYjk2SllXeFB1QkJhZVE?oc=5\" target=\"_blank\">Waaree Renewable wins tw",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm9mU01MeDdMam1xTEpteUhuM0FEejllclBKYUxHWnVQMko1cjc5ZGtPQ1RLTklJOVFqTloyYWtZakNuNTBnNUs5MDV0N2FIOEZBT2t2OWRyMGZ3OS1yTzZTZGhLU3czcnNqV0Q2aGw2NGVETVNWbThmMWtPOUs5WjRzcTFWRGwwYjk2SllXeFB1QkJhZVE?oc=5",
           "published": "Mon, 27 Jul 2026 07:00:00 GMT"
@@ -697,6 +710,17 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Level 3 DDC Controls Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-13"
+        },
         {
           "title": "Night Superintendent",
           "state": "WA",
@@ -910,17 +934,6 @@
           "postedDate": "2026-09-02"
         },
         {
-          "title": "Solar Electrician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-02"
-        },
-        {
           "title": "Instrument & Controls Engineer",
           "state": "NC",
           "segment": "Schools",
@@ -998,26 +1011,26 @@
           "postedDate": "2026-08-27"
         },
         {
-          "title": "Boiler Operator \u2013 Weekend Night Shift",
-          "state": "WA",
+          "title": "Measurement & Verification Engineer",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-27"
+          "postedDate": "2026-08-22"
         },
         {
-          "title": "Controls Installation Technician",
-          "state": "OH",
+          "title": "Construction Project Manager",
+          "state": "IL",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-08-26"
+          "postedDate": "2026-08-22"
         }
       ],
       "patents": [],
@@ -1097,146 +1110,190 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Engineer I, Power System",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Assistant Manager, Tender / Quotation Management",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Executive Assistant",
+          "title": "Fabrication Setup & Operate,7001,Molding",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Senior Engineer I, Power System",
+          "title": "Fabrication Associate I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Senior Plant Finance Analyst",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "EPC Power Systems Project Specialist",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Power Electronic Engineer",
+          "title": "Power Electronics Co-Op",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Warehouse Associate III",
+          "title": "BAS Project Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Controls Specialist - 2nd Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Materials Associate I",
+          "title": "Microgrid Project Application Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Senior Application Engineer II - - Protection Relays",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Region Channel Support Specialist",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Region Channel Support Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Expert, Functional Lead- SAP SD-ETO",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Wiring Associate",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "OEM Business Development Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Production Associate I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Service Parts Specialist",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Metering Product Owner",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Material Associate - Forklift",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Production Associate II - Tie In",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Senior Application Engineer II - - Protection Relays",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Field Service Technician",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Service Parts Specialist",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "OEM Business Development Specialist",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "Materials Associate - Forklift",
           "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools"
           ],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Senior Associate, Quotation Management",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Senior Associate, End to End Flow Controller",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Electrical Assembler - Sub-Assembly",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Quality Inspector",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Procurement Sourcing Management Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Executive Assistant",
+          "title": "Senior Application Engineer II - - Protection Relays",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Field Service Representative - Secure Power/Electronic",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Assistant Manager, Tender / Quotation Management",
+          "title": "Senior Application Engineer II - - Protection Relays",
           "state": "IL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Senior Engineer I, Power System",
+          "title": "Senior Application Engineer II - - Protection Relays",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Assistant Manager, Tender / Quotation Management",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         }
       ],
       "patents": [],
@@ -1405,23 +1462,32 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Staff Systems Engineer",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-12"
+          "title": "Senior Repair Lifing Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
         },
         {
-          "title": "Travel Cath Lab Technologist - $4,181 per week",
-          "state": "CA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-09-12"
+          "title": "Data Center Business Development Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Nondestructive Evaluation (NDE) Inspector I - Shift 1, Mon-Fri. 7:30AM - 3:30PM",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Supervisor - Valve Components (Fri - Sun 5:15am to 6:00pm)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
         }
       ],
       "patents": [],
@@ -1598,6 +1664,29 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Physical Design Engineer",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Business Operations Manager",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Administration Coordinator",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-13"
+        },
+        {
           "title": "Building Inspector",
           "state": "CA",
           "segment": "Other",
@@ -1713,6 +1802,13 @@
           "postedDate": "2026-08-22"
         },
         {
+          "title": "Construction Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-21"
+        },
+        {
           "title": "Senior Construction Manager",
           "state": "CA",
           "segment": "Other",
@@ -1773,15 +1869,6 @@
           "postedDate": "2026-08-09"
         },
         {
-          "title": "Project Accountant I",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-08-03"
-        },
-        {
           "title": "Code Enforcement Officer",
           "state": "AZ",
           "segment": "Municipal",
@@ -1789,35 +1876,6 @@
             "Municipal"
           ],
           "postedDate": "2026-08-01"
-        },
-        {
-          "title": "Site Superintendent",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-28"
-        },
-        {
-          "title": "Site Superintendent",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-07-25"
-        },
-        {
-          "title": "Senior Combination Building Inspector",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-07-24"
         }
       ],
       "patents": [],
@@ -2086,15 +2144,50 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Fire Watch (RAL J&J RM)",
+          "title": "Assistant Project Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Electrician (WILM VERN EW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Buyer/Planner",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Principal Engineer, Quality",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Aircond Corporation",
           "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-12"
         },
         {
-          "title": "IDIQ Project Manager / Alteration & Tenant Improvement Manager",
-          "state": "VA",
+          "title": "Forest Electric Corp.",
+          "state": "NJ",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
@@ -2102,206 +2195,184 @@
           "postedDate": "2026-09-12"
         },
         {
-          "title": "Buyer",
-          "state": "VA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Dispatcher I",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "QA/QC Specialist",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Assistant Project Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Superintendent - Rigging",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Electrician (ATL EDGED RC)",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "QA/QC Administrative Assistant",
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-12"
         },
         {
-          "title": "BMS / EMS Engineer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Operations and Logistics Generalist",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Safety Associate - Miller Electric Company",
+          "title": "Hill York Service Company",
           "state": "FL",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-12"
         },
         {
-          "title": "Assistant Project Manager",
-          "state": "FL",
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-12"
         },
         {
-          "title": "Senior Project Manager",
-          "state": "CO",
+          "title": "Havel",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-12"
         },
         {
-          "title": "Automation Project Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Assistant Project Manager",
+          "title": "Dallas Mechanical Group LLC",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Miller Electric Company",
-          "state": "FL",
+          "title": "Heritage Mechanical Services, Inc.",
+          "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "WA",
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "VA",
+          "title": "Shambaugh & Son, L.P.",
+          "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
+          "title": "EMCOR Construction Services, Inc.",
           "state": "VA",
-          "segment": "Healthcare",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
           "tags": [
+            "Schools",
             "Healthcare"
           ],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "GA",
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "ECM Holding Group, Inc.",
-          "state": "WI",
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "Miller Electric Company",
-          "state": "FL",
+          "title": "EMCOR Construction Services, Inc.",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-11"
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "EMCOR Facilities Services, Inc.",
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "EMCOR Construction Services, Inc.",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
           "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-12"
         },
         {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Refrigeration National Service Director",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Tool Room Attendant (RAL NOVO JW)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-12"
         }
       ],
       "patents": [],
@@ -2309,7 +2380,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - stocktitan.net",
+          "title": "EMCOR Group (NYSE: EME) plans ~$700M in electrical contractor deals - Stock Titan",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5\" target=\"_bla",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZxNTByTlpvR0llbFpLVnJ5VTFzWnU4TVVHZGpFeFF1eVdQN1M5TmhOY2dNMTY3dHBwRzZ4a096Z25OREVqZkhubnhTSU8tZTBOWlVjb1NkcEF5dEo5NVFWYmVyU3dMUzRDbXhaNG1EYzBVbnFkdDRlQ3UwMExjcktqdGp6RDI5ZVpNaGpwdTNFQ1hWcUxna3l5bm9OdHZFWkdvbzROa0ZtMFk?oc=5",
           "published": "Thu, 30 Jul 2026 07:00:00 GMT"
@@ -2484,6 +2555,44 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Corporate Business Registration and Licensure Manager",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Municipal"
+          ],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Spring 2027 (multiple locations)",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-13"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-12"
+        },
+        {
           "title": "Senior Mechanical Engineer",
           "state": "",
           "segment": "Other",
@@ -2505,13 +2614,6 @@
           "postedDate": "2026-09-12"
         },
         {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
           "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "TX",
           "segment": "Other",
@@ -2519,13 +2621,6 @@
           "postedDate": "2026-09-11"
         },
         {
-          "title": "Electrical Engineer Intern/Co-op Summer 2027",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
           "title": "Mechanical Engineer",
           "state": "TX",
           "segment": "Other",
@@ -2540,25 +2635,31 @@
           "postedDate": "2026-09-11"
         },
         {
-          "title": "Assistant Intern",
+          "title": "Senior BIM Coordinator",
           "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-11"
-        },
-        {
-          "title": "Assistant Intern",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
           "postedDate": "2026-09-10"
         },
         {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
+          "title": "MEP Construction Project Manager",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-09"
+        },
+        {
+          "title": "Solar Energy Engineer - Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-10"
+          "postedDate": "2026-09-08"
         },
         {
           "title": "Mechanical Engineer",
@@ -2575,13 +2676,6 @@
           "postedDate": "2026-09-06"
         },
         {
-          "title": "Senior Mechanical Engineer",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-05"
-        },
-        {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
@@ -2636,34 +2730,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-04"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-04"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-04"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-04"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-03"
         }
       ],
       "patents": [],
@@ -2694,6 +2760,15 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Employee Relations Manager - Leaves and Accommodations",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-09-13"
+        },
         {
           "title": "Division Safety Director",
           "state": "VA",
@@ -2895,13 +2970,6 @@
         },
         {
           "title": "Senior Purchasing Agent",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-05"
-        },
-        {
-          "title": "Senior Benefits Specialist",
           "state": "CA",
           "segment": "Other",
           "tags": [],
