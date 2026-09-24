@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-09-24",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -27,117 +27,11 @@
           "state": "WA"
         }
       ],
-      "contractAwards": [
-        {
-          "date": "2022-09-29",
-          "value": 71309106.3,
-          "state": null,
-          "segment": "University",
-          "agency": "Department of Defense",
-          "description": "MAINTENANCE & SERVICES (M&S) COMMAND CENTER HUMPHREYS CAMPUS, M&S, CAMP HUMPHREYS, SOUTH KOREA"
-        },
-        {
-          "date": "2000-07-27",
-          "value": 44467812.67,
-          "state": "TX",
-          "segment": "Healthcare",
-          "agency": "Department of Defense",
-          "description": "200012!2100!000926!DA10  !U.S. ARMY MEDICAL COMMAND       !DADA1099D0053  !A!*!0001               !20000727!20000930!006092860!006092860!006"
-        },
-        {
-          "date": "2025-09-30",
-          "value": 26695954.0,
-          "state": null,
-          "segment": "Healthcare",
-          "agency": "Department of Defense",
-          "description": "PROCURE AND INSTALL_FURNISH AND INSTALL NEW METASYS CONTROL SYSTEMS AND HVAC UPGRADES AT KADENA AIR BASE 18TH MEDICAL GROUP HEALTH CLINIC, B"
-        },
-        {
-          "date": "2018-05-31",
-          "value": 20406875.71,
-          "state": "WI",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "IGF::OT::IGF - C106210 - PREVENTATIVE MAINTENANCE SERVICES FOR THE JOHNSON CONTROLS BAS SYSTEMS TO INCLUDE 24/7/365 MONITORING FOR THE BETHE"
-        },
-        {
-          "date": "2002-04-18",
-          "value": 17321678.96,
-          "state": "TX",
-          "segment": "Healthcare",
-          "agency": "Department of Defense",
-          "description": "200212!000360!2100!DA10  !U.S. ARMY MEDICAL COMMAND       !DADA1099D0053  !A!N! !N!0004               !20020418!20020930!076020440!076020440"
-        },
-        {
-          "date": "2021-09-17",
-          "value": 15727843.0,
-          "state": "GA",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "IDAS SECURITY ENHANCEMENTS"
-        },
-        {
-          "date": "2024-04-22",
-          "value": 15196060.0,
-          "state": null,
-          "segment": "Healthcare",
-          "agency": "Department of Defense",
-          "description": "METASYS UPGRADE YOKOSUKA HOSPITAL"
-        },
-        {
-          "date": "2026-08-27",
-          "value": 9744616.0,
-          "state": "GA",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "EO 14398 - ACP UPGRADE"
-        }
-      ],
+      "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Retail Security Systems Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Client Resource Coordinator",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Data Center Chiller Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Project Delivery Consultant - Sustainable Infrastructure",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Security Installer",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Fire Detection Systems Technician",
+          "title": "HVAC Mechanical Systems Foreman (union)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -145,52 +39,90 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-23"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Strategic Accounts Planning Manager",
+          "title": "Application Support Engineer",
+          "state": "FL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Advanced Security Project Manager",
+          "state": "NJ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "HVAC Truck Based Sr Service Controls Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "EHS Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Manufacturing Engineer II",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-23"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Senior Portfolio Manager, Global Data Center Thermal Solutions",
+          "title": "Fire Sprinkler Inspector",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Customer Care Support Supervisor 2",
+          "title": "Controls Electrical Installer",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "HVAC Service Sales Representative",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Controls Sales Engineer Intern",
+          "title": "MP Site Project Manager Security",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "HVAC Truck Based Controls Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Client Resource Coordinator 1",
+          "title": "Fire Sprinkler Inspector",
           "state": "CA",
           "segment": "Schools",
           "tags": [
@@ -198,24 +130,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-23"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Retail Security Account Representative",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Data Center Chiller Journeyman",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Truck Based Mechanic Apprentice (union) Amarillo, TX",
+          "title": "Security Systems Installer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -223,76 +141,30 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-23"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "BAS Control Systems Engineer",
+          "title": "Lean Leader",
           "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Building Controls Application Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Sr. Software Engineer",
-          "state": "AZ",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Project Coordinator 1",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Senior Account Executive - Sustainable Infrastructure",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Sprinkler Inspector",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Controls Systems Technician Team Lead",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Controls Pre-Sales Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
+          "postedDate": "2026-09-24"
         }
       ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Johnson Controls unveils AI-powered OpenBlue platform expansions for increased efficiency and rapid implementation - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEbl",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEblM4NEE0NXZiQ09hekt6Mk1xUjN6S0duZVRabkZaVQ?oc=5",
+          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
+        },
         {
           "source": "google_news",
           "title": "Johnson Controls Expands OpenBlue with Artificial Intelligence to Optimize Buildings - ACR Latinoam\u00e9rica",
@@ -311,7 +183,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Trane Technologies",
@@ -330,213 +231,291 @@
           "state": "NC"
         }
       ],
-      "contractAwards": [],
+      "contractAwards": [
+        {
+          "date": "2016-04-20",
+          "value": 88909710.09,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF FOR OTHER FUNCTIONS  GSA R2 2016 NYC ESPC PROJECT FOR 10 FEDERAL BUILDINGS. THE PROJECT CONSISTS OF THE INSTALLATION OF 98 ENER"
+        },
+        {
+          "date": "2024-06-14",
+          "value": 1482340.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "DESIGN - BUILD CONSTRUCTION CONTRACT FOR REMOVAL AND REPLACEMENT OF TWO PUMPS AND TWO CHILLERS AT THE PROVIDENCE RHODE ISLAND FEDERAL COURTH"
+        },
+        {
+          "date": "2023-05-26",
+          "value": 736509.0,
+          "state": "RI",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF COOLING TOWERS REPLACEMENT AT THE PROVIDENCE FEDERAL COURTHOUSE IN PROVIDENCE, RI."
+        },
+        {
+          "date": "2023-05-25",
+          "value": 734356.44,
+          "state": "MA",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "AWARD OF THE DONOHUE COOLING TOWERS 2 & 3 REPLACEMENT AT THE DONOHUE FEDERAL BUILDING AND COURTHOUSE IN WORCESTER, MA."
+        },
+        {
+          "date": "2019-01-08",
+          "value": 511547.24,
+          "state": "CA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "SERVICE TO PERFORM TRANE CHILLER PM SELECT SERVICE AGREEMENT, VA GREATER LOS ANGELES HEALTHCARE SYSTEM."
+        },
+        {
+          "date": "2019-12-20",
+          "value": 459526.67,
+          "state": "LA",
+          "segment": "Schools",
+          "agency": "Department of Defense",
+          "description": "BASE YEAR SERVICES FOR ANNUAL CHILLER MAINTENANCE FOR U.S. ARMY CORPS OF ENGINEERS (USACE), NEW ORLEANS DISTRICT (NOD), NEW ORLEANS, LA"
+        },
+        {
+          "date": "2021-02-03",
+          "value": 445811.54,
+          "state": "OH",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "CONSTRUCTION SERVICES REBUILD CHILLERS, KINNEARY COURTHOUSE, 85 MARCONI BLVD, COLUMBUS, OHIO"
+        },
+        {
+          "date": "2022-06-03",
+          "value": 313000.0,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "DELIVERY AND INSTALLATION OF A TRANE 200 TON AIR-COOLED WATER CHILLER FOR BUILDING 58, VA ILLIANA HEALTH CARE SYSTEM, DANVILLE, ILLINOIS."
+        },
+        {
+          "date": "2019-08-06",
+          "value": 304262.09,
+          "state": "NE",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "ELECTRIC TRANE CHILLER MAINTENANCE SERVICES AT VA NEBRASKA-WESTERN IOWA HEALTH CARE SYSTEM LOCATED IN OMAHA"
+        }
+      ],
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Field Service Representative",
-          "state": "TX",
+          "title": "Controls Account Manager",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Controls Algorithm Engineering Intern",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Service Administrator Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Electrical Engineer I",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Senior Services Account Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Technician-Support",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Systems Sales Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Quality Technician II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC/Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Regional Service Operations Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "FPA Manager, Data Centers",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Service Dispatcher",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Lead System Engineer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Maintenance Technician 2nd Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Service Controls Technician",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Turnkey Install Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Controls Technician - Brea, CA",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Data Center/Chiller Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
           "title": "HVAC Controls Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Applied Chiller Technician",
-          "state": "IL",
+          "title": "Manager, Engineering Lab Systems & Facilities",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "HVAC Technician",
+          "title": "Sr. HVAC Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Store Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Data Center/Chiller Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Data Center Technician Team Lead",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Service Controls Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Associate Embedded SW Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Systems Sales Leader",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Electrical Manufacturing Technician",
-          "state": "TX",
+          "title": "FPA Manager, Data Centers",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Electrician",
-          "state": "TX",
+          "title": "Regional Service Operations Project Manager",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Indirect Buyer",
-          "state": "TX",
+          "title": "Regional Service Operations Project Manager",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "Metal Paneling Fitter",
-          "state": "TX",
+          "title": "Systems Sales Leader",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-24"
         },
         {
-          "title": "1st Class Pipe Fitter",
-          "state": "TX",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-22"
+          "title": "Electrical Engineer I",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Service Administrator Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "FPA Manager, Data Centers",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Lead System Engineer",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Software Engineer Intern",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Controls Algorithm Engineering Intern",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Maintenance Technician (3rd Shift)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Quality Technician II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Regional Service Operations Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "HVAC Service Dispatcher",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
         }
       ],
       "patents": [],
@@ -553,7 +532,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Ameresco",
@@ -601,18 +609,25 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Plant Operator",
-          "state": "NY",
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Marketing Co-op",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-23"
         },
         {
-          "title": "Senior Account Executive",
-          "state": "",
+          "title": "Plant Operator",
+          "state": "NY",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-23"
         },
         {
           "title": "Solar Electrician",
@@ -670,13 +685,6 @@
           "postedDate": "2026-09-17"
         },
         {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-17"
-        },
-        {
           "title": "Regional Safety Manager - Western US",
           "state": "",
           "segment": "Schools",
@@ -686,13 +694,6 @@
             "University"
           ],
           "postedDate": "2026-09-17"
-        },
-        {
-          "title": "Senior Controls System Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-16"
         },
         {
           "title": "Senior Director, Business Development",
@@ -858,6 +859,17 @@
             "University"
           ],
           "postedDate": "2026-09-04"
+        },
+        {
+          "title": "Operations Manager - Medium Voltage",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-04"
         }
       ],
       "patents": [],
@@ -874,7 +886,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Schneider Electric",
@@ -893,52 +934,78 @@
           "state": "MA"
         }
       ],
-      "contractAwards": [],
-      "activeBids": [],
-      "jobPostings": [
+      "contractAwards": [
         {
-          "title": "ASCO Area Sales Manager - Southwest",
+          "date": "2015-09-30",
+          "value": 11233143.18,
+          "state": "MA",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "IGF::CL::IGF VETERANS INTEGRATED SERVICE NETWORK 1, ENERGY SAVINGS PERFORMANCE CONTRACT FOR VA BOSTON HEALTHCARE SYSTEM LOCATIONS (JAMAICA P"
+        },
+        {
+          "date": "2016-09-23",
+          "value": 4893821.0,
+          "state": "NY",
+          "segment": "Municipal",
+          "agency": "General Services Administration",
+          "description": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT.  INVOLVES THE INSTALLATION AND LONG TERM MEASUREMENTS AND VERIFICATION OF ENERGY CONSERVAT"
+        },
+        {
+          "date": "2025-08-04",
+          "value": 312272.0,
           "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PUGET SOUND VA MEDICAL CENTER - AMERICAN LAKE CAMPUS, TACOMA, WASHINGTON - BUILDING MANAGEMENT SYSTEM (BMS) SOTWARE CONVERSION AND UPGRADE."
         },
         {
-          "title": "Digital Sales Specialist - Ohio Valley",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Manager II",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "2027 Solution Sales Development Program- South",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Field Service Representative - Cooling/HVAC",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
+          "date": "2023-10-01",
+          "value": 165432.88,
+          "state": "NC",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "PREVENTATIVE MAINTENANCE AGREEMENT TO SUPPORT THE ANDOVER DIGITAL CONTROL SYSTEM (HVAC AND ELECTRONIC ACCESS CONTROLS) USED IN THE SALISBURY"
         }
       ],
+      "activeBids": [],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Siemens Smart Infrastructure",
@@ -1098,13 +1165,90 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Mechanical Commodity Manager",
+          "title": "Building Automation Systems Specialist",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Jr. Project Manager for Manufacturing",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Plant Controller",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Procurement Project Manager, Electrical Products",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Sales Account Manager-Vertical Sales, Discrete Mid-Market",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Application Support Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Application Support Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Operation Project Manager - Manufacturing",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Application Support Engineer",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Plasma Sales Specialist - MI, OH, WV, KY, W. TN, W. AL",
+          "state": "OH",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-09-23"
+          "postedDate": "2026-09-24"
         }
       ],
       "patents": [],
@@ -1113,7 +1257,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Cenergistic",
@@ -1213,7 +1386,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Willdan Group",
@@ -1236,6 +1438,75 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Administrative Assistant I",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Cloud Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Business Development Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Cloud Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Business Development Manager",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Administrative Assistant I",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Senior Combination Building Inspector",
+          "state": "AZ",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Business Development Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Business Development Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
           "title": "Assistant Construction Manager",
           "state": "CA",
           "segment": "Other",
@@ -1243,12 +1514,17 @@
           "postedDate": "2026-09-21"
         },
         {
-          "title": "Project Accountant I",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
+          "title": "Cash Application Specialist",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-19"
+        },
+        {
+          "title": "Senior Director, Benefits and Total Rewards",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-09-19"
         },
         {
@@ -1297,52 +1573,6 @@
             "Municipal"
           ],
           "postedDate": "2026-09-13"
-        },
-        {
-          "title": "Quality Verification Specialist",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-06"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-02"
-        },
-        {
-          "title": "Education & Workforce Development Lead",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-09-01"
-        },
-        {
-          "title": "Permit Technician",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-01"
-        },
-        {
-          "title": "Outreach Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-28"
-        },
-        {
-          "title": "Business Development Coordinator",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-08-23"
         }
       ],
       "patents": [],
@@ -1351,7 +1581,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Energy Systems Group",
@@ -1382,7 +1641,15 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Appliance Repair Technician",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1397,7 +1664,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "NORESCO",
@@ -1413,56 +1709,7 @@
           "state": "MA"
         }
       ],
-      "contractAwards": [
-        {
-          "date": "2014-01-01",
-          "value": 53732102.82,
-          "state": "IL",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "IGF::OT::IGF DE-AM36-09G0229039/GS-P-05-14-GA-0004,GSA NATIONAL DEEP ENERGY RETROFIT (NDER), ENERGY SAVINGS PERFORMANCE CONTRACT (ESPC) TASK"
-        },
-        {
-          "date": "2008-02-28",
-          "value": 29525089.26,
-          "state": "MD",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "ENGINEERING (ENGINEERING)"
-        },
-        {
-          "date": "2012-04-09",
-          "value": 25320208.22,
-          "state": "CA",
-          "segment": "Healthcare",
-          "agency": "Department of Veterans Affairs",
-          "description": "IGF::OT::IGF OTHER FUNCTIONS - ENERGY SAVINGS PERFORMANCE CONTRACT FOR VISN 22 FACILITIES: WEST LOS ANGELES MEDICAL CENTER, SEPULVEDA AMBULA"
-        },
-        {
-          "date": "2015-09-24",
-          "value": 19859267.72,
-          "state": "TX",
-          "segment": "Healthcare",
-          "agency": "Department of Veterans Affairs",
-          "description": "IGF::CL::IGF VETERANS INTEGRATED SERVICE NETWORK 18, ENERGY SAVINGS PERFORMANCE CONTRACT FOR EL PASO, TEXAS VETERANS AFFAIRS MEDICAL CENTER "
-        },
-        {
-          "date": "2013-12-20",
-          "value": 17751822.99,
-          "state": "MD",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "IGF::OT::IGF INFRASTRUCTURE UPGRADES AT THE NIH BETHESDA CAMPUS, POOLESVILLE CAMPUS, RESEARCH TRIANGLE PARK, AND ROCKY MOUNTAIN LABORATORIES"
-        },
-        {
-          "date": "2023-07-01",
-          "value": 12326965.0,
-          "state": "IL",
-          "segment": "Municipal",
-          "agency": "General Services Administration",
-          "description": "ENERGY SAVINGS PERFORMANCE CONTRACT  DIRKSEN FEDERAL COURTHOUSE AND 5 OTHER LOCATIONS, CHICAGO, IL  FOR ADMINISTRATIVE PURPOSES TO CHANGE TH"
-        }
-      ],
+      "contractAwards": [],
       "activeBids": [],
       "jobPostings": [],
       "patents": [],
@@ -1481,19 +1728,41 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbD",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbDBZRkJzQWJIaEVTSDhKb3F3?oc=5",
           "published": "Thu, 30 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Carrier Announces Agreement to Sell NORESCO to OPTERRA Energy Services - PR Newswire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0U2VjZPb2cwdWE4b1ZOQmc0NUEwQnEteWZLanNrdW5INjdOMmhPeV9OaVBJd05RUF9Fbk1RekU1dHFtRk9qejJGbG5jOGRnR2NZd3ZKcC10MVJiVkxQTlIzOFFmSUVmbFNKT3h3a21SUjdiQXgtZzBuT014bGVvcnByQ0V2LUZ4Z2Y5ZWo5c1BWbWFOTUc5eTUyWE5rdWJuSnB1QVdZWW43YTdZb3hzVkx4STdpNHBjbX",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0U2VjZPb2cwdWE4b1ZOQmc0NUEwQnEteWZLanNrdW5INjdOMmhPeV9OaVBJd05RUF9Fbk1RekU1dHFtRk9qejJGbG5jOGRnR2NZd3ZKcC10MVJiVkxQTlIzOFFmSUVmbFNKT3h3a21SUjdiQXgtZzBuT014bGVvcnByQ0V2LUZ4Z2Y5ZWo5c1BWbWFOTUc5eTUyWE5rdWJuSnB1QVdZWW43YTdZb3hzVkx4STdpNHBjbXI5cW9wdGJTOTlj?oc=5",
-          "published": "Mon, 27 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "EMCOR Group",
@@ -1526,46 +1795,6 @@
           "description": "THIS TASK ORDER IS FOR COMPLETE FACILITIES MAINTENANCE (CFM) AT NATIONAL ARCHIVES I, WASHINGTON, DC AND ARCHIVES II, COLLEGE PARK, MD FACILI"
         },
         {
-          "date": "2021-03-01",
-          "value": 24024569.77,
-          "state": "MD",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "COMPLETE FACILITIES MANAGEMENT - HUBERT H. HUMPHREY BUILDING COMPLEX"
-        },
-        {
-          "date": "2019-11-01",
-          "value": 23781323.76,
-          "state": "DC",
-          "segment": "University",
-          "agency": "General Services Administration",
-          "description": "PROJECT AND LOCATION - BLANKET PURCHASE AGREEMENT (BPA) CALL TO AWARD BASE PERIOD OF PERFORMANCE NOVEMBER 1, 2019 - OCTOBER 31, 2020. FACILI"
-        },
-        {
-          "date": "2020-01-15",
-          "value": 16834026.89,
-          "state": "TX",
-          "segment": "Healthcare",
-          "agency": "Department of Defense",
-          "description": "FORT BLISS REPLACEMENT HOSPITAL NTO AWARD FOR O&M SERVICES"
-        },
-        {
-          "date": "2020-02-05",
-          "value": 13046973.6,
-          "state": "TX",
-          "segment": "Healthcare",
-          "agency": "Department of Defense",
-          "description": "WILLIAM BEAUMONT ARMY MEDICAL CENTER, FORT BLISS, TX NTO AWARD"
-        },
-        {
-          "date": "2023-11-01",
-          "value": 12780822.48,
-          "state": "DC",
-          "segment": "University",
-          "agency": "General Services Administration",
-          "description": "RE-ESTABLISHED BLANKET PURCHASE AGREEMENT (BPA) CALL TO AWARD OPTION PERIOD 4 OF PERFORMANCE NOVEMBER 1, 2023 - OCTOBER 31, 2024 FOR THE FAC"
-        },
-        {
           "date": "2020-11-01",
           "value": 7657656.51,
           "state": "DC",
@@ -1574,56 +1803,263 @@
           "description": "ST. ELIZABETHS WEST CAMPUS, WASHINGTON, DC. BLANKET PURCHASE AGREEMENT (BPA), FACILITIES ENGINEERING, OPERATIONS AND MAINTENANCE SERVICE SIT"
         },
         {
-          "date": "2025-11-01",
-          "value": 6788810.28,
-          "state": "DC",
-          "segment": "University",
-          "agency": "General Services Administration",
-          "description": "PROJECT AND LOCATIONS - OPERATIONS AND MAINTENANCE SERVICES, ST ELIZABETHS WEST CAMPUS, EXERCISE OF OPTION PERIOD VI 11/1/2025 - 10/31/2026"
-        },
-        {
-          "date": "2021-05-01",
-          "value": 1552239.0,
-          "state": "IN",
-          "segment": "University",
-          "agency": "Department of Veterans Affairs",
-          "description": "BMS, HVAC, TAP MAINTENANCE FOR THE NIHCS FORT WAYNE AND MARION CAMPUSES."
-        },
-        {
-          "date": "2023-07-21",
-          "value": 1199150.22,
-          "state": "DC",
-          "segment": "University",
-          "agency": "General Services Administration",
-          "description": "DC1472SE-CAMPUS TRI-ANNUAL SWITCHGEAR PMS AT THE ST ELIZABETH WEST CAMPUS LOCATED 2701 MLK AVE, SE WASH, DC 20032."
-        },
-        {
-          "date": "2019-11-01",
-          "value": 1130456.64,
-          "state": "DC",
-          "segment": "University",
-          "agency": "General Services Administration",
-          "description": "PROJECT AND LOCATION: FACILITIES ENGINEERING OPERATIONS AND MAINTENANCE, ST. ELIZABETHS WEST CAMPUS, WASHINGTON, DC. TASK ORDER TO AWARD ADD"
-        },
-        {
-          "date": "2023-09-11",
-          "value": 1044591.39,
-          "state": "DC",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "EMC 074 SWITZER AUDIO VISUAL UPGRADES"
-        },
-        {
-          "date": "2016-09-21",
-          "value": 908978.38,
+          "date": "2026-10-01",
+          "value": 912424.04,
           "state": "MD",
-          "segment": "Healthcare",
-          "agency": "Department of Health and Human Services",
-          "description": "IGF::OT::IGF EGS-158 OCR 5TH FLOOR RENOVATION"
+          "segment": "University",
+          "agency": "Department of Commerce",
+          "description": "O&M SERVICES, FIRST CLASS STATIONARY ENGINEERS. NIST CAMPUS LOCATED IN GAITHERSBURG, MARYLAND."
+        },
+        {
+          "date": "2025-03-14",
+          "value": 244853.2,
+          "state": "VA",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BARRIER BOLLARD REPAIR AT ST ELIZABETHS WEST CAMPUS"
+        },
+        {
+          "date": "2025-08-02",
+          "value": 202942.22,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "THIS REQUIREMENT IS FOR AN EMERGENCY RESPONSE AND REPAIR OF A BROKEN HOT WATER LINE UNDERGROUND AT ST. ELIZABETH CAMPUS."
+        },
+        {
+          "date": "2026-06-02",
+          "value": 143924.0,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "PREPARE ARC FLASH & COORDINATION STUDY AT ST E CAMPUS."
+        },
+        {
+          "date": "2026-07-27",
+          "value": 125000.0,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BPA CALL FOR EMERGENCY BOILER REPAIRS AT THE CENTRAL UTILITY PLANT (DC0240SE), ST. ELIZABETHS WEST CAMPUS."
+        },
+        {
+          "date": "2026-06-25",
+          "value": 120549.0,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "EMERGENCY BARRIERS REPAIRS AND OIL SPILL CLEAN UP AT ST ELIZABETHS CAMPUS IN WASHINGTON, DC."
+        },
+        {
+          "date": "2026-08-28",
+          "value": 96975.84,
+          "state": "MD",
+          "segment": "University",
+          "agency": "National Archives and Records Administration",
+          "description": "AHU-41 AND AHU-48 AT ARCHIVES II - REPLACE DEFECTIVE STEAM HEATING COILS AT COLLEGE PARK, MD, UNDER EMCOR ADDITIONAL SERVICES CONTRACT 47QSH"
+        },
+        {
+          "date": "2026-06-01",
+          "value": 83726.04,
+          "state": "DC",
+          "segment": "Schools",
+          "agency": "General Services Administration",
+          "description": "BPA CALL TO EXERCISE OPTION FOR AFTER HOURS ENGINEER SUPPORT AT LBJ DEPT OF EDUCATION BUILDING IN WASHINGTON, DC"
+        },
+        {
+          "date": "2026-06-30",
+          "value": 68442.79,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BPA CALL TO REPLACE PLATES AND GASKETS ON TWO (2) EXISTING HEAT EXCHANGERS LOCATED IN THE WEST ADDITION AT ST. ELIZABETHS CAMPUS."
         }
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Commercial Maintenance Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Lead Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Gaston Electrical Co., LLC",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Newcomb and Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "EMCOR Group, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Lyons Electric Company",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Trautman & Shreve, Inc.",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Gaston Electrical Co., LLC",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Sr. Superintendent - Rigging",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Ardent Services, LLC",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
+        {
+          "title": "Aircond Corporation",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
         {
           "title": "Aircond Corporation",
           "state": "",
@@ -1632,7 +2068,7 @@
           "postedDate": "2026-09-23"
         },
         {
-          "title": "Ardent Services, LLC",
+          "title": "Southern Industrial Constructors, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -1658,195 +2094,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Aircond Corporation",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Services Integrated Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "VA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "IL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "VA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Fire Protection Inspector",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Administrative Assistant - DOT",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Maintenance Technician",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Building Automation Services (BAS) Estimator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "BAS Sales Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "BAS Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "HVAC Technician II",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "EMCOR Services MSI-Certified Air Contractors",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "EMCOR Services Integrated Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
         }
       ],
       "patents": [],
@@ -1863,7 +2110,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Ideal Impact",
@@ -1894,7 +2170,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "ENGIE Services US",
@@ -1923,7 +2228,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Bernhard",
@@ -1988,7 +2322,36 @@
       ],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "CMTA",
@@ -2008,9 +2371,54 @@
           "state": "TX"
         }
       ],
-      "contractAwards": [],
+      "contractAwards": [
+        {
+          "date": "2019-12-12",
+          "value": 113132.3,
+          "state": "IL",
+          "segment": "Healthcare",
+          "agency": "Department of Veterans Affairs",
+          "description": "550-20-126, \"REPLACE GENERATOR B58\", AT THE VA ILLIANA HEALTH CARE SYSTEMS, DANVILLE, IL."
+        },
+        {
+          "date": "2019-12-12",
+          "value": 106832.44,
+          "state": "IL",
+          "segment": "University",
+          "agency": "Department of Veterans Affairs",
+          "description": "550-20-103 (AE) CONSTRUCT CAMPUS WATER SOFTENING PLANT"
+        }
+      ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Technology Designer - Physical Security",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
+        },
         {
           "title": "Senior Electrical Engineer",
           "state": "NJ",
@@ -2019,8 +2427,8 @@
           "postedDate": "2026-09-23"
         },
         {
-          "title": "Solar Energy Engineer - Energy Solutions",
-          "state": "",
+          "title": "Senior Mechanical Engineer",
+          "state": "IL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-23"
@@ -2031,34 +2439,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
         },
         {
           "title": "Senior Solar Energy Engineer - Energy Solutions",
@@ -2111,14 +2491,14 @@
         },
         {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-20"
         },
         {
           "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "VA",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-20"
@@ -2152,43 +2532,8 @@
           "postedDate": "2026-09-19"
         },
         {
-          "title": "Electrical Engineer Intern/Co-op Spring 2027 (multiple locations)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-18"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-18"
-        },
-        {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-18"
-        },
-        {
-          "title": "Construction Manager - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-18"
-        },
-        {
-          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-18"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Spring 2027",
-          "state": "",
+          "title": "Senior Commissioning Specialist",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-18"
@@ -2196,19 +2541,40 @@
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Co-op broadens horizons for architectural engineer - University of Cincinnati",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVRlTExnLVpUTTRuY2tRbkI3VXNCYjBRUHA5cDM5RWJNYkpHMmtUT1VCZXZHWGlEN2N0S0dfZ0hpS0I3SUV1TUtzUS0wWUthWXlBT1pXMF9ibF9aZExIVjVoVjZyQVVUZE10Mjl2aVZtMDNpMkJmaXhtWWtxdUNSOE90TzJ0bndSaVVZMVFoczNsaWF6WUN5REMzMFhlRGtoMjBF?oc=5\" target=\"_blank\">Co-op b",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVRlTExnLVpUTTRuY2tRbkI3VXNCYjBRUHA5cDM5RWJNYkpHMmtUT1VCZXZHWGlEN2N0S0dfZ0hpS0I3SUV1TUtzUS0wWUthWXlBT1pXMF9ibF9aZExIVjVoVjZyQVVUZE10Mjl2aVZtMDNpMkJmaXhtWWtxdUNSOE90TzJ0bndSaVVZMVFoczNsaWF6WUN5REMzMFhlRGtoMjBF?oc=5",
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Southland Industries",
@@ -2230,6 +2596,22 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "QA/QC Professional- Quality Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Project Engineer II",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-23"
+        },
         {
           "title": "Talent Acquisition Partner",
           "state": "CA",
@@ -2425,20 +2807,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Detailer III",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
         }
       ],
       "patents": [],
@@ -2455,7 +2823,36 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-66829",
+          "title": "NC State to study adoption of upgraded construction helmets",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
+          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-48970",
+          "title": "Mortenson: Mass timber use shaved $2M in costs from college build",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
+          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     }
   ]
 }
