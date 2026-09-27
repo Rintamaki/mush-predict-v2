@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,17 +96,7 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Fire Construction Manager",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Fire Sprinkler Systems Apprentice",
+          "title": "Security Installer",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -114,28 +104,42 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "System Integrity Sales Associate",
+          "title": "Fire Suppression Service Technician",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Truck Based Service Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "HVAC Truck Based Tradesmen (union)",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-26"
+          "title": "Fire Suppression Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Fire Service Techncian",
+          "title": "Project Coordinator & Document Controller",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Fire Sprinkler Apprentice",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -143,62 +147,52 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Security Systems Installer",
+          "title": "Fire Alarm Inspector",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Account Executive, Complex Security & Fire",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-26"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Building Automation Integration Engineer | Building Automation & Plant Optimization",
-          "state": "AZ",
-          "segment": "Schools",
+          "title": "Forklift/Order Picker",
+          "state": "TX",
+          "segment": "Healthcare",
           "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
+            "Healthcare"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Controls Systems Technician",
+          "title": "HVAC Controls Technician",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-26"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Fire Service Technician",
-          "state": "",
+          "title": "Project Coordinator",
+          "state": "WA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Controls Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         }
       ],
       "patents": [],
@@ -238,7 +232,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -252,7 +246,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -266,7 +260,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -375,6 +369,202 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Technical Sales Associate Development Program - Equipment",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Strategic Sales Executive - Energy Services",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Strategic Sales Executive - Energy Services",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Material Planner",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Strategic Sales Executive - Energy Services",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Technical Sales Associate Development Program - Equipment",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Material Planner",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Strategic Sales Executive - Energy Services",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Strategic Sales Executive - Energy Services",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Systems Account Manager",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Digital Services Area Service Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Service Technician Helper",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Systems Account Manager",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Designer III",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Service Technician Helper",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Designer 1",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Digital Services Area Service Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "HVAC Apprentice Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Manufacturing Engineering Operations Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "HVAC Technician Support Helper",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Digital Services Area Service Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Warehouse Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
           "title": "Rental HVAC Field Technician Helper",
           "state": "AZ",
           "segment": "Other",
@@ -384,202 +574,6 @@
         {
           "title": "Chiller Technician",
           "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Senior HVAC/Chiller Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Service Technician Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Sr. Field Service Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Senior HVAC/Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Service Technician Apprentice",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Talent Acquisition Partner",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Sr. HVAC Service Field Technician - Fenton, MO",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Senior Data Engineer",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Data Center Technician Team Lead",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Logistics Coordinator",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "HVAC Technician -Ashland, VA",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Sr. Controls Technician -Towson, MD",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Install Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Install Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Core Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Sr. HVAC Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Client Service Representative I- Charlotte, NC",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Executive Project Manager - Data Centers",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Preconstruction leader",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Logistics Coordinator",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Talent Acquisition Partner",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Services Operations Leader",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Preconstruction leader",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Controls Product Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Product Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Rental Shop Helper",
-          "state": "IL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
@@ -593,7 +587,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -607,7 +601,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -621,7 +615,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -681,6 +675,27 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Site Origination Analyst - Solar and BESS",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Mechanic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
         {
           "title": "Project Manager - Facility Condition Assessments & Capital Planning",
           "state": "",
@@ -758,13 +773,6 @@
           "postedDate": "2026-09-18"
         },
         {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-18"
-        },
-        {
           "title": "Human Resources Co-op",
           "state": "MA",
           "segment": "Schools",
@@ -773,6 +781,13 @@
             "Healthcare",
             "University"
           ],
+          "postedDate": "2026-09-17"
+        },
+        {
+          "title": "Construction Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-09-17"
         },
         {
@@ -787,12 +802,10 @@
           "postedDate": "2026-09-17"
         },
         {
-          "title": "HVAC Controls Service Technician",
-          "state": "FL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
+          "title": "Senior Controls System Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-09-16"
         },
         {
@@ -904,39 +917,6 @@
             "University"
           ],
           "postedDate": "2026-09-10"
-        },
-        {
-          "title": "Fuel Yard Operator - Federal Operations and Maintenance",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-10"
-        },
-        {
-          "title": "Facilities Manager - Boiler and Chiller Plant",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-05"
-        },
-        {
-          "title": "Regional Safety Manager - Southeast",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-05"
         }
       ],
       "patents": [],
@@ -947,7 +927,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -961,7 +941,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -975,7 +955,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1044,21 +1024,37 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Electrical Engineer Co-Op",
-          "state": "OH",
+          "title": "Smart Factory Improvement Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Global Supplier Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Healthcare Strategic Account Executive",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Upstream Planning Manager",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Client Services Rotational Intern",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Retirement Plans Specialist",
+          "title": "Field Service Technician",
           "state": "TX",
           "segment": "Other",
           "tags": [],
@@ -1073,7 +1069,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1087,7 +1083,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1101,7 +1097,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1274,24 +1270,144 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "MR Collaborations Scientist",
-          "state": "",
-          "segment": "Healthcare",
+          "title": "Key Account Manager (Procter & Gamble)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Solutions Architect - ICX",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Solutions Architect - ICX",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Integrated Product Team Lead-Gas Turbines",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Production Order Manager",
+          "state": "NC",
+          "segment": "Municipal",
           "tags": [
-            "Healthcare"
+            "Municipal"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Manufacturing Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Financial Analyst",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Contract Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Project Engineer - Nuclear Uprate",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Komax Machine Operator- 3rd shift",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Factory Controller",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Use Case Lead - PLM Transformation",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Energy Developer Solutions Intern",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Utility Sales & Marketing Development Program",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Solutions Architect - ICX",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Smart Buildings Technical Sales Intern",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Lead Technician",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "South-Korea Building Automation System Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWxSdTRjdEY2WlRKNnVkZjNVcEdBSXZjR1BJVWtXWjZfM1ZuNEpoa3QxUmdfTkxnUkVtVUVfbWswZTBoQm90OXNsYzJZZFVONlZJU0ROVVgxVTBqd0NmUm8wNnVkMXlOeEhwMmdWV3VMN18ycDhjTldvdUx5cUdGNkJsVXhodmxxb2xkWFEtc1hoYnp6LVpfUnJsbHV3LTljaE5WNVRhbWU4RkNEY0NmdXNoOA?oc=5\" t",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWxSdTRjdEY2WlRKNnVkZjNVcEdBSXZjR1BJVWtXWjZfM1ZuNEpoa3QxUmdfTkxnUkVtVUVfbWswZTBoQm90OXNsYzJZZFVONlZJU0ROVVgxVTBqd0NmUm8wNnVkMXlOeEhwMmdWV3VMN18ycDhjTldvdUx5cUdGNkJsVXhodmxxb2xkWFEtc1hoYnp6LVpfUnJsbHV3LTljaE5WNVRhbWU4RkNEY0NmdXNoOA?oc=5",
+          "published": "Fri, 28 Aug 2026 17:06:45 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1305,7 +1421,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1319,7 +1435,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1352,13 +1468,13 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Client manager",
+          "title": "Energy SpecialistDenton, TX",
           "state": "TX",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-08-21"
+          "postedDate": "2026-08-18"
         },
         {
           "title": "Energy Specialist - Grand Rapids, MI",
@@ -1424,7 +1540,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1438,7 +1554,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1452,7 +1568,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1502,13 +1618,6 @@
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Verification Aide",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-25"
-        },
-        {
           "title": "Service Install Administrator",
           "state": "CA",
           "segment": "Other",
@@ -1539,13 +1648,6 @@
           "postedDate": "2026-09-24"
         },
         {
-          "title": "Business Development Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
           "title": "Cash Application Specialist",
           "state": "CA",
           "segment": "Other",
@@ -1567,6 +1669,26 @@
             "Municipal"
           ],
           "postedDate": "2026-09-18"
+        },
+        {
+          "title": "Senior Traffic Engineer",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-16"
+        },
+        {
+          "title": "Director of Design Engineering",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-16"
         }
       ],
       "patents": [],
@@ -1577,7 +1699,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1591,7 +1713,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1605,7 +1727,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1666,7 +1788,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1680,7 +1802,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1694,7 +1816,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1798,7 +1920,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1812,7 +1934,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1826,7 +1948,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1963,220 +2085,222 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
+          "title": "MOR PPM, Inc.",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Gaston Electrical Co., LLC",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "The Fagan Company",
+          "title": "CCI Mechanical, Inc.",
           "state": "",
           "segment": "Healthcare",
           "tags": [
-            "Healthcare",
-            "University"
+            "Healthcare"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Morley-Moss Inc.",
-          "state": "TX",
+          "title": "MOR PPM, Inc.",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Dynalectric Company",
+          "title": "Leader Buyer- Equipment",
           "state": "VA",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "eTEC Fire Protection, LLC",
+          "title": "Office Manager/Assistant Project Manager",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Welsbach Electric Corp.",
+          "title": "Fire Sprinkler Layout Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Electrical Project Engineer",
           "state": "NY",
           "segment": "Municipal",
           "tags": [
             "Municipal"
           ],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Native Energy Solutions",
-          "state": "",
+          "title": "Superintendent - Mechanical",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Facilities Coordinator",
-          "state": "VA",
+          "title": "Electrician (RAL NOVO JW)",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Senior Project Associate",
-          "state": "VA",
+          "title": "Superintendent - Electrical",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Regional Coordinator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Building Management Systems (BMS) Controls Sales Estimator",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
           "title": "Construction Project Engineer",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Onsite Water Solutions Lead/Foreman",
-          "state": "NC",
+          "title": "Warehouse Driver",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "QA / QC Specialist",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Millwright Foreman (GB TOY RB)",
-          "state": "NC",
+          "title": "Construction Traveling General Foreman",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Residential Sales Representative - Wilmington",
-          "state": "NC",
+          "title": "Traveling General Foreman",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Commercial HVAC Maintenance Technician",
-          "state": "NC",
+          "title": "Traveling Senior Project Manager - Mechanical MEP",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Electrical Foreman (GBORO RB)",
-          "state": "NC",
+          "title": "Senior VDC / BIM Specialist - Remote",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Residential HVAC Service Technician",
-          "state": "NC",
+          "title": "Traveling Superintendent",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Warehouse Receiving Associate",
-          "state": "NC",
+          "title": "HVAC Controls Solutions Engineer",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Talent Sourcing Specialist",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Onsite Water Solutions Lead/Foreman",
+          "title": "Superintendent",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Project Manager/Estimator",
-          "state": "IL",
+          "title": "Business Development- HVAC Service",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Project Manager Trainee",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Fire Sprinkler Layout Technician",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Project Manager Trainee",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HSE Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Engineering Intern",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Onsite Water Solutions Lead/Foreman",
-          "state": "",
+          "title": "Mfg. Maintenance Tech II/III",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Project Manager (Electrical Construction)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Painter",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
@@ -2198,7 +2322,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2212,7 +2336,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2226,7 +2350,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2272,7 +2396,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2286,7 +2410,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2300,7 +2424,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2344,7 +2468,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2358,7 +2482,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2372,7 +2496,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2452,7 +2576,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2466,7 +2590,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2480,7 +2604,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2534,14 +2658,17 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
+          "title": "Senior BIM Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Electrical Engineer",
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2562,23 +2689,6 @@
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Lighting Designer",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-25"
-        },
-        {
-          "title": "Technology Designer - Physical Security",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-25"
-        },
-        {
           "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
           "state": "MA",
           "segment": "Other",
@@ -2586,7 +2696,7 @@
           "postedDate": "2026-09-25"
         },
         {
-          "title": "Mechanical Engineer Intern/Co-op Summer 2027",
+          "title": "Drafting Intern Summer 2027",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2595,13 +2705,6 @@
         {
           "title": "Construction Site Superintendent - CMTA Energy Solutions",
           "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-24"
-        },
-        {
-          "title": "Technology Designer - Physical Security",
-          "state": "IL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-24"
@@ -2649,11 +2752,11 @@
           "postedDate": "2026-09-23"
         },
         {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "",
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-22"
+          "postedDate": "2026-09-21"
         },
         {
           "title": "Senior Solar Energy Engineer - Energy Solutions",
@@ -2698,18 +2801,46 @@
           "postedDate": "2026-09-20"
         },
         {
-          "title": "Mechanical Engineer Intern/Co-op Spring 2027",
-          "state": "MA",
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-20"
         },
         {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
+          "title": "Senior Solar Energy Engineer - Energy Solutions",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-20"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-19"
+        },
+        {
+          "title": "Senior Construction Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-19"
+        },
+        {
+          "title": "Construction Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-19"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Summer 2027",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-19"
         }
       ],
       "patents": [],
@@ -2728,7 +2859,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2742,7 +2873,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2756,7 +2887,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2792,6 +2923,20 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Finance Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Project Manager - Special Projects",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
           "title": "Co-Op (Fall Semester 2026 - Spring Semester 2027) - Project Engineer",
           "state": "VA",
           "segment": "University",
@@ -2814,6 +2959,15 @@
           "state": "VA",
           "segment": "Other",
           "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Co-Op (Fall Semester 2025 - Spring Semester 2026) - Safety",
+          "state": "VA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
           "postedDate": "2026-09-26"
         },
         {
@@ -2990,27 +3144,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Senior Purchasing Agent",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Administrator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Detailer, Lead",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
         }
       ],
       "patents": [],
@@ -3018,7 +3151,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - Contractor Magazine",
+          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - contractormag.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRm",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRmlVcEpEeENtUEFtSEd1el9JZzQ?oc=5",
           "published": "Tue, 22 Sep 2026 18:36:49 GMT"
@@ -3036,7 +3169,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-81917",
+          "id": "construction-48794",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3050,7 +3183,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-23522",
+          "id": "construction-16719",
           "title": "NC State to study adoption of upgraded construction helmets",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3064,7 +3197,7 @@
           "segment": "University"
         },
         {
-          "id": "construction-79311",
+          "id": "construction-68469",
           "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
           "agency": "Construction Dive",
           "type": "Construction Project",
