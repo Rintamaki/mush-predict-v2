@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-09-28",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,7 +96,82 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Security Installer",
+          "title": "Fire Suppression Shop Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Building Controls Systems Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Controls Systems Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Construction Project Manager-Fire",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Technical Suppot Engineer 4",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Life Safety Electronic Systems Sales Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Painter",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Electrician Apprentice",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "New PSA Service Sales Representative 3",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -107,8 +182,8 @@
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Fire Suppression Service Technician",
-          "state": "CA",
+          "title": "Life Safety Service Sales Rep, Sprinkler",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -118,28 +193,25 @@
           "postedDate": "2026-09-27"
         },
         {
-          "title": "HVAC Truck Based Service Manager",
-          "state": "",
+          "title": "Energy Solutions Development Engineer & Inflation Reduction Act Program Manager",
+          "state": "WI",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Fire Suppression Technician",
+          "title": "Fire Detection Service Technician",
           "state": "",
-          "segment": "Other",
-          "tags": [],
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Project Coordinator & Document Controller",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Fire Sprinkler Apprentice",
+          "title": "Life Safety Service Sales Rep, Sprinkler",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -151,7 +223,7 @@
         },
         {
           "title": "Fire Alarm Inspector",
-          "state": "NC",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -161,31 +233,8 @@
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Account Executive, Complex Security & Fire",
+          "title": "Security Installer",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Forklift/Order Picker",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "WA",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -232,7 +281,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -244,34 +293,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -369,53 +390,172 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Technical Sales Associate Development Program - Equipment",
-          "state": "PA",
+          "title": "Core Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Project Administrator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
           "title": "Strategic Sales Executive - Energy Services",
-          "state": "OH",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Technician Apprentice",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Technician-Support",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
         },
         {
           "title": "Strategic Sales Executive - Energy Services",
-          "state": "OH",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Material Planner",
-          "state": "NC",
+          "title": "HVAC Apprentice Technician",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Strategic Sales Executive - Energy Services",
-          "state": "PA",
+          "title": "HVAC Technician Support Helper",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Technical Sales Associate Development Program - Equipment",
-          "state": "PA",
+          "title": "HVAC Service Technician",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Service Technician Helper",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Field Service Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Controls Project Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC/Controls Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Automation and Controls Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Service Project Administrator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Area General Manager Supply",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Warehouse Technician",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Service Project Administrator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Area Service Leader-HVAC",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Controls Technician - Brea, CA",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Regional Data Center Project Administrator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Energy Services Sr. Project Developer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Energy Services Sr. Project Developer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
         },
         {
           "title": "Material Planner",
@@ -425,7 +565,7 @@
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Strategic Sales Executive - Energy Services",
+          "title": "HVAC Service Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -439,144 +579,18 @@
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Strategic Sales Executive - Energy Services",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Systems Account Manager",
+          "title": "Energy Services Senior Project Manager",
           "state": "CO",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Digital Services Area Service Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Service Technician Helper",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Systems Account Manager",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Designer III",
+          "title": "Controls Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Apprentice Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Service Technician Helper",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Field Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Designer 1",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Digital Services Area Service Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "HVAC Apprentice Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Manufacturing Engineering Operations Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "HVAC Technician Support Helper",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "HVAC Field Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Digital Services Area Service Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Warehouse Coordinator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Rental HVAC Field Technician Helper",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Chiller Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
         }
       ],
       "patents": [],
@@ -587,7 +601,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -599,34 +613,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -675,6 +661,34 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Assistant Construction Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
         {
           "title": "Site Safety Manager",
           "state": "",
@@ -733,13 +747,6 @@
           "postedDate": "2026-09-25"
         },
         {
-          "title": "Senior Service Account Executive - Controls & Building Automation",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-24"
-        },
-        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Schools",
@@ -773,24 +780,6 @@
           "postedDate": "2026-09-18"
         },
         {
-          "title": "Human Resources Co-op",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-17"
-        },
-        {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-17"
-        },
-        {
           "title": "Regional Safety Manager - Western US",
           "state": "",
           "segment": "Schools",
@@ -800,13 +789,6 @@
             "University"
           ],
           "postedDate": "2026-09-17"
-        },
-        {
-          "title": "Senior Controls System Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-16"
         },
         {
           "title": "Senior Director, Business Development",
@@ -832,17 +814,6 @@
         },
         {
           "title": "Level 3 DDC Controls Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-13"
-        },
-        {
-          "title": "Contract Compliance Analyst",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -917,6 +888,17 @@
             "University"
           ],
           "postedDate": "2026-09-10"
+        },
+        {
+          "title": "Fuel Yard Operator - Federal Operations and Maintenance",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-10"
         }
       ],
       "patents": [],
@@ -927,7 +909,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -939,34 +921,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1024,41 +978,130 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Smart Factory Improvement Engineer",
+          "title": "Kanban Team Lead (1st Shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Customer Advocate Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Global Supplier Manager",
+          "title": "Manufacturing Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Healthcare Strategic Account Executive",
+          "title": "Territory Sales Engineer",
           "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Upstream Planning Manager",
+          "title": "Field Service Representative - Cooling/HVAC",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Senior Security Engineer",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
         },
         {
-          "title": "Field Service Technician",
-          "state": "TX",
+          "title": "Sr. Field Service Representative",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Manufacturing Engineer -(New Product Introduction)",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Receiving Team Lead (1st Shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Quality Test Technologist (2nd shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Team Lead - HBN Manufacturing Production (1st shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Field Service Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Team Lead - Maverick Manufacturing Production (Weekend shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Warehouse Associate",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Supervisor, Manufacturing Operations Management",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Team Lead \u2013 Manufacturing Production (2nd shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "BAS / BMS / Controls Engineer II",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Production Electrical Tester Technician (1st shift)",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
         }
       ],
       "patents": [],
@@ -1069,7 +1112,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1081,34 +1124,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1268,135 +1283,13 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Key Account Manager (Procter & Gamble)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Solutions Architect - ICX",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Solutions Architect - ICX",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Integrated Product Team Lead-Gas Turbines",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Production Order Manager",
-          "state": "NC",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Manufacturing Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Financial Analyst",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Contract Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Project Engineer - Nuclear Uprate",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Komax Machine Operator- 3rd shift",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Factory Controller",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Use Case Lead - PLM Transformation",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Energy Developer Solutions Intern",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Utility Sales & Marketing Development Program",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Solutions Architect - ICX",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Smart Buildings Technical Sales Intern",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Lead Technician",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "South-Korea Building Automation System Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
+          "title": "South-Korea Building Automation System Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWxSdTRjdEY2WlRKNnVkZjNVcEdBSXZjR1BJVWtXWjZfM1ZuNEpoa3QxUmdfTkxnUkVtVUVfbWswZTBoQm90OXNsYzJZZFVONlZJU0ROVVgxVTBqd0NmUm8wNnVkMXlOeEhwMmdWV3VMN18ycDhjTldvdUx5cUdGNkJsVXhodmxxb2xkWFEtc1hoYnp6LVpfUnJsbHV3LTljaE5WNVRhbWU4RkNEY0NmdXNoOA?oc=5\" t",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWxSdTRjdEY2WlRKNnVkZjNVcEdBSXZjR1BJVWtXWjZfM1ZuNEpoa3QxUmdfTkxnUkVtVUVfbWswZTBoQm90OXNsYzJZZFVONlZJU0ROVVgxVTBqd0NmUm8wNnVkMXlOeEhwMmdWV3VMN18ycDhjTldvdUx5cUdGNkJsVXhodmxxb2xkWFEtc1hoYnp6LVpfUnJsbHV3LTljaE5WNVRhbWU4RkNEY0NmdXNoOA?oc=5",
           "published": "Fri, 28 Aug 2026 17:06:45 GMT"
@@ -1407,7 +1300,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1419,34 +1312,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1526,21 +1391,13 @@
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Norman Public Schools Earns ENERGY STAR Certification - cnhinews.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnVySWJKa3RhZUN2VVJSZXdqUmhKWWJoMDlNTDQzcmdJY3ozaFZsdm03dDFOZkpqWFRxVW5mVGpwZlhHRnRIVTJmTFk5Tnd4MTkxX2NUVkxmSElJeHBXMlJDZWhXVHFCaGE4U2x3cEFDc1NxekpjbXk5TDBJZDVFcUdud1ZmajNYOGd0RFA2ajBIUQ?oc=5\" target=\"_blank\">Norman Public Schools Earns E",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnVySWJKa3RhZUN2VVJSZXdqUmhKWWJoMDlNTDQzcmdJY3ozaFZsdm03dDFOZkpqWFRxVW5mVGpwZlhHRnRIVTJmTFk5Tnd4MTkxX2NUVkxmSElJeHBXMlJDZWhXVHFCaGE4U2x3cEFDc1NxekpjbXk5TDBJZDVFcUdud1ZmajNYOGd0RFA2ajBIUQ?oc=5",
-          "published": "Wed, 16 Sep 2026 23:27:46 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1552,34 +1409,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1662,15 +1491,6 @@
           "postedDate": "2026-09-19"
         },
         {
-          "title": "Executive Assistant",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-18"
-        },
-        {
           "title": "Senior Traffic Engineer",
           "state": "CA",
           "segment": "Municipal",
@@ -1689,6 +1509,15 @@
             "University"
           ],
           "postedDate": "2026-09-16"
+        },
+        {
+          "title": "Senior Professional Land Surveyor",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-16"
         }
       ],
       "patents": [],
@@ -1699,7 +1528,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1711,34 +1540,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1788,7 +1589,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1800,34 +1601,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -1906,13 +1679,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5\" target=\"_blank\">Carrier sells energy se",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5",
           "published": "Mon, 03 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "NORESCO sold; Ipswich official says it will have 'no impact' on local energy-efficiency project - thelocalnews.news",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbD",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT01ESmNOUW96UmhaNU1iUXVoQmd3TmdvalhyTVpwbW80ZXZYc256bnExZ2tKeDRDOFBoVzRJeDZ3NVllRkhLZHNXOTBHQ1ctSS1pWnV5a2kwaEJ6UUJYQUNfdHZKaF85MUhTbnRCdW44ODNpRFpjUU4zOVQzSFh3bXBzVkVaNXJma29DLVpFY09aWURqWThJUG85dkdCWXVCVldLUDUwVXJHcHRITjhELXJHbkExbTlzbDBZRkJzQWJIaEVTSDhKb3F3?oc=5",
-          "published": "Thu, 30 Jul 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
@@ -1920,7 +1686,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1932,34 +1698,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2084,6 +1822,27 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Dallas Mechanical Group LLC",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Driver/Warehouse Associate",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
         {
           "title": "MOR PPM, Inc.",
           "state": "",
@@ -2283,27 +2042,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Project Manager (Electrical Construction)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Painter",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
         }
       ],
       "patents": [],
@@ -2322,7 +2060,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2334,34 +2072,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2385,7 +2095,14 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Prairie Grove hears of potential energy savings for its school buildings - Northwest Arkansas Democrat-Gazette",
+          "title": "Prairie Grove School Board considers proposal for energy savings program - nwaonline.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2FKTVRuTGphTTZjemVORzZGcF9PSUtkVzBEY0JRaER5WDMtc2Z2bG50cVlWNnIySGcwY3VvaVJiUFdybUtEclcxcE9aQjFmZVVwckZXRThyd0NqY2l6Z21YSXNmcFU4RVkwWUVaYVJVOGdQRDA2M002eTZkVV9YUnZ2cUJ3WVRUYk1mQTF1NVkxUVRueFlEaQ?oc=5\" target=\"_blank\">Prairie Grove School ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2FKTVRuTGphTTZjemVORzZGcF9PSUtkVzBEY0JRaER5WDMtc2Z2bG50cVlWNnIySGcwY3VvaVJiUFdybUtEclcxcE9aQjFmZVVwckZXRThyd0NqY2l6Z21YSXNmcFU4RVkwWUVaYVJVOGdQRDA2M002eTZkVV9YUnZ2cUJ3WVRUYk1mQTF1NVkxUVRueFlEaQ?oc=5",
+          "published": "Mon, 28 Sep 2026 00:10:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Prairie Grove hears of potential energy savings for its school buildings - wcel.nwaonline.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb19yZ0VCWFpYQUk2YVpxclFQNlprZGtBUDdCTXdnQU5xX1pZSEIwTTBYTDFSQW5PU1FPWUVnSmp5UVFnT1poeWRVb2NVczFiWXBEZ2E5bjROR2c5Y19sSktCQ1ZNc2RsZ0JkNVVaS2FEdDg0QmxOY0hfNThkWkl3b3pKVmFLRTY0UWpQUjZEZDdNTi0yMFFj?oc=5\" target=\"_blank\">Prairie Grove hears of ",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb19yZ0VCWFpYQUk2YVpxclFQNlprZGtBUDdCTXdnQU5xX1pZSEIwTTBYTDFSQW5PU1FPWUVnSmp5UVFnT1poeWRVb2NVczFiWXBEZ2E5bjROR2c5Y19sSktCQ1ZNc2RsZ0JkNVVaS2FEdDg0QmxOY0hfNThkWkl3b3pKVmFLRTY0UWpQUjZEZDdNTi0yMFFj?oc=5",
           "published": "Wed, 23 Sep 2026 09:00:00 GMT"
@@ -2396,7 +2113,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2408,34 +2125,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2468,7 +2157,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2480,34 +2169,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2576,7 +2237,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2588,34 +2249,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2658,6 +2291,41 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Plumbing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Summer 2027 - Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Summer 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Plumbing Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "IT Support Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
           "title": "Senior BIM Coordinator",
           "state": "NY",
           "segment": "Schools",
@@ -2669,6 +2337,13 @@
         },
         {
           "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Electrical Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2689,15 +2364,18 @@
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
+          "title": "Lighting Designer",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
           "postedDate": "2026-09-25"
         },
         {
-          "title": "Drafting Intern Summer 2027",
-          "state": "",
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-25"
@@ -2753,6 +2431,20 @@
         },
         {
           "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-22"
+        },
+        {
+          "title": "Senior Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-22"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
           "state": "MA",
           "segment": "Other",
           "tags": [],
@@ -2767,13 +2459,6 @@
         },
         {
           "title": "Senior Electrical Designer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -2792,55 +2477,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-20"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-20"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-20"
-        },
-        {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-20"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-19"
-        },
-        {
-          "title": "Senior Construction Administrator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-19"
-        },
-        {
-          "title": "Construction Administrator",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-19"
-        },
-        {
-          "title": "Electrical Engineer Intern/Co-op Summer 2027",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-19"
         }
       ],
       "patents": [],
@@ -2848,7 +2484,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "High school HVAC replacement project back on agenda - hopkintonindependent.com",
+          "title": "High school HVAC replacement project back on agenda - Hopkinton Independent",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjJ0cWg3ajZMV1hrOVhsQmFpc1BBVExFQmxHWTBObkhiR3lsTWV3SUhkM0Y1aUpOcThDbkFyU0lrb2Y1NjhVc1drODdZUUt2WFp1dmNCMVFPbndlemdNdUtKNm90QUJCakhrbkZBNXVTTF92bW42N0VyYzRSSTloaGJLOWlKOG10dWlINVp3?oc=5\" target=\"_blank\">High school HVAC replacement projec",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjJ0cWg3ajZMV1hrOVhsQmFpc1BBVExFQmxHWTBObkhiR3lsTWV3SUhkM0Y1aUpOcThDbkFyU0lrb2Y1NjhVc1drODdZUUt2WFp1dmNCMVFPbndlemdNdUtKNm90QUJCakhrbkZBNXVTTF92bW42N0VyYzRSSTloaGJLOWlKOG10dWlINVp3?oc=5",
           "published": "Fri, 25 Sep 2026 15:28:11 GMT"
@@ -2859,7 +2495,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2871,34 +2507,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     },
@@ -2922,6 +2530,47 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Associate Talent Acquisition Partner - Early Careers",
+          "state": "AZ",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Senior Payroll Accountant",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Director, Logistics",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Associate Talent Acquisition Partner - Early Careers",
+          "state": "TX",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "VDC Field Technician I - Reality Capture",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
         {
           "title": "Finance Manager",
           "state": "VA",
@@ -2978,21 +2627,21 @@
           "postedDate": "2026-09-26"
         },
         {
+          "title": "Intern - Design Engineer",
+          "state": "WA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
           "title": "Recent Grad/Alumni - Design Engineer I",
           "state": "WA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare"
-          ],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Intern - Design Engineer",
-          "state": "WA",
-          "segment": "University",
-          "tags": [
-            "University"
           ],
           "postedDate": "2026-09-26"
         },
@@ -3109,41 +2758,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Detailer, Lead",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Safety Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Engineer II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Detailer II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Constructability Lead",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
         }
       ],
       "patents": [],
@@ -3151,7 +2765,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - contractormag.com",
+          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - Contractor Magazine",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRm",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRmlVcEpEeENtUEFtSEd1el9JZzQ?oc=5",
           "published": "Tue, 22 Sep 2026 18:36:49 GMT"
@@ -3169,7 +2783,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-48794",
+          "id": "construction-46234",
           "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3181,34 +2795,6 @@
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "Healthcare"
-        },
-        {
-          "id": "construction-16719",
-          "title": "NC State to study adoption of upgraded construction helmets",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Thu, 24 Sep 2026 09:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp\" /></div></figure><p>Using a grant from the Job-Site Safety Institute, the universi",
-          "url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-68469",
-          "title": "Mortenson: Mass timber use helped shave $2M in costs from college build",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Wed, 23 Sep 2026 14:10:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<p>The alternative building material and intentional value engineering helped a building at Western Washington University come together with cost savings and expedited schedules, Mortenson experts said.</p>",
-          "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
         }
       ]
     }
