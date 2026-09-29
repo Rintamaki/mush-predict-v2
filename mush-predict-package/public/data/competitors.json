@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,6 +96,96 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Installation Coordinator",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Senior Enterprise Solutions Consultant",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Electrical Engineer, Sustaining Engineering",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Fire Detection Inspector",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Life Safety Electronic Systems Sales Representative",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Fire Alarm Inspector",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Truck Based Service Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Account Executive, Complex Security & Fire",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Associate Director, Strategic Workforce Planning & Culture",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Program Manager",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
           "title": "Fire Suppression Shop Technician",
           "state": "",
           "segment": "Other",
@@ -108,140 +198,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Controls Systems Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Construction Project Manager-Fire",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Technical Suppot Engineer 4",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Life Safety Electronic Systems Sales Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Painter",
-          "state": "TX",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Electrician Apprentice",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "New PSA Service Sales Representative 3",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Life Safety Service Sales Rep, Sprinkler",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Energy Solutions Development Engineer & Inflation Reduction Act Program Manager",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Fire Detection Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Life Safety Service Sales Rep, Sprinkler",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Fire Alarm Inspector",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Security Installer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
         }
       ],
       "patents": [],
@@ -279,22 +235,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Trane Technologies",
@@ -390,8 +331,22 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
           "title": "Core Technician",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "HVAC Technician Support Helper",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-28"
@@ -425,48 +380,6 @@
           "postedDate": "2026-09-28"
         },
         {
-          "title": "HVAC Apprentice Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "HVAC Technician Support Helper",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "HVAC Service Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Service Technician Helper",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "HVAC Field Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
           "title": "Controls Project Manager",
           "state": "FL",
           "segment": "Other",
@@ -489,6 +402,13 @@
         },
         {
           "title": "Automation and Controls Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Assistant Project Manager",
           "state": "FL",
           "segment": "Other",
           "tags": [],
@@ -558,6 +478,13 @@
           "postedDate": "2026-09-28"
         },
         {
+          "title": "Area Service Leader-HVAC",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
           "title": "Material Planner",
           "state": "WI",
           "segment": "Other",
@@ -591,6 +518,20 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Technical Sales Associate Development Program - Equipment",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
         }
       ],
       "patents": [],
@@ -599,22 +540,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Ameresco",
@@ -676,13 +602,6 @@
           "postedDate": "2026-09-27"
         },
         {
-          "title": "Operations and Maintenance Technician",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
           "title": "Site Safety Manager",
           "state": "",
           "segment": "Other",
@@ -692,13 +611,6 @@
         {
           "title": "Site Safety Manager",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Site Origination Analyst - Solar and BESS",
-          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
@@ -747,6 +659,20 @@
           "postedDate": "2026-09-25"
         },
         {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Senior Account Executive",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-22"
+        },
+        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Schools",
@@ -777,6 +703,13 @@
             "Healthcare",
             "University"
           ],
+          "postedDate": "2026-09-18"
+        },
+        {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-09-18"
         },
         {
@@ -824,30 +757,8 @@
           "postedDate": "2026-09-13"
         },
         {
-          "title": "Night Superintendent",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
           "title": "Project Superintendent",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-12"
-        },
-        {
-          "title": "Building Automation Specialist",
-          "state": "OH",
           "segment": "Schools",
           "tags": [
             "Schools",
@@ -899,6 +810,28 @@
             "University"
           ],
           "postedDate": "2026-09-10"
+        },
+        {
+          "title": "Facilities Manager - Boiler and Chiller Plant",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-05"
+        },
+        {
+          "title": "Regional Safety Manager - Southeast",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-05"
         }
       ],
       "patents": [],
@@ -907,22 +840,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Schneider Electric",
@@ -978,130 +896,67 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Kanban Team Lead (1st Shift)",
-          "state": "OH",
+          "title": "Foxboro DCS Technical Sales Consultant",
+          "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Customer Advocate Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Manufacturing Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Territory Sales Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Field Service Representative - Cooling/HVAC",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Senior Security Engineer",
+          "title": "Senior Principal, Platform Security Architect",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Sr. Field Service Representative",
+          "title": "BAS Pre-Construction Estimator",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "BAS Pre-Construction Estimator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "BAS Pre-Construction Estimator",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Manufacturing Engineer -(New Product Introduction)",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Receiving Team Lead (1st Shift)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Quality Test Technologist (2nd shift)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Team Lead - HBN Manufacturing Production (1st shift)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Field Service Representative",
+          "title": "Production Operator",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Team Lead - Maverick Manufacturing Production (Weekend shift)",
-          "state": "OH",
+          "title": "Manager, Power Systems Low Voltage Offer Team",
+          "state": "IL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         },
         {
-          "title": "Warehouse Associate",
+          "title": "Waste/Water Principal Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
+        {
+          "title": "Manager, Power Systems Low Voltage Offer Team",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Supervisor, Manufacturing Operations Management",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Team Lead \u2013 Manufacturing Production (2nd shift)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "BAS / BMS / Controls Engineer II",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Production Electrical Tester Technician (1st shift)",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
+          "postedDate": "2026-09-28"
         }
       ],
       "patents": [],
@@ -1110,22 +965,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Siemens Smart Infrastructure",
@@ -1283,7 +1123,15 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Solutions Architect - ICX",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1298,22 +1146,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Cenergistic",
@@ -1395,22 +1228,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Willdan Group",
@@ -1433,18 +1251,18 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Verification Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
           "title": "Civil Engineer",
           "state": "IL",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Verification Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-25"
         },
         {
           "title": "Service Install Administrator",
@@ -1454,19 +1272,26 @@
           "postedDate": "2026-09-25"
         },
         {
+          "title": "Service Install Administrator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
+          "title": "Service Install Administrator",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
           "title": "Certified Payroll Compliance Administrator",
           "state": "",
           "segment": "Municipal",
           "tags": [
             "Municipal"
           ],
-          "postedDate": "2026-09-24"
-        },
-        {
-          "title": "Cloud Engineer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
           "postedDate": "2026-09-24"
         },
         {
@@ -1509,15 +1334,6 @@
             "University"
           ],
           "postedDate": "2026-09-16"
-        },
-        {
-          "title": "Senior Professional Land Surveyor",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-16"
         }
       ],
       "patents": [],
@@ -1526,22 +1342,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Energy Systems Group",
@@ -1587,22 +1388,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "NORESCO",
@@ -1684,22 +1470,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "EMCOR Group",
@@ -1823,225 +1594,242 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Dallas Mechanical Group LLC - President",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Scalise Industries Corporation",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Ohmstede Ltd.",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Trautman & Shreve, Inc.",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "John W. Danforth Company",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Mechanical Services of Central Florida, Inc.",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "John W. Danforth Company",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Repcon, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "MA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "New England Mechanical Services, Inc.",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "John W. Danforth Company",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
           "title": "Dallas Mechanical Group LLC",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Driver/Warehouse Associate",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Administrative Assistant",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-28"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "CCI Mechanical, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Leader Buyer- Equipment",
-          "state": "VA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Office Manager/Assistant Project Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Fire Sprinkler Layout Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Electrical Project Engineer",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Superintendent - Mechanical",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Electrician (RAL NOVO JW)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Superintendent - Electrical",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Construction Project Engineer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Warehouse Driver",
-          "state": "MA",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "QA / QC Specialist",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Construction Traveling General Foreman",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Traveling General Foreman",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Traveling Senior Project Manager - Mechanical MEP",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Senior VDC / BIM Specialist - Remote",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Traveling Superintendent",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HVAC Controls Solutions Engineer",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Superintendent",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Business Development- HVAC Service",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Project Manager Trainee",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Fire Sprinkler Layout Technician",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Project Manager Trainee",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "HSE Coordinator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Engineering Intern",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Mfg. Maintenance Tech II/III",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
+          "postedDate": "2026-09-29"
         }
       ],
       "patents": [],
@@ -2049,7 +1837,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Can EMCOR's Building Services Growth Support Further Margin Expansion? - Eastern Progress",
+          "title": "Can EMCOR's Building Services Growth Support Further Margin Expansion? - easternprogress.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzRpNHZWdHU0dE93S19ScUhsT2lzam9mSWJ1SVl4bGdsYnd2QklCWFVxWXdta1Z0bXJXNzhVcnM2OWpkcVZBcFFKemZKWXoxSjgwR2JtdVZnNmJtWXdDb1A0VUxxWVBuLU9JU05wNjNIVlBRdXZpeEpTNjNiTXdQdE1zbnctWWNxQmtEaHNOQXVFTDVmbk5aUUtLYVFKek9LU0NNaW13cWpEWWNNNWZvckZuTC1mWVN6bl",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzRpNHZWdHU0dE93S19ScUhsT2lzam9mSWJ1SVl4bGdsYnd2QklCWFVxWXdta1Z0bXJXNzhVcnM2OWpkcVZBcFFKemZKWXoxSjgwR2JtdVZnNmJtWXdDb1A0VUxxWVBuLU9JU05wNjNIVlBRdXZpeEpTNjNiTXdQdE1zbnctWWNxQmtEaHNOQXVFTDVmbk5aUUtLYVFKek9LU0NNaW13cWpEWWNNNWZvckZuTC1mWVN6blJlQVZ6bkVvc2FIWXlkaXc0RnhQb1RQcDk1ejZYdE9DMEVsSDluM2hKbHY?oc=5",
           "published": "Wed, 02 Sep 2026 07:00:00 GMT"
@@ -2058,22 +1846,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Ideal Impact",
@@ -2095,14 +1868,14 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Prairie Grove School Board considers proposal for energy savings program - nwaonline.com",
+          "title": "Prairie Grove School Board considers proposal for energy savings program - Northwest Arkansas Democrat-Gazette",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2FKTVRuTGphTTZjemVORzZGcF9PSUtkVzBEY0JRaER5WDMtc2Z2bG50cVlWNnIySGcwY3VvaVJiUFdybUtEclcxcE9aQjFmZVVwckZXRThyd0NqY2l6Z21YSXNmcFU4RVkwWUVaYVJVOGdQRDA2M002eTZkVV9YUnZ2cUJ3WVRUYk1mQTF1NVkxUVRueFlEaQ?oc=5\" target=\"_blank\">Prairie Grove School ",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2FKTVRuTGphTTZjemVORzZGcF9PSUtkVzBEY0JRaER5WDMtc2Z2bG50cVlWNnIySGcwY3VvaVJiUFdybUtEclcxcE9aQjFmZVVwckZXRThyd0NqY2l6Z21YSXNmcFU4RVkwWUVaYVJVOGdQRDA2M002eTZkVV9YUnZ2cUJ3WVRUYk1mQTF1NVkxUVRueFlEaQ?oc=5",
           "published": "Mon, 28 Sep 2026 00:10:00 GMT"
         },
         {
           "source": "google_news",
-          "title": "Prairie Grove hears of potential energy savings for its school buildings - wcel.nwaonline.com",
+          "title": "Prairie Grove hears of potential energy savings for its school buildings - Northwest Arkansas Democrat-Gazette",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb19yZ0VCWFpYQUk2YVpxclFQNlprZGtBUDdCTXdnQU5xX1pZSEIwTTBYTDFSQW5PU1FPWUVnSmp5UVFnT1poeWRVb2NVczFiWXBEZ2E5bjROR2c5Y19sSktCQ1ZNc2RsZ0JkNVVaS2FEdDg0QmxOY0hfNThkWkl3b3pKVmFLRTY0UWpQUjZEZDdNTi0yMFFj?oc=5\" target=\"_blank\">Prairie Grove hears of ",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb19yZ0VCWFpYQUk2YVpxclFQNlprZGtBUDdCTXdnQU5xX1pZSEIwTTBYTDFSQW5PU1FPWUVnSmp5UVFnT1poeWRVb2NVczFiWXBEZ2E5bjROR2c5Y19sSktCQ1ZNc2RsZ0JkNVVaS2FEdDg0QmxOY0hfNThkWkl3b3pKVmFLRTY0UWpQUjZEZDdNTi0yMFFj?oc=5",
           "published": "Wed, 23 Sep 2026 09:00:00 GMT"
@@ -2111,22 +1884,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "ENGIE Services US",
@@ -2155,22 +1913,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Bernhard",
@@ -2235,22 +1978,7 @@
       ],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "CMTA",
@@ -2290,6 +2018,23 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Senior Project Engineer - Electrical",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Summer 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-28"
+        },
         {
           "title": "Plumbing Engineer",
           "state": "",
@@ -2442,41 +2187,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Mechanical Engineer - CMTA Energy Solutions",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Senior Solar Energy Engineer - Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Senior Electrical Designer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Senior Electrical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-21"
-        },
-        {
-          "title": "Senior Electrical Designer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-20"
         }
       ],
       "patents": [],
@@ -2493,22 +2203,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Southland Industries",
@@ -2530,6 +2225,90 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Senior Safety Coordinator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Business Development Manager - Special Projects",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Safety Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Project Accountant, Associate",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Preconstruction Executive",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Safety Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Service Coordinator, Senior",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Service Account Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Senior Design Engineer",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Project Engineer II - Shop",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Service Account Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Senior Manager of Data & Analytics",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
         {
           "title": "Associate Talent Acquisition Partner - Early Careers",
           "state": "AZ",
@@ -2674,90 +2453,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-25"
-        },
-        {
-          "title": "Project Manager - Special Projects",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-25"
-        },
-        {
-          "title": "Electrical Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-25"
-        },
-        {
-          "title": "QA/QC Professional- Quality Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-24"
-        },
-        {
-          "title": "Talent Acquisition Partner",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-23"
-        },
-        {
-          "title": "Safety Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Engineer II",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Electrical Service Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Superintendent Mechanical (Plumbing/Piping)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Sales Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Project Executive",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
-        },
-        {
-          "title": "Administrative Assistant",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-22"
         }
       ],
       "patents": [],
@@ -2765,7 +2460,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - Contractor Magazine",
+          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - contractormag.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRm",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRmlVcEpEeENtUEFtSEd1el9JZzQ?oc=5",
           "published": "Tue, 22 Sep 2026 18:36:49 GMT"
@@ -2781,22 +2476,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-46234",
-          "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 25 Sep 2026 09:53:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp\" /></div></figure><p>Plus, Fortis Construction expands its manufacturing and tech unit and NIB",
-          "url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "Healthcare"
-        }
-      ]
+      "constructionProjects": []
     }
   ]
 }
