@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,114 +96,61 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "EHS Associate Director- Fire",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Assembler - 2nd Shift",
-          "state": "FL",
+          "title": "Account Executive \u2013 Sustainable Infrastructure",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Machinist Journeyman, 2nd Shift (Job Number: 1611)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "CNC Machinist - 2nd Shift (Job Number: 1612)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Electrician / Electrical Installer",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "CNC Machine Operator, 2nd Shift (Job Number: 1609)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "MEP Superintendent / Foreman",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "CNC Machine Operator Navy Systems - EG",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "AI Enablement Leader",
+          "title": "User Acceptance Testing Program Manager",
           "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Sr. Business Intelligence Analyst",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Ctrls Systems Tech I",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Assembler \u2013 2nd Shift",
-          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "HVAC Truck Based Controls Technical Team Lead",
+          "title": "Electrical Designer Drafter (onsite)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Security Installer",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Fire Alarm Installer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Field Services Technician - Level 3",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Sprinkler Service Technician",
+          "title": "Welder II 2nd Shift",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -211,10 +158,21 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Sprinkler Inspector",
+          "title": "Manufacturing Engineering Manager",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Customer Care Service Support Coord 1",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -222,14 +180,78 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "HVAC Building Controls Application Engineer",
+          "title": "HVAC Controls Service Technician (union)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Commercial Security Account Sales Exec",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "HVAC Equipment Systems Application Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Commercial Security Systems Sales Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Field Operations General Manager (Marine HVAC)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "HVAC Client Resource Coordinator",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "VP, Global Commercial",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "HVAC Controls Systems Team Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "HVAC Building Controls Systems Engineer Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
         }
       ],
       "patents": [],
@@ -237,17 +259,17 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Johnson Controls unveils AI-powered OpenBlue platform expansions for increased efficiency and rapid implementation - johnsoncontrols.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEbl",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEblM4NEE0NXZiQ09hekt6Mk1xUjN6S0duZVRabkZaVQ?oc=5",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "How OpenBlue is modernizing energy and equipment management at a historic research campus - johnsoncontrols.com",
+          "title": "How OpenBlue is modernizing energy and equipment management at a historic research campus - Johnson Controls",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDBtUXFQTGUwSTBFN0ZfeDBPdmZTRFdWMlJhaHNhOXh0MTFSYzFsWHpSSFA5azNxaTVVa1pvMVRvcFZnYXRWUHJ0T2pZWG12WUtjQnhhUGNjQVp4My0zeWZPX3dJbDRndHpOZDRHU3A0emY2Zlh2bjdfLXNBbVk4WHR5d2ZPSWgxaEVXUHUzZm1KWUlpSEQ0STFqbExVZWVoLXlKb3NmY1ZVc0Z6UTNIak1xWQ?oc=5\" t",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDBtUXFQTGUwSTBFN0ZfeDBPdmZTRFdWMlJhaHNhOXh0MTFSYzFsWHpSSFA5azNxaTVVa1pvMVRvcFZnYXRWUHJ0T2pZWG12WUtjQnhhUGNjQVp4My0zeWZPX3dJbDRndHpOZDRHU3A0emY2Zlh2bjdfLXNBbVk4WHR5d2ZPSWgxaEVXUHUzZm1KWUlpSEQ0STFqbExVZWVoLXlKb3NmY1ZVc0Z6UTNIak1xWQ?oc=5",
           "published": "Fri, 04 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Building energy management systems: a practical guide for commercial facilities - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTRFN1hhOXpiZnBhbjd3M1hzS2RTTkRJUEtBTVJVWEV5YTl3dmQxeUhBRFFxYjJxSm5WWlJRalVha25JSmxadHVYNXZycnNiVHY2ZlBBOFUxOWstdlE3NXNkSFp1Z2hoR01LcDhDOVRVVEZjYmwzQmdoZnFxT3U1S01wZ2VFRV9veTE4RGt5dE9VVlJhXzgwUi05Zm5aTnRBS2tLTjR4Z3NmaUk?oc=5\" target=\"_bla",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTRFN1hhOXpiZnBhbjd3M1hzS2RTTkRJUEtBTVJVWEV5YTl3dmQxeUhBRFFxYjJxSm5WWlJRalVha25JSmxadHVYNXZycnNiVHY2ZlBBOFUxOWstdlE3NXNkSFp1Z2hoR01LcDhDOVRVVEZjYmwzQmdoZnFxT3U1S01wZ2VFRV9veTE4RGt5dE9VVlJhXzgwUi05Zm5aTnRBS2tLTjR4Z3NmaUk?oc=5",
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -258,16 +280,31 @@
         },
         {
           "source": "google_news",
-          "title": "Building energy management systems: a practical guide for commercial facilities - johnsoncontrols.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTRFN1hhOXpiZnBhbjd3M1hzS2RTTkRJUEtBTVJVWEV5YTl3dmQxeUhBRFFxYjJxSm5WWlJRalVha25JSmxadHVYNXZycnNiVHY2ZlBBOFUxOWstdlE3NXNkSFp1Z2hoR01LcDhDOVRVVEZjYmwzQmdoZnFxT3U1S01wZ2VFRV9veTE4RGt5dE9VVlJhXzgwUi05Zm5aTnRBS2tLTjR4Z3NmaUk?oc=5\" target=\"_bla",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTRFN1hhOXpiZnBhbjd3M1hzS2RTTkRJUEtBTVJVWEV5YTl3dmQxeUhBRFFxYjJxSm5WWlJRalVha25JSmxadHVYNXZycnNiVHY2ZlBBOFUxOWstdlE3NXNkSFp1Z2hoR01LcDhDOVRVVEZjYmwzQmdoZnFxT3U1S01wZ2VFRV9veTE4RGt5dE9VVlJhXzgwUi05Zm5aTnRBS2tLTjR4Z3NmaUk?oc=5",
-          "published": "Fri, 07 Aug 2026 07:00:00 GMT"
+          "title": "Johnson Controls unveils AI-powered OpenBlue platform expansions for increased efficiency and rapid implementation - Johnson Controls",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEbl",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2dwOWlqb0Y4dmNSSUZMV1dWeTBPZms3eldBZWpuLWdKSmVBaVF3UnlIdjdaanljVWk2bVVMQktoQTRPSlFxa0REam9acFQwektadEpPZXpjTFNNaUQ0cld3Sm4ydmRLX2xNckMyUTg0dUxPejg1WlhNSlkyWFVoTXdDa29XbFlyc1R4SWp4ek5iS3FQN1c3YlVraVUwOE4zTGJobGNTaERsN1FMUXBlSnI3aXBUa0hEblM4NEE0NXZiQ09hekt6Mk1xUjN6S0duZVRabkZaVQ?oc=5",
+          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Trane Technologies",
@@ -363,223 +400,246 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Mechanical Engineering Co-op",
+          "title": "Quality Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Yard Dog Operator Truck Driver",
+          "title": "OpEx Lean - Continuous Improvement Technician- 1st Shift",
           "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Mechanical Engineering Manager - Stellar Energy",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Warehouse Technician",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Data Center Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Data Center Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Data Center Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Data Center Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Electrical Superintendent",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Automation and Controls Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Equipment Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Applications Engineer - Stellar Energy",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Materials & SIOP Leader, Thermo King",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Account Manager - Residential HVAC",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Financial Services Intern",
+          "title": "Order Management Representative",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "HVAC Technician Apprentice",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Service Technician Apprentice (Tri-Cities)",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Shop Helper - Rentals",
+          "title": "Lead Software Engineer - AI & Agentic Systems",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Service Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Controls Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "HVAC/Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
           "title": "HVAC Field Service Technician",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Apprentice Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Data Center/Chiller Technician",
+          "title": "Controls Account Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "HVAC Field Technician",
+          "title": "Quality Leader, Residential HVAC",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Strategic Sales Executive - Energy Services",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Client Services Representative",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Field Service Technician II",
-          "state": "NJ",
+          "title": "HVAC Support Representative",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "HVAC Technician Support",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "HVAC/Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
           "title": "Remote Support Specialist -Ashland, VA",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Service Account Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Materials & SIOP Leader, Thermo King",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "FP&A Sr. Financial Analyst, Life Science Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sr Construction Project Manager-Life Science Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sr Construction Project Manager-Life Science Solutions",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Logistics Engineer",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "VP of Integrated Supply Chain Residential HVAC",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Materials & SIOP Leader, Thermo King",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Salesforce Product/Business Owner",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Field Services Superintendent",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Field Service Technician",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Mechanical Field Service Lead",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Electrical Field Service Lead",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Systems Account Manager - Atlanta",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sr Construction Project Manager-Life Science Solutions",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Change Agent",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Field Service Technician II",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sales Development Representative (Remote)",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Controls Project Specialist",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "A Kedah shrimp farm is set for a 1.78 MW rooftop solar system - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0IwcnpyN0RqN3FJZmRySjJVTEYzMjhGSjN2WldxR25nWS1hb0h3cUdZWWxXZGFoNTlsRUN5MUtrRGRuZUhKa1hDN0FjUWY2TkZLbm5sZkkyWmhpQzFFZzlhc0dUbmdLc3QtVFF4VzNQX1llcC11bXU1T3ZXSmZ4bFNMVWMxOU1xZVo3N2pJT2k4eTEtZ1pENnRsS0kybVhTUWU2bWNsYWFpRjl5Y3FtSElTaHYwRWJZWF",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0IwcnpyN0RqN3FJZmRySjJVTEYzMjhGSjN2WldxR25nWS1hb0h3cUdZWWxXZGFoNTlsRUN5MUtrRGRuZUhKa1hDN0FjUWY2TkZLbm5sZkkyWmhpQzFFZzlhc0dUbmdLc3QtVFF4VzNQX1llcC11bXU1T3ZXSmZ4bFNMVWMxOU1xZVo3N2pJT2k4eTEtZ1pENnRsS0kybVhTUWU2bWNsYWFpRjl5Y3FtSElTaHYwRWJZWFA3dA?oc=5",
+          "published": "Wed, 12 Aug 2026 07:00:00 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Ameresco",
@@ -627,6 +687,82 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Administrative Assistant",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Senior Energy Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Energy Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "DDC Controls Technician Intern",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Operations Manager - Medium Voltage",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sr. Client Success Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sr. Building Automation Specialist",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Senior Director, Business Development",
+          "state": "NJ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-01"
+        },
+        {
           "title": "Construction Quality Control Manager",
           "state": "",
           "segment": "Schools",
@@ -650,34 +786,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Site Safety Manager",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-30"
-        },
-        {
-          "title": "Site Safety Health Manager",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-30"
-        },
-        {
-          "title": "Safety Construction Project Manager",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-30"
-        },
-        {
-          "title": "Regional Operations & Maintenance Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-30"
         },
         {
           "title": "Regional Operations & Maintenance Manager",
@@ -721,13 +829,6 @@
         {
           "title": "Site Safety Manager",
           "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Operations and Maintenance Technician",
-          "state": "MI",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-27"
@@ -790,6 +891,13 @@
           "postedDate": "2026-09-25"
         },
         {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-24"
+        },
+        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Schools",
@@ -823,13 +931,6 @@
           "postedDate": "2026-09-18"
         },
         {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-17"
-        },
-        {
           "title": "Regional Safety Manager - Western US",
           "state": "",
           "segment": "Schools",
@@ -847,7 +948,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Schneider Electric",
@@ -903,25 +1019,11 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Preconstruction Manager \u2013 Complex Infrastructure Projects",
-          "state": "TX",
+          "title": "Offer Procurement Leader \u2013 Electronics",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Program Manager \u2013 Cybersecurity Services Business Development",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Head of Segment Marketing, IT Channel",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         }
       ],
       "patents": [],
@@ -930,7 +1032,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Siemens Smart Infrastructure",
@@ -1094,7 +1211,7 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "South-Korea Building Automation System Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
+          "title": "South-Korea Building Automation System Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWxSdTRjdEY2WlRKNnVkZjNVcEdBSXZjR1BJVWtXWjZfM1ZuNEpoa3QxUmdfTkxnUkVtVUVfbWswZTBoQm90OXNsYzJZZFVONlZJU0ROVVgxVTBqd0NmUm8wNnVkMXlOeEhwMmdWV3VMN18ycDhjTldvdUx5cUdGNkJsVXhodmxxb2xkWFEtc1hoYnp6LVpfUnJsbHV3LTljaE5WNVRhbWU4RkNEY0NmdXNoOA?oc=5\" t",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWxSdTRjdEY2WlRKNnVkZjNVcEdBSXZjR1BJVWtXWjZfM1ZuNEpoa3QxUmdfTkxnUkVtVUVfbWswZTBoQm90OXNsYzJZZFVONlZJU0ROVVgxVTBqd0NmUm8wNnVkMXlOeEhwMmdWV3VMN18ycDhjTldvdUx5cUdGNkJsVXhodmxxb2xkWFEtc1hoYnp6LVpfUnJsbHV3LTljaE5WNVRhbWU4RkNEY0NmdXNoOA?oc=5",
           "published": "Fri, 28 Aug 2026 17:06:45 GMT"
@@ -1103,7 +1220,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Cenergistic",
@@ -1176,7 +1308,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Willdan Group",
@@ -1199,10 +1346,21 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Engineering Project Manager",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
+          "title": "Healthcare Advisor",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Healthcare Advisor",
+          "state": "CA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
           "postedDate": "2026-10-01"
         },
         {
@@ -1278,13 +1436,6 @@
           "postedDate": "2026-09-30"
         },
         {
-          "title": "Civil Engineer",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
           "title": "Service Install Administrator",
           "state": "CA",
           "segment": "Other",
@@ -1337,7 +1488,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Energy Systems Group",
@@ -1383,7 +1549,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "NORESCO",
@@ -1453,19 +1634,26 @@
       "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Carrier sells energy service business to Opterra - Facilities Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5\" target=\"_blank\">Carrier sells energy se",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXZaQlR0MzVBSTB6Y0hNcXM5UG1lWVpWejVvZU9oQTRrSl9YSUdNY05IdFdjTG5pWEs1RUlGUnpReEZheldyLVVid1N2THRmUkZCaWRSTzYzYzV0QXo1VHRtRkdCSnd0OVRITVk0NUFON0hSSE1nSW1ENW5NX21pbVgxS0pMM2YzdFRmNG1QWXVWR3hEYzdR?oc=5",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "EMCOR Group",
@@ -1605,207 +1793,219 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "EMCOR Group, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
           "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Baker Electric",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Baker Electric",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
+          "title": "Romanoff Electric Co., LLC",
           "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "EMCOR Services Integrated Solutions",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Baker Electric",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "USM, Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "USM, Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Trautman & Shreve, Inc.",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Dynalectric Company",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "The Betlem Service Corporation",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "The Betlem Service Corporation",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Ohmstede Industrial Services, Inc.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "MOR PPM, Inc.",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Estimator",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "BAS/Automation/Controls Salesperson",
-          "state": "NY",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare"
           ],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Service Coordinator",
-          "state": "NY",
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Service Coordinator",
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Newcomb and Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Northstar Fire Protection of Texas, Inc.",
+          "state": "TX",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Sidney Electric",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-01"
+          "postedDate": "2026-10-02"
         },
         {
-          "title": "Specialty Facility Coordinator",
+          "title": "Lyons Electric Company",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Native Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Newcomb and Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "ECM Holding Group, Inc.",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "S. A. Comunale Co., Inc.",
           "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Mesa Energy Systems, Inc.",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Romanoff Electric Co., LLC",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "AZ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Assistant Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "VDC (BIM) Spooler",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Mechanical Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Assistant Project Manager - Mechanical",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Senior Accountant",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-01"
@@ -1825,7 +2025,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Ideal Impact",
@@ -1870,7 +2085,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "ENGIE Services US",
@@ -1899,7 +2129,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Bernhard",
@@ -1964,7 +2209,22 @@
       ],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "CMTA",
@@ -2005,6 +2265,20 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
+          "title": "Mechanical Engineer - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-02"
+        },
+        {
           "title": "HVAC Controls Service Professional - CMTA Energy Solutions",
           "state": "VA",
           "segment": "Other",
@@ -2019,7 +2293,28 @@
           "postedDate": "2026-10-01"
         },
         {
+          "title": "Project Development Engineer (Federal) - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-01"
+        },
+        {
           "title": "Mechanical Engineer Intern/Co-op Summer 2027",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-01"
+        },
+        {
+          "title": "Construction Site Superintendent - CMTA Energy Solutions",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-01"
+        },
+        {
+          "title": "Senior Project Development Engineer (Federal) - CMTA Energy Solutions",
           "state": "MA",
           "segment": "Other",
           "tags": [],
@@ -2078,6 +2373,16 @@
           "postedDate": "2026-09-28"
         },
         {
+          "title": "Senior Project Engineer - Mechanical",
+          "state": "NJ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-28"
+        },
+        {
           "title": "Electrical Engineer Intern/Co-op Summer 2027",
           "state": "",
           "segment": "Other",
@@ -2097,44 +2402,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-28"
-        },
-        {
-          "title": "Senior BIM Coordinator",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-09-27"
-        },
-        {
-          "title": "Construction Site Superintendent - CMTA Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "Mechanical Engineer Intern/Co-op Spring 2027 - Energy Solutions",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
-          "title": "IT Support Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
         }
       ],
       "patents": [],
@@ -2146,12 +2413,34 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjJ0cWg3ajZMV1hrOVhsQmFpc1BBVExFQmxHWTBObkhiR3lsTWV3SUhkM0Y1aUpOcThDbkFyU0lrb2Y1NjhVc1drODdZUUt2WFp1dmNCMVFPbndlemdNdUtKNm90QUJCakhrbkZBNXVTTF92bW42N0VyYzRSSTloaGJLOWlKOG10dWlINVp3?oc=5\" target=\"_blank\">High school HVAC replacement projec",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjJ0cWg3ajZMV1hrOVhsQmFpc1BBVExFQmxHWTBObkhiR3lsTWV3SUhkM0Y1aUpOcThDbkFyU0lrb2Y1NjhVc1drODdZUUt2WFp1dmNCMVFPbndlemdNdUtKNm90QUJCakhrbkZBNXVTTF92bW42N0VyYzRSSTloaGJLOWlKOG10dWlINVp3?oc=5",
           "published": "Fri, 25 Sep 2026 15:28:11 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Co-op broadens horizons for architectural engineer - University of Cincinnati",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVRlTExnLVpUTTRuY2tRbkI3VXNCYjBRUHA5cDM5RWJNYkpHMmtUT1VCZXZHWGlEN2N0S0dfZ0hpS0I3SUV1TUtzUS0wWUthWXlBT1pXMF9ibF9aZExIVjVoVjZyQVVUZE10Mjl2aVZtMDNpMkJmaXhtWWtxdUNSOE90TzJ0bndSaVVZMVFoczNsaWF6WUN5REMzMFhlRGtoMjBF?oc=5\" target=\"_blank\">Co-op b",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVRlTExnLVpUTTRuY2tRbkI3VXNCYjBRUHA5cDM5RWJNYkpHMmtUT1VCZXZHWGlEN2N0S0dfZ0hpS0I3SUV1TUtzUS0wWUthWXlBT1pXMF9ibF9aZExIVjVoVjZyQVVUZE10Mjl2aVZtMDNpMkJmaXhtWWtxdUNSOE90TzJ0bndSaVVZMVFoczNsaWF6WUN5REMzMFhlRGtoMjBF?oc=5",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     },
     {
       "name": "Southland Industries",
@@ -2174,6 +2463,13 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Operations Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-01"
+        },
+        {
           "title": "Associate Purchasing Agent",
           "state": "TX",
           "segment": "Other",
@@ -2188,14 +2484,14 @@
           "postedDate": "2026-09-30"
         },
         {
-          "title": "Business Process Manager",
+          "title": "Technology Analyst - Construction Technologies (Forma)",
           "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-30"
         },
         {
-          "title": "Technology Analyst - Construction Technologies (Forma)",
+          "title": "Business Process Manager",
           "state": "CA",
           "segment": "Other",
           "tags": [],
@@ -2230,6 +2526,13 @@
           "postedDate": "2026-09-29"
         },
         {
+          "title": "Service Coordinator, Senior",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
           "title": "Safety Manager",
           "state": "VA",
           "segment": "Other",
@@ -2258,13 +2561,6 @@
           "postedDate": "2026-09-29"
         },
         {
-          "title": "Service Coordinator, Senior",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-29"
-        },
-        {
           "title": "Service Account Manager",
           "state": "WA",
           "segment": "Other",
@@ -2286,14 +2582,14 @@
           "postedDate": "2026-09-29"
         },
         {
-          "title": "Service Account Manager",
+          "title": "Senior Manager of Data & Analytics",
           "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-29"
         },
         {
-          "title": "Senior Manager of Data & Analytics",
+          "title": "Service Account Manager",
           "state": "CA",
           "segment": "Other",
           "tags": [],
@@ -2374,13 +2670,6 @@
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Intern - BIM/VDC",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-26"
-        },
-        {
           "title": "Co-Op (Fall Semester 2025 - Spring Semester 2026) - Safety",
           "state": "VA",
           "segment": "University",
@@ -2390,8 +2679,8 @@
           "postedDate": "2026-09-26"
         },
         {
-          "title": "Recent Grad/Alumni - Safety Coordinator, Associate",
-          "state": "WA",
+          "title": "Intern - BIM/VDC",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-26"
@@ -2418,7 +2707,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-55186",
+          "title": "4.5-foot-thick walls needed to absorb data center noise: researcher",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Fri, 02 Oct 2026 10:19:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/Upj--y5oVl0fN4dKmZICZScxV1oExge5UmjmIUWqoPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NdF9QbGVhc2FudC5qcGc=.webp\" /></div></figure><p>Ultra-thick walls aren&rsquo;t practical, so setbacks should be at least 1,500 feet, says",
+          "url": "https://www.constructiondive.com/news/thick-walls-needed-absorb-data-center-noise-research/831999/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        }
+      ]
     }
   ]
 }
