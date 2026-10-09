@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,106 +96,205 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Security Installer",
+          "title": "Fire Detection Inspector",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Certified Payroll Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "VAVE Project Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Brazer, 3rd Shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Project Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Security Installation Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Fire Detection Inspector",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Controls Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Controls Systems Designer",
           "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Security Systems Technician",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Area Service Operations Enablement Leader",
-          "state": "CA",
+          "title": "Fire Inspector",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Territory/Domain Field Sales Representative",
+          "title": "Commercial Account Executive",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Class II AHU Fabricator",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Sprinkler Install Apprentice",
-          "state": "",
+          "title": "Commercial Account Executive",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Client Resource Coordinator 1",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "BAS Control Systems Engineer",
+          "title": "HVAC Client Resource Coordinator",
           "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Business Development Sales Executive, RFID Technology",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
           "title": "Material Coordinator, 2nd shift",
-          "state": "PA",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Helper, 2nd shift",
-          "state": "PA",
+          "title": "Service Sales Account Executive, Fire",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Equipment Designer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Wrapper/ Skidder, 3rd Shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Material Coordinator, 3rd shift",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Fire Detection Service Technician",
+          "state": "",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Assembler - 1st Shift",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Wrapper/ Skidder, 3rd Shift",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Sprinkler Inspector",
+          "title": "Controls Systems Technician",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Dispatch Service Agent 1",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-09"
         }
       ],
       "patents": [],
@@ -221,7 +320,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -330,214 +443,214 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Custodian",
+          "title": "EHS Technician II",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Area Service Leader",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Senior Thermal Engineer",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Assistant Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Program Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Global Product Lead - Reporting & Security",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Indirect Category Specialist",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Area Service Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Digital Marketing Leader, Marketing Technology",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "2nd Shift Materials Team Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "1st Shift Facilities Coordinator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Service Coordinator",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Financial Analyst, AR Process Excellence",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Project Manager- Equipment",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Service Coordinator",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "HVAC Field Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Client Services Representative",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Warehouse Associate",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Sr. HVAC Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Sr. HVAC Field Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Rental Services Account Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Application Engineer II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Senior Manager-Plant Quality",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Manufacturing Engineering Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "2027 Engineering Intern",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "3rd Shift Materials Team Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Represented Products and Ductless Sales Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Manufacturing Engineering Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Associate Project Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
           "title": "HVAC Union Technician",
           "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Area Service Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Sr. Service HVAC Technician - Applied/Chiller - Ashland, VA",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
         },
         {
           "title": "Sales and Incentive Compensation Analyst",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Business Cybersecurity & Infrastructure Leader",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Operational Excellence Leader, Residential HVAC",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Residential Pricing Analyst",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Financial Analyst, AR Process Excellence",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Indirect Category Specialist",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Sales Intern",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Operational Excellence Leader, Unitary and Airside",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Service Coordinator II",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Transportation Planner",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Maintenance Technician II",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Global Product Lead - Reporting & Security",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Service Coordinator II",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Service Coordinator",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Team Leader I - VDL - 1st shift",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Sales Intern",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Represented Products and Ductless Sales Leader",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Service Coordinator",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Manufacturing Engineering Intern",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Mechanical Engineering Co-op",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Electrical Engineering Co-op",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Sr Controls Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Sr Controls Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Technician-Rental Services",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "1st Shift Facilities Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
         }
       ],
       "patents": [],
@@ -548,7 +661,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -630,27 +757,11 @@
           "postedDate": "2026-10-07"
         },
         {
-          "title": "HVAC Controls Service Technician",
-          "state": "FL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-07"
-        },
-        {
           "title": "Level 3 DDC Controls Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-07"
-        },
-        {
-          "title": "Senior Service Account Executive - Controls & Building Automation",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-06"
         },
         {
           "title": "Senior Project Manager - Solar PV & BESS",
@@ -667,46 +778,11 @@
           "postedDate": "2026-10-04"
         },
         {
-          "title": "Senior Project Manager - Solar PV & BESS",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
           "title": "Operations and Maintenance Technician",
           "state": "MI",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Senior Electrical Engineer - Microgrid Controls & Automation Architecture",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-02"
-        },
-        {
-          "title": "Senior Electrical Engineer - Mission Critical Power Systems",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-02"
-        },
-        {
-          "title": "Senior Electrical Engineer - Mission Critical Power Systems",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-02"
-        },
-        {
-          "title": "Senior Electrical Engineer - Microgrid Controls & Automation Architecture",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-02"
         },
         {
           "title": "Administrative Assistant",
@@ -728,13 +804,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-02"
-        },
-        {
-          "title": "Journeyman Electrician - BESS & PV",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
         },
         {
           "title": "Senior Director, Business Development",
@@ -827,25 +896,98 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-30"
+        },
+        {
+          "title": "Construction Site Superintendent",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-09-30"
+        },
+        {
+          "title": "Energy Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-29"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Site Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "HVAC Mechanic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Senior BESS Project Engineer",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-25"
+        },
+        {
+          "title": "Project Development Engineer",
+          "state": "OR",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-25"
         }
       ],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [
-        {
-          "source": "google_news",
-          "title": "Ameresco Secures $42 Million Contract to Modernize Electric and Water Metering Infrastructure for the City of Columbia, MO - AOL.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObzh3WlA2NGMxc3JqV0txQ0RObC1pTkxvRmRSMlFhTmVHREJYLVF3amFxZWNSR25SUGtQRU9LaU9CV1Rla1lsZjVLdTlYdmdlUnZrVG1renlxOWdxMzZGVmRRcmk3Z3hvck1PZmppdEY2eldCM21nMGN2ZnVaWkE2bjlndHJvUmM?oc=5\" target=\"_blank\">Ameresco Secures $42 Million Contract to Mod",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzh3WlA2NGMxc3JqV0txQ0RObC1pTkxvRmRSMlFhTmVHREJYLVF3amFxZWNSR25SUGtQRU9LaU9CV1Rla1lsZjVLdTlYdmdlUnZrVG1renlxOWdxMzZGVmRRcmk3Z3hvck1PZmppdEY2eldCM21nMGN2ZnVaWkE2bjlndHJvUmM?oc=5",
-          "published": "Thu, 08 Oct 2026 12:05:21 GMT"
-        }
-      ],
+      "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -921,7 +1063,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1094,95 +1250,25 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Supplier Quality Engineer - AGT A05",
+          "title": "Operational Improvement Senior Technical Expert",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "IT Support Professional - Manufacturing",
+          "title": "Head - Overhauls, Service Competence Center - Distributed Gas Turbine Fleet, NA",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Field Service Engineer",
+          "title": "Head - Gas Turbine Testing & High-Speed Balancing, Service Competence Center, NA",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Automation Solutions Operations Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Quality Engineer - Manufacturing",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Engineering Coordinator - West Region",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Sr. Building Automation Design Engineer - PLC & Industrial Controls",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Sr. Building Automation Design Engineer - PLC & Industrial Controls",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Senior Fire Sprinkler Inspector",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Advanced Manufacturing Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Customer Stories Lead",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Customer Stories Lead",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Product Marketing Lead - ICX",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         }
       ],
       "patents": [],
@@ -1201,7 +1287,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1239,6 +1339,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-08"
+        },
+        {
+          "title": "Energy Specialist",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
         },
         {
           "title": "Energy Specialist",
@@ -1305,7 +1412,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1365,6 +1486,24 @@
           "tags": [
             "Schools"
           ],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Construction Manager",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-10-06"
+        },
+        {
+          "title": "Project Manager (Construction/MEP)",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
           "postedDate": "2026-10-06"
         },
         {
@@ -1396,22 +1535,6 @@
             "Municipal"
           ],
           "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Senior Building Inspector",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Senior Permit Technician",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-02"
         },
         {
           "title": "Substation Physical Design Engineer",
@@ -1471,6 +1594,15 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-19"
+        },
+        {
+          "title": "Executive Assistant",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-09-18"
         }
       ],
       "patents": [],
@@ -1489,7 +1621,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1533,7 +1679,15 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Plant Operator (Steam and Boiler)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1550,7 +1704,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1639,7 +1807,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1792,222 +1974,238 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Journeyman Lineman",
+          "title": "Onsite Senior Project Manager",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Journeyman Electrician",
+          "title": "AltairStrickland, LLC Job Template - LEAD ESTIMATOR",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Onsite Construction Health and Safety Technician (CHST)",
+          "title": "AltairStrickland, LLC Job Template - PERSONNEL & WORKFORCE LEAD",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "AltairStrickland, LLC",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
+          "title": "EMCOR Services Automated Controls",
           "state": "OH",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
           "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Hill York Service Company",
+          "state": "FL",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Hill York Service Company",
+          "state": "FL",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Dynalectric Company",
+          "state": "OR",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Control Solutions Group, Inc.",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Control Solutions Group, Inc.",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Control Solutions Group, Inc.",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Control Solutions Group, Inc.",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Pipefitter Foreman (RAL AMC WB)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Project Coordinator (DD)",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Assistant Coordinator",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Fire Alarm Technician Trainee",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Fire Alarm Technician Trainee",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Material Handler (GE WEST JEFF)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "HVAC Service Technician",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "2027 Summer Engineering Internship",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "2027 Summer Construction/Project Management Internship",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Electrical Superintendent - Healthcare",
+          "state": "GA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Electrical Foreman - Healthcare",
+          "state": "GA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Data Entry Specialist II (I-CCB)",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         },
         {
-          "title": "ECM Holding Group, Inc.",
-          "state": "WI",
+          "title": "Director of Operations - HVAC",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Shambaugh & Son, L.P.",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
+          "postedDate": "2026-10-09"
         }
       ],
       "patents": [],
@@ -2018,7 +2216,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2085,7 +2297,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2122,27 +2348,139 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Utility Locator",
+          "title": "Conseiller(\u00e8re) Service Client",
           "state": "",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-10-06"
-        },
-        {
-          "title": "Director, Strategic Sourcing (Utility-Scale Renewables)",
-          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-06"
+          "postedDate": "2026-10-08"
+        },
+        {
+          "title": "Process Improvement, Senior Analyst",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Process Improvement, Senior Analyst",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
         },
         {
           "title": "Electrical Engineering Advisor (Substations & Protection)",
           "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-06"
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Commissions Manager_BCCM1M",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Sr Data Engineer_ITDE1I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Director, Strategic Sourcing (Utility-Scale Renewables)",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Physical Security, Crisis Management & Business Continuity Analyst (EVERGREEN)",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Contracts Senior Advisor (Renewable Energy)",
+          "state": "CO",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Congestion Trading Director_TRPC1N",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Head of Data Platform",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "BESS Technical Advisor_BSTC1J",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Commissions Manager_BCCM1M",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Marketing Analyst Senior_MKGM1I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Project Developer Senior (EAST)",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Sales Director_SLDS1O",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Portfolio Management Advisor_MKPS1J",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "BESS Technical Advisor_BSTC1J",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
+        },
+        {
+          "title": "Retail Operations Analyst II",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-07"
         }
       ],
       "patents": [],
@@ -2153,7 +2491,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2233,7 +2585,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2286,6 +2652,20 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Senior Solar Energy Engineer - Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Electrical Engineer, EIT",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
         {
           "title": "Mechanical Engineer Intern/Co-op Summer 2027",
           "state": "",
@@ -2411,6 +2791,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-03"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-03"
         }
       ],
       "patents": [],
@@ -2436,7 +2823,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2472,11 +2873,144 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Project Manager",
-          "state": "",
+          "title": "Design Project Engineer II",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-06"
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Design Engineer II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Project Engineer II",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Design Engineer I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Sr Electrical Estimator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Lead Accountant - Payroll",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Service Estimator I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Project Administrator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Senior Project Manager - Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Project Executive - Mechanical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Purchasing Agent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Design Project Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Project Engineer I - Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Associate Purchasing Agent",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Logistics and Tool Manager",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Maintenance Technician",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Design Engineer I",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Senior Estimator - Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Driver I - Flatbed",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Facilities Coordinator",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-09"
         },
         {
           "title": "Project Engineer II",
@@ -2521,13 +3055,6 @@
           "postedDate": "2026-10-04"
         },
         {
-          "title": "Project Accountant, Lead",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-04"
-        },
-        {
           "title": "Lead Estimator",
           "state": "OH",
           "segment": "Other",
@@ -2554,132 +3081,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-04"
-        },
-        {
-          "title": "Pipefitter Superintendent",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-04"
-        },
-        {
-          "title": "Project Engineer II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-04"
-        },
-        {
-          "title": "Talent Acquisition Partner (Safety)",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-04"
-        },
-        {
-          "title": "Sales Support Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Sales Support Specialist",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Service Account Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Service Account Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Inventory Control Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Boiler Mechanic",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Human Resources Business Partner",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Human Resources Business Partner",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Project Executive",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Business Development Lead",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Design Project Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Safety Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Associate Principal Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Project Engineer II",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
         }
       ],
       "patents": [],
@@ -2712,7 +3113,21 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-94643",
+          "id": "construction-88449",
+          "title": "Education, healthcare projects boosted construction planning in September",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 08 Oct 2026 15:00:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp\" /></div></figure><p>Strength outside the data center boom",
+          "url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        },
+        {
+          "id": "construction-19395",
           "title": "Skanska goes back to school with $418M in education builds",
           "agency": "Construction Dive",
           "type": "Construction Project",
