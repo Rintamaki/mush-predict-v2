@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16",
+  "last_updated": "2026-10-17",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,18 +96,7 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Tube Fitter Apprentice - Weekend Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "HVAC Truck Based Mechanic Apprentice (union)",
+          "title": "Billing & Accounts Receivable Coordinator",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -115,72 +104,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Welder Apprentice - Weekend Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Principal Thermal R&D Engineer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Sprinkler Systems Installer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Fire Installer",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Fitter Welder - Weekend Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Sprinkler Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Fire Project Manager 2",
+          "title": "Director, Network Architecture and Engineering (Remote)",
           "state": "AZ",
           "segment": "Schools",
           "tags": [
@@ -188,10 +115,33 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Fitter Welder Apprentice, 2nd Shift",
+          "title": "Senior Project Manager, Datacenter Growth",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Retail Security Systems Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Data Center Mech Svc Tech Jrny",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Assembler - Weekend Shift",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -199,10 +149,42 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Fire Area service support coordinator 3",
+          "title": "Compressor Design Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Manufacturing Engineer - Weekend Shift",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Fire Sprinkler install Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "HVAC Building Automation Direct Channel Application Sales Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Principal Thermal Systems Product Engineer (onsite)",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -210,126 +192,132 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Security Systems Engineering Manager / Design Manager",
+          "title": "Controls Project Manager 3",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Fire Sprinkler Pipefitter",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Electrical Designer Drafter (onsite)",
+          "title": "Lead HVAC Service Technician \u2013 Commercial & Industrial Buildings",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Electromechanical Assembly Technician",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "HVAC Building Automation Controls Engineer",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Electronic Security Systems Field Engineer \u2013 Manufacturing",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Manufacturing Quality Engineer",
           "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Buyer",
+          "title": "Electronic Security Sales Account Executive",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Lead HVAC Building Automation Controls Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Sustaining Mechanical Engineer (onsite)",
-          "state": "WI",
-          "segment": "Schools",
+          "title": "Electronic Security Systems Field Engineer \u2013 Manufacturing",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Executive Project Manager \u2013 Healthcare Construction",
+          "state": "TX",
+          "segment": "Healthcare",
           "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
+            "Healthcare"
           ],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Global Manufacturing SME, Welding, Brazing & Surface Finishing",
+          "title": "Service Solutions Sales Engineer \u2013 Building Systems",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Data Center HVAC Service Manager",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Global Manufacturing SME, Automation and Robotics",
-          "state": "TX",
+          "title": "Fire Protection Project Manager II",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Warehouse Coordinator",
-          "state": "NC",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Site Supervisor",
+          "title": "HVAC Service & Retrofit Sales Representative \u2013 Commercial & Industrial Buildings",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Painter - Weekend Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "HVAC Service Mechanical Team Project Manager/Lead",
-          "state": "NC",
+          "title": "Senior Building Automation & HVAC Controls Project Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Insulator - Weekend Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Pressure Tester - Weekend Shift",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Senior Business Systems Analyst (onsite)",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-16"
+          "title": "Journeyman CNC & Manual Machinist \u2013 Manufacturing",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
         }
       ],
       "patents": [],
@@ -355,7 +343,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -369,7 +357,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -470,6 +458,146 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Contracting Project Specialist",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Customer Sales Associate",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Warehouse Technician",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Dealer Warranty Support Representative",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Sr. Controls Technician -Towson, MD",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Customer Sales Associate",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Receiving Material Handler - 1st Shift",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Facility Maintenance Helper - 2nd Shift",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Electrical Foreman",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Heavy Equipment Operator -2nd Shift",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Application Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "IMP Fitter",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Facility Maintenance Technician -2nd Shift",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Supervisor-Plant",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Sr Controls Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Assembler",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Associate Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Production Supervisor",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Skilled Transport Refrigeration Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Sr. IT Product Analyst",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
           "title": "Technical Lead, Gemini Enterprise",
           "state": "",
           "segment": "Other",
@@ -524,139 +652,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Rentals Sales Leader",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Rentals Sales Leader",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Rentals Sales Leader",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Service Coordinator II",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Remote Support Specialist (RSS)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Turnkey Developer -Philadelphia",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Senior Data Scientist",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Sr. IT Product Analyst",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "VP Engineering and Technology",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Technical Lead, Gemini Enterprise",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Area Services Manager",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Service Project Administrator",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Controls Technician",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Remote Support Specialist (RSS)",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Materials Project Manager",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Controls Technician Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Supervisor-Quality Inspection",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Senior Data Scientist",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
         }
       ],
       "patents": [],
@@ -667,7 +662,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -681,7 +676,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -742,6 +737,34 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Senior Electrical Engineer - Mission Critical Power Systems",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Site Safety & Health Officer",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Senior Electrical Engineer - Microgrid Controls & Automation Architecture",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Energy Engineering Co-op",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Other",
@@ -760,15 +783,6 @@
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "HVAC Controls Service Technician",
-          "state": "FL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
           "postedDate": "2026-10-16"
         },
         {
@@ -808,17 +822,6 @@
           "postedDate": "2026-10-14"
         },
         {
-          "title": "HVAC Service Controls Technician",
-          "state": "FL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-14"
-        },
-        {
           "title": "BESS Electrician",
           "state": "",
           "segment": "Schools",
@@ -835,13 +838,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-14"
-        },
-        {
-          "title": "Site Origination Analyst - Solar and BESS",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-13"
         },
         {
           "title": "Operations and Maintenance Technician - Renewable Natural Gas",
@@ -863,13 +859,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-11"
-        },
-        {
-          "title": "Business Developer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-10"
         },
         {
           "title": "Marketing Co-op",
@@ -907,13 +896,6 @@
           "postedDate": "2026-10-04"
         },
         {
-          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-04"
-        },
-        {
           "title": "Senior Energy Engineer",
           "state": "",
           "segment": "Schools",
@@ -923,13 +905,6 @@
             "University"
           ],
           "postedDate": "2026-10-02"
-        },
-        {
-          "title": "Journeyman Electrician - BESS & PV",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
         },
         {
           "title": "Construction Quality Control Manager",
@@ -969,6 +944,27 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-30"
+        },
+        {
+          "title": "Project Controls Scheduler",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-30"
+        },
+        {
+          "title": "Regional Safety Manager - Western US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-30"
+        },
+        {
+          "title": "Sr. Client Success Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-30"
         }
       ],
       "patents": [],
@@ -1001,7 +997,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1015,7 +1011,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1082,7 +1078,66 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Supply Chain Project Lead",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Quality Associate I- Inspector",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Quality Control Inspector",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Digital Sales Specialist",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Principal, ERP Architect",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Electrical Controls Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Solution Architect - Strategic Accounts Sales, US Digital Power",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Wiring Associate",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-10-16"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -1091,7 +1146,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1105,7 +1160,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1276,7 +1331,40 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Senior Consumables Engineer II",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Pharmaceutical Lab Technician",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Account Manager - Russelectric Field Service, Northeast/ Mid-Atlantic",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Account Manager - Russelectric Field Service, Northeast/ Mid-Atlantic",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1293,7 +1381,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1307,7 +1395,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1345,13 +1433,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Energy Specialist",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-07"
         },
         {
           "title": "Energy Specialist",
@@ -1418,7 +1499,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1432,7 +1513,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1468,11 +1549,28 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Verification Specialist",
-          "state": "",
+          "title": "Senior Building Inspector",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-13"
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Code Enforcement Officer",
+          "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Municipal"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Code Enforcement Officer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
         },
         {
           "title": "Assistant Construction Manager",
@@ -1501,22 +1599,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-10"
-        },
-        {
-          "title": "Senior Plans Examiner",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-10"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-08"
         },
         {
           "title": "Senior Combination Building Inspector",
@@ -1608,15 +1690,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-19"
-        },
-        {
-          "title": "Executive Assistant",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-09-18"
         }
       ],
       "patents": [],
@@ -1635,7 +1708,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1649,7 +1722,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1695,6 +1768,20 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "General Maintenance Technician - Temporary Assignment",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Senior Business Development Manager",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
           "title": "Senior Account Executive",
           "state": "CO",
           "segment": "Other",
@@ -1707,6 +1794,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-09"
+        },
+        {
+          "title": "Appliance Repair Technician",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-23"
         }
       ],
       "patents": [],
@@ -1725,7 +1819,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1739,7 +1833,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1828,7 +1922,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1842,7 +1936,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1910,6 +2004,14 @@
           "segment": "University",
           "agency": "Department of Commerce",
           "description": "O&M SERVICES, FIRST CLASS STATIONARY ENGINEERS. NIST CAMPUS LOCATED IN GAITHERSBURG, MARYLAND."
+        },
+        {
+          "date": "2026-10-15",
+          "value": 267735.96,
+          "state": "DC",
+          "segment": "University",
+          "agency": "General Services Administration",
+          "description": "BPA CALL FOR CUP 1 & CUP 2 BUILDING AUTOMATION SYSTEM OPERATIONS AND REPROGRAMMING AT ST ELIZABETHS WEST CAMPUS."
         },
         {
           "date": "2025-03-14",
@@ -1995,223 +2097,220 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "HVAC Service Sales/Project Manager",
+          "title": "Sr. Electrical Engineer",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "HVAC Service Sales/Project Manager",
+          "title": "Machine Operator / Welder - Fabrication Shop - 2nd Shift",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Facility Coordinator",
+          "title": "BAS Controls Design Engineer",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Sr. Superintendent - Rigging",
+          "title": "BAS Controls Design Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Cutter - 2nd Shift",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "BAS Service Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "BAS Service Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Delivery Driver - Class A CDL",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Human Resources Co-Op - Spring 2027",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Sr. Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Asset Management Analyst (HQ)",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Commercial Facilities Maintenance Technician",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Assistant Project Manager",
+          "title": "Superintendent - Civil",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Pipe Welder (WILM CORN EW)",
+          "title": "Warehouse Receiving",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Bundler",
+          "title": "Rigging Foreman (RAL AISIN NW)",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Logistics Specialist (DD)",
-          "state": "VA",
+          "title": "Gibson Electric Co., Inc. - BIM/VDC Coordinator",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "EMCOR Services Team Mechanical, Inc. Senior Project Manager",
+          "state": "IL",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Electrical Helper (GBORO AMC RB)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Senior Electrical Project Manager - Data Center Construction",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Assistant Electrical Project Manager (Engineering)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Electrical Foreman (GBORO AMC RB)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Electrician (GBORO AMC RB)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Safety Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "HVAC Technician",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Procurement / Buyer",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "PPM Carpenter Helper/Laborer (COL) 6.8",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Senior Controller",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Heavy Equipment Operator (COL) 7.2",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "BAS Project Assistant",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "1st Shift Fabricator",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "2nd Shift Fabricator",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "2nd Shift Welder",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Rigger (COLA ENV DP)",
+          "title": "BAS Controls Design Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Senior Plumbing Engineer",
+          "title": "Payroll & Operations Administrator",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Part-Time Warehouse Material Assembler",
+          "title": "Payroll & Operations Administrator",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Part-Time Warehouse Material Assembler",
+          "title": "Payroll & Operations Administrator",
           "state": "WI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Part-Time Warehouse Material Assembler",
+          "title": "CAD Designer I",
           "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "General Manager, New England",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-16"
+          "postedDate": "2026-10-17"
         },
         {
-          "title": "Safety Specialist",
+          "title": "BAS Controls Design Engineer",
           "state": "",
           "segment": "Other",
           "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "BAS Service Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Hanger - Fabrication Shop",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-17"
+        },
+        {
+          "title": "Jr. Buyer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-10-16"
         },
         {
-          "title": "F & G Mechanical Corporation - Project Manager",
-          "state": "NJ",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
+          "title": "Welder",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Fitter",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "EMCOR Services Automated Controls",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
           "postedDate": "2026-10-16"
         }
       ],
@@ -2223,7 +2322,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2237,7 +2336,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2297,7 +2396,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2311,7 +2410,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2346,15 +2445,7 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Conseiller(\u00e8re) Service Client",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
@@ -2363,7 +2454,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2377,7 +2468,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2419,37 +2510,12 @@
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
-      "lobbyingActivity": [
-        {
-          "date": "2025",
-          "topics": [
-            "Energy/Nuclear"
-          ],
-          "bills": [],
-          "amount": 0.0
-        },
-        {
-          "date": "2025",
-          "topics": [
-            "Natural Resources"
-          ],
-          "bills": [],
-          "amount": 0.0
-        },
-        {
-          "date": "2025",
-          "topics": [
-            "Natural Resources"
-          ],
-          "bills": [],
-          "amount": 0.0
-        }
-      ],
+      "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2463,7 +2529,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2516,6 +2582,16 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Senior Associate (Project Manager) - Electrical",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-17"
+        },
         {
           "title": "Mechanical Engineer",
           "state": "FL",
@@ -2651,13 +2727,6 @@
           "postedDate": "2026-10-13"
         },
         {
-          "title": "Construction Administrator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-12"
-        },
-        {
           "title": "Associate, Mechanical",
           "state": "NY",
           "segment": "Schools",
@@ -2694,6 +2763,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-12"
+        },
+        {
+          "title": "Construction Administrator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-12"
         }
       ],
       "patents": [],
@@ -2712,7 +2788,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2726,7 +2802,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2764,13 +2840,6 @@
         {
           "title": "Plumbing Senior Designer",
           "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-16"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-16"
@@ -2939,6 +3008,13 @@
           "postedDate": "2026-10-04"
         },
         {
+          "title": "Talent Acquisition Partner (Safety)",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-04"
+        },
+        {
           "title": "Business Development Lead",
           "state": "VA",
           "segment": "Other",
@@ -3011,7 +3087,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-50263",
+          "id": "construction-45739",
           "title": "Turner-FH joint venture breaks ground on Colorado hospital",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3025,7 +3101,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-84237",
+          "id": "construction-45949",
           "title": "University of Tennessee breaks ground on $350M health studies build",
           "agency": "Construction Dive",
           "type": "Construction Project",
