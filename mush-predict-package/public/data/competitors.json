@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,47 +96,47 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Suppression Service Technician",
+          "title": "BEST Technical Sales Trainee - Equipment - Cincinnati, OH",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Fire Suppression Systems Technician",
           "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Security & Fire Project Manager",
-          "state": "CA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "HVAC Account Representative",
-          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-27"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Marketing Director, Mission Critical Industries",
-          "state": "AZ",
+          "title": "BEST Technical Sales Trainee - Equipment - Boston, MA",
+          "state": "MA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-27"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "IT Operations Engineer",
+          "title": "BEST Technical Sales Trainee - Equipment - Greenville, NC",
+          "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "BEST Technical Sales Trainee - Equipment - New Hampshire/Maine",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -144,12 +144,164 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-10-27"
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "BEST Technical Sales Trainee - Equipment- Atlanta, GA",
+          "state": "GA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Brazer I (1st Shift)",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "BEST Technical Sales Trainee - Equipment - Rocky Hill, CT",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Installation Coordinator",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Installation Coordinator",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "BEST Technical Sales Trainee - Equipment - Providence, RI",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "BEST Technical Sales Trainee - Equipment - Houston, TX",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "HVAC Mechanical Service Apprentice (union)",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Assembler, 2nd Shift",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "HVAC Truck Based Service Manager",
+          "state": "IL",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Retail Security Systems Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "HVAC Data Center Chiller Service Journeyman (UN)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Fire Project Manager",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "R&D Mechanical Engineer (onsite)",
+          "state": "WI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-28"
         }
       ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Johnson Controls Expands OpenBlue with Artificial Intelligence to Optimize Buildings - ACR Latinoam\u00e9rica",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbVNacEc5UWQwajNKbTBxOC1yc3ZjSmEteWpuWFQ5SHk2dU9OSXZ2TEFCMFhnYlgxbjBPbDhYMzEyT21jVktUVmgtYjhnX3lSSWhJN3h3YVlEbGN5Yzd3S0I0ekwzYlFtNWhjVzVRN3J4TjlOT3BiZlFpZ1RMWWdVTDFlQmktQTVqZ3o1Z3V4aTFsX3J2MTA4dmpWMTV0TExwQy1jYXpZc3BTMjFIWWNpcEhaNFcyQ0JZTH",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbVNacEc5UWQwajNKbTBxOC1yc3ZjSmEteWpuWFQ5SHk2dU9OSXZ2TEFCMFhnYlgxbjBPbDhYMzEyT21jVktUVmgtYjhnX3lSSWhJN3h3YVlEbGN5Yzd3S0I0ekwzYlFtNWhjVzVRN3J4TjlOT3BiZlFpZ1RMWWdVTDFlQmktQTVqZ3o1Z3V4aTFsX3J2MTA4dmpWMTV0TExwQy1jYXpZc3BTMjFIWWNpcEhaNFcyQ0JZTHlmRHdueS1QNnZnSFNVVmVlM2dPeXRyWlhPOTNlY2IzQ0tfTEg5VEsxWDJtWVdRNmdnczNNZm5SWTFNM2I0?oc=5",
+          "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+        },
         {
           "source": "google_news",
           "title": "How OpenBlue is modernizing energy and equipment management at a historic research campus - Johnson Controls",
@@ -163,7 +315,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -177,7 +357,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -186,20 +366,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -292,207 +458,214 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Account Manager",
+          "title": "Warehouse Technician",
           "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-27"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "HVAC Apprentice Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "HVAC Technician",
+          "title": "HVAC Technician - Rental Services",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "HVAC Technician Apprentice",
+          "title": "Turnkey Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Executive Project Manager - Data Centers",
-          "state": "MI",
+          "title": "Executive Assistant",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Client Service Representative",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
         },
         {
           "title": "Controls Technician",
           "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Assembler I (Large Truck)",
+          "title": "Controls Technician",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "VP, Tech & Innovation",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "General Counsel, Residential Americas",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Services Operations Leader",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Team Lead 1st Shift - P5",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Executive Project Manager - Data Centers",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Project Manager Equipment III",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Project Manager Equipment III",
+          "state": "WI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Team Leader 1st Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "HVAC Field Service Apprentice Technician",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "TCTCP Non-Union",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Service Controls Tech",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Sr. HVAC Technician",
+          "title": "Maintenance Electrical Technician- PLC/ Control (1st Shift)",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Maintenance Technician (3rd Shift)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Service Estimator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Service Estimator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Service Estimator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
         },
         {
           "title": "HVAC Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Sr. HVAC Field Technician",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Sr. Controls Technician",
+          "title": "HVAC Technician Apprentice",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Service Parts and Supply Coordinator",
-          "state": "IL",
+          "title": "VRF Ductless Technical Specialist",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "HVAC Technician -Mechanicsburg, PA",
+          "title": "Intern-Technician - Mechanicsburg, PA",
           "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Assembler I (Large Truck)",
-          "state": "",
+          "title": "Project Administrator",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Project Administrator- Core",
-          "state": "",
+          "title": "Warehouse Technician",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-25"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Senior Controls Project Manager",
-          "state": "VA",
+          "title": "Service Estimator",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-25"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Office Manager",
-          "state": "MI",
+          "title": "Account Manager",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-25"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Rentals Account Manager",
-          "state": "MI",
+          "title": "Project Administrator",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-25"
+          "postedDate": "2026-10-28"
         },
         {
-          "title": "Energy Services Strategic Sales - Central US",
-          "state": "OH",
+          "title": "Account Manager",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Digital Business Development Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Part Time Sales Estimator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Digital Business Development Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Controls Estimator",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Digital Business Development Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Project Administrator- Core",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Rental Sales Leader, North America",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
+          "postedDate": "2026-10-28"
         }
       ],
       "patents": [],
@@ -503,7 +676,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -517,7 +718,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -526,20 +727,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -592,18 +779,25 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Construction Project Manager",
+          "title": "Associate HVAC Mechanic",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Operations and Maintenance Technician",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-27"
         },
         {
-          "title": "Regional Safety Manager - Western US",
+          "title": "Construction Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-25"
+          "postedDate": "2026-10-27"
         },
         {
           "title": "Regional Safety Manager - Western US",
@@ -625,6 +819,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-25"
+        },
+        {
+          "title": "Solar Electrician",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-24"
         },
         {
           "title": "Sr. Construction Project Manager",
@@ -653,13 +854,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-22"
-        },
-        {
-          "title": "Senior Service Account Executive - Controls & Building Automation",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-21"
         },
         {
           "title": "Site Safety & Health Officer (SSHO)",
@@ -787,13 +981,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-11"
-        },
-        {
-          "title": "Marketing Co-op",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
         }
       ],
       "patents": [],
@@ -801,23 +988,16 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Ameresco and Roseburg Urban Sanitary Authority Complete $1M Solar and Battery Storage Project in Oregon - citybiz",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdHZfT0JPOUtCVEgxdjZUVkpZa1ZqdEJKQXFFYnZzY19RUmlxRDd5eEo1OXByVVZ0aXcxME5vTjAyNFZyZjlIb2RHNDh2cmVWZm5QeWlIR3NnZ3g3S09nQWZPOTFndTZCaG9JYnc0YzEydFp4RkZrbmcyMmxPRUtyNkhhZE5pVHNnZ05LVl9iUlc1S2l4NkVaVlNxZ05PUE1vOUxWczlHalpYYjdmd0FQSVJHRUdLMTBwaz",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdHZfT0JPOUtCVEgxdjZUVkpZa1ZqdEJKQXFFYnZzY19RUmlxRDd5eEo1OXByVVZ0aXcxME5vTjAyNFZyZjlIb2RHNDh2cmVWZm5QeWlIR3NnZ3g3S09nQWZPOTFndTZCaG9JYnc0YzEydFp4RkZrbmcyMmxPRUtyNkhhZE5pVHNnZ05LVl9iUlc1S2l4NkVaVlNxZ05PUE1vOUxWczlHalpYYjdmd0FQSVJHRUdLMTBwazRRM2V5X2luVGJwVjMwNG1yWDU3eFgzN0FJOVR1b1U?oc=5",
+          "title": "Roseburg Urban Sanitary Authority and Ameresco Celebrate Completion of Energy Infrastructure Project - Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVdhNEtLTEczYTZ2dl9ueTlObzhRdGZyS1pxd3BwYmVwYWRwVVR3czlxRkl3bVA5SHpFVjVlQlJ3RDA1VXVpcHhTanVZeGhLY1FBcS13cGJxSVhPMHJyZW1iRi04R1lpNHgtWDRiNXo4ZlAtUUFkUUpnd3dUS2hxT3pLcE5PRHdFbUNvUnE3UUhCNGJkWWI3Z3NUR3hCYWwt?oc=5\" target=\"_blank\">Roseburg Ur",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVdhNEtLTEczYTZ2dl9ueTlObzhRdGZyS1pxd3BwYmVwYWRwVVR3czlxRkl3bVA5SHpFVjVlQlJ3RDA1VXVpcHhTanVZeGhLY1FBcS13cGJxSVhPMHJyZW1iRi04R1lpNHgtWDRiNXo4ZlAtUUFkUUpnd3dUS2hxT3pLcE5PRHdFbUNvUnE3UUhCNGJkWWI3Z3NUR3hCYWwt?oc=5",
           "published": "Wed, 14 Oct 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
-          "title": "Roseburg Urban Sanitary Authority and Ameresco Celebrate Completion of Energy Infrastructure Project - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0xfSF9EOVlOMlZPTlU2MGxPU3pKYWJCdGRfX1VPUnJ4WlJqQWZ4eEN1MHhYVTRqUjIyYkFrMGxsRWw0Ti1zN2JCN1FvZ2Y3OWI1TmtqbmVUckV0VlZGRkRSNVZGUnEzQVBoZjNfRlhaRGxFWFV3dmpqMm1ycW9CMlpCNHN3WEU5VVlXN3BiV294X2xPZGdRLUxvQnNjN2R2NmpoVjBYT2F0MVkwZXZ0NGt1VUZYNjMtaz",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0xfSF9EOVlOMlZPTlU2MGxPU3pKYWJCdGRfX1VPUnJ4WlJqQWZ4eEN1MHhYVTRqUjIyYkFrMGxsRWw0Ti1zN2JCN1FvZ2Y3OWI1TmtqbmVUckV0VlZGRkRSNVZGUnEzQVBoZjNfRlhaRGxFWFV3dmpqMm1ycW9CMlpCNHN3WEU5VVlXN3BiV294X2xPZGdRLUxvQnNjN2R2NmpoVjBYT2F0MVkwZXZ0NGt1VUZYNjMtazlRSDhidEN6YjZTMTduLWpfNEtHd21jS2VaYnBwUXRhUmJnR0dwaGttUjZoVjQ4YXZvREZR?oc=5",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Roseburg Urban Sanitary Authority and Ameresco to Host Ribbon Cutting Celebrating Energy Infrastructure Project - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMERyXzg4M25FLVVPYnhMeEN4NW1rRnpKZy1qZ3JwODViS3dfQV9TVllIQlFwM2NYeXJVbTdvcU9Sd0laemhjamUxVUozUG1zZXl4WlkyWl9aczJqM0VUMDZqNzhZOVhiVE5uUFdnc2M1clFDSlhJUUxSVUo4MGcwQk4xZXNXcFp0Qmt2cHNQWTQ3Tkg5THV0RWdNcktIRGI2YUM0RTAzbWxCOW1wT2gxNERSUFotZlplVD",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMERyXzg4M25FLVVPYnhMeEN4NW1rRnpKZy1qZ3JwODViS3dfQV9TVllIQlFwM2NYeXJVbTdvcU9Sd0laemhjamUxVUozUG1zZXl4WlkyWl9aczJqM0VUMDZqNzhZOVhiVE5uUFdnc2M1clFDSlhJUUxSVUo4MGcwQk4xZXNXcFp0Qmt2cHNQWTQ3Tkg5THV0RWdNcktIRGI2YUM0RTAzbWxCOW1wT2gxNERSUFotZlplVDZ0UWxpcGc3MV9oR1hxZDctR1JxZTR5Y3ppdGgxZmpxZDlIX2I0V3F4d2ZrZmpGRkE5N2ZsTVBVOUtjQlpXQmhHY3k?oc=5",
+          "title": "Solar and batteries are expected to cover nearly all a wastewater office's power, with backup lasting over a day. - Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONGhuV0YzYmpKTGlCWUlLX0swVDZUMV8xLVJ2RmVvRmVjQ3dEcE1UVTRnNDJyMEpVenY4b19IVWxEMUlfNmN2X2ZLUlRJSFhsOGJTNUZEVkktV0NsLVhaNHc1RlYwTk1TZU9wSk9ocW1mXy01bHRWdUx2WUdwVkVrNmVwRzc0alUzMWh4MTBBT19xdVNqRTB4N1JyRXdQWHF6aTVaY1AwVkhsS1BHQlY0NXdMWFlyX2M?oc",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONGhuV0YzYmpKTGlCWUlLX0swVDZUMV8xLVJ2RmVvRmVjQ3dEcE1UVTRnNDJyMEpVenY4b19IVWxEMUlfNmN2X2ZLUlRJSFhsOGJTNUZEVkktV0NsLVhaNHc1RlYwTk1TZU9wSk9ocW1mXy01bHRWdUx2WUdwVkVrNmVwRzc0alUzMWh4MTBBT19xdVNqRTB4N1JyRXdQWHF6aTVaY1AwVkhsS1BHQlY0NXdMWFlyX2M?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT"
         }
       ],
@@ -826,7 +1006,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -840,7 +1048,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -849,20 +1057,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -923,99 +1117,90 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Senior Engineer II, System Architect (Pre-sales)",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Senior Engineer II, System Architect (Pre-sales)",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Director, Innovation and Technology Management",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Procurement League Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "C&SP and Lifesciences Segments Offer Manager - Digital Energy Solutions",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Head of Revenue Operations",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Field Service Representative",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Design Engineering Lead",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Territory Account Executive",
-          "state": "MA",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Returns Management Specialist",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools"
-          ],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Building Automation Technician II",
+          "title": "Healthcare Strategic Account Executive",
           "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-27"
         },
         {
-          "title": "Shipping and Receiving Worker",
+          "title": "Field Channel Sales - Contractor Development",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Electrical Technician Development Program - July 2027",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-27"
         },
         {
-          "title": "Procurement League Leader",
+          "title": "Industrial Territory Sales Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Software Test Engineer",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-26"
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Industrial Electrician / Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Technical Writer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Senior Principal, Solution Architect - Thermal system",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Field Service Representative - Power Distribution/Electrical",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Senior Engineer I, Electrical Systems Design",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Electrical Technician Development Program - July 2027",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
+        {
+          "title": "Veteran Skillbridge Industrial Channel Sales Development Program",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
         }
       ],
       "patents": [],
@@ -1026,7 +1211,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1040,7 +1253,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1049,20 +1262,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -1234,7 +1433,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1248,7 +1475,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1257,20 +1484,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -1355,7 +1568,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1369,7 +1610,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1378,20 +1619,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -1417,192 +1644,7 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Building Inspector",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Verification Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Senior Building Inspector",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Senior Professional Land Surveyor",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-21"
-        },
-        {
-          "title": "Assistant Construction Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-21"
-        },
-        {
-          "title": "Civil Engineer Land Development",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-18"
-        },
-        {
-          "title": "Office Coordinator",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-18"
-        },
-        {
-          "title": "Permit Technician",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-18"
-        },
-        {
-          "title": "Senior Building Inspector",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-17"
-        },
-        {
-          "title": "Code Enforcement Officer",
-          "state": "WI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Municipal"
-          ],
-          "postedDate": "2026-10-17"
-        },
-        {
-          "title": "Code Enforcement Officer",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-11"
-        },
-        {
-          "title": "Verification Aide",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-11"
-        },
-        {
-          "title": "Verification Aide",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-10"
-        },
-        {
-          "title": "Senior Combination Building Inspector",
-          "state": "AZ",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Technical Aide",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-04"
-        },
-        {
-          "title": "Senior Building Inspector",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Senior Permit Technician",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-03"
-        },
-        {
-          "title": "Substation Physical Design Engineer",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "HVAC Analyst",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-01"
-        },
-        {
-          "title": "Code Enforcement Officer",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-30"
-        },
-        {
-          "title": "Senior Energy Engineer",
-          "state": "NY",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-09-30"
-        },
-        {
-          "title": "Service Install Administrator",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-25"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-24"
-        },
-        {
-          "title": "Cash Application Specialist",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-09-19"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -1619,7 +1661,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1633,7 +1703,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1642,20 +1712,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -1691,124 +1747,52 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "General Maintenance Technician - Temporary Assignment",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Account Executive",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Senior Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Plant Operator (Steam and Boiler)",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Preconstruction Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Construction Project Manager",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Controls and Maintenance Supervisor",
-          "state": "",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Senior Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "General Consideration",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Performance Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Senior Project Manager - Water/Wastewater",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Appliance Repair Technician",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Senior Account Executive",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Senior Business Development Manager",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
-          "title": "Maintenance Electrician",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Sustainability Partners and Energy Systems Group Help Albuquerque Close the Gap on its 100% Renewable Energy Goal - PR Newswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUUhsR1BPMXFaUTR6WjVodnBzMUVjU0JxcmdWdS1KSXlsVmoxNGRCMi1hNTkyS096NV85RndFMlVzVDJUMzZGVEZDVDV6M1BkVEV3VllGNnVPaDljQ21QMi1oNllWUklxcnFYNmhrbjVTdklOTVdKU05zLVFsZHU3UlhVT01WYWF0aDREUGhhWUh3bG5kdk5DbFFKOVN3STRPOG5ya2FkNHV0TWNic0NJSWVoUnJjcG9aTl",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUUhsR1BPMXFaUTR6WjVodnBzMUVjU0JxcmdWdS1KSXlsVmoxNGRCMi1hNTkyS096NV85RndFMlVzVDJUMzZGVEZDVDV6M1BkVEV3VllGNnVPaDljQ21QMi1oNllWUklxcnFYNmhrbjVTdklOTVdKU05zLVFsZHU3UlhVT01WYWF0aDREUGhhWUh3bG5kdk5DbFFKOVN3STRPOG5ya2FkNHV0TWNic0NJSWVoUnJjcG9aTlNWeml1OUZ1ejJYWHhxMkJib3BhN2RveFBiaGw0a0F1SFJqRk1uMFZUZ2FWUklnQWE5YW50b1liTFdJWmVpd21VUG8?oc=5",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1822,7 +1806,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1831,20 +1815,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -1925,7 +1895,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1939,7 +1937,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1948,20 +1946,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -2112,213 +2096,7 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Harry Pepper & Associates, Inc.",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Ohmstede Ltd.",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "EMCOR Group, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Aircond Corporation",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Southern Industrial Constructors, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "University Mechanical & Engineering Contractors, Inc.",
-          "state": "CA",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "John W. Danforth Company",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "Building Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Business Development Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Assistant Service Operations Coordinator, Building Management Systems (BMS)",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Business Development Associate",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Warehouse Driver / Worker",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Billing Associate - HVAC",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Electrician (WILM SW)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Electrical Foreman (WILM ROV KM)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Assistant Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Electrician (WILM ROV KM)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Millwright Helper (GBORO TOY RB)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Millwright (GBORO TOY RB)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Electrical Helper (WILM ROV KM)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Commercial Facilities Maintenance Technician",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -2335,7 +2113,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2349,7 +2155,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2358,20 +2164,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -2416,7 +2208,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2430,7 +2250,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2439,20 +2259,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -2488,7 +2294,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2502,7 +2336,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2511,20 +2345,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -2588,7 +2408,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2602,7 +2450,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2611,20 +2459,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -2669,6 +2503,20 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Mechanical Designer",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
+        {
+          "title": "Sr. Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-28"
+        },
         {
           "title": "Solar Engineer Intern/Co-op Spring 2027 - Energy Solutions",
           "state": "VA",
@@ -2843,24 +2691,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-23"
-        },
-        {
-          "title": "MEP Construction Superintendent",
-          "state": "NJ",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-23"
-        },
-        {
-          "title": "Senior BIM Coordinator",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-23"
         }
       ],
       "patents": [],
@@ -2886,7 +2716,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2900,7 +2758,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2909,20 +2767,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
@@ -2949,6 +2793,13 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Recent Grad/Alumni - Safety Coordinator, Associate",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-27"
+        },
         {
           "title": "Business Analyst, Solutions Support",
           "state": "CA",
@@ -3129,13 +2980,6 @@
           "postedDate": "2026-10-22"
         },
         {
-          "title": "Project Engineer I",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-19"
-        },
-        {
           "title": "Project Engineer II",
           "state": "PA",
           "segment": "Other",
@@ -3148,10 +2992,10 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Southland Industries to Showcase Energy Services in Anaheim - Construction Owners",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGZRLU1nMWpIRmhMYUVIZ2ZUTkZRalZuSThCNnl1NlJfWkdkV2cxX21iaFpMZ0xEZTZXTFgzdGNQMEVKSnRTWDkxcFBHN3NZT0VubDdCREVkNFJwSWdFbk1Ga0JwN21CaC1kUV9RcWxvWWxBYnA2bEZZaEdidmdGaTAzMldobUZNLXhmUjlmZVFzTmFYVXhKS2xQSG9WdzBFRWI1RzZXN2F3cmszMUMtODAxcU1iMUp0Uj",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGZRLU1nMWpIRmhMYUVIZ2ZUTkZRalZuSThCNnl1NlJfWkdkV2cxX21iaFpMZ0xEZTZXTFgzdGNQMEVKSnRTWDkxcFBHN3NZT0VubDdCREVkNFJwSWdFbk1Ga0JwN21CaC1kUV9RcWxvWWxBYnA2bEZZaEdidmdGaTAzMldobUZNLXhmUjlmZVFzTmFYVXhKS2xQSG9WdzBFRWI1RzZXN2F3cmszMUMtODAxcU1iMUp0UjRsVWJB?oc=5",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+          "title": "Southland Industries Names Jim Meacham CEO, Ted Lynch Executive Chairman - Contractor Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMi0ySEM5T0lEbzRBcXBxeVFud0o5U1Q4NjBLWWs2Tk9ncERWVTJzWnU5QjhRQjZfNjhGUHRKWFJxQVZRTkE3bXdVUUZZVjJKYV9NSDFMVXFHVkpseTg1RUJtdHV2Q3dFOGZkcko2Y050WUhscUItMWhGM0NQempVamZneHVkYkhub0JGMDJGQmx5cURHcmc4YUxJZ0F4VGRNSElhTHNwbnNLb2dYUUE0SlZKQy1TWE9iel",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMi0ySEM5T0lEbzRBcXBxeVFud0o5U1Q4NjBLWWs2Tk9ncERWVTJzWnU5QjhRQjZfNjhGUHRKWFJxQVZRTkE3bXdVUUZZVjJKYV9NSDFMVXFHVkpseTg1RUJtdHV2Q3dFOGZkcko2Y050WUhscUItMWhGM0NQempVamZneHVkYkhub0JGMDJGQmx5cURHcmc4YUxJZ0F4VGRNSElhTHNwbnNLb2dYUUE0SlZKQy1TWE9ielhpQXExN2FMLUlRTEg2RjVR?oc=5",
+          "published": "Tue, 27 Oct 2026 20:59:44 GMT"
         },
         {
           "source": "google_news",
@@ -3159,6 +3003,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmR1QkdJRkNBbTdhSGU3Y1BGakdueGM3VTlwWWVPTmVnTHEtRURhZ0k3alNhM2l2OWtxdTJMajdUUjF3ZVM4TnRIa1lkeGZVbTR1UDlrYTB5RFVSaFZtLVFNQzh6YXRTcjhZTlcwdjNfMVhadXJtaExkM0IzczBNbW13bGk1UEo1Yi05ODB1NEdha1drRDE0V2NfVnRGMFh5ODB4NGc5ZDg4SUg0dEN1dkxHYlhhZnZFcX",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmR1QkdJRkNBbTdhSGU3Y1BGakdueGM3VTlwWWVPTmVnTHEtRURhZ0k3alNhM2l2OWtxdTJMajdUUjF3ZVM4TnRIa1lkeGZVbTR1UDlrYTB5RFVSaFZtLVFNQzh6YXRTcjhZTlcwdjNfMVhadXJtaExkM0IzczBNbW13bGk1UEo1Yi05ODB1NEdha1drRDE0V2NfVnRGMFh5ODB4NGc5ZDg4SUg0dEN1dkxHYlhhZnZFcXRQdEIzVU1oZw?oc=5",
           "published": "Thu, 08 Oct 2026 15:42:19 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Lessons learned from rebuilding the Pentagon after 9/11 - Facilities Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3RqM3BEbXEzZDlHZXJRVXp6S0VNTENKaGN5ZTRKVUhueFZvYWRVeHFMajNRbHJPZW9CbURqV3p6WW5HVDdDQ2dSckNKZGNUTVN6dmU2VFZWZFMxR2FlakNBcVNicmJyNkhlTS1HNnZOZFpOVVVaR2stbzVJa0taZEJQSDZfTjhscEJQT0gwcFpScGs1ZXV2OExnOVF6aEk?oc=5\" target=\"_blank\">Lessons lear",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3RqM3BEbXEzZDlHZXJRVXp6S0VNTENKaGN5ZTRKVUhueFZvYWRVeHFMajNRbHJPZW9CbURqV3p6WW5HVDdDQ2dSckNKZGNUTVN6dmU2VFZWZFMxR2FlakNBcVNicmJyNkhlTS1HNnZOZFpOVVVaR2stbzVJa0taZEJQSDZfTjhscEJQT0gwcFpScGs1ZXV2OExnOVF6aEk?oc=5",
+          "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - Contractor Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRm",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRmlVcEpEeENtUEFtSEd1el9JZzQ?oc=5",
+          "published": "Tue, 22 Sep 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -3173,7 +3031,35 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-88306",
+          "id": "construction-44796",
+          "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Wed, 28 Oct 2026 09:40:00 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp\" /></div></figure><p>The new manufacturing and engineering center will exp",
+          "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-77746",
+          "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Tue, 27 Oct 2026 16:12:08 -0400",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGluYXJ5LVNjaWVuY2UtYW5kLUVuZ2luZWVyaW5nLUJ1aWxkaW5nX0J5LUR1c3Rpbi1GcmFfY2gxOTMwTy5qcGc=.webp\" /></div><",
+          "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "University"
+        },
+        {
+          "id": "construction-90687",
           "title": "Suffolk sees hospital construction crunch ahead of California\u2019s earthquake rule",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3187,7 +3073,7 @@
           "segment": "Healthcare"
         },
         {
-          "id": "construction-60245",
+          "id": "construction-36799",
           "title": "Gilbane Development breaks ground on $350M WKU student housing project",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -3196,20 +3082,6 @@
           "state": "",
           "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/fxedUg2IMimlvgWhOcEuv64BwVTpA6uCinEMbs9OqwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGV2YXRlX1dLVS1BZXJpYWwuanBn.webp\" /></div></figure><p>Broeren Russo Builders is serving as general contractor on the residence hall. We",
           "url": "https://www.constructiondive.com/news/gilbane-development-breaks-ground-wku-student-housing/872841/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        },
-        {
-          "id": "construction-51928",
-          "title": "Gilbane-Turner JV tops out $1.7B New York health lab",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Fri, 23 Oct 2026 15:30:00 -0400",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/GqVYZ0mAkXF4vuQiPPX7gm5_QkppJ34DayfvQCikg-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDIxMjYtV2Fkc3dvcnRoLUNlbnRlci1MYWItcHIuanBn.webp\" /></div></figure><p>Once complete, the Wadsworth Center Laboratory will house five di",
-          "url": "https://www.constructiondive.com/news/gilbane-turner-top-out-new-york-health-lab/833884/",
           "source": "Construction Dive",
           "keyword_hit": "construction",
           "segment": "University"
