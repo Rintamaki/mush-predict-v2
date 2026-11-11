@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,39 +96,7 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Enterprise National Account Manager",
-          "state": "IL",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Legal Director, Strategy and M&A",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Strategic EHS Manager \u2013 Manufacturing Safety & Compliance",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "West Regional General Manager, Sustainable Infrastructure",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Fire Alarm Inspector",
+          "title": "Plant Buyer",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -136,47 +104,10 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "General Manager, Sustainable Infrastructure",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Director of Global Corporate Development",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "HVAC Technical Learning Leader \u2013 Remote",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Global Category Leader \u2014 Strategic Sourcing for Growth",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Enterprise National Account Manager",
-          "state": "IL",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Associate Director, Learning and Development, Manufacturing",
+          "title": "Sr. Director - Business Development Americas",
           "state": "WI",
           "segment": "Schools",
           "tags": [
@@ -184,42 +115,50 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Global Category Manager",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
+          "title": "Fire Detection Systems Construction Manager",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Fire Alarm Installer",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Electronics Sustaining Engineer",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Fire Sprinkler Service Technician",
+          "title": "Construction Project Manager - Controls",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Fire Customer Care Sales Representative",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
+          "title": "Fire Alarm Install",
+          "state": "NC",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Selling Sales Manager",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
         },
         {
           "title": "Fire Suppression Service Technician",
@@ -230,7 +169,40 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Fire Suppression Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "HVAC Service Operations Manager 1",
+          "state": "MI",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "HVAC Customer Support Coordinator",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
         },
         {
           "title": "Fire Alarm Installer",
@@ -241,14 +213,18 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Life Safety Systems Sales Executive",
+          "title": "Sr Field Service Technician",
           "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
         }
       ],
       "patents": [],
@@ -257,22 +233,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Trane Technologies",
@@ -360,172 +321,214 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Strategic Energy Services Executive",
+          "title": "HVAC Technician Apprentice",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Global SaaS Revenue Leader",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "HVAC Services Sales Leader \u2014 Grow Accounts & Impact",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior HVAC Rental Solutions Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Regional Preconstruction Leader, Growth & Strategy",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Controls Account Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Account Manager - Services",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Regional Controls & Digital AI Sales Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Regional Controls & Digital Sales Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Regional Controls & Digital Sales Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Counsel, Governance & Securities (Hybrid)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Counsel - Corporate Governance and Securities",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Intelligent Services Account Engineer I",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
           "title": "HR Solutions Employee Advisor",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Remote Support Specialist",
-          "state": "VA",
+          "title": "VP Engineering and Technology",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "HVAC Technician Apprentice",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
           "title": "Controls Install Technician",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Rental Services Account Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Area General Manager",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Automation Engineer- Plant",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Service Sales Specialist",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Contracting Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Mechanical Engineering",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Application Designer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Design Project Manager Director",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Mechanical Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Electrical Designer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Design Project Manager",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Remote Support Specialist",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Automation and Controls Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Controls Install Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Yard Dog Operator Truck Driver",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Plant Manager-Fort Worth (Stellar Energy)",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Automation Engineer- Plant",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Electrical Design Drafter",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Electrical Designer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Rental Services Account Manager",
+          "state": "OR",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "VP Engineering and Technology",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Mechanical Design Drafter",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
         },
         {
           "title": "Controls Technician",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-09"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Disassembler",
-          "state": "",
+          "title": "HVAC Journeyman Chiller Technician",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "2027 Construction Project Management Intern-1",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "2027 Marketing Intern",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Welder I MIG 2nd Shift",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "EHS Technician I - 2nd Shift",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         }
       ],
       "patents": [],
@@ -549,22 +552,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Ameresco",
@@ -612,6 +600,66 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Senior Electrical Engineer - Mission Critical Power Systems",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Environmental QC Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Construction Program Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Senior Electrical Engineer - Microgrid Controls & Automation Architecture",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Senior Director, Business Development",
+          "state": "NY",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Corporate Compliance Coordinator",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Electrical Maintenance Technician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-10"
+        },
+        {
           "title": "Senior Director, Business Development",
           "state": "NJ",
           "segment": "Schools",
@@ -651,16 +699,6 @@
           "postedDate": "2026-11-02"
         },
         {
-          "title": "Construction Site Superintendent",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "Municipal"
-          ],
-          "postedDate": "2026-11-01"
-        },
-        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Other",
@@ -689,13 +727,6 @@
           "postedDate": "2026-11-01"
         },
         {
-          "title": "Project Engineering Intern",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-31"
-        },
-        {
           "title": "Senior Account Executive",
           "state": "",
           "segment": "Other",
@@ -708,24 +739,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-31"
-        },
-        {
-          "title": "Journeyman Electrician - BESS & PV",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-30"
-        },
-        {
-          "title": "Senior BESS Project Engineer",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-10-29"
         },
         {
           "title": "Project Development Engineer",
@@ -760,53 +773,25 @@
           "postedDate": "2026-10-27"
         },
         {
-          "title": "Regional Safety Manager - Western US",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Regional Safety Manager - Western US",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Marketing Co-op",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Sr. Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-24"
-        },
-        {
           "title": "Construction Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-23"
+          "postedDate": "2026-10-27"
         },
         {
-          "title": "Building Automation Specialist",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-22"
-        },
-        {
-          "title": "Senior BAS Controls Designer",
+          "title": "Regional Safety Manager - Western US",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-22"
+          "postedDate": "2026-10-25"
+        },
+        {
+          "title": "Regional Safety Manager - Western US",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-25"
         }
       ],
       "patents": [],
@@ -814,38 +799,23 @@
       "newsArticles": [
         {
           "source": "google_news",
-          "title": "Roseburg Urban Sanitary Authority and Ameresco Celebrate Completion of Energy Infrastructure Project - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVdhNEtLTEczYTZ2dl9ueTlObzhRdGZyS1pxd3BwYmVwYWRwVVR3czlxRkl3bVA5SHpFVjVlQlJ3RDA1VXVpcHhTanVZeGhLY1FBcS13cGJxSVhPMHJyZW1iRi04R1lpNHgtWDRiNXo4ZlAtUUFkUUpnd3dUS2hxT3pLcE5PRHdFbUNvUnE3UUhCNGJkWWI3Z3NUR3hCYWwt?oc=5\" target=\"_blank\">Roseburg Ur",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVdhNEtLTEczYTZ2dl9ueTlObzhRdGZyS1pxd3BwYmVwYWRwVVR3czlxRkl3bVA5SHpFVjVlQlJ3RDA1VXVpcHhTanVZeGhLY1FBcS13cGJxSVhPMHJyZW1iRi04R1lpNHgtWDRiNXo4ZlAtUUFkUUpnd3dUS2hxT3pLcE5PRHdFbUNvUnE3UUhCNGJkWWI3Z3NUR3hCYWwt?oc=5",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
           "title": "Roseburg Urban Sanitary Authority and Ameresco to Host Ribbon Cutting Celebrating Energy Infrastructure Project - Yahoo Finance",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmNOQjZxeGt3b0k4ZWZZcEllTWpwRnZhYnJTc0FZdGo0OWIyRXlZRkJjNllCRXRPVjlEZU1Rb2tNR05KdmJQOWRFdm9WYjJHbGI4dmlpUFpPQkVpY3I2WkJkdF9pdWQ5WEtMTTRPTy1HNnF1QUMySzBKTzJFUE94WHVVWkRwX21tQnpkM1g3dnprZ0ZMejd1TDlFd244WC1h?oc=5\" target=\"_blank\">Roseburg Ur",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmNOQjZxeGt3b0k4ZWZZcEllTWpwRnZhYnJTc0FZdGo0OWIyRXlZRkJjNllCRXRPVjlEZU1Rb2tNR05KdmJQOWRFdm9WYjJHbGI4dmlpUFpPQkVpY3I2WkJkdF9pdWQ5WEtMTTRPTy1HNnF1QUMySzBKTzJFUE94WHVVWkRwX21tQnpkM1g3dnprZ0ZMejd1TDlFd244WC1h?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "source": "google_news",
+          "title": "Roseburg Urban Sanitary Authority and Ameresco Celebrate Completion of Energy Infrastructure Project - Business Wire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0xfSF9EOVlOMlZPTlU2MGxPU3pKYWJCdGRfX1VPUnJ4WlJqQWZ4eEN1MHhYVTRqUjIyYkFrMGxsRWw0Ti1zN2JCN1FvZ2Y3OWI1TmtqbmVUckV0VlZGRkRSNVZGUnEzQVBoZjNfRlhaRGxFWFV3dmpqMm1ycW9CMlpCNHN3WEU5VVlXN3BiV294X2xPZGdRLUxvQnNjN2R2NmpoVjBYT2F0MVkwZXZ0NGt1VUZYNjMtaz",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0xfSF9EOVlOMlZPTlU2MGxPU3pKYWJCdGRfX1VPUnJ4WlJqQWZ4eEN1MHhYVTRqUjIyYkFrMGxsRWw0Ti1zN2JCN1FvZ2Y3OWI1TmtqbmVUckV0VlZGRkRSNVZGUnEzQVBoZjNfRlhaRGxFWFV3dmpqMm1ycW9CMlpCNHN3WEU5VVlXN3BiV294X2xPZGdRLUxvQnNjN2R2NmpoVjBYT2F0MVkwZXZ0NGt1VUZYNjMtazlRSDhidEN6YjZTMTduLWpfNEtHd21jS2VaYnBwUXRhUmJnR0dwaGttUjZoVjQ4YXZvREZR?oc=5",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Schneider Electric",
@@ -901,159 +871,15 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Hybrid Senior Manager, Compensation \u2014 Rewards Leader",
-          "state": "MA",
+          "title": "Fabrication Technician - 2nd Shift",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Sales Manager, Liquid Cooling",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Channel Sales & Partner Growth Strategist",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Digital Sales Account Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Plant General Manager \u2013 Welcome, NC (Safety & Growth)",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Welcome Plant General Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Strategic Compensation Leader \u2014 Hybrid, US",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Engineering Manager - Protection & Automation (PCA)",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Engineering Manager, EcoFit Solutions (Flexible)",
+          "title": "Machine Shop Technician",
           "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Ecofit Engineering Senior Manager",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Process Excellence & Governance Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Process Excellence & Governance Leader",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Process Excellence & Governance Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Product Owner - Customer Order Management",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Product Owner - Customer Order Management",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Product Owner - Customer Order Management",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Building Technology Sales Rep \u2013 Carolinas Territory",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Strategic Software Sales Executive Industrial Automation",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Industrial Readiness & Facility Strategy Lead",
-          "state": "",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Manager Industrial Readiness",
-          "state": "",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Buildings Energy Solutions: Segment Offer Manager",
-          "state": "MA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "US Benefits & Retirement Administration Manager",
-          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-10"
@@ -1065,22 +891,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Siemens Smart Infrastructure",
@@ -1238,82 +1049,22 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Senior Medical Physicist - HDR/SRS & Clinical Calibration Lead",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Medical Physicist: Radiation Oncology QA Lead",
-          "state": "NY",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "RTL Power Pro FAE: Design, Debug & Deploy",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Medical Physicist \u2013 HDR/SRS Expert",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Technical Writer - AI-Powered EDA Documentation",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Global Marketing Manager, Atellica Assays \u2013 Infectious Disease (Remote)",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-10"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
-      "newsArticles": [],
+      "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Top 10: Building Energy Management Systems - Energy Digital Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4wdklzX0pBZl9GSUg3dlI2UUFRdU9OYTZCTmY3NDN5THFUYnJOd3A3YTZBNlpCN0hGLUJxR2pSQmtja1R2eTJnUkxEVi1UODAyYzZCb01hYUhnQnAxOGRFSFBMNjdMUEZNZHVGVEtXY0dpc0d6QlEtNDlDTXAzUQ?oc=5\" target=\"_blank\">Top 10: Building Energy Management Systems</a>&nbsp;&nbsp",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wdklzX0pBZl9GSUg3dlI2UUFRdU9OYTZCTmY3NDN5THFUYnJOd3A3YTZBNlpCN0hGLUJxR2pSQmtja1R2eTJnUkxEVi1UODAyYzZCb01hYUhnQnAxOGRFSFBMNjdMUEZNZHVGVEtXY0dpc0d6QlEtNDlDTXAzUQ?oc=5",
+          "published": "Wed, 11 Nov 2026 13:39:26 GMT"
+        }
+      ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Cenergistic",
@@ -1357,22 +1108,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Willdan Group",
@@ -1395,13 +1131,13 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Associate Director (Transmission)",
-          "state": "CA",
+          "title": "Senior Commercial Combination Inspector",
+          "state": "",
           "segment": "Municipal",
           "tags": [
             "Municipal"
           ],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
           "title": "National Director of Federal Operations and Special Projects",
@@ -1552,13 +1288,6 @@
           "postedDate": "2026-10-17"
         },
         {
-          "title": "Verification Specialist",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-13"
-        },
-        {
           "title": "Code Enforcement Officer",
           "state": "MI",
           "segment": "Other",
@@ -1617,6 +1346,13 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-01"
+        },
+        {
+          "title": "Code Enforcement Officer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-30"
         }
       ],
       "patents": [],
@@ -1633,22 +1369,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Energy Systems Group",
@@ -1694,22 +1415,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "NORESCO",
@@ -1783,22 +1489,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "EMCOR Group",
@@ -1946,210 +1637,225 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Strategic ICT & Data Center Project Leader",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Senior Estimator - Commercial HVAC",
+          "title": "Mesa Energy Systems, Inc.",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Chiller Business Development Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Regional Mechanical Operations Director",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Regional Mechanical Ops Director: Strategy & Execution",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Repcon Mechanical Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Repcon Mechanical Project Manager",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "EMCOR Government Services, Inc.",
+          "title": "CCI Mechanical, Inc.",
           "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Walker-J-Walker, Inc.",
+          "title": "The Poole and Kent Corporation",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Welsbach Electric Corp.",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "University Mechanical & Engineering AZ",
+          "state": "AZ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Miller Electric Company",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Controls Sales Estimator, Building Management Systems (BMS)",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Field Engineer, Building Management Systems (BMS)",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Mechanical Design Engineer",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Field Supervisor, Building Management Systems (BMS)",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Field Service Operations Manager",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Mechanical Design Engineer",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Project Manager, Building Management Systems (BMS)",
-          "state": "NY",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Administrative Assistant, Sprinkler Operations",
+          "title": "CI Specialist",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Administrative Assistant- Inspections & A&D",
+          "title": "Technology Support Analyst II",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Billing Associate - Alarm and Suppression",
+          "title": "Fire Sprinkler Layout Technician",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Mechanical Metal Trades",
+          "title": "Fire Sprinkler Layout Technician",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Administrative Assistant - DOT",
+          "title": "Accounts Receivable Cash Posting Specialist",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Extinguisher/Kitchen Suppression Technician",
+          "title": "Service Layout Technician",
           "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "EMCOR Services Team Mechanical, Inc. Warehouse Assistant",
+          "title": "Assistant Project Manager",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "HVAC Tech",
           "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Commercial Facilities Maintenance Technician",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Senior Project Manager",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Master Plumber (2nd Shift) - DOE Germantown",
+          "state": "",
           "segment": "Healthcare",
           "tags": [
             "Healthcare"
           ],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Rigger (WILM CORN EW)",
-          "state": "NC",
+          "title": "Repcon Mechanical Project Manager",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Accounting Projects & Integration Manager",
-          "state": "NC",
+          "title": "Operational Finance Associate",
+          "state": "FL",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "Project Manager - Mechanical MEP",
-          "state": "GA",
+          "title": "CDL Driver",
+          "state": "AZ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
         },
         {
-          "title": "General Maintenance Technician",
-          "state": "GA",
+          "title": "Fire Sprinkler Layout Technician",
+          "state": "PA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-08"
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Account Manager - Commercial HVAC",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Data Compliance Specialist II",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
         }
       ],
       "patents": [],
@@ -2158,22 +1864,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Ideal Impact",
@@ -2211,22 +1902,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "ENGIE Services US",
@@ -2277,22 +1953,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Bernhard",
@@ -2324,22 +1985,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "CMTA",
@@ -2379,6 +2025,13 @@
       ],
       "activeBids": [],
       "jobPostings": [
+        {
+          "title": "Electrical Designer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
         {
           "title": "Senior Mechanical Engineer",
           "state": "OH",
@@ -2566,13 +2219,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
         }
       ],
       "patents": [],
@@ -2596,22 +2242,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     },
     {
       "name": "Southland Industries",
@@ -2669,18 +2300,18 @@
           "postedDate": "2026-11-10"
         },
         {
-          "title": "Director of Service",
-          "state": "AZ",
+          "title": "Project Executive",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-05"
+          "postedDate": "2026-11-08"
         },
         {
-          "title": "Senior Human Resource Business Partner",
-          "state": "OR",
+          "title": "Senior Estimator",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-31"
+          "postedDate": "2026-10-30"
         },
         {
           "title": "Senior Project Manager",
@@ -2718,99 +2349,6 @@
           "postedDate": "2026-10-27"
         },
         {
-          "title": "Mechanical Estimator I",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Project Executive",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Senior Technology Analyst - Business Lifecycle Solutions (Tier II Support)",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Lead Technology Analyst - Design Technologies, Custom Development",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Project Executive",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Project Executive",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Senior Manager, Supply Chain Solutions",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Senior Design Project Manager",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Project Coordinator",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "Associate Accountant, Accounts Receivable (Temp to Perm)",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-26"
-        },
-        {
-          "title": "VDC Project Lead",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Project Manager, Special Projects",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Associate Talent Acquisition Partner - Early Careers",
-          "state": "WA",
-          "segment": "University",
-          "tags": [
-            "University"
-          ],
-          "postedDate": "2026-10-25"
-        },
-        {
           "title": "Controller",
           "state": "AZ",
           "segment": "Other",
@@ -2832,18 +2370,102 @@
           "postedDate": "2026-10-25"
         },
         {
-          "title": "Project Manager",
-          "state": "AZ",
+          "title": "Senior Special Projects & Operations Manager",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-24"
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Preconstruction Executive",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Growth-Focused Preconstruction Lead (GC Partnerships)",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Project Manager",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-22"
         },
         {
           "title": "Project Engineer II",
-          "state": "",
+          "state": "CA",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Project Engineer II",
+          "state": "VA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-23"
+          "postedDate": "2026-10-19"
+        },
+        {
+          "title": "Senior Estimator",
+          "state": "PA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "Municipal"
+          ],
+          "postedDate": "2026-10-14"
+        },
+        {
+          "title": "Senior Design Engineer",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-10-14"
+        },
+        {
+          "title": "Finance Manager",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-27"
+        },
+        {
+          "title": "Co-Op (Fall Semester 2026 - Spring Semester 2027) - Project Engineer",
+          "state": "VA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Co-Op (Fall Semester 2026 - Spring Semester 2027) - Mechanical Design Engineer",
+          "state": "VA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Co-Op (Fall Semester 2025 - Spring Semester 2026) - Safety",
+          "state": "VA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
         }
       ],
       "patents": [],
@@ -2874,22 +2496,7 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": [
-        {
-          "id": "construction-91845",
-          "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-          "agency": "Construction Dive",
-          "type": "Construction Project",
-          "posted": "Mon, 09 Nov 2026 10:43:06 -0500",
-          "deadline": "",
-          "state": "",
-          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp\" /></div></figure><p>Early construction work has already started on the site, accordin",
-          "url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-          "source": "Construction Dive",
-          "keyword_hit": "construction",
-          "segment": "University"
-        }
-      ]
+      "constructionProjects": []
     }
   ]
 }
