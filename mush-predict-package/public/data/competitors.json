@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,7 +96,7 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Plant Buyer",
+          "title": "Pressure Tester 2nd Shift",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -104,31 +104,21 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Sr. Director - Business Development Americas",
-          "state": "WI",
+          "title": "Shipping, Receiving & Material Handler",
+          "state": "MA",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Fire Detection Systems Construction Manager",
-          "state": "WA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Construction Project Manager - Controls",
+          "title": "Salesforce Application Support Administrator",
           "state": "",
           "segment": "Schools",
           "tags": [
@@ -136,10 +126,53 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Fire Alarm Install",
+          "title": "HVAC Equipment Service Apprentice",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Building Engineer",
+          "state": "CA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Manufacturing Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Commercial Air Handling Units Contract Engineering Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "ACE Technical Sales - Fire Suppression (Dallas, TX)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Fire Service Technician",
           "state": "NC",
           "segment": "Schools",
           "tags": [
@@ -147,54 +180,53 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Selling Sales Manager",
+          "title": "Application Security Engineer",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Security Systems Installer Team Lead (Union)",
+          "state": "VA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Finance Cash Leader- HVAC",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Construction Manager (Fire)",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Data Center Mech Svc Tech Jrny (un)",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-11"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Fire Suppression Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Fire Suppression Service Technician",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "HVAC Service Operations Manager 1",
-          "state": "MI",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "HVAC Customer Support Coordinator",
+          "title": "Industrial Engineer",
           "state": "TX",
           "segment": "Schools",
           "tags": [
@@ -202,29 +234,25 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Fire Alarm Installer",
-          "state": "NC",
+          "title": "Assembler, 1st Shift",
+          "state": "TX",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Sr Field Service Technician",
+          "title": "Quality Inspector I",
           "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-11"
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
         }
       ],
       "patents": [],
@@ -233,7 +261,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Trane Technologies",
@@ -321,214 +364,214 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "HVAC Technician Apprentice",
+          "title": "Senior Technician",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Transport Refrigeration Technician -2nd Shift",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "HR Solutions Employee Advisor",
-          "state": "NC",
+          "title": "Senior Manager - Sales",
+          "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "VP Engineering and Technology",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Controls Install Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Rental Services Account Manager",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Area General Manager",
+          "title": "Senior Change Agent",
           "state": "NJ",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Automation Engineer- Plant",
+          "title": "Services Operations Leader",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Service Sales Specialist",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Contracting Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Mechanical Engineering",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Application Designer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Design Project Manager Director",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Electrical Designer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Design Project Manager",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Remote Support Specialist",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Automation and Controls Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Controls Install Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Yard Dog Operator Truck Driver",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Plant Manager-Fort Worth (Stellar Energy)",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Automation Engineer- Plant",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Electrical Design Drafter",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Electrical Designer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Rental Services Account Manager",
-          "state": "OR",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "VP Engineering and Technology",
+          "title": "Specialist-Payroll",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Mechanical Design Drafter",
-          "state": "TX",
+          "title": "Services Operations Leader",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "Controls Technician",
-          "state": "TX",
+          "title": "2027 Accelerated Development Program - Accounting & Finance",
+          "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
         },
         {
-          "title": "HVAC Journeyman Chiller Technician",
+          "title": "Senior Paralegal",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Systems Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Services Operations Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Material Handler",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Senior Manager - Sales",
           "state": "MI",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "2027 Accelerated Development Program - Accounting & Finance",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "EHS Technician-P5, 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Systems Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Senior Finance Analyst",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Services Operations Leader",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Sr. BoilerTechnician",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Contracting Project Mgr",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Controls Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "2027 Accelerated Development Program - Accounting & Finance",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "2027 Accelerated Development Program - Accounting & Finance",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Production Scheduler",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "2027 Accelerated Development Program - Accounting & Finance",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Inside Sales Inbound",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "EHS Technician-P5, 1st Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Controls Project Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Production Scheduler",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Senior Paralegal",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
         }
       ],
       "patents": [],
@@ -552,7 +595,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Ameresco",
@@ -600,6 +658,13 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Account Executive",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
           "title": "Senior Electrical Engineer - Mission Critical Power Systems",
           "state": "TX",
           "segment": "Other",
@@ -614,28 +679,10 @@
           "postedDate": "2026-11-11"
         },
         {
-          "title": "Construction Program Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
           "title": "Senior Electrical Engineer - Microgrid Controls & Automation Architecture",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Senior Director, Business Development",
-          "state": "NY",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
           "postedDate": "2026-11-11"
         },
         {
@@ -651,13 +698,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Senior Service Account Executive - Controls & Building Automation",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
         },
         {
           "title": "Senior Director, Business Development",
@@ -741,6 +781,24 @@
           "postedDate": "2026-10-31"
         },
         {
+          "title": "Journeyman Electrician - BESS & PV",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-30"
+        },
+        {
+          "title": "Senior BESS Project Engineer",
+          "state": "AZ",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-10-29"
+        },
+        {
           "title": "Project Development Engineer",
           "state": "AZ",
           "segment": "Schools",
@@ -773,13 +831,6 @@
           "postedDate": "2026-10-27"
         },
         {
-          "title": "Construction Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-27"
-        },
-        {
           "title": "Regional Safety Manager - Western US",
           "state": "",
           "segment": "Other",
@@ -789,6 +840,13 @@
         {
           "title": "Regional Safety Manager - Western US",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-25"
+        },
+        {
+          "title": "Marketing Co-op",
+          "state": "MA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-25"
@@ -815,7 +873,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Schneider Electric",
@@ -871,18 +944,25 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Fabrication Technician - 2nd Shift",
-          "state": "",
+          "title": "Fabrication Associate II - Sheet Metal",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Systems Specialist II, BMS",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-11"
         },
         {
-          "title": "Machine Shop Technician",
-          "state": "OH",
+          "title": "Field Service Representative I",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-10"
+          "postedDate": "2026-11-11"
         }
       ],
       "patents": [],
@@ -891,7 +971,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Siemens Smart Infrastructure",
@@ -1064,7 +1159,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Cenergistic",
@@ -1084,13 +1194,6 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Software Engineer - Mid Level",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-08"
-        },
-        {
           "title": "SPRING Internship - Lexington, KY",
           "state": "",
           "segment": "Schools",
@@ -1108,7 +1211,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Willdan Group",
@@ -1152,13 +1270,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Construction Project Engineer II",
-          "state": "NY",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-05"
         },
         {
           "title": "Business Development Manager",
@@ -1289,6 +1400,20 @@
         },
         {
           "title": "Code Enforcement Officer",
+          "state": "NY",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-16"
+        },
+        {
+          "title": "Verification Specialist",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-10-13"
+        },
+        {
+          "title": "Code Enforcement Officer",
           "state": "MI",
           "segment": "Other",
           "tags": [],
@@ -1307,15 +1432,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-10"
-        },
-        {
-          "title": "Senior Combination Building Inspector",
-          "state": "AZ",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-08"
         },
         {
           "title": "Technical Aide",
@@ -1353,6 +1469,16 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-09-30"
+        },
+        {
+          "title": "Senior Energy Engineer",
+          "state": "NY",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-09-30"
         }
       ],
       "patents": [],
@@ -1369,7 +1495,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Energy Systems Group",
@@ -1400,22 +1541,29 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Senior Energy Solutions BD \u2014 Remote, 50% Travel",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "NORESCO",
@@ -1489,7 +1637,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "EMCOR Group",
@@ -1547,7 +1710,7 @@
         },
         {
           "date": "2026-10-15",
-          "value": 267735.96,
+          "value": 332698.96,
           "state": "DC",
           "segment": "University",
           "agency": "General Services Administration",
@@ -1637,6 +1800,143 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Director of Environmental, Health and Safety",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Senior Service Plumber",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Hill York Service Company",
+          "state": "FL",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "IL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "GA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Morley-Moss Inc.",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Southern Industrial Constructors, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Electrical Estimator",
+          "state": "NY",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Electrical Foreman (WILM GE RW)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Commercial Facilities Maintenance Technician",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Rigger Helper (AUS ROH RF)",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Project Manager (Mechanical Construction)",
+          "state": "AZ",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "CCI Mechanical, Inc. - Shop Foreman",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Mechanical Engineer I",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Project Assistant (Administrative)",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Cherokee Millwright, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
           "title": "Mesa Energy Systems, Inc.",
           "state": "CA",
           "segment": "Other",
@@ -1707,155 +2007,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Miller Electric Company",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Miller Electric Company",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "CI Specialist",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Technology Support Analyst II",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Fire Sprinkler Layout Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Fire Sprinkler Layout Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Accounts Receivable Cash Posting Specialist",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Service Layout Technician",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Assistant Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "HVAC Tech",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Commercial Facilities Maintenance Technician",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Senior Project Manager",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Master Plumber (2nd Shift) - DOE Germantown",
-          "state": "",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Repcon Mechanical Project Manager",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Operational Finance Associate",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "CDL Driver",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Fire Sprinkler Layout Technician",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Account Manager - Commercial HVAC",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
-        },
-        {
-          "title": "Data Compliance Specialist II",
-          "state": "CA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-11"
         }
       ],
       "patents": [],
@@ -1864,7 +2015,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Ideal Impact",
@@ -1902,7 +2068,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "ENGIE Services US",
@@ -1924,36 +2105,29 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [
-        {
-          "title": "Power Congestion Trader - PJM - EVERGREEN",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Sales Manager-PJM",
-          "state": "IL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Director, Project Procurement (Utility-Scale Renewables)",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        }
-      ],
+      "jobPostings": [],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Bernhard",
@@ -1985,7 +2159,22 @@
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "CMTA",
@@ -2054,6 +2243,13 @@
           "postedDate": "2026-11-09"
         },
         {
+          "title": "Plumbing Engineer Intern/Co-op Summer 2027",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-08"
+        },
+        {
           "title": "Senior Mechanical Engineer",
           "state": "OH",
           "segment": "Schools",
@@ -2081,8 +2277,43 @@
           "postedDate": "2026-11-07"
         },
         {
+          "title": "Electrical Design Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        },
+        {
+          "title": "Electrical Design Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        },
+        {
+          "title": "Electrical Design Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        },
+        {
           "title": "Solar Energy Engineer - Energy Solutions",
           "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-06"
+        },
+        {
+          "title": "Electrical Engineer Intern/Co-op Summer 2027",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-06"
+        },
+        {
+          "title": "Mechanical Engineer Intern/Co-op Summer 2027",
+          "state": "CA",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-06"
@@ -2177,48 +2408,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Senior Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Electrical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
-        },
-        {
-          "title": "Mechanical Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-03"
         }
       ],
       "patents": [],
@@ -2230,19 +2419,27 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjJ0cWg3ajZMV1hrOVhsQmFpc1BBVExFQmxHWTBObkhiR3lsTWV3SUhkM0Y1aUpOcThDbkFyU0lrb2Y1NjhVc1drODdZUUt2WFp1dmNCMVFPbndlemdNdUtKNm90QUJCakhrbkZBNXVTTF92bW42N0VyYzRSSTloaGJLOWlKOG10dWlINVp3?oc=5\" target=\"_blank\">High school HVAC replacement projec",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjJ0cWg3ajZMV1hrOVhsQmFpc1BBVExFQmxHWTBObkhiR3lsTWV3SUhkM0Y1aUpOcThDbkFyU0lrb2Y1NjhVc1drODdZUUt2WFp1dmNCMVFPbndlemdNdUtKNm90QUJCakhrbkZBNXVTTF92bW42N0VyYzRSSTloaGJLOWlKOG10dWlINVp3?oc=5",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "AECOM's $144.5M in school work leads BD+C's 2026 K-12 engineering ranking - MarketScale",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFJ4S04tRXU3TlJHSUNxVms0WWNWM1JRVXdZNkdhVk1EM1U0MTJtZ1FTZkgtRElrLTNpVE5pMzhtUW9hd3JVNUtoc1AzT1Bia2pjYmN5VzdYM0ZjT1JfUDlZZnZnZ3VENHc3dG1oeEtkaUtESHAzOThoM1N2ZFVveHY2Y1NaMXZoS0d0QmFoQVh0OHM3YlVyME5lNlJXR0pwZDlDakxwbGh1aTZJTHhlSVBCYlhLM0xWY1",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFJ4S04tRXU3TlJHSUNxVms0WWNWM1JRVXdZNkdhVk1EM1U0MTJtZ1FTZkgtRElrLTNpVE5pMzhtUW9hd3JVNUtoc1AzT1Bia2pjYmN5VzdYM0ZjT1JfUDlZZnZnZ3VENHc3dG1oeEtkaUtESHAzOThoM1N2ZFVveHY2Y1NaMXZoS0d0QmFoQVh0OHM3YlVyME5lNlJXR0pwZDlDakxwbGh1aTZJTHhlSVBCYlhLM0xWY1l0V0RUVXNzWWxaeFZHQmVHcw?oc=5",
-          "published": "Sat, 19 Sep 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     },
     {
       "name": "Southland Industries",
@@ -2264,55 +2461,6 @@
       "contractAwards": [],
       "activeBids": [],
       "jobPostings": [
-        {
-          "title": "Prime GC Executive: Mission-Critical Data Center Projects",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Special Projects Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Division Safety Director",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Electrical Project Leader - Impactful Delivery, Employee-Owned",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Growth Leader, Special Projects \u2014 DMV Region",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-10"
-        },
-        {
-          "title": "Project Executive",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-08"
-        },
-        {
-          "title": "Senior Estimator",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-30"
-        },
         {
           "title": "Senior Project Manager",
           "state": "TX",
@@ -2349,61 +2497,10 @@
           "postedDate": "2026-10-27"
         },
         {
-          "title": "Controller",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Commissioning Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Assistant Superintendent",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-25"
-        },
-        {
-          "title": "Senior Special Projects & Operations Manager",
-          "state": "WA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-22"
-        },
-        {
-          "title": "Preconstruction Executive",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-22"
-        },
-        {
-          "title": "Growth-Focused Preconstruction Lead (GC Partnerships)",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-22"
-        },
-        {
           "title": "Project Manager",
           "state": "CA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-10-22"
-        },
-        {
-          "title": "Project Engineer II",
-          "state": "CA",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
           "postedDate": "2026-10-22"
         },
         {
@@ -2466,6 +2563,125 @@
             "University"
           ],
           "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Intern - BIM/VDC",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Early Careers New College Graduate - Safety Coordinator",
+          "state": "WA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Intern - Design Engineer",
+          "state": "WA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Recent Grad/Alumni - Design Engineer I",
+          "state": "WA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Early Careers New College Graduate | Project Engineer I",
+          "state": "PA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-09-26"
+        },
+        {
+          "title": "Business Acquisition Manager\u200b",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-16"
+        },
+        {
+          "title": "Fire Sprinkler Service Account Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-09-16"
+        },
+        {
+          "title": "Early Careers New College Graduate | Project Engineer I",
+          "state": "WA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-29"
+        },
+        {
+          "title": "Intern - Safety",
+          "state": "WA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-29"
+        },
+        {
+          "title": "Intern - Project Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-29"
+        },
+        {
+          "title": "Early Careers New College Graduate | Project Engineer I",
+          "state": "VA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-28"
+        },
+        {
+          "title": "Early Careers New College Graduate - Safety Coordinator",
+          "state": "VA",
+          "segment": "University",
+          "tags": [
+            "University"
+          ],
+          "postedDate": "2026-08-28"
+        },
+        {
+          "title": "Early Careers New College Graduate - Design Engineer I",
+          "state": "VA",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-08-28"
+        },
+        {
+          "title": "Intern - Project Engineer",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-08-27"
         }
       ],
       "patents": [],
@@ -2484,19 +2700,27 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVoxUW9Od2VZVFVBRU9Id3JQbl9NYkJKQkNIVnRNNEVtazBMNkkxVVJ6b3BnYVZzXzZ4X09qZWg3cllFbHFPU296OE50U3IxLThCckJ6dTdDTk9zanRWd0xKZzhtNjhZZTdJb2ZOTXM0dzdUSVNNRmZFWFpTcmpZd21CV0xlakJORDJMc1dXSVVlazBld21ZemVJRzBESVN3dy1DRE9KbmFId1M2NkVEYTdreFd6cHFrT1",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVoxUW9Od2VZVFVBRU9Id3JQbl9NYkJKQkNIVnRNNEVtazBMNkkxVVJ6b3BnYVZzXzZ4X09qZWg3cllFbHFPU296OE50U3IxLThCckJ6dTdDTk9zanRWd0xKZzhtNjhZZTdJb2ZOTXM0dzdUSVNNRmZFWFpTcmpZd21CV0xlakJORDJMc1dXSVVlazBld21ZemVJRzBESVN3dy1DRE9KbmFId1M2NkVEYTdreFd6cHFrT1IwSDZ0WnZTWnoybzNWWWpvSFFXcDVHNFRPck13LWhJMjllQmt2NTh1MnpRWTFMVXZGb3pGRmtVMU1UMXhCUDhB?oc=5",
           "published": "Fri, 09 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - Contractor Magazine",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRm",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRmlVcEpEeENtUEFtSEd1el9JZzQ?oc=5",
-          "published": "Tue, 22 Sep 2026 07:00:00 GMT"
         }
       ],
       "lobbyingActivity": [],
       "texasContracts": [],
       "entityRegistrations": [],
-      "constructionProjects": []
+      "constructionProjects": [
+        {
+          "id": "construction-78659",
+          "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
+          "agency": "Construction Dive",
+          "type": "Construction Project",
+          "posted": "Thu, 12 Nov 2026 09:58:51 -0500",
+          "deadline": "",
+          "state": "",
+          "description": "<figure><div><img src=\"https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp\" /></div></figure><p>The DOB has issued a stop-work order in response to &ldquo;unsafe constru",
+          "url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
+          "source": "Construction Dive",
+          "keyword_hit": "construction",
+          "segment": "Healthcare"
+        }
+      ]
     }
   ]
 }
