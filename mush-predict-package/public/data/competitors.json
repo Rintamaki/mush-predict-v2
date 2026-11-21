@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20",
+  "last_updated": "2026-11-21",
   "competitors": [
     {
       "name": "Johnson Controls",
@@ -96,139 +96,15 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "HVAC Service Sales Rep",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "HVAC Owner Sales Rep",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Financial Analyst",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Lean Specialist",
-          "state": "TX",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Senior Instructor Chillers",
-          "state": "AZ",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Sprinkler Service Sales Representative",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
           "title": "Client Resource Coordinator",
-          "state": "PA",
+          "state": "NY",
           "segment": "Schools",
           "tags": [
             "Schools",
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Security & Fire Inspection/Service Technician",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Security Service Technician",
-          "state": "CO",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Fire Inspector",
-          "state": "PA",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Facilities Administrator and Designer",
-          "state": "TX",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Centralized Care Agent",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Pre-Construction Estimator, Major Projects",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
           "title": "Fire Suppression Service Technician",
@@ -239,14 +115,79 @@
             "Healthcare",
             "University"
           ],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "Controls Lead Systems Specialist 4",
-          "state": "",
+          "title": "Commercial Account Executive",
+          "state": "WA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Fire Alarm Engineer - Security Systems Technician 3",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Metro Market Customer Operations Associate",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Manager, Factory Product Engineering \u2013 Water- Cooled Chillers",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "HVAC Service Technician Journeyman",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Fire Detection Service Technician",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Team Lead, Fire Service Schedule & Dispatch",
+          "state": "MA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Fire Alarm Inspector",
+          "state": "TX",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare",
+            "University"
+          ],
+          "postedDate": "2026-11-21"
         }
       ],
       "patents": [],
@@ -257,7 +198,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -358,6 +299,146 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Mechanical Field Service Lead",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Production Supervisor-2nd shift",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "2027 Accounting and Finance Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Materials Team Lead - P5, 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Service Controls Technician - Tempe, AZ",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Packager-2",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Receiving Material Handler - 1st Shift",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Union HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Receiving Material Handler - 1st Shift",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "2027 Accounting and Finance Intern",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Store Team Leader",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Production Supervisor-2nd shift",
+          "state": "NJ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Service Controls Technician - Tempe, AZ",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Area Service Manager - Newport News",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Control System Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Inside Sales Representative-Life Science Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Packager-2",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Sr. Control Systems Engineer",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Materials Team Lead - P5, 2nd Shift",
+          "state": "MI",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Union HVAC Technician",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
           "title": "Commercial HVAC Service Technician",
           "state": "FL",
           "segment": "Other",
@@ -374,6 +455,13 @@
         {
           "title": "Senior Service HVAC Controls Technician - Brea, CA",
           "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-20"
+        },
+        {
+          "title": "Electrical Engineering Intern",
+          "state": "",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-20"
@@ -405,167 +493,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Warehouse Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Service Controls Technician",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "2027 Technical Sales Intern - Services",
-          "state": "NJ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Controls Technician Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Assembler II",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Chiller Engineering Manager",
-          "state": "WI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "2nd Shift Team Lead",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Lead Embedded Hardware Engineer",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Electrical Engineering Intern",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Customer Sales Associate",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Painter III",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Machine Operator II (2nd Shift)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "HVAC Controls Project Specialist",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Material Handler - Compressor Warehouse - 2nd Shift",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "HVAC Controls Project Specialist",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "HVAC Controls Project Specialist",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "HVAC Controls Project Specialist",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "HVAC Controls Project Specialist",
-          "state": "CO",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Machine Operator II (2nd Shift)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Controls Technician Intern",
-          "state": "MI",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Controls Technician",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Senior Controls Technician \u2013 Automation & Controls Expert Services (ACES)",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
         }
       ],
       "patents": [],
@@ -584,7 +511,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -645,6 +572,20 @@
       "activeBids": [],
       "jobPostings": [
         {
+          "title": "Senior Service Account Executive - Controls & Building Automation",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Administrative Assistant",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
           "title": "Power Plant Specialist",
           "state": "MA",
           "segment": "University",
@@ -675,7 +616,7 @@
           "postedDate": "2026-11-19"
         },
         {
-          "title": "Senior Project Manager",
+          "title": "Senior Construction Project Manager",
           "state": "",
           "segment": "Other",
           "tags": [],
@@ -799,6 +740,13 @@
           "postedDate": "2026-11-04"
         },
         {
+          "title": "Operations and Maintenance Technician - Renewable Natural Gas",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-02"
+        },
+        {
           "title": "Solar Electrician",
           "state": "",
           "segment": "Other",
@@ -832,13 +780,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-01"
-        },
-        {
-          "title": "Site Safety and Health Officer / Quality Control Manager",
-          "state": "AZ",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-10-31"
         }
       ],
       "patents": [],
@@ -853,9 +794,9 @@
         },
         {
           "source": "google_news",
-          "title": "Roseburg Urban Sanitary Authority and Ameresco Celebrate Completion of Energy Infrastructure Project - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0xfSF9EOVlOMlZPTlU2MGxPU3pKYWJCdGRfX1VPUnJ4WlJqQWZ4eEN1MHhYVTRqUjIyYkFrMGxsRWw0Ti1zN2JCN1FvZ2Y3OWI1TmtqbmVUckV0VlZGRkRSNVZGUnEzQVBoZjNfRlhaRGxFWFV3dmpqMm1ycW9CMlpCNHN3WEU5VVlXN3BiV294X2xPZGdRLUxvQnNjN2R2NmpoVjBYT2F0MVkwZXZ0NGt1VUZYNjMtaz",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0xfSF9EOVlOMlZPTlU2MGxPU3pKYWJCdGRfX1VPUnJ4WlJqQWZ4eEN1MHhYVTRqUjIyYkFrMGxsRWw0Ti1zN2JCN1FvZ2Y3OWI1TmtqbmVUckV0VlZGRkRSNVZGUnEzQVBoZjNfRlhaRGxFWFV3dmpqMm1ycW9CMlpCNHN3WEU5VVlXN3BiV294X2xPZGdRLUxvQnNjN2R2NmpoVjBYT2F0MVkwZXZ0NGt1VUZYNjMtazlRSDhidEN6YjZTMTduLWpfNEtHd21jS2VaYnBwUXRhUmJnR0dwaGttUjZoVjQ4YXZvREZR?oc=5",
+          "title": "Roseburg Urban Sanitary Authority and Ameresco Celebrate Completion of Energy Infrastructure Project - Financial Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW5hbW9lWTMxMHY5dDB5bXVVUVNhVHlIOXozMWJKajBreEFFcGtNSWdzOGdfUV84YThVWDZMRjBlbFNSWEVpeWhzeWZhV25LS1R1TDNhS3c0dEQ5UFVGaVNmVFd5M2hqZ1FaOUhiY3IzODFoTlpDSXdCYWFZZGxVSG94aWozWV95a1BLdV8ydGhjZ0VhTDNmRFByMF84d3otLTFOTkRR?oc=5\" target=\"_blank\">Ros",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW5hbW9lWTMxMHY5dDB5bXVVUVNhVHlIOXozMWJKajBreEFFcGtNSWdzOGdfUV84YThVWDZMRjBlbFNSWEVpeWhzeWZhV25LS1R1TDNhS3c0dEQ5UFVGaVNmVFd5M2hqZ1FaOUhiY3IzODFoTlpDSXdCYWFZZGxVSG94aWozWV95a1BLdV8ydGhjZ0VhTDNmRFByMF84d3otLTFOTkRR?oc=5",
           "published": "Wed, 14 Oct 2026 07:00:00 GMT"
         }
       ],
@@ -864,7 +805,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -933,60 +874,46 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "Home Solutions Specialist",
+          "title": "Downstream Planning Leader",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-20"
+        },
+        {
+          "title": "Downstream Planning Leader",
           "state": "TX",
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-11-20"
         },
         {
-          "title": "Senior Protection Relay Technician",
-          "state": "AZ",
+          "title": "Quotation Specialist",
+          "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-19"
+          "postedDate": "2026-11-20"
         },
         {
-          "title": "3Phase Power L2 Technical Support Representative",
+          "title": "Field Service Representative - Secure Power/Electronic",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-20"
+        },
+        {
+          "title": "Upstream Flow Controller",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-19"
+          "postedDate": "2026-11-20"
         },
         {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-19"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-19"
-        },
-        {
-          "title": "Software Activation Associate",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-19"
-        },
-        {
-          "title": "Finance Business Analyst - Finance Transformation",
+          "title": "Head of Industrial Design NAM",
           "state": "MA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-19"
-        },
-        {
-          "title": "Field Service Representative - Power Distribution/Electrical",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-19"
+          "postedDate": "2026-11-20"
         }
       ],
       "patents": [],
@@ -997,7 +924,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1192,7 +1119,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1251,7 +1178,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1405,6 +1332,15 @@
           "postedDate": "2026-10-29"
         },
         {
+          "title": "Building Inspector",
+          "state": "",
+          "segment": "Municipal",
+          "tags": [
+            "Municipal"
+          ],
+          "postedDate": "2026-10-29"
+        },
+        {
           "title": "Senior Fire Inspector",
           "state": "CA",
           "segment": "Other",
@@ -1515,15 +1451,6 @@
           "segment": "Other",
           "tags": [],
           "postedDate": "2026-10-10"
-        },
-        {
-          "title": "Senior Combination Building Inspector",
-          "state": "AZ",
-          "segment": "Municipal",
-          "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-10-08"
         }
       ],
       "patents": [],
@@ -1549,7 +1476,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1602,7 +1529,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1691,7 +1618,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -1730,11 +1657,19 @@
       "contractAwards": [
         {
           "date": "2021-10-01",
-          "value": 76960133.65,
+          "value": 77030133.65,
           "state": "VA",
           "segment": "University",
           "agency": "National Archives and Records Administration",
           "description": "THIS TASK ORDER IS FOR COMPLETE FACILITIES MAINTENANCE (CFM) AT NATIONAL ARCHIVES I, WASHINGTON, DC AND ARCHIVES II, COLLEGE PARK, MD FACILI"
+        },
+        {
+          "date": "2014-04-01",
+          "value": 33965264.78,
+          "state": "MD",
+          "segment": "Healthcare",
+          "agency": "Department of Health and Human Services",
+          "description": "IGF::CT::IGF FACILITIES MANAGEMENT AND SYSTEMS MAINTENANCE FOR THE HUMPHREY BUILDING"
         },
         {
           "date": "2025-11-01",
@@ -1860,233 +1795,229 @@
       "activeBids": [],
       "jobPostings": [
         {
-          "title": "BOILERMAKER",
+          "title": "Mfg. Maintenance Tech II/III",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "PPM Helper (GRAPELAND) 8.2",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "Administrative Assistant",
-          "state": "",
+          "title": "Product Design Specialist",
+          "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "PA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Mesa Energy Systems, Inc.",
-          "state": "",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "University Mechanical & Engineering AZ",
-          "state": "AZ",
-          "segment": "Healthcare",
-          "tags": [
-            "Healthcare",
-            "University"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "S. A. Comunale Co., Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "EMCOR Facilities Services, Inc.",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Aircond Corporation",
-          "state": "GA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
           "title": "Southern Industrial Constructors, Inc.",
           "state": "NC",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "Miller Electric Company",
-          "state": "FL",
+          "title": "DeBra-Kuempel Inc.",
+          "state": "OH",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "FL",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "VA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "DeBra-Kuempel Inc.",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "EMCOR Government Services, Inc.",
+          "state": "",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "MOR PPM, Inc.",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "MOR PPM, Inc.",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Shambaugh & Son, L.P.",
+          "state": "MA",
+          "segment": "Healthcare",
+          "tags": [
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Contra Costa Electric, Inc.",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "EMCOR Facilities Services, Inc.",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
         },
         {
           "title": "Ohmstede Ltd.",
           "state": "TX",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
           "title": "EMCOR Facilities Services, Inc.",
-          "state": "VA",
+          "state": "CO",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "New England Mechanical Services, Inc.",
-          "state": "",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "EMCOR Group, Inc.",
+          "title": "Morley-Moss Inc.",
           "state": "",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "Control Solutions Group, Inc.",
-          "state": "NY",
-          "segment": "Municipal",
+          "title": "Estimator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Energy Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Painter",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Fabrication Shop Administrative Assistant",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Combo Welder (RAL GENE BB)",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Maintenance Tech",
+          "state": "NC",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Safety Manager, Maryville, TN",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Assistant Project Manager",
+          "state": "",
+          "segment": "Healthcare",
           "tags": [
-            "Municipal"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Miller Electric Company",
-          "state": "FL",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Miller Electric Company",
-          "state": "VA",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Accounts Payable Specialist",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Purchasing Data Entry Specialist",
-          "state": "OH",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Project Manager",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
             "Healthcare"
           ],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "Project Manager",
-          "state": "OH",
-          "segment": "Schools",
-          "tags": [
-            "Schools",
-            "Healthcare"
-          ],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "QA/QC Project Manager",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Construction Management Intern - Summer 2027",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Construction Management Intern - Summer 2027",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Powerhouse Mechanical Operator",
-          "state": "NC",
-          "segment": "Other",
-          "tags": [],
-          "postedDate": "2026-11-20"
-        },
-        {
-          "title": "Learning & Development Manager",
+          "title": "HVAC Service Technician IV-V",
           "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         },
         {
-          "title": "PPM Machinist -(PSR) 6.7",
+          "title": "Safety Specialist",
           "state": "GA",
           "segment": "Other",
           "tags": [],
-          "postedDate": "2026-11-20"
+          "postedDate": "2026-11-21"
         }
       ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
+        {
+          "source": "google_news",
+          "title": "Clark Hill Corporate Team Advises P1 Construction in Agreement to Be Acquired by EMCOR Group - Clark Hill",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVVCZ3JyTjRJUWVIWFE0MXMtV3poUGVFQy1RdV9zM1Z1OTFWMXlQa2Y4TjdTU1hqeVZXajlaT1p3Y1poejNMdndSQmdMQnI0aGFGc01lU3ZHY1JmeFc1MVhDaERhRUoyWE5na0pvM1VGT0VxZXNfd3VldWF1ckVQamZ6T0Mzb05ONHgxUTVLSU5kb0lGZzhYTHpfTUFjdDhBNDJXV1NkRnhrczFDNTNxVUJfckx6YkRseT",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVVCZ3JyTjRJUWVIWFE0MXMtV3poUGVFQy1RdV9zM1Z1OTFWMXlQa2Y4TjdTU1hqeVZXajlaT1p3Y1poejNMdndSQmdMQnI0aGFGc01lU3ZHY1JmeFc1MVhDaERhRUoyWE5na0pvM1VGT0VxZXNfd3VldWF1ckVQamZ6T0Mzb05ONHgxUTVLSU5kb0lGZzhYTHpfTUFjdDhBNDJXV1NkRnhrczFDNTNxVUJfckx6YkRseThyV2JlbUFJYVdRYWNsVW9idjJDT25TMGc?oc=5",
+          "published": "Fri, 13 Nov 2026 21:41:56 GMT"
+        },
         {
           "source": "google_news",
           "title": "EMCOR Group, Inc. Announces Agreement to Acquire P1 Construction, LLC - Yahoo Finance",
@@ -2100,7 +2031,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2153,7 +2084,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2226,7 +2157,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2273,7 +2204,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2325,7 +2256,154 @@
         }
       ],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "VA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Administrative Assistant - Part Time",
+          "state": "CO",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Construction Manager - CMTA Energy Solutions",
+          "state": "TX",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-20"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-16"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-14"
+        },
+        {
+          "title": "Electrical Designer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Technology Designer",
+          "state": "FL",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-12"
+        },
+        {
+          "title": "Electrical Designer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-11"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-09"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-09"
+        },
+        {
+          "title": "ICT Engineer / RCDD",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-09"
+        },
+        {
+          "title": "Plumbing Engineer Intern/Co-op Summer 2027",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-08"
+        },
+        {
+          "title": "Senior Mechanical Engineer",
+          "state": "OH",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-08"
+        },
+        {
+          "title": "Senior Electrical Engineer",
+          "state": "",
+          "segment": "Schools",
+          "tags": [
+            "Schools",
+            "Healthcare"
+          ],
+          "postedDate": "2026-11-08"
+        },
+        {
+          "title": "Electrical Design Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        },
+        {
+          "title": "Electrical Design Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        },
+        {
+          "title": "Electrical Design Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        },
+        {
+          "title": "Electrical Design Engineer",
+          "state": "CA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-07"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -2339,8 +2417,8 @@
         {
           "source": "google_news",
           "title": "Engineering giant CMTA goes big on UC co-ops - University of Cincinnati",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUHRFR2R4WjJuaTg4ZTNsbEwyUW5WTVd6UW0yYWF3QWNUTVpOLXlPTVhlMW9oWnBFdUstZ2c2SFhuaktveXh3SjZFTUVRUHF5UnppOXRFRHRFcDJlYkdsLUNib2NrQQ?oc=5\" target=\"_blank\">Engineering giant CMTA goes big on UC co-ops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univers",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUHRFR2R4WjJuaTg4ZTNsbEwyUW5WTVd6UW0yYWF3QWNUTVpOLXlPTVhlMW9oWnBFdUstZ2c2SFhuaktveXh3SjZFTUVRUHF5UnppOXRFRHRFcDJlYkdsLUNib2NrQQ?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjJJWUd2aWZtT0Z2YXFOeVNKakhnTmd2eS1ObEVNMW84MkllXy1zWXZOZ09FWG52aGc1TVdOaW12UnlQM3V2aVF1a1dzdWRlN3lVdDdjMGFNWE1XOFlSUmF4TzNIbVh3Ri1ZenJSZlNYQUJfVkNheDFkeWE1VkpIalZwZFZEdw?oc=5\" target=\"_blank\">Engineering giant CMTA goes big on UC co-ops<",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjJJWUd2aWZtT0Z2YXFOeVNKakhnTmd2eS1ObEVNMW84MkllXy1zWXZOZ09FWG52aGc1TVdOaW12UnlQM3V2aVF1a1dzdWRlN3lVdDdjMGFNWE1XOFlSUmF4TzNIbVh3Ri1ZenJSZlNYQUJfVkNheDFkeWE1VkpIalZwZFZEdw?oc=5",
           "published": "Fri, 20 Nov 2026 16:48:25 GMT"
         }
       ],
@@ -2349,7 +2427,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
@@ -2383,7 +2461,218 @@
       ],
       "contractAwards": [],
       "activeBids": [],
-      "jobPostings": [],
+      "jobPostings": [
+        {
+          "title": "Senior Safety Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Executive - Mission Critical",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Senior Safety Coordinator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "VDC Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Superintendent - Mission Critical",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Senior Estimator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Associate Principal Engineer - Mechanical",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Lead Estimator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Principal Engineer",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Accountant",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Commissioning Lead",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Safety Coordinator",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Safety Manager",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Executive - Mission Critical",
+          "state": "OH",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Executive",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Logistics Manager",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "VDC Project Lead I",
+          "state": "PA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Special Projects Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Accountant",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Service Account Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Estimator II",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Manager",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Senior Design Engineer",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Business Development Lead",
+          "state": "WA",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Senior Safety Coordinator",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Safety Manager",
+          "state": "",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        },
+        {
+          "title": "Project Manager",
+          "state": "AZ",
+          "segment": "Other",
+          "tags": [],
+          "postedDate": "2026-11-21"
+        }
+      ],
       "patents": [],
       "permitMentions": [],
       "newsArticles": [
@@ -2393,13 +2682,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMi0ySEM5T0lEbzRBcXBxeVFud0o5U1Q4NjBLWWs2Tk9ncERWVTJzWnU5QjhRQjZfNjhGUHRKWFJxQVZRTkE3bXdVUUZZVjJKYV9NSDFMVXFHVkpseTg1RUJtdHV2Q3dFOGZkcko2Y050WUhscUItMWhGM0NQempVamZneHVkYkhub0JGMDJGQmx5cURHcmc4YUxJZ0F4VGRNSElhTHNwbnNLb2dYUUE0SlZKQy1TWE9iel",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMi0ySEM5T0lEbzRBcXBxeVFud0o5U1Q4NjBLWWs2Tk9ncERWVTJzWnU5QjhRQjZfNjhGUHRKWFJxQVZRTkE3bXdVUUZZVjJKYV9NSDFMVXFHVkpseTg1RUJtdHV2Q3dFOGZkcko2Y050WUhscUItMWhGM0NQempVamZneHVkYkhub0JGMDJGQmx5cURHcmc4YUxJZ0F4VGRNSElhTHNwbnNLb2dYUUE0SlZKQy1TWE9ielhpQXExN2FMLUlRTEg2RjVR?oc=5",
           "published": "Tue, 27 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "source": "google_news",
-          "title": "Southland Industries: Looking Back at the Post-9/11 Pentagon Renovation - Contractor Magazine",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRm",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxcU1MbHR6YldJTC1KQjZXekdYV2k2MHlIRDdUdW5RaTZObDlMdkd2b25RODZQMnFMMmFYMHRMdGZlbnFia1RCSlZfT013dmViOFI2UXZkN210Z2JObU9wckk1em5fNnJ1Rl81QVFsdC1aa3d1bklWeWo0QjNzRTFidGVNem9Id09zdGs3V253WWM3VzZJRXJ0WlJQb0FGdE9kQWxwUW5zZ1N4UjdkaEs5aVdtN2NJRmlVcEpEeENtUEFtSEd1el9JZzQ?oc=5",
-          "published": "Tue, 22 Sep 2026 07:00:00 GMT"
         },
         {
           "source": "google_news",
@@ -2414,7 +2696,7 @@
       "entityRegistrations": [],
       "constructionProjects": [
         {
-          "id": "construction-43984",
+          "id": "construction-17545",
           "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
           "agency": "Construction Dive",
           "type": "Construction Project",
